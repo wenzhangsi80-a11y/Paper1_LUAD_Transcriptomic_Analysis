@@ -1,0 +1,7 @@
+file	sample_id	line_number	line_text
+Workflow-03F-2_expression_annotation.txt	TCGA-50-5066-02	515	TCGA-50-5066-02	TCGA-50-5066	02	Metastatic
+Workflow-03F-2_expression_annotation.txt	TCGA-50-5946-02	516	TCGA-50-5946-02	TCGA-50-5946	02	Metastatic
+Workflow-03F-3_patient_expression_mapping.txt	TCGA-50-5066-02	114	TCGA-50-5066	I	male	72	Older	TCGA-50-5066-01;TCGA-50-5066-02	Primary Tumor;Metastatic	01;02
+Workflow-03F-3_patient_expression_mapping.txt	TCGA-50-5946-02	426	TCGA-50-5946	I	male	62	Older	TCGA-50-5946-01;TCGA-50-5946-02	Primary Tumor;Metastatic	01;02
+Workflow-03F-5_historical_517_patient_annotation.txt	TCGA-50-5066-02	114	TCGA-50-5066	I	male	72	Older	TCGA-50-5066-01;TCGA-50-5066-02	Primary Tumor;Metastatic	01;02	Primary Tumor + Metastatic
+Workflow-03F-5_historical_517_patient_annotation.txt	TCGA-50-5946-02	426	TCGA-50-5946	I	male	62	Older	TCGA-50-5946-01;TCGA-50-5946-02	Primary Tumor;Metastatic	01;02	Primary Tumor + Metastatic

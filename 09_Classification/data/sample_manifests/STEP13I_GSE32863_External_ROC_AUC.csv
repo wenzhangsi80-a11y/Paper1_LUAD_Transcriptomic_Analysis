@@ -1,0 +1,4 @@
+"metric","value"
+"AUC",0.997324613555291
+"AUC_95CI_lower",0.992957793061129
+"AUC_95CI_upper",1

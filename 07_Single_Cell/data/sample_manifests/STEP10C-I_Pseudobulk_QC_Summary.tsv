@@ -1,0 +1,5 @@
+Compartment	Patients	Genes	Total_raw_UMI	Nonzero_gene_patient_pairs
+T-cell	9	29634	75377824	158246
+Myeloid/macrophage	9	29634	96690096	149038
+Endothelial_primary	4	29634	3561029	56772
+Endothelial_sensitivity	2	29634	459016	22596

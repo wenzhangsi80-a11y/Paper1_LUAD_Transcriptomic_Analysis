@@ -1,0 +1,17 @@
+"check","PASS"
+"core_genes",TRUE
+"outcome_name",TRUE
+"outcome_levels",TRUE
+"reference_level",TRUE
+"positive_class",TRUE
+"model_type",TRUE
+"model_formula",TRUE
+"feature_selection_allowed",TRUE
+"external_refit_allowed",TRUE
+"external_coefficient_estimation_allowed",TRUE
+"external_feature_selection_allowed",TRUE
+"external_threshold_optimization_allowed",TRUE
+"external_cutpoint_search_allowed",TRUE
+"external_model_tuning_allowed",TRUE
+"clinical_diagnostic_claim_allowed",TRUE
+"diagnostic_biomarker_claim_allowed",TRUE

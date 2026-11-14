@@ -1,0 +1,5 @@
+Compartment	Eligibility	N_groups	N_patients	Cell_Count_min	Cell_Count_Q1	Cell_Count_median	Cell_Count_mean	Cell_Count_Q3	Cell_Count_max
+T-cell	Primary	9	9	1995	2752	3480	3457.11111111111	4009	4808
+Myeloid/macrophage	Primary	9	9	283	639	1266	1267.77777777778	1576	3384
+Endothelial	Primary	4	4	83	105.5	219	216.5	330	345
+Endothelial	Sensitivity	2	2	31	33.5	36	36	38.5	41

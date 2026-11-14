@@ -1,0 +1,12 @@
+Item	Value
+ge3of4_candidate_records	2406
+ge4of4_candidate_records	1714
+ge3of4_unique_exact_LR_pairs	585
+ge4of4_unique_exact_LR_pairs	492
+shared_exact_LR_pairs	492
+ge3of4_only_exact_LR_pairs	93
+ge4of4_only_exact_LR_pairs	0
+number_of_direction_categories	6
+core_gene_count	3
+core_genes_in_ge3of4	0
+core_genes_in_ge4of4	0

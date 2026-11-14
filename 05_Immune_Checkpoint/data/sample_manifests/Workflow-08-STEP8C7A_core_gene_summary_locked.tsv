@@ -1,0 +1,4 @@
+Core_Gene	N_pairs	Unadjusted_FDR_significant	Adjusted_FDR_significant	Significant_both	Significance_lost	Significance_gained	Direction_switches	Stable_positive	Stable_negative	Positive_to_negative	Negative_to_positive	Positive_to_negative_adjusted_significant	Adjusted_positive	Adjusted_negative
+AOC3	18	14	13	9	5	4	13	4	1	13	0	9	4	14
+MS4A7	18	17	12	12	5	0	12	6	0	12	0	8	6	12
+IL7R	18	17	13	13	4	0	7	11	0	7	0	4	11	7

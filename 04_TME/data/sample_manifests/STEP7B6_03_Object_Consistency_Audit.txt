@@ -1,0 +1,53 @@
+STEP7B6 Script 03: Raw vs Final Results Consistency Audit
+============================================================
+
+Checkpoint: O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B6_purity_adjusted_regression_checkpoint.RData
+Output directory: O:/Rproject/Paper1_tumor-only WGCNA/STEP7B6_ABSOLUTE_Result_Extraction
+
+Raw dimensions: 9 x 16
+Final dimensions: 9 x 16
+Expected rows: 9
+Expected fields: 16
+Numeric tolerance: 1e-12
+
+Column set identical: TRUE
+Column order identical: FALSE
+Same Gene-TME combinations: TRUE
+Aligned keys identical: TRUE
+All fields exact: TRUE
+All fields within tolerance: TRUE
+Special fields exact: TRUE
+Aligned exact equality: TRUE
+Aligned equality within tolerance: TRUE
+
+Column comparison:
+               Column Raw_Class Final_Class Exact_Match Tolerance_Match Max_Absolute_Difference Comparison_Status
+1           TME_Trait character   character        TRUE            TRUE                      NA       EXACT_MATCH
+2                Gene character   character        TRUE            TRUE                      NA       EXACT_MATCH
+3                   N   integer     integer        TRUE            TRUE                       0       EXACT_MATCH
+4           Gene_Beta   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+5             Gene_SE   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+6              Gene_t   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+7              Gene_P   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+8         Gene_FDR_BH   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+9           Direction character   character        TRUE            TRUE                      NA       EXACT_MATCH
+10  Significant_FDR05   logical     logical        TRUE            TRUE                      NA       EXACT_MATCH
+11        Purity_Beta   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+12          Purity_SE   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+13           Purity_t   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+14           Purity_P   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+15          R_squared   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+16 Adjusted_R_squared   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+
+Special-field comparison:
+              Column Raw_Class Final_Class Exact_Match Tolerance_Match Max_Absolute_Difference Comparison_Status
+8        Gene_FDR_BH   numeric     numeric        TRUE            TRUE                       0       EXACT_MATCH
+9          Direction character   character        TRUE            TRUE                      NA       EXACT_MATCH
+10 Significant_FDR05   logical     logical        TRUE            TRUE                      NA       EXACT_MATCH
+
+OVERALL RESULT: PASS
+
+No model refitting was performed.
+No sample matching or remapping was performed.
+No imputation was performed.
+Original checkpoint objects were not modified.

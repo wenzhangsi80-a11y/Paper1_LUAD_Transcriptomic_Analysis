@@ -1,0 +1,4 @@
+"policy","candidate_ensembl_n","retained_ensembl_n","discarded_ensembl_n","candidate_entrez_n","retained_entrez_n","discarded_or_unrepresented_entrez_n"
+"Policy_A_Strict_Bijection",34138,34102,36,34120,34102,18
+"Policy_B_Max_Absolute_Ranking",34138,34120,18,34120,34120,0
+"Policy_C_Deterministic_Ranking_Order",34138,34120,18,34120,34120,0

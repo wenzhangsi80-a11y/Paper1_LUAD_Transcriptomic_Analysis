@@ -1,0 +1,33 @@
+QC_Item	PASS
+Input file exists	TRUE
+Input row count = 9,620	TRUE
+Exact LR pair count = 585	TRUE
+Patient count = 4	TRUE
+Expected FINAL schema	TRUE
+Canonical key definition	TRUE
+Canonical key uniqueness	TRUE
+Exact LR pair identity	TRUE
+Direction IDs = 1:6	TRUE
+Sender-receiver mapping	TRUE
+Candidate classes valid	TRUE
+Candidate class invariant	TRUE
+4/4 candidate count = 492	TRUE
+3/4-only candidate count = 93	TRUE
+Candidate provenance nonempty	TRUE
+interaction_name provenance nonempty	TRUE
+Core-gene separation	TRUE
+Pathway completeness	TRUE
+Annotation completeness	TRUE
+Patient completeness	TRUE
+Expression fields numeric	TRUE
+Expression fields finite	TRUE
+Expression nonnegative	TRUE
+Difference field structurally consistent	TRUE
+Mean pair field structurally consistent	TRUE
+Compatibility logical	TRUE
+Compatibility nonmissing	TRUE
+Patient-level context row conservation	TRUE
+LR-direction context generated	TRUE
+Candidate-class context generated	TRUE
+Global context generated	TRUE
+No statistical / biological ranking performed	TRUE

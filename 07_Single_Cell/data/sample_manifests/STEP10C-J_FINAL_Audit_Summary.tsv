@@ -1,0 +1,15 @@
+Metric	Value
+GEO raw UMI cells	208506
+GEO raw genes	29634
+TISCH2 target Primary+Tumor cells	65702
+Locked target compartment cells	43475
+T-cell primary patients	9
+Myeloid/macrophage primary patients	9
+Endothelial primary patients	4
+Endothelial sensitivity patients	2
+Endothelial insufficient patients	3
+T-cell pseudobulk genes	29634
+Myeloid/macrophage pseudobulk genes	29634
+Endothelial primary pseudobulk genes	29634
+Endothelial sensitivity pseudobulk genes	29634
+Core genes verified	AOC3 / MS4A7 / IL7R

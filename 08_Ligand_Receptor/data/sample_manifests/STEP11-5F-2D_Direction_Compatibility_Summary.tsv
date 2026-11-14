@@ -1,0 +1,7 @@
+Direction_ID	Sender	Receiver	N_LR_Direction_Records	N_Exact_LR_Pairs	N_Patients	Total_Compatible	Total_Incompatible	Mean_Compatibility_Fraction	Median_Compatibility_Fraction
+1	Endothelial	Myeloid/macrophage	382	382	1183	1415	113	0.926047120418848	1
+2	Myeloid/macrophage	Endothelial	371	371	1146	1362	122	0.917789757412399	1
+3	Endothelial	T-cell	387	387	1193	1423	125	0.919250645994832	1
+4	T-cell	Endothelial	343	343	1080	1243	129	0.90597667638484	1
+5	Myeloid/macrophage	T-cell	485	485	1455	1846	94	0.951546391752577	1
+6	T-cell	Myeloid/macrophage	437	437	1335	1640	108	0.938215102974828	1

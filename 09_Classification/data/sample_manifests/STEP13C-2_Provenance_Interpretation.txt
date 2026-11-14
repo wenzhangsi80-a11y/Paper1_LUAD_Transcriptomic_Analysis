@@ -1,0 +1,11 @@
+STEP13C-2 establishes object-level structural provenance for the historical GSE32863 analysis objects.
+The audit does not reconstruct or transform any expression matrix.
+The audit does not reselect probes or genes.
+The audit does not recalculate ROC curves or AUC values.
+The audit does not refit any statistical model.
+The audit does not optimize any threshold.
+The observed historical objects are characterized by their existing dimensions, identifiers, and sample positions.
+Expression-scale and transformation provenance are intentionally deferred to STEP13C-7.
+GPL6884 probe annotation and core-gene probe mapping are intentionally deferred to STEP13C-5 and STEP13C-6.
+TCGA-to-GSE32863 transferability is intentionally deferred to STEP13C-8.
+Where available, sample identifiers are concordant in exact order across the audited historical objects.

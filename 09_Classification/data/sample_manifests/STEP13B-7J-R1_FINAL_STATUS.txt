@@ -1,0 +1,29 @@
+STEP13B-7J-R1 — FINAL REPORT
+============================================
+
+FINAL STATUS: PASS
+
+Purpose:
+Sample-level traceability of the original Xiangtao ROC branch.
+
+Excel records: 1725
+Unique samples: 575
+Expected samples: 575
+Tumor records: 1548
+Normal records: 177
+
+AOC3 records: 575
+MS4A7 records: 575
+IL7R records: 575
+
+Duplicate sample-gene records: 0
+Inconsistent sample status: 0
+
+Historical ROC count concordance: TRUE
+
+No ROC/AUC recalculation performed.
+No model refitting performed.
+No threshold optimization performed.
+No expression transformation performed.
+Xiangtao and Sangerbox provenance branches remain independent.
+

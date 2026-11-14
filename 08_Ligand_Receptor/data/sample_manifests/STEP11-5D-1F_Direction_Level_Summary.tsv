@@ -1,0 +1,7 @@
+Direction_ID	Sender	Receiver	LR_Interactions	Available_LR_Interactions	Compatible_ge2of4	Compatible_ge3of4	Compatible_4of4
+1	Endothelial	Myeloid/macrophage	1675	875	481	382	269
+2	Myeloid/macrophage	Endothelial	1675	875	472	371	249
+3	Endothelial	T-cell	1675	875	487	387	262
+4	T-cell	Endothelial	1675	875	465	344	214
+5	Myeloid/macrophage	T-cell	1675	875	562	485	391
+6	T-cell	Myeloid/macrophage	1675	875	558	437	329

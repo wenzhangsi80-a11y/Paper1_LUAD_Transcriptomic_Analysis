@@ -1,0 +1,1 @@
+Ensembl_ID	gene_name	gene_type	Mean	Median	SD	Variance	MAD	Detected_N	Detected_fraction	Broad_category	Mitochondrial	rRNA_related	Non_protein_coding	MAD_group

@@ -1,0 +1,13 @@
+Dataset	Gene	Present
+T_cell_Primary	AOC3	TRUE
+T_cell_Primary	MS4A7	TRUE
+T_cell_Primary	IL7R	TRUE
+Myeloid_macrophage_Primary	AOC3	TRUE
+Myeloid_macrophage_Primary	MS4A7	TRUE
+Myeloid_macrophage_Primary	IL7R	TRUE
+Endothelial_Primary	AOC3	TRUE
+Endothelial_Primary	MS4A7	TRUE
+Endothelial_Primary	IL7R	TRUE
+Endothelial_Sensitivity	AOC3	TRUE
+Endothelial_Sensitivity	MS4A7	TRUE
+Endothelial_Sensitivity	IL7R	TRUE

@@ -1,0 +1,82 @@
+============================================================
+Paper 1 — STEP9D-3C
+Formal KEGG GSEA Result & Reproducibility Audit
+============================================================
+
+STATUS
+------
+Final status: FINAL_PASS
+
+GSEA RESULT SUMMARY
+-------------------
+KEGG pathways returned: 353
+KEGG pathways with FDR < 0.05: 178
+Duplicated pathway IDs: 0
+Positive NES pathways: 98
+Negative NES pathways: 255
+Zero NES pathways: 0
+
+FINAL KEGG RANKING
+-------------------
+Final Entrez ranking N: 34120
+Unique ranking values: 27831
+Tied ranking genes: 6289
+Tie fraction: 0.184320
+Formal GSEA ranking sorted decreasing: TRUE
+
+CORE GENE PRESERVATION
+----------------------
+   gene EntrezID retained_in_final_kegg_ranking
+1  AOC3     8639                           TRUE
+2 MS4A7    58475                           TRUE
+3  IL7R     3575                           TRUE
+
+GSEA PARAMETER AUDIT
+--------------------
+                  parameter provenance_present matches_locked_definition
+organism           organism              FALSE                        NA
+keyType             keyType              FALSE                        NA
+minGSSize         minGSSize              FALSE                        NA
+maxGSSize         maxGSSize              FALSE                        NA
+exponent           exponent              FALSE                        NA
+eps                     eps              FALSE                        NA
+pvalueCutoff   pvalueCutoff              FALSE                        NA
+pAdjustMethod pAdjustMethod              FALSE                        NA
+verbose             verbose              FALSE                        NA
+seed                   seed              FALSE                        NA
+
+READ-ONLY EXECUTION INTEGRITY
+-----------------------------
+                            item value
+1               DEG_recalculated FALSE
+2           ranking_recalculated FALSE
+3           mapping_recalculated FALSE
+4 collision_resolution_reapplied FALSE
+5        gsea_rerun_during_audit FALSE
+6                    jitter_used FALSE
+7   artificial_tie_breaking_used FALSE
+
+AUDIT DECISION
+--------------
+Structural pass: TRUE
+FDR pass: TRUE
+RDS/CSV concordance: TRUE
+Ranking pass: TRUE
+Ranking order audit pass: TRUE
+Core-gene pass: TRUE
+Read-only integrity pass: TRUE
+Parameter audit pass: TRUE
+
+STEP9D-3C FINAL HARD PASS: TRUE
+
+============================================================
+WARNING INTERPRETATION
+============================================================
+Preranked ties were retained without jitter or artificial  tie-breaking.
+fgsea log2err/eps warnings were generated during formal  execution and are retained as execution metadata.
+No GSEA rerun was performed during this read-only audit.
+No DEG recalculation, ranking recalculation, mapping  recalculation, or collision-resolution reapplication was  performed.
+
+============================================================
+END OF STEP9D-3C AUDIT
+============================================================

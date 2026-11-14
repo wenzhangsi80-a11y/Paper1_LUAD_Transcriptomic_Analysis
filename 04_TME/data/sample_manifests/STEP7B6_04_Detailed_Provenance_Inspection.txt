@@ -1,0 +1,228 @@
+STEP7B6 Script 04: Detailed Provenance Inspection
+============================================================
+
+STEP7B4C structure:
+List of 32
+ $ step                            : chr "STEP 7B-4C"
+ $ source_file                     : chr "O:/Rproject/Paper1_tumor-only WGCNA/TCGA_mastercalls.abs_tables_JSedit.fixed.txt"
+ $ source_dimensions               : int [1:2] 10786 10
+ $ required_columns_present        : logi TRUE
+ $ array_unique_n                  : int 10786
+ $ array_duplicate_n               : int 0
+ $ sample_unique_n                 : int 10786
+ $ sample_duplicate_n              : int 0
+ $ purity_is_numeric               : logi TRUE
+ $ purity_missing_n                : int 144
+ $ purity_nonfinite_n              : int 144
+ $ purity_min                      : num 0.08
+ $ purity_median                   : num 0.65
+ $ purity_mean                     : num 0.634
+ $ purity_max                      : num 1
+ $ purity_within_0_1               : logi TRUE
+ $ call_status_table               : 'table' int [1:6(1d)] 9847 558 35 146 56 144
+  ..- attr(*, "dimnames")=List of 1
+  .. ..$ : chr [1:6] "called" "legacy_call" "legacy_maf_call" "maf_call" ...
+ $ primary_LUAD_N                  : int 513
+ $ primary_LUAD_unique_N           : int 513
+ $ exact_match_n                   : int 502
+ $ exact_match_fraction            : num 0.979
+ $ unmatched_primary_ids           : chr [1:11] "TCGA-L4-A4E6-01" "TCGA-55-7816-01" "TCGA-55-8299-01" "TCGA-MP-A4T4-01" ...
+ $ multiple_absolute_records       : int 0
+ $ zero_absolute_records           : int 11
+ $ matched_purity_missing_n        : int 2
+ $ matched_purity_finite_n         : int 500
+ $ barcode_transformation_performed: logi FALSE
+ $ statistical_analysis_performed  : logi FALSE
+ $ regression_performed            : logi FALSE
+ $ spearman_performed              : logi FALSE
+ $ step7a2_objects_modified        : logi FALSE
+ $ status                          : chr "AUDIT_ONLY"
+
+STEP7B4C provenance-related text:
+root$source_file = O:/Rproject/Paper1_tumor-only WGCNA/TCGA_mastercalls.abs_tables_JSedit.fixed.txt
+root$unmatched_primary_ids = TCGA-L4-A4E6-01
+root$unmatched_primary_ids = TCGA-55-7816-01
+root$unmatched_primary_ids = TCGA-55-8299-01
+root$unmatched_primary_ids = TCGA-MP-A4T4-01
+root$unmatched_primary_ids = TCGA-MP-A4T6-01
+root$unmatched_primary_ids = TCGA-69-A59K-01
+root$unmatched_primary_ids = TCGA-55-7227-01
+root$unmatched_primary_ids = TCGA-MP-A4TJ-01
+root$unmatched_primary_ids = TCGA-MP-A4TD-01
+root$unmatched_primary_ids = TCGA-71-8520-01
+root$unmatched_primary_ids = TCGA-NJ-A55O-01
+
+STEP7B4D structure:
+List of 15
+ $ step                            : chr "STEP 7B-4D"
+ $ unmatched_primary_ids           : chr [1:11] "TCGA-L4-A4E6-01" "TCGA-55-7816-01" "TCGA-55-8299-01" "TCGA-MP-A4T4-01" ...
+ $ unmatched_prefix_summary        :'data.frame':	11 obs. of  3 variables:
+  ..$ Primary_ID             : chr [1:11] "TCGA-L4-A4E6-01" "TCGA-55-7816-01" "TCGA-55-8299-01" "TCGA-MP-A4T4-01" ...
+  ..$ Prefix_15char          : chr [1:11] "TCGA-L4-A4E6-01" "TCGA-55-7816-01" "TCGA-55-8299-01" "TCGA-MP-A4T4-01" ...
+  ..$ ABSOLUTE_sample_records: int [1:11] 0 0 0 0 0 0 0 0 0 0 ...
+ $ prefix_match_list               :List of 11
+  ..$ TCGA-L4-A4E6-01: int(0) 
+  ..$ TCGA-55-7816-01: int(0) 
+  ..$ TCGA-55-8299-01: int(0) 
+  ..$ TCGA-MP-A4T4-01: int(0) 
+  ..$ TCGA-MP-A4T6-01: int(0) 
+  ..$ TCGA-69-A59K-01: int(0) 
+  ..$ TCGA-55-7227-01: int(0) 
+  ..$ TCGA-MP-A4TJ-01: int(0) 
+  ..$ TCGA-MP-A4TD-01: int(0) 
+  ..$ TCGA-71-8520-01: int(0) 
+  ..$ TCGA-NJ-A55O-01: int(0) 
+ $ missing_purity_df               :'data.frame':	2 obs. of  10 variables:
+  ..$ array                    : chr [1:2] "TCGA-78-8648-01" "TCGA-75-7030-01"
+  ..$ sample                   : chr [1:2] "TCGA-78-8648-01A-11D-2389-01" "TCGA-75-7030-01A-11D-1943-01"
+  ..$ call status              : chr [1:2] NA NA
+  ..$ purity                   : num [1:2] NA NA
+  ..$ ploidy                   : num [1:2] NA NA
+  ..$ Genome doublings         : num [1:2] NA NA
+  ..$ Coverage for 80% power   : num [1:2] NA NA
+  ..$ Cancer DNA fraction      : num [1:2] NA NA
+  ..$ Subclonal genome fraction: num [1:2] NA NA
+  ..$ solution                 : chr [1:2] "new" "new"
+ $ exact_matched_N                 : int 502
+ $ exact_matched_missing_purity_N  : int 2
+ $ exact_matched_finite_purity_N   : int 500
+ $ barcode_transformation_performed: logi FALSE
+ $ automatic_remapping_performed   : logi FALSE
+ $ statistical_analysis_performed  : logi FALSE
+ $ regression_performed            : logi FALSE
+ $ spearman_performed              : logi FALSE
+ $ step7a2_objects_modified        : logi FALSE
+ $ status                          : chr "AUDIT_ONLY"
+
+STEP7B4D provenance-related text:
+root$unmatched_primary_ids = TCGA-L4-A4E6-01
+root$unmatched_primary_ids = TCGA-55-7816-01
+root$unmatched_primary_ids = TCGA-55-8299-01
+root$unmatched_primary_ids = TCGA-MP-A4T4-01
+root$unmatched_primary_ids = TCGA-MP-A4T6-01
+root$unmatched_primary_ids = TCGA-69-A59K-01
+root$unmatched_primary_ids = TCGA-55-7227-01
+root$unmatched_primary_ids = TCGA-MP-A4TJ-01
+root$unmatched_primary_ids = TCGA-MP-A4TD-01
+root$unmatched_primary_ids = TCGA-71-8520-01
+root$unmatched_primary_ids = TCGA-NJ-A55O-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-L4-A4E6-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-55-7816-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-55-8299-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-MP-A4T4-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-MP-A4T6-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-69-A59K-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-55-7227-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-MP-A4TJ-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-MP-A4TD-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-71-8520-01
+root$unmatched_prefix_summary$Primary_ID = TCGA-NJ-A55O-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-L4-A4E6-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-55-7816-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-55-8299-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-MP-A4T4-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-MP-A4T6-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-69-A59K-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-55-7227-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-MP-A4TJ-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-MP-A4TD-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-71-8520-01
+root$unmatched_prefix_summary$Prefix_15char = TCGA-NJ-A55O-01
+root$missing_purity_df$array = TCGA-78-8648-01
+root$missing_purity_df$array = TCGA-75-7030-01
+root$missing_purity_df$sample = TCGA-78-8648-01A-11D-2389-01
+root$missing_purity_df$sample = TCGA-75-7030-01A-11D-1943-01
+root$missing_purity_df$call status = NA
+root$missing_purity_df$call status = NA
+root$missing_purity_df$solution = new
+root$missing_purity_df$solution = new
+
+STEP7B5 audit structure:
+List of 24
+ $ step                            : chr "STEP 7B-5"
+ $ purpose                         : chr "Construct locked purity-adjusted sensitivity-analysis dataset"
+ $ source_core_tme_n               : int 513
+ $ source_core_tme_unique_samples  : int 513
+ $ absolute_source_n               : int 10786
+ $ exact_absolute_matches_n        : int 502
+ $ exact_absolute_missing_purity_n : int 2
+ $ no_absolute_record_n            : int 11
+ $ final_analysis_n                : int 500
+ $ excluded_n                      : int 13
+ $ excluded_ids                    : chr [1:13] "TCGA-L4-A4E6-01" "TCGA-55-7816-01" "TCGA-55-8299-01" "TCGA-MP-A4T4-01" ...
+ $ excluded_no_absolute_record_ids : chr [1:11] "TCGA-L4-A4E6-01" "TCGA-55-7816-01" "TCGA-55-8299-01" "TCGA-MP-A4T4-01" ...
+ $ excluded_missing_purity_ids     : chr [1:2] "TCGA-78-8648-01" "TCGA-75-7030-01"
+ $ purity_source                   : chr "TCGA PanCanAtlas ABSOLUTE purity/ploidy file"
+ $ purity_variable                 : chr "ABSOLUTE_Purity"
+ $ barcode_matching_method         : chr "Exact primary sample ID matched to ABSOLUTE array field"
+ $ barcode_transformation_performed: logi FALSE
+ $ automatic_remapping_performed   : logi FALSE
+ $ purity_imputation_performed     : logi FALSE
+ $ statistical_analysis_performed  : logi FALSE
+ $ regression_performed            : logi FALSE
+ $ spearman_performed              : logi FALSE
+ $ step7a2_objects_modified        : logi FALSE
+ $ status                          : chr "PASSED_LOCKED_DATASET"
+
+STEP7B5 provenance-related text:
+root$purpose = Construct locked purity-adjusted sensitivity-analysis dataset
+root$excluded_ids = TCGA-L4-A4E6-01
+root$excluded_ids = TCGA-55-7816-01
+root$excluded_ids = TCGA-55-8299-01
+root$excluded_ids = TCGA-MP-A4T4-01
+root$excluded_ids = TCGA-MP-A4T6-01
+root$excluded_ids = TCGA-78-8648-01
+root$excluded_ids = TCGA-69-A59K-01
+root$excluded_ids = TCGA-75-7030-01
+root$excluded_ids = TCGA-55-7227-01
+root$excluded_ids = TCGA-MP-A4TJ-01
+root$excluded_ids = TCGA-MP-A4TD-01
+root$excluded_ids = TCGA-71-8520-01
+root$excluded_ids = TCGA-NJ-A55O-01
+root$excluded_no_absolute_record_ids = TCGA-L4-A4E6-01
+root$excluded_no_absolute_record_ids = TCGA-55-7816-01
+root$excluded_no_absolute_record_ids = TCGA-55-8299-01
+root$excluded_no_absolute_record_ids = TCGA-MP-A4T4-01
+root$excluded_no_absolute_record_ids = TCGA-MP-A4T6-01
+root$excluded_no_absolute_record_ids = TCGA-69-A59K-01
+root$excluded_no_absolute_record_ids = TCGA-55-7227-01
+root$excluded_no_absolute_record_ids = TCGA-MP-A4TJ-01
+root$excluded_no_absolute_record_ids = TCGA-MP-A4TD-01
+root$excluded_no_absolute_record_ids = TCGA-71-8520-01
+root$excluded_no_absolute_record_ids = TCGA-NJ-A55O-01
+root$excluded_missing_purity_ids = TCGA-78-8648-01
+root$excluded_missing_purity_ids = TCGA-75-7030-01
+root$purity_source = TCGA PanCanAtlas ABSOLUTE purity/ploidy file
+root$purity_variable = ABSOLUTE_Purity
+root$barcode_matching_method = Exact primary sample ID matched to ABSOLUTE array field
+
+STEP7B6 model specification:
+'data.frame':	9 obs. of  2 variables:
+ $ TME_Trait: chr  "ImmuneScore" "ImmuneScore" "ImmuneScore" "StromalScore" ...
+ $ Gene     : chr  "AOC3" "MS4A7" "IL7R" "AOC3" ...
+ - attr(*, "out.attrs")=List of 2
+  ..$ dim     : Named int [1:2] 3 3
+  .. ..- attr(*, "names")= chr [1:2] "TME_Trait" "Gene"
+  ..$ dimnames:List of 2
+  .. ..$ TME_Trait: chr [1:3] "TME_Trait=ImmuneScore" "TME_Trait=StromalScore" "TME_Trait=ESTIMATEScore"
+  .. ..$ Gene     : chr [1:3] "Gene=AOC3" "Gene=MS4A7" "Gene=IL7R"
+
+STEP7B6 model specification clues:
+root$TME_Trait = ImmuneScore
+root$TME_Trait = ImmuneScore
+root$TME_Trait = ImmuneScore
+root$TME_Trait = StromalScore
+root$TME_Trait = StromalScore
+root$TME_Trait = StromalScore
+root$TME_Trait = ESTIMATEScore
+root$TME_Trait = ESTIMATEScore
+root$TME_Trait = ESTIMATEScore
+root$Gene = AOC3
+root$Gene = MS4A7
+root$Gene = IL7R
+root$Gene = AOC3
+root$Gene = MS4A7
+root$Gene = IL7R
+root$Gene = AOC3
+root$Gene = MS4A7
+root$Gene = IL7R

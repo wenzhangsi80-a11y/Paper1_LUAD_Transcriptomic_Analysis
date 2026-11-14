@@ -1,0 +1,5 @@
+Dataset	Expected_N	Observed_N	PASS
+Primary_T-cell	9	9	TRUE
+Primary_Myeloid_macrophage	9	9	TRUE
+Primary_Endothelial	4	4	TRUE
+Sensitivity_Endothelial	2	2	TRUE

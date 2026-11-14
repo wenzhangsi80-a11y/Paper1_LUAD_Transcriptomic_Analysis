@@ -1,0 +1,10 @@
+"Check","PASS"
+"Historical_df_wide_575",TRUE
+"Historical_Normal_59",TRUE
+"Historical_Tumor_516",TRUE
+"Required_ROC_objects_present",TRUE
+"ROC_AOC3_575",TRUE
+"ROC_MS4A7_575",TRUE
+"ROC_IL7R_575",TRUE
+"ROC_combined_575",TRUE
+"Figure12A_ROC_575",TRUE

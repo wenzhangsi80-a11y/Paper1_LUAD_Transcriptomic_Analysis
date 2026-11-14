@@ -1,0 +1,537 @@
+
+============================================================
+FILE:
+ O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Paper1_tumor-only WGCNA.R 
+============================================================
+
+[Line 4018]     "\n"
+[Line 4019]   )
+[Line 4020]   
+[Line 4021]   
+[Line 4022]   ############################################################
+[Line 4023]   # Workflow-03F-9
+[Line 4024]   #
+[Line 4025]   # Historical expression scale and provenance audit
+[Line 4026]   #
+[Line 4027]   # Purpose:
+[Line 4028]   #   1. Characterize expr_symbol_counts.csv
+[Line 4603]   # 19. Save summary
+[Line 4604]   ############################################################
+[Line 4605]   
+[Line 4606]   output_file <- file.path(
+[Line 4607]     project_dir,
+[Line 4608]     "Workflow-03F-9_expression_scale_provenance.txt"
+[Line 4609]   )
+[Line 4610]   
+[Line 4611]   sink(
+[Line 4612]     output_file
+[Line 4613]   )
+[Line 4614]   
+[Line 4615]   cat(
+[Line 4616]     "Workflow-03F-9\n\n"
+[Line 4617]   )
+[Line 4618]   
+[Line 4619]   cat(
+[Line 4620]     "Historical matrix dimensions:\n"
+[Line 4621]   )
+[Line 4715]   ############################################################
+[Line 4716]   # 20. Complete
+[Line 4717]   ############################################################
+[Line 4718]   
+[Line 4719]   cat("\n========================================\n")
+[Line 4720]   cat("WORKFLOW-03F-9 COMPLETE\n")
+[Line 4721]   cat("========================================\n\n")
+[Line 4722]   
+[Line 4723]   cat(
+[Line 4724]     "Result saved to:\n",
+[Line 4725]     output_file,
+[Line 4726]     "\n"
+[Line 4727]   )
+[Line 4728]   
+[Line 4729]   done_file <- paste0(
+[Line 4730]     "O:/Rproject/Paper1_tumor-only WGCNA/",
+[Line 4731]     "Workflow-03F-9_provenance_audit_DONE.txt"
+[Line 4732]   )
+[Line 4733]   
+[Line 4734]   writeLines(
+[Line 4735]     c(
+[Line 4736]       "Workflow-03F-9 Historical expression scale and provenance audit",
+[Line 4737]       "",
+[Line 4738]       "Status: COMPLETE",
+[Line 4739]       "Completed through script line: 4728",
+[Line 4740]       "",
+[Line 4741]       "Completed workflows:",
+[Line 4756]       "Workflow-03F-4",
+[Line 4757]       "Workflow-03F-5",
+[Line 4758]       "Workflow-03F-6",
+[Line 4759]       "Workflow-03F-7",
+[Line 4760]       "Workflow-03F-8",
+[Line 4761]       "Workflow-03F-9",
+[Line 4762]       "",
+[Line 4763]       "Next workflow should continue from script line 4729."
+[Line 4764]     ),
+[Line 4765]     done_file
+[Line 4766]   ) 
+[Line 4767]   
+[Line 4768]   # ============================================================
+[Line 4769]   # CHECKPOINT: Workflow-03F-9 COMPLETE
+[Line 4770]   # Script lines completed: 1–4728
+[Line 4771]   # ============================================================
+[Line 4772]   
+[Line 4773]  
+[Line 4774]   ############################################################
+
+============================================================
+FILE:
+ O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R 
+============================================================
+
+[Line 6336]   "Workflow-04-2D_final_WGCNA_candidate_checkpoint.RData",
+[Line 6337]   "Workflow-04-2D_current_workspace.RData",
+[Line 6338]   "Paper1_WORKFLOW03_14F_4D_2E_FINAL.RData",
+[Line 6339]   "Paper1_ME_brown_checkpoint_Step10G.RData",
+[Line 6340]   "Step13G_FINAL_checkpoint.RData",
+[Line 6341]   "Workflow-03F-9_provenance_audit.RData"
+[Line 6342] )
+[Line 6343] 
+[Line 6344] 
+[Line 6345] known_files <- rdata_files[
+[Line 6346]   basename(rdata_files) %in% known_patterns
+
+============================================================
+FILE:
+ O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Workflow-03F-9_provenance_audit.R 
+============================================================
+
+[Line 4018]     "\n"
+[Line 4019]   )
+[Line 4020]   
+[Line 4021]   
+[Line 4022]   ############################################################
+[Line 4023]   # Workflow-03F-9
+[Line 4024]   #
+[Line 4025]   # Historical expression scale and provenance audit
+[Line 4026]   #
+[Line 4027]   # Purpose:
+[Line 4028]   #   1. Characterize expr_symbol_counts.csv
+[Line 4603]   # 19. Save summary
+[Line 4604]   ############################################################
+[Line 4605]   
+[Line 4606]   output_file <- file.path(
+[Line 4607]     project_dir,
+[Line 4608]     "Workflow-03F-9_expression_scale_provenance.txt"
+[Line 4609]   )
+[Line 4610]   
+[Line 4611]   sink(
+[Line 4612]     output_file
+[Line 4613]   )
+[Line 4614]   
+[Line 4615]   cat(
+[Line 4616]     "Workflow-03F-9\n\n"
+[Line 4617]   )
+[Line 4618]   
+[Line 4619]   cat(
+[Line 4620]     "Historical matrix dimensions:\n"
+[Line 4621]   )
+[Line 4715]   ############################################################
+[Line 4716]   # 20. Complete
+[Line 4717]   ############################################################
+[Line 4718]   
+[Line 4719]   cat("\n========================================\n")
+[Line 4720]   cat("WORKFLOW-03F-9 COMPLETE\n")
+[Line 4721]   cat("========================================\n\n")
+[Line 4722]   
+[Line 4723]   cat(
+[Line 4724]     "Result saved to:\n",
+[Line 4725]     output_file,
+[Line 4726]     "\n"
+[Line 4727]   )
+[Line 4728]   
+[Line 4729]   done_file <- paste0(
+[Line 4730]     "O:/Rproject/Paper1_tumor-only WGCNA/",
+[Line 4731]     "Workflow-03F-9_provenance_audit_DONE.txt"
+[Line 4732]   )
+[Line 4733]   
+[Line 4734]   writeLines(
+[Line 4735]     c(
+[Line 4736]       "Workflow-03F-9 Historical expression scale and provenance audit",
+[Line 4737]       "",
+[Line 4738]       "Status: COMPLETE",
+[Line 4739]       "Completed through script line: 4728",
+[Line 4740]       "",
+[Line 4741]       "Completed workflows:",
+[Line 4756]       "Workflow-03F-4",
+[Line 4757]       "Workflow-03F-5",
+[Line 4758]       "Workflow-03F-6",
+[Line 4759]       "Workflow-03F-7",
+[Line 4760]       "Workflow-03F-8",
+[Line 4761]       "Workflow-03F-9",
+[Line 4762]       "",
+[Line 4763]       "Next workflow should continue from script line 4729."
+[Line 4764]     ),
+[Line 4765]     done_file
+[Line 4766]   ) 
+[Line 4767]   
+[Line 4768]   # ============================================================
+[Line 4769]   # CHECKPOINT: Workflow-03F-9 COMPLETE
+[Line 4770]   # Script lines completed: 1–4728
+[Line 4771]   # ============================================================
+[Line 4772]   
+[Line 4773]  
+[Line 4774]   ############################################################
+
+============================================================
+FILE:
+ O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Workflow-04-1F-1_clinical_cleaning_checkpoint.R 
+============================================================
+
+[Line 4018]     "\n"
+[Line 4019]   )
+[Line 4020]   
+[Line 4021]   
+[Line 4022]   ############################################################
+[Line 4023]   # Workflow-03F-9
+[Line 4024]   #
+[Line 4025]   # Historical expression scale and provenance audit
+[Line 4026]   #
+[Line 4027]   # Purpose:
+[Line 4028]   #   1. Characterize expr_symbol_counts.csv
+[Line 4603]   # 19. Save summary
+[Line 4604]   ############################################################
+[Line 4605]   
+[Line 4606]   output_file <- file.path(
+[Line 4607]     project_dir,
+[Line 4608]     "Workflow-03F-9_expression_scale_provenance.txt"
+[Line 4609]   )
+[Line 4610]   
+[Line 4611]   sink(
+[Line 4612]     output_file
+[Line 4613]   )
+[Line 4614]   
+[Line 4615]   cat(
+[Line 4616]     "Workflow-03F-9\n\n"
+[Line 4617]   )
+[Line 4618]   
+[Line 4619]   cat(
+[Line 4620]     "Historical matrix dimensions:\n"
+[Line 4621]   )
+[Line 4715]   ############################################################
+[Line 4716]   # 20. Complete
+[Line 4717]   ############################################################
+[Line 4718]   
+[Line 4719]   cat("\n========================================\n")
+[Line 4720]   cat("WORKFLOW-03F-9 COMPLETE\n")
+[Line 4721]   cat("========================================\n\n")
+[Line 4722]   
+[Line 4723]   cat(
+[Line 4724]     "Result saved to:\n",
+[Line 4725]     output_file,
+[Line 4726]     "\n"
+[Line 4727]   )
+[Line 4728]   
+[Line 4729]   done_file <- paste0(
+[Line 4730]     "O:/Rproject/Paper1_tumor-only WGCNA/",
+[Line 4731]     "Workflow-03F-9_provenance_audit_DONE.txt"
+[Line 4732]   )
+[Line 4733]   
+[Line 4734]   writeLines(
+[Line 4735]     c(
+[Line 4736]       "Workflow-03F-9 Historical expression scale and provenance audit",
+[Line 4737]       "",
+[Line 4738]       "Status: COMPLETE",
+[Line 4739]       "Completed through script line: 4728",
+[Line 4740]       "",
+[Line 4741]       "Completed workflows:",
+[Line 4756]       "Workflow-03F-4",
+[Line 4757]       "Workflow-03F-5",
+[Line 4758]       "Workflow-03F-6",
+[Line 4759]       "Workflow-03F-7",
+[Line 4760]       "Workflow-03F-8",
+[Line 4761]       "Workflow-03F-9",
+[Line 4762]       "",
+[Line 4763]       "Next workflow should continue from script line 4729."
+[Line 4764]     ),
+[Line 4765]     done_file
+[Line 4766]   ) 
+[Line 4767]   
+[Line 4768]   # ============================================================
+[Line 4769]   # CHECKPOINT: Workflow-03F-9 COMPLETE
+[Line 4770]   # Script lines completed: 1–4728
+[Line 4771]   # ============================================================
+[Line 4772]   
+[Line 4773]  
+[Line 4774]   ############################################################
+
+============================================================
+FILE:
+ O:/Rproject/Paper1_tumor-only WGCNA/Paper1_tumor-only WGCNA.R 
+============================================================
+
+[Line 4018]     "\n"
+[Line 4019]   )
+[Line 4020]   
+[Line 4021]   
+[Line 4022]   ############################################################
+[Line 4023]   # Workflow-03F-9
+[Line 4024]   #
+[Line 4025]   # Historical expression scale and provenance audit
+[Line 4026]   #
+[Line 4027]   # Purpose:
+[Line 4028]   #   1. Characterize expr_symbol_counts.csv
+[Line 4603]   # 19. Save summary
+[Line 4604]   ############################################################
+[Line 4605]   
+[Line 4606]   output_file <- file.path(
+[Line 4607]     project_dir,
+[Line 4608]     "Workflow-03F-9_expression_scale_provenance.txt"
+[Line 4609]   )
+[Line 4610]   
+[Line 4611]   sink(
+[Line 4612]     output_file
+[Line 4613]   )
+[Line 4614]   
+[Line 4615]   cat(
+[Line 4616]     "Workflow-03F-9\n\n"
+[Line 4617]   )
+[Line 4618]   
+[Line 4619]   cat(
+[Line 4620]     "Historical matrix dimensions:\n"
+[Line 4621]   )
+[Line 4715]   ############################################################
+[Line 4716]   # 20. Complete
+[Line 4717]   ############################################################
+[Line 4718]   
+[Line 4719]   cat("\n========================================\n")
+[Line 4720]   cat("WORKFLOW-03F-9 COMPLETE\n")
+[Line 4721]   cat("========================================\n\n")
+[Line 4722]   
+[Line 4723]   cat(
+[Line 4724]     "Result saved to:\n",
+[Line 4725]     output_file,
+[Line 4726]     "\n"
+[Line 4727]   )
+[Line 4728]   
+[Line 4729]   done_file <- paste0(
+[Line 4730]     "O:/Rproject/Paper1_tumor-only WGCNA/",
+[Line 4731]     "Workflow-03F-9_provenance_audit_DONE.txt"
+[Line 4732]   )
+[Line 4733]   
+[Line 4734]   writeLines(
+[Line 4735]     c(
+[Line 4736]       "Workflow-03F-9 Historical expression scale and provenance audit",
+[Line 4737]       "",
+[Line 4738]       "Status: COMPLETE",
+[Line 4739]       "Completed through script line: 4728",
+[Line 4740]       "",
+[Line 4741]       "Completed workflows:",
+[Line 4756]       "Workflow-03F-4",
+[Line 4757]       "Workflow-03F-5",
+[Line 4758]       "Workflow-03F-6",
+[Line 4759]       "Workflow-03F-7",
+[Line 4760]       "Workflow-03F-8",
+[Line 4761]       "Workflow-03F-9",
+[Line 4762]       "",
+[Line 4763]       "Next workflow should continue from script line 4729."
+[Line 4764]     ),
+[Line 4765]     done_file
+[Line 4766]   ) 
+[Line 4767]   
+[Line 4768]   # ============================================================
+[Line 4769]   # CHECKPOINT: Workflow-03F-9 COMPLETE
+[Line 4770]   # Script lines completed: 1–4728
+[Line 4771]   # ============================================================
+[Line 4772]   
+[Line 4773]  
+[Line 4774]   ############################################################
+
+============================================================
+FILE:
+ O:/Rproject/Paper1_tumor-only WGCNA/Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R 
+============================================================
+
+[Line 6336]   "Workflow-04-2D_final_WGCNA_candidate_checkpoint.RData",
+[Line 6337]   "Workflow-04-2D_current_workspace.RData",
+[Line 6338]   "Paper1_WORKFLOW03_14F_4D_2E_FINAL.RData",
+[Line 6339]   "Paper1_ME_brown_checkpoint_Step10G.RData",
+[Line 6340]   "Step13G_FINAL_checkpoint.RData",
+[Line 6341]   "Workflow-03F-9_provenance_audit.RData"
+[Line 6342] )
+[Line 6343] 
+[Line 6344] 
+[Line 6345] known_files <- rdata_files[
+[Line 6346]   basename(rdata_files) %in% known_patterns
+[Line 7298]   "Paper1_ME_brown_Gender_checkpoint_Final.R",
+[Line 7299]   "paper1_Step13G_FINAL_checkpoint.R",
+[Line 7300]   "Paper1_tumor-only WGCNA.R",
+[Line 7301]   "Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R",
+[Line 7302]   "WORKFLOW-03_Step14F-1_CoreGene_ModuleLocalization.R",
+[Line 7303]   "Workflow-03F-9_provenance_audit.R",
+[Line 7304]   "Workflow-04-1F-1_clinical_cleaning_checkpoint.R",
+[Line 7305]   "Workflow-04-2D-5 Soft-threshold checkpoint.R"
+[Line 7306] )
+[Line 7307] 
+[Line 7308] 
+
+============================================================
+FILE:
+ O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-9_provenance_audit.R 
+============================================================
+
+[Line 4018]     "\n"
+[Line 4019]   )
+[Line 4020]   
+[Line 4021]   
+[Line 4022]   ############################################################
+[Line 4023]   # Workflow-03F-9
+[Line 4024]   #
+[Line 4025]   # Historical expression scale and provenance audit
+[Line 4026]   #
+[Line 4027]   # Purpose:
+[Line 4028]   #   1. Characterize expr_symbol_counts.csv
+[Line 4603]   # 19. Save summary
+[Line 4604]   ############################################################
+[Line 4605]   
+[Line 4606]   output_file <- file.path(
+[Line 4607]     project_dir,
+[Line 4608]     "Workflow-03F-9_expression_scale_provenance.txt"
+[Line 4609]   )
+[Line 4610]   
+[Line 4611]   sink(
+[Line 4612]     output_file
+[Line 4613]   )
+[Line 4614]   
+[Line 4615]   cat(
+[Line 4616]     "Workflow-03F-9\n\n"
+[Line 4617]   )
+[Line 4618]   
+[Line 4619]   cat(
+[Line 4620]     "Historical matrix dimensions:\n"
+[Line 4621]   )
+[Line 4715]   ############################################################
+[Line 4716]   # 20. Complete
+[Line 4717]   ############################################################
+[Line 4718]   
+[Line 4719]   cat("\n========================================\n")
+[Line 4720]   cat("WORKFLOW-03F-9 COMPLETE\n")
+[Line 4721]   cat("========================================\n\n")
+[Line 4722]   
+[Line 4723]   cat(
+[Line 4724]     "Result saved to:\n",
+[Line 4725]     output_file,
+[Line 4726]     "\n"
+[Line 4727]   )
+[Line 4728]   
+[Line 4729]   done_file <- paste0(
+[Line 4730]     "O:/Rproject/Paper1_tumor-only WGCNA/",
+[Line 4731]     "Workflow-03F-9_provenance_audit_DONE.txt"
+[Line 4732]   )
+[Line 4733]   
+[Line 4734]   writeLines(
+[Line 4735]     c(
+[Line 4736]       "Workflow-03F-9 Historical expression scale and provenance audit",
+[Line 4737]       "",
+[Line 4738]       "Status: COMPLETE",
+[Line 4739]       "Completed through script line: 4728",
+[Line 4740]       "",
+[Line 4741]       "Completed workflows:",
+[Line 4756]       "Workflow-03F-4",
+[Line 4757]       "Workflow-03F-5",
+[Line 4758]       "Workflow-03F-6",
+[Line 4759]       "Workflow-03F-7",
+[Line 4760]       "Workflow-03F-8",
+[Line 4761]       "Workflow-03F-9",
+[Line 4762]       "",
+[Line 4763]       "Next workflow should continue from script line 4729."
+[Line 4764]     ),
+[Line 4765]     done_file
+[Line 4766]   ) 
+[Line 4767]   
+[Line 4768]   # ============================================================
+[Line 4769]   # CHECKPOINT: Workflow-03F-9 COMPLETE
+[Line 4770]   # Script lines completed: 1–4728
+[Line 4771]   # ============================================================
+[Line 4772]   
+[Line 4773]  
+[Line 4774]   ############################################################
+
+============================================================
+FILE:
+ O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-1F-1_clinical_cleaning_checkpoint.R 
+============================================================
+
+[Line 4018]     "\n"
+[Line 4019]   )
+[Line 4020]   
+[Line 4021]   
+[Line 4022]   ############################################################
+[Line 4023]   # Workflow-03F-9
+[Line 4024]   #
+[Line 4025]   # Historical expression scale and provenance audit
+[Line 4026]   #
+[Line 4027]   # Purpose:
+[Line 4028]   #   1. Characterize expr_symbol_counts.csv
+[Line 4603]   # 19. Save summary
+[Line 4604]   ############################################################
+[Line 4605]   
+[Line 4606]   output_file <- file.path(
+[Line 4607]     project_dir,
+[Line 4608]     "Workflow-03F-9_expression_scale_provenance.txt"
+[Line 4609]   )
+[Line 4610]   
+[Line 4611]   sink(
+[Line 4612]     output_file
+[Line 4613]   )
+[Line 4614]   
+[Line 4615]   cat(
+[Line 4616]     "Workflow-03F-9\n\n"
+[Line 4617]   )
+[Line 4618]   
+[Line 4619]   cat(
+[Line 4620]     "Historical matrix dimensions:\n"
+[Line 4621]   )
+[Line 4715]   ############################################################
+[Line 4716]   # 20. Complete
+[Line 4717]   ############################################################
+[Line 4718]   
+[Line 4719]   cat("\n========================================\n")
+[Line 4720]   cat("WORKFLOW-03F-9 COMPLETE\n")
+[Line 4721]   cat("========================================\n\n")
+[Line 4722]   
+[Line 4723]   cat(
+[Line 4724]     "Result saved to:\n",
+[Line 4725]     output_file,
+[Line 4726]     "\n"
+[Line 4727]   )
+[Line 4728]   
+[Line 4729]   done_file <- paste0(
+[Line 4730]     "O:/Rproject/Paper1_tumor-only WGCNA/",
+[Line 4731]     "Workflow-03F-9_provenance_audit_DONE.txt"
+[Line 4732]   )
+[Line 4733]   
+[Line 4734]   writeLines(
+[Line 4735]     c(
+[Line 4736]       "Workflow-03F-9 Historical expression scale and provenance audit",
+[Line 4737]       "",
+[Line 4738]       "Status: COMPLETE",
+[Line 4739]       "Completed through script line: 4728",
+[Line 4740]       "",
+[Line 4741]       "Completed workflows:",
+[Line 4756]       "Workflow-03F-4",
+[Line 4757]       "Workflow-03F-5",
+[Line 4758]       "Workflow-03F-6",
+[Line 4759]       "Workflow-03F-7",
+[Line 4760]       "Workflow-03F-8",
+[Line 4761]       "Workflow-03F-9",
+[Line 4762]       "",
+[Line 4763]       "Next workflow should continue from script line 4729."
+[Line 4764]     ),
+[Line 4765]     done_file
+[Line 4766]   ) 
+[Line 4767]   
+[Line 4768]   # ============================================================
+[Line 4769]   # CHECKPOINT: Workflow-03F-9 COMPLETE
+[Line 4770]   # Script lines completed: 1–4728
+[Line 4771]   # ============================================================
+[Line 4772]   
+[Line 4773]  
+[Line 4774]   ############################################################

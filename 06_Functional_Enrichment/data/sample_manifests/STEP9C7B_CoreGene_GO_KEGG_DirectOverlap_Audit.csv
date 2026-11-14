@@ -1,0 +1,56 @@
+"Direction","GO_ID","GO_Description","KEGG_ID","KEGG_Description","Core_Genes_Shared","N_Core_Genes_Shared","Shared_Entrez","N_Shared_Entrez"
+"Tumor-down","GO:0045785","positive regulation of cell adhesion","hsa04640","Hematopoietic cell lineage","IL7R",1,"948/3575/960/3552/7037/920/3111/3113/3122/3123/3115/3570/3569/3127/3553/3117/3119",17
+"Tumor-down","GO:0045785","positive regulation of cell adhesion","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/3575/6387/3552/920/3570/7042/3569/3553/6376/6366/6347/3558",13
+"Tumor-down","GO:0001906","cell killing","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/3122/3123/2209/3684/911/913",7
+"Tumor-down","GO:0001906","cell killing","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"3575/6387/5473/5196/1524/2920/2921/8807/6366/3596/6362",11
+"Tumor-down","GO:0042742","defense response to bacterium","hsa04640","Hematopoietic cell lineage","IL7R",1,"948/3575/920/3570/2209/3569/3553",7
+"Tumor-down","GO:0042742","defense response to bacterium","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"90865/3575/85480/5473/920/3570/3569/3553",8
+"Tumor-down","GO:0001909","leukocyte mediated cytotoxicity","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/3122/3123/2209/3684/911/913",7
+"Tumor-down","GO:0001909","leukocyte mediated cytotoxicity","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"3575/1524/8807",3
+"Tumor-down","GO:0090066","regulation of anatomical structure size","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/1440",2
+"Tumor-down","GO:0090066","regulation of anatomical structure size","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"659/3575/6387/1440/6369/6366",6
+"Tumor-down","GO:0002443","leukocyte mediated immunity","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/7037/3122/3123/3570/2209/3569/3553/3684/911/913",11
+"Tumor-down","GO:0002443","leukocyte mediated immunity","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"8741/3575/1439/1524/8809/3570/3569/3553/8807/3596/3558",11
+"Tumor-down","GO:0010720","positive regulation of cell development","hsa04640","Hematopoietic cell lineage","IL7R",1,"4311/3575/920/3122/3123/3569/3553/3567",8
+"Tumor-down","GO:0010720","positive regulation of cell development","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/90865/659/3575/650/6387/146433/5196/920/1524/3569/3553/1230/6376/3567/50604/3558",17
+"Tumor-down","GO:0002697","regulation of immune effector process","hsa04640","Hematopoietic cell lineage","IL7R",1,"948/3575/7037/3122/3123/2209/3569/3553/3684/911/3567/913",12
+"Tumor-down","GO:0002697","regulation of immune effector process","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"90865/8741/3575/1524/8809/7042/3569/3553/246778/8807/3596/3567/3558",13
+"Tumor-down","GO:0009308","amine metabolic process","hsa00350","Tyrosine metabolism","AOC3",1,"8639/4129/4128/5409/1644",5
+"Tumor-down","GO:0007159","leukocyte cell-cell adhesion","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/960/3552/7037/920/3111/3113/3122/3123/3115/3569/3127/3553/3117/3119",15
+"Tumor-down","GO:0007159","leukocyte cell-cell adhesion","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/3575/6387/3552/920/1524/3569/3553/6366/6347/3558",11
+"Tumor-down","GO:0050867","positive regulation of cell activation","hsa04640","Hematopoietic cell lineage","IL7R",1,"2815/3575/3552/7037/920/3111/3113/3122/3123/3115/3569/3127/3553/3117/3119/2814/3567",17
+"Tumor-down","GO:0050867","positive regulation of cell activation","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/90865/8741/3575/9173/85480/3552/920/3603/3569/3553/6366/6347/3596/3567/3558",16
+"Tumor-down","GO:0022409","positive regulation of cell-cell adhesion","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/960/3552/7037/920/3111/3113/3122/3123/3115/3570/3569/3127/3553/3117/3119",16
+"Tumor-down","GO:0022409","positive regulation of cell-cell adhesion","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/3575/3552/920/3570/3569/3553/6376/6366/6347/3558",11
+"Tumor-down","GO:0031341","regulation of cell killing","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/3122/3123/3684/911/913",6
+"Tumor-down","GO:0031341","regulation of cell killing","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"3575/1524/8807/3596",4
+"Tumor-down","GO:1903706","regulation of hemopoiesis","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/920/1440/3111/3122/3123/1441/3567",8
+"Tumor-down","GO:1903706","regulation of hemopoiesis","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/53342/3575/146433/5196/920/1440/1441/1230/246778/3567/50604/3558",13
+"Tumor-down","GO:1903037","regulation of leukocyte cell-cell adhesion","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/960/3552/7037/920/3111/3113/3122/3123/3115/3569/3127/3553/3117/3119",15
+"Tumor-down","GO:1903037","regulation of leukocyte cell-cell adhesion","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/3575/6387/3552/920/3569/3553/6366/6347/3558",10
+"Tumor-down","GO:1902105","regulation of leukocyte differentiation","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/920/3111/3122/3123/3567",6
+"Tumor-down","GO:1902105","regulation of leukocyte differentiation","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/3575/146433/5196/920/1230/246778/3567/50604/3558",10
+"Tumor-down","GO:0001910","regulation of leukocyte mediated cytotoxicity","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/3122/3123/3684/911/913",6
+"Tumor-down","GO:0001910","regulation of leukocyte mediated cytotoxicity","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"3575/1524/8807",3
+"Tumor-down","GO:0050830","defense response to Gram-positive bacterium","hsa04640","Hematopoietic cell lineage","IL7R",1,"948/3575/3570/3569/3553",5
+"Tumor-down","GO:0050830","defense response to Gram-positive bacterium","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"3575/3570/3569/3553",4
+"Tumor-down","GO:0070661","leukocyte proliferation","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/3568/3552/7037/3113/3123/3115/3569/3553/3567",10
+"Tumor-down","GO:0070661","leukocyte proliferation","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/90865/8741/3575/3568/146433/3552/1439/3569/3553/246778/6376/3596/3567/3558",15
+"Tumor-down","GO:0002703","regulation of leukocyte mediated immunity","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/7037/3122/3123/2209/3569/3553/3684/911/913",10
+"Tumor-down","GO:0002703","regulation of leukocyte mediated immunity","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"8741/3575/1524/8809/3569/3553/8807/3596/3558",9
+"Tumor-down","GO:0046651","lymphocyte proliferation","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/3552/7037/3113/3123/3115/3569/3553/3567",9
+"Tumor-down","GO:0046651","lymphocyte proliferation","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/8741/3575/3552/3569/3553/246778/3596/3567/3558",10
+"Tumor-down","GO:0002698","negative regulation of immune effector process","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575",1
+"Tumor-down","GO:0002698","negative regulation of immune effector process","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"90865/3575/1524/7042/3558",5
+"Tumor-down","GO:0032943","mononuclear cell proliferation","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/3552/7037/3113/3123/3115/3569/3553/3567",9
+"Tumor-down","GO:0032943","mononuclear cell proliferation","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/8741/3575/3552/3569/3553/246778/3596/3567/3558",10
+"Tumor-down","GO:0002696","positive regulation of leukocyte activation","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/3552/7037/920/3111/3113/3122/3123/3115/3569/3127/3553/3117/3119/3567",15
+"Tumor-down","GO:0002696","positive regulation of leukocyte activation","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/90865/8741/3575/9173/85480/3552/920/3603/3569/3553/6366/6347/3596/3567/3558",16
+"Tumor-down","GO:1902107","positive regulation of leukocyte differentiation","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/920/3122/3123/3567",5
+"Tumor-down","GO:1902107","positive regulation of leukocyte differentiation","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/3575/146433/5196/920/1230/3567/50604/3558",9
+"Tumor-down","GO:1903708","positive regulation of hemopoiesis","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/920/3122/3123/3567",5
+"Tumor-down","GO:1903708","positive regulation of hemopoiesis","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/3575/146433/5196/920/1230/3567/50604/3558",9
+"Tumor-down","GO:1903039","positive regulation of leukocyte cell-cell adhesion","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/960/3552/7037/920/3111/3113/3122/3123/3115/3569/3127/3553/3117/3119",15
+"Tumor-down","GO:1903039","positive regulation of leukocyte cell-cell adhesion","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"7048/3575/3552/920/3569/3553/6366/6347/3558",9
+"Tumor-down","GO:0048872","homeostasis of number of cells","hsa04640","Hematopoietic cell lineage","IL7R",1,"3575/3569",2
+"Tumor-down","GO:0048872","homeostasis of number of cells","hsa04060","Cytokine-cytokine receptor interaction","IL7R",1,"3579/3575/1524/3569/3558",5

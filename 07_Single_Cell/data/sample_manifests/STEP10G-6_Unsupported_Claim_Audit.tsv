@@ -1,0 +1,10 @@
+Claim_Type	Supported_by_STEP10	Reason
+Cell-type specificity	NO	Genes were detected in multiple compartments.
+Cell-type exclusivity	NO	Detection was not restricted to one compartment.
+Causal regulation	NO	STEP10 is descriptive and observational.
+Intercellular communication	NO	Expression context alone does not establish communication.
+Ligand-receptor interaction	NO	No ligand-receptor analysis was performed in STEP10G.
+Functional activation	NO	No functional perturbation or activity assay was performed.
+Immune escape	NO	Not evaluated by this workflow.
+Immune checkpoint resistance	NO	Not evaluated by this workflow.
+Tumor-promoting mechanism	NO	No causal or mechanistic experiment was performed.

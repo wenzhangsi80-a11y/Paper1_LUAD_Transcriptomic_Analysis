@@ -1,0 +1,4 @@
+Gene	Primary_Expression_Context	Evidence_Basis	Specificity_Claim_Supported	Causal_Claim_Supported
+AOC3	Multi-compartment detection with relatively higher quantitative expression in myeloid/macrophage cells	Highest primary median CPM occurs in myeloid/macrophage; endothelial detection is present but not predominant	NO	NO
+MS4A7	Strongly myeloid/macrophage-associated expression context	Myeloid/macrophage median CPM is substantially higher than T-cell and endothelial compartments	NO	NO
+IL7R	T-cell-associated expression context	T-cell shows the highest median CPM among the three primary compartments	NO	NO

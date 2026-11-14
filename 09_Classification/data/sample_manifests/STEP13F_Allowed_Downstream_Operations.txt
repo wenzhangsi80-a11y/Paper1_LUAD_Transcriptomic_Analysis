@@ -1,0 +1,10 @@
+Use the locked predictors AOC3, MS4A7, IL7R.
+Use TumorStatus as the binary outcome.
+Use Normal as the reference level.
+Use Tumor as the positive class.
+Fit the prespecified multivariable logistic regression.
+Use nested cross-validation with 10 outer folds and 10 inner folds.
+Preserve class balance during cross-validation.
+Assess model performance on held-out data.
+Apply the locked model to GSE32863 without external refitting.
+Use subject-aware paired analysis for paired tumor/normal expression comparisons.

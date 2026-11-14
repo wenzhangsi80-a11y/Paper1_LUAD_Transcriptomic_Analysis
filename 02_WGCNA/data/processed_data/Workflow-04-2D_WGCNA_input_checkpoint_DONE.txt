@@ -1,0 +1,19 @@
+Workflow-04-2D WGCNA input checkpoint
+
+Status: COMPLETE
+
+Expression matrix:
+513 primary LUAD tumor samples
+31,609 genes
+
+Input file:
+Workflow-04-2C_WGCNA_candidate_log2_FPKM_UQ.txt
+
+Clinical file:
+Workflow-04-2A_clinical_aligned.txt
+
+Sample matching:
+Bidirectional expression-clinical matching verified.
+
+Next step:
+WGCNA soft-threshold selection using pickSoftThreshold().

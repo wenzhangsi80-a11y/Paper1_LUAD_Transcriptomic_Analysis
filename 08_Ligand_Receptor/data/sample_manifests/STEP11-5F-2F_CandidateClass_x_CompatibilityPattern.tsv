@@ -1,0 +1,4 @@
+Candidate_Consistency_Class	Compatibility_Pattern	N_LR_Direction_Records	N_Exact_LR_Pairs	N_Compatible	N_Incompatible	Mean_Compatibility_Fraction	Median_Compatibility_Fraction
+3_of_4_only	3_of_4	191	93	573	191	0.75	0.75
+4_of_4	3_of_4	500	240	1500	500	0.75	0.75
+4_of_4	4_of_4	1714	492	6856	0	1	1

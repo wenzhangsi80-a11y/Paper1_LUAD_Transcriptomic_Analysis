@@ -1,0 +1,12 @@
+STEP13F — ALLOWED DOWNSTREAM OPERATIONS
+============================================================
+
+10-fold stratified nested cross-validation
+Training-set coefficient estimation
+Training-set model performance assessment
+Locked-model prediction in GSE32863
+Threshold-free ROC/AUC assessment
+95% confidence interval estimation for AUC
+Prespecified paired expression comparison in GSE32863
+Prespecified sensitivity analysis
+Final audit and traceability reporting

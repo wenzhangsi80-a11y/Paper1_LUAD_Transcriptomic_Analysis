@@ -1,0 +1,12 @@
+"Audit_Item","Status"
+"All four RData files available",TRUE
+"Expected key objects present",TRUE
+"STEP7B5 final dataset n=500",TRUE
+"Nine saved models present",TRUE
+"All nine models n=500",TRUE
+"Expected model combinations",TRUE
+"ABSOLUTE purity included in all model formulas",TRUE
+"ABSOLUTE_Purity variable present in dataset",TRUE
+"Expression source identified by user",TRUE
+"Clinical source identified by user",TRUE
+"ABSOLUTE original source/version/date verified",FALSE

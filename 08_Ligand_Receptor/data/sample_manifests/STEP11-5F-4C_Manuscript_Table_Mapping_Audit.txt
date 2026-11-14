@@ -1,0 +1,673 @@
+============================================================
+STEP11-5F-4C → MANUSCRIPT TABLE MAPPING AUDIT
+============================================================
+
+Input file:
+ O:/Rproject/Paper 1_Step 11-CellChat/STEP11-5F-4_Patient_Level_LR_Final_Context_Summary/STEP11-5F-4C_FINAL_Master_LR_Descriptive_Context_Table.tsv 
+
+Rows: 585
+Columns: 36
+
+------------------------------------------------------------
+4. BASIC ROW STRUCTURE
+------------------------------------------------------------
+
+Total rows: 585
+Unique Exact_LR_Pair values: 585
+Rows beyond one-row-per-LR-pair structure: 0
+
+Frequency distribution of rows per Exact_LR_Pair:
+
+
+  1 
+585 
+
+PASS: one row corresponds to exactly one Exact_LR_Pair.
+
+------------------------------------------------------------
+5. DIRECTION MAPPING
+------------------------------------------------------------
+
+Direction-related fields detected:
+
+[1] "N_Directions"                       "Directions"                         "Direction_Labels"                  
+[4] "Direction_1_Compatibility_Fraction" "Direction_2_Compatibility_Fraction" "Direction_3_Compatibility_Fraction"
+[7] "Direction_4_Compatibility_Fraction" "Direction_5_Compatibility_Fraction" "Direction_6_Compatibility_Fraction"
+
+N_Directions distribution:
+
+ N_Directions     N
+        <int> <int>
+            1    56
+            2   109
+            3    21
+            4   161
+            5     4
+            6   234
+
+Unique Directions values:
+
+ [1] "1"                     "1 | 2"                 "1 | 2 | 3 | 4 | 5 | 6" "1 | 2 | 3 | 5"         "1 | 2 | 3 | 5 | 6"    
+ [6] "1 | 2 | 4 | 5 | 6"     "1 | 2 | 4 | 6"         "1 | 2 | 5"             "1 | 2 | 6"             "1 | 3"                
+[11] "1 | 3 | 4 | 6"         "1 | 3 | 5"             "1 | 3 | 5 | 6"         "1 | 3 | 6"             "1 | 4 | 6"            
+[16] "1 | 5"                 "1 | 5 | 6"             "1 | 6"                 "2"                     "2 | 3 | 4 | 5"        
+[21] "2 | 3 | 4 | 5 | 6"     "2 | 3 | 5"             "2 | 4"                 "2 | 4 | 5 | 6"         "2 | 4 | 6"            
+[26] "2 | 5"                 "2 | 5 | 6"             "3"                     "3 | 5"                 "3 | 5 | 6"            
+[31] "4"                     "4 | 5 | 6"             "4 | 6"                 "5"                     "5 | 6"                
+[36] "6"                    
+
+Unique Direction_Labels values:
+
+ [1] "Endothelial -> Myeloid/macrophage"                                                                                                                                                  
+ [2] "Endothelial -> Myeloid/macrophage | Endothelial -> T-cell"                                                                                                                          
+ [3] "Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | Myeloid/macrophage -> T-cell"                                                                                           
+ [4] "Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"                                                            
+ [5] "Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | T-cell -> Endothelial | T-cell -> Myeloid/macrophage"                                                                   
+ [6] "Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | T-cell -> Myeloid/macrophage"                                                                                           
+ [7] "Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial"                                                                                                              
+ [8] "Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | Myeloid/macrophage -> T-cell"                                                       
+ [9] "Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"                        
+[10] "Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"
+[11] "Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Myeloid/macrophage -> T-cell"                                                                               
+[12] "Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"                        
+[13] "Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | T-cell -> Myeloid/macrophage"                                                       
+[14] "Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | T-cell -> Myeloid/macrophage"                                                                               
+[15] "Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> T-cell"                                                                                                                   
+[16] "Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"                                                                                    
+[17] "Endothelial -> Myeloid/macrophage | T-cell -> Endothelial | T-cell -> Myeloid/macrophage"                                                                                           
+[18] "Endothelial -> Myeloid/macrophage | T-cell -> Myeloid/macrophage"                                                                                                                   
+[19] "Endothelial -> T-cell"                                                                                                                                                              
+[20] "Endothelial -> T-cell | Myeloid/macrophage -> T-cell"                                                                                                                               
+[21] "Endothelial -> T-cell | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"                                                                                                
+[22] "Myeloid/macrophage -> Endothelial"                                                                                                                                                  
+[23] "Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | Myeloid/macrophage -> T-cell"                                                                                           
+[24] "Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | T-cell -> Endothelial | Myeloid/macrophage -> T-cell"                                                                   
+[25] "Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"                                    
+[26] "Myeloid/macrophage -> Endothelial | Myeloid/macrophage -> T-cell"                                                                                                                   
+[27] "Myeloid/macrophage -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"                                                                                    
+[28] "Myeloid/macrophage -> Endothelial | T-cell -> Endothelial"                                                                                                                          
+[29] "Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"                                                            
+[30] "Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | T-cell -> Myeloid/macrophage"                                                                                           
+[31] "Myeloid/macrophage -> T-cell"                                                                                                                                                       
+[32] "Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"                                                                                                                        
+[33] "T-cell -> Endothelial"                                                                                                                                                              
+[34] "T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage"                                                                                                
+[35] "T-cell -> Endothelial | T-cell -> Myeloid/macrophage"                                                                                                                               
+[36] "T-cell -> Myeloid/macrophage"                                                                                                                                                       
+
+Observed Directions → Direction_Labels combinations:
+
+            Directions
+                <char>
+                     1
+                 1 | 2
+ 1 | 2 | 3 | 4 | 5 | 6
+         1 | 2 | 3 | 5
+     1 | 2 | 3 | 5 | 6
+     1 | 2 | 4 | 5 | 6
+         1 | 2 | 4 | 6
+             1 | 2 | 5
+             1 | 2 | 6
+                 1 | 3
+         1 | 3 | 4 | 6
+             1 | 3 | 5
+         1 | 3 | 5 | 6
+             1 | 3 | 6
+             1 | 4 | 6
+                 1 | 5
+             1 | 5 | 6
+                 1 | 6
+                     2
+         2 | 3 | 4 | 5
+     2 | 3 | 4 | 5 | 6
+             2 | 3 | 5
+                 2 | 4
+         2 | 4 | 5 | 6
+             2 | 4 | 6
+                 2 | 5
+             2 | 5 | 6
+                     3
+                 3 | 5
+             3 | 5 | 6
+                     4
+             4 | 5 | 6
+                 4 | 6
+                     5
+                 5 | 6
+                     6
+            Directions
+                <char>
+                                                                                                                                                                    Direction_Labels
+                                                                                                                                                                              <char>
+                                                                                                                                                   Endothelial -> Myeloid/macrophage
+                                                                                                               Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial
+ Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                        Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | Myeloid/macrophage -> T-cell
+                         Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                         Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                        Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Myeloid/macrophage -> T-cell
+                                                                                Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                                                           Endothelial -> Myeloid/macrophage | Endothelial -> T-cell
+                                                                    Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                            Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | Myeloid/macrophage -> T-cell
+                                                             Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                            Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                            Endothelial -> Myeloid/macrophage | T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                                                    Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> T-cell
+                                                                                     Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                    Endothelial -> Myeloid/macrophage | T-cell -> Myeloid/macrophage
+                                                                                                                                                   Myeloid/macrophage -> Endothelial
+                                                                    Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | T-cell -> Endothelial | Myeloid/macrophage -> T-cell
+                                     Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                            Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | Myeloid/macrophage -> T-cell
+                                                                                                                           Myeloid/macrophage -> Endothelial | T-cell -> Endothelial
+                                                             Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                            Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                                                    Myeloid/macrophage -> Endothelial | Myeloid/macrophage -> T-cell
+                                                                                     Myeloid/macrophage -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                                                               Endothelial -> T-cell
+                                                                                                                                Endothelial -> T-cell | Myeloid/macrophage -> T-cell
+                                                                                                 Endothelial -> T-cell | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                                                               T-cell -> Endothelial
+                                                                                                 T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                                T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                                                                                        Myeloid/macrophage -> T-cell
+                                                                                                                         Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                                                        T-cell -> Myeloid/macrophage
+                                                                                                                                                                    Direction_Labels
+                                                                                                                                                                              <char>
+
+------------------------------------------------------------
+6. DIRECTION-SPECIFIC COMPATIBILITY FRACTIONS
+------------------------------------------------------------
+
+Detected fields:
+
+[1] "Direction_1_Compatibility_Fraction" "Direction_2_Compatibility_Fraction" "Direction_3_Compatibility_Fraction"
+[4] "Direction_4_Compatibility_Fraction" "Direction_5_Compatibility_Fraction" "Direction_6_Compatibility_Fraction"
+
+Direction-specific availability:
+
+                    Direction_Field N_non_missing N_missing Percent_non_missing
+ Direction_1_Compatibility_Fraction           382       203            65.29915
+ Direction_2_Compatibility_Fraction           371       214            63.41880
+ Direction_3_Compatibility_Fraction           387       198            66.15385
+ Direction_4_Compatibility_Fraction           343       242            58.63248
+ Direction_5_Compatibility_Fraction           485       100            82.90598
+ Direction_6_Compatibility_Fraction           437       148            74.70085
+
+Observed compatibility fraction ranges:
+
+                    Direction_Field Minimum Maximum
+ Direction_1_Compatibility_Fraction    0.75       1
+ Direction_2_Compatibility_Fraction    0.75       1
+ Direction_3_Compatibility_Fraction    0.75       1
+ Direction_4_Compatibility_Fraction    0.75       1
+ Direction_5_Compatibility_Fraction    0.75       1
+ Direction_6_Compatibility_Fraction    0.75       1
+
+------------------------------------------------------------
+7. PATIENT-LEVEL COMPATIBILITY STRUCTURE
+------------------------------------------------------------
+
+Detected patient-level fields:
+
+[1] "N_Patient_Records"              "N_Patients"                     "N_Compatible"                   "N_Incompatible"                
+[5] "Overall_Compatibility_Fraction" "Patient_Compatibility_Patterns"
+
+N_Patients distribution:
+
+ N_Patients     N
+      <int> <int>
+          4   585
+
+N_Compatible distribution:
+
+ N_Compatible     N
+        <int> <int>
+            3    41
+            4    15
+            6    32
+            7    28
+            8    49
+            9     4
+           10    11
+           11     4
+           12    13
+           13    10
+           14    62
+           15     6
+           16    75
+           18     6
+           20    21
+           22    94
+           24   114
+
+N_Incompatible distribution:
+
+ N_Incompatible     N
+          <int> <int>
+              0   252
+              1    79
+              2   200
+              3    14
+              4    35
+              6     5
+
+Overall compatibility fraction summary:
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7500  0.8750  0.9167  0.9129  1.0000  1.0000 
+
+Unique overall compatibility fractions:
+
+[1] 0.7500000 0.8000000 0.8125000 0.8333333 0.8750000 0.9000000 0.9166667 0.9375000 1.0000000
+
+------------------------------------------------------------
+8. PATIENT COMPATIBILITY PATTERNS
+------------------------------------------------------------
+
+Unique patient compatibility patterns: 163
+
+                                                                                                                                                                                                                                                                                                                                                                                               Patient_Compatibility_Patterns
+                                                                                                                                                                                                                                                                                                                                                                                                                       <char>
+         1: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 2: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 3: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 4: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                 2: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 4: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                 1: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 3: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible
+ 1: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 3: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible
+ 1: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 2: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 3: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 4: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                                                                          ---
+                                                                                                                                                                                                             1: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 2: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+                                                                                                                                                                                                                 2: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 3: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                     1: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 3: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+                                                                                                                                                                                                             1: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 3: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible || 5: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                         1: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 2: P1=Compatible | P2=Compatible | P3=Compatible | P4=Compatible || 3: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+     N
+ <int>
+   114
+    31
+    30
+    23
+    20
+   ---
+     1
+     1
+     1
+     1
+     1
+
+First 20 LR pairs with patient compatibility patterns:
+
+   Exact_LR_Pair N_Patients N_Compatible N_Incompatible Overall_Compatibility_Fraction
+          <char>      <int>        <int>          <int>                          <num>
+    ANGPT1___TEK          4            3              1                           0.75
+      BTC___EGFR          4            6              2                           0.75
+        C3___CR2          4            3              1                           0.75
+   CCL26___ACKR2          4            3              1                           0.75
+   CCL27___CCR10          4           12              4                           0.75
+    CCL27___CCR2          4            6              2                           0.75
+    CCL27___CCR3          4            3              1                           0.75
+    CCL28___CCR3          4            6              2                           0.75
+     CCL5___CCR3          4            6              2                           0.75
+ CLDN11___CLDN11          4           18              6                           0.75
+    COL4A3___GP6          4            6              2                           0.75
+   COL6A6___CD44          4           12              4                           0.75
+    COL6A6___GP6          4            3              1                           0.75
+   COL6A6___SDC1          4            9              3                           0.75
+   COL6A6___SDC4          4           12              4                           0.75
+     COMP___CD36          4            6              2                           0.75
+     COMP___CD47          4            6              2                           0.75
+     COMP___SDC1          4            6              2                           0.75
+     COMP___SDC4          4            6              2                           0.75
+     CRH___CRHR1          4            3              1                           0.75
+   Exact_LR_Pair N_Patients N_Compatible N_Incompatible Overall_Compatibility_Fraction
+          <char>      <int>        <int>          <int>                          <num>
+                                                                                                                                                                                                                                                                                                                                                                                                               Patient_Compatibility_Patterns
+                                                                                                                                                                                                                                                                                                                                                                                                                                       <char>
+                                                                                                                                                                                                                                                                                                                                                                         2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 4: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                         5: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                         2: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+                                                                                                                                                 2: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 4: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                         6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 1: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 1: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+ 1: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 3: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 5: P1=Compatible | P2=Compatible | P3=Not_compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                 2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 4: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+                                                                                                                                                                                                                                                                                                                                                                         5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                         2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+                                                                                                                                                 2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 4: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+                                                                                                                                                                                                                                                                                                 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                         5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                                                               Patient_Compatibility_Patterns
+                                                                                                                                                                                                                                                                                                                                                                                                                                       <char>
+
+------------------------------------------------------------
+9. CANDIDATE CONSISTENCY CLASS
+------------------------------------------------------------
+
+ Candidate_Consistency_Class     N
+                      <char> <int>
+                      4_of_4   492
+                 3_of_4_only    93
+
+------------------------------------------------------------
+10. CANDIDATE / INTERACTION PROVENANCE
+------------------------------------------------------------
+
+
+>>> Candidate_Set_Provenance
+
+ Candidate_Set_Provenance     N
+                   <char> <int>
+                ge3 | ge4   252
+          ge3 | ge3 | ge4   240
+                      ge3    93
+
+>>> interaction_name_Provenance
+
+ interaction_name_Provenance     N
+                      <char> <int>
+                  ANGPT1_TEK     1
+                    BTC_EGFR     1
+                      C3_CR2     1
+                 CCL26_ACKR2     1
+                 CCL27_CCR10     1
+                         ---   ---
+                  WNT5B_FZD4     1
+                  WNT5B_FZD5     1
+                  WNT5B_FZD6     1
+                  WNT5B_FZD7     1
+                  WNT5B_FZD8     1
+
+------------------------------------------------------------
+11. PATHWAY AND RESOURCE ANNOTATION
+------------------------------------------------------------
+
+
+>>> pathway_name
+
+Number of unique values: 138
+
+ pathway_name     N
+       <char> <int>
+     COLLAGEN    52
+          CCL    50
+      LAMININ    50
+         CXCL    32
+        MHC-I    25
+          ---   ---
+        TWEAK     1
+         VEGI     1
+         OX40     1
+         CD30     1
+        CD137     1
+
+
+>>> annotation
+
+Number of unique values: 3
+
+         annotation     N
+             <char> <int>
+ Secreted Signaling   275
+  Cell-Cell Contact   185
+       ECM-Receptor   125
+
+------------------------------------------------------------
+12. CORE GENE INVOLVEMENT
+------------------------------------------------------------
+
+ Core_Gene_Involved     N
+             <lgcl> <int>
+              FALSE   585
+
+------------------------------------------------------------
+13. EXPRESSION CONTEXT FIELDS
+------------------------------------------------------------
+
+Detected expression fields:
+
+ [1] "Ligand_Median_log2CPM"     "Ligand_IQR_log2CPM"        "Ligand_Min_log2CPM"        "Ligand_Max_log2CPM"       
+ [5] "Receptor_Median_log2CPM"   "Receptor_IQR_log2CPM"      "Receptor_Min_log2CPM"      "Receptor_Max_log2CPM"     
+ [9] "MeanPair_Median_log2CPM"   "MeanPair_IQR_log2CPM"      "Difference_Median_log2CPM" "Difference_IQR_log2CPM"   
+
+                     Field     Minimum     Median   Maximum
+     Ligand_Median_log2CPM  0.06016713 2.03665649 11.773147
+        Ligand_IQR_log2CPM  0.04195744 1.75467082  9.779298
+        Ligand_Min_log2CPM  0.00000000 0.29613835 10.834000
+        Ligand_Max_log2CPM  0.10561257 5.09693192 13.981345
+   Receptor_Median_log2CPM  0.06016713 2.01295547 11.686817
+      Receptor_IQR_log2CPM  0.04195744 1.70583375  8.928368
+      Receptor_Min_log2CPM  0.00000000 0.27904642 10.353880
+      Receptor_Max_log2CPM  0.10561257 4.89250929 13.835648
+   MeanPair_Median_log2CPM  0.11388867 2.64417496  8.463000
+      MeanPair_IQR_log2CPM  0.03042844 1.33820994  4.919889
+ Difference_Median_log2CPM -7.73499596 0.05047342 10.645872
+    Difference_IQR_log2CPM  0.05988720 2.78582900 14.307522
+
+------------------------------------------------------------
+14. EXPRESSION-CONTEXT COMPRESSION AUDIT
+------------------------------------------------------------
+
+Potential manuscript-facing compact representation:
+
+Ligand:   median (IQR)
+Receptor: median (IQR)
+
+Example rows:
+
+   Exact_LR_Pair Ligand_Context Receptor_Context
+          <char>         <char>           <char>
+    ANGPT1___TEK  0.234 (0.153)    6.298 (0.602)
+      BTC___EGFR  0.191 (0.302)    1.100 (2.378)
+        C3___CR2  3.657 (0.723)    0.142 (0.165)
+   CCL26___ACKR2  0.151 (0.138)    3.269 (0.684)
+   CCL27___CCR10  0.114 (0.067)    1.622 (0.982)
+    CCL27___CCR2  0.114 (0.067)    1.554 (0.772)
+    CCL27___CCR3  0.142 (0.067)    0.060 (0.046)
+    CCL28___CCR3  2.470 (0.500)    0.060 (0.046)
+     CCL5___CCR3  9.155 (4.680)    0.060 (0.046)
+ CLDN11___CLDN11  0.407 (4.140)    0.407 (4.140)
+
+------------------------------------------------------------
+15. PROPOSED MANUSCRIPT-FACING FIELD MAPPING
+------------------------------------------------------------
+
+                 Manuscript_Field                                     Source_Field
+                    Exact LR pair                                    Exact_LR_Pair
+                           Ligand                                           ligand
+                         Receptor                                         receptor
+      Candidate consistency class                      Candidate_Consistency_Class
+                          Pathway                                     pathway_name
+              Resource annotation                                       annotation
+             Number of directions                                     N_Directions
+     Sender → receiver directions                                 Direction_Labels
+               Number of patients                                       N_Patients
+              Compatible patients                                     N_Compatible
+            Overall compatibility                   Overall_Compatibility_Fraction
+ Direction-specific compatibility Direction_1...Direction_6_Compatibility_Fraction
+    Patient compatibility pattern                   Patient_Compatibility_Patterns
+               Core gene involved                               Core_Gene_Involved
+        Ligand expression context       Ligand_Median_log2CPM + Ligand_IQR_log2CPM
+      Receptor expression context   Receptor_Median_log2CPM + Receptor_IQR_log2CPM
+
+------------------------------------------------------------
+16. PROVISIONAL AUDIT-ONLY FIELDS
+------------------------------------------------------------
+
+ [1] "Candidate_Set_Provenance"    "interaction_name_Provenance" "N_Patient_Records"           "N_Incompatible"             
+ [5] "Ligand_Min_log2CPM"          "Ligand_Max_log2CPM"          "Receptor_Min_log2CPM"        "Receptor_Max_log2CPM"       
+ [9] "MeanPair_Median_log2CPM"     "MeanPair_IQR_log2CPM"        "Difference_Median_log2CPM"   "Difference_IQR_log2CPM"     
+
+------------------------------------------------------------
+17. MANUSCRIPT TABLE INTEGRITY CHECKS
+------------------------------------------------------------
+
+PASS: all core manuscript fields are present.
+
+PASS: overall compatibility fractions are within 0–1.
+
+WARNING: patient-count inconsistency detected.
+
+Maximum difference between reported and reconstructed
+overall compatibility fraction: 5e+00
+NOTE: reported and reconstructed fractions differ.
+
+------------------------------------------------------------
+18. MANUSCRIPT-FACING CONTENT PREVIEW
+------------------------------------------------------------
+
+   Exact_LR_Pair ligand receptor Candidate_Consistency_Class pathway_name         annotation N_Directions
+          <char> <char>   <char>                      <char>       <char>             <char>        <int>
+    ANGPT1___TEK ANGPT1      TEK                 3_of_4_only        ANGPT Secreted Signaling            1
+      BTC___EGFR    BTC     EGFR                 3_of_4_only          EGF Secreted Signaling            2
+        C3___CR2     C3      CR2                 3_of_4_only   COMPLEMENT Secreted Signaling            1
+   CCL26___ACKR2  CCL26    ACKR2                 3_of_4_only          CCL Secreted Signaling            1
+   CCL27___CCR10  CCL27    CCR10                 3_of_4_only          CCL Secreted Signaling            4
+    CCL27___CCR2  CCL27     CCR2                 3_of_4_only          CCL Secreted Signaling            2
+    CCL27___CCR3  CCL27     CCR3                 3_of_4_only          CCL Secreted Signaling            1
+    CCL28___CCR3  CCL28     CCR3                 3_of_4_only          CCL Secreted Signaling            2
+     CCL5___CCR3   CCL5     CCR3                 3_of_4_only          CCL Secreted Signaling            2
+ CLDN11___CLDN11 CLDN11   CLDN11                 3_of_4_only         CLDN  Cell-Cell Contact            6
+    COL4A3___GP6 COL4A3      GP6                 3_of_4_only     COLLAGEN       ECM-Receptor            2
+   COL6A6___CD44 COL6A6     CD44                 3_of_4_only     COLLAGEN       ECM-Receptor            4
+    COL6A6___GP6 COL6A6      GP6                 3_of_4_only     COLLAGEN       ECM-Receptor            1
+   COL6A6___SDC1 COL6A6     SDC1                 3_of_4_only     COLLAGEN       ECM-Receptor            3
+   COL6A6___SDC4 COL6A6     SDC4                 3_of_4_only     COLLAGEN       ECM-Receptor            4
+     COMP___CD36   COMP     CD36                 3_of_4_only         THBS       ECM-Receptor            2
+     COMP___CD47   COMP     CD47                 3_of_4_only         THBS       ECM-Receptor            2
+     COMP___SDC1   COMP     SDC1                 3_of_4_only         THBS       ECM-Receptor            2
+     COMP___SDC4   COMP     SDC4                 3_of_4_only         THBS       ECM-Receptor            2
+     CRH___CRHR1    CRH    CRHR1                 3_of_4_only          CRH Secreted Signaling            1
+   Exact_LR_Pair ligand receptor Candidate_Consistency_Class pathway_name         annotation N_Directions
+          <char> <char>   <char>                      <char>       <char>             <char>        <int>
+                                                                                                                                                                    Direction_Labels
+                                                                                                                                                                              <char>
+                                                                                                                                                   Myeloid/macrophage -> Endothelial
+                                                                                                                                T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                                                                                        Myeloid/macrophage -> T-cell
+                                                                                                                                                   Myeloid/macrophage -> Endothelial
+                                                             Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                         Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                                                        T-cell -> Myeloid/macrophage
+                                                                                                                    Endothelial -> Myeloid/macrophage | T-cell -> Myeloid/macrophage
+                                                                                                                    Endothelial -> Myeloid/macrophage | T-cell -> Myeloid/macrophage
+ Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                         Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                             Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                                                        Myeloid/macrophage -> T-cell
+                                                                                     Myeloid/macrophage -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                             Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                                T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                                                                T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                                                                T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                                                                T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+                                                                                                                                                        Myeloid/macrophage -> T-cell
+                                                                                                                                                                    Direction_Labels
+                                                                                                                                                                              <char>
+ N_Patients N_Compatible Overall_Compatibility_Fraction
+      <int>        <int>                          <num>
+          4            3                           0.75
+          4            6                           0.75
+          4            3                           0.75
+          4            3                           0.75
+          4           12                           0.75
+          4            6                           0.75
+          4            3                           0.75
+          4            6                           0.75
+          4            6                           0.75
+          4           18                           0.75
+          4            6                           0.75
+          4           12                           0.75
+          4            3                           0.75
+          4            9                           0.75
+          4           12                           0.75
+          4            6                           0.75
+          4            6                           0.75
+          4            6                           0.75
+          4            6                           0.75
+          4            3                           0.75
+ N_Patients N_Compatible Overall_Compatibility_Fraction
+      <int>        <int>                          <num>
+                                                                                                                                                                                                                                                                                                                                                                                                               Patient_Compatibility_Patterns
+                                                                                                                                                                                                                                                                                                                                                                                                                                       <char>
+                                                                                                                                                                                                                                                                                                                                                                         2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 4: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                         5: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                         2: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+                                                                                                                                                 2: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 4: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible || 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 5: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                         6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 1: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 1: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Not_compatible | P3=Compatible | P4=Compatible
+ 1: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 3: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 5: P1=Compatible | P2=Compatible | P3=Not_compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                 2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 4: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+                                                                                                                                                                                                                                                                                                                                                                         5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                         2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+                                                                                                                                                 2: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 4: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible || 5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Compatible | P2=Compatible | P3=Compatible | P4=Not_compatible
+                                                                                                                                                                                                                                                                                                 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                 4: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible || 6: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                         5: P1=Not_compatible | P2=Compatible | P3=Compatible | P4=Compatible
+                                                                                                                                                                                                                                                                                                                                                                                                               Patient_Compatibility_Patterns
+                                                                                                                                                                                                                                                                                                                                                                                                                                       <char>
+ Core_Gene_Involved
+             <lgcl>
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+              FALSE
+ Core_Gene_Involved
+             <lgcl>
+
+------------------------------------------------------------
+19. AUDIT INTERPRETATION / NEXT-STEP INFORMATION
+------------------------------------------------------------
+
+The locked master table contains 585 LR-pair-level records across 36 fields.
+
+The intended manuscript-facing Supplementary Table should
+prefer a one-row-per-Exact_LR_Pair structure and should
+present descriptive context rather than recomputing any
+LR communication probabilities.
+
+Direction-specific compatibility should be retained either
+as compact direction-labelled information or as explicit
+direction-specific columns, depending on the observed
+Direction_Labels mapping above.
+
+Expression summaries should be evaluated for compact
+presentation before final Excel construction.
+
+No source values were modified by this audit.
+No LR compatibility values were recalculated.
+No statistical analysis was performed.
+
+============================================================
+STEP11-5F-4C → MANUSCRIPT TABLE MAPPING AUDIT COMPLETE
+============================================================

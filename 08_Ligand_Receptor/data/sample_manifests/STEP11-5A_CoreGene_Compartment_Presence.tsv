@@ -1,0 +1,10 @@
+Gene	Compartment	Present_in_STEP10
+AOC3	Endothelial	TRUE
+MS4A7	Endothelial	TRUE
+IL7R	Endothelial	TRUE
+AOC3	Myeloid/macrophage	TRUE
+MS4A7	Myeloid/macrophage	TRUE
+IL7R	Myeloid/macrophage	TRUE
+AOC3	T-cell	TRUE
+MS4A7	T-cell	TRUE
+IL7R	T-cell	TRUE

@@ -1,0 +1,4 @@
+"Gene","Entrez","In_Locked_Background","In_Effective_KEGG_Universe","In_Tumor_Up_Input","In_Tumor_Down_Input"
+"AOC3","8639",TRUE,TRUE,FALSE,TRUE
+"MS4A7","58475",TRUE,FALSE,FALSE,TRUE
+"IL7R","3575",TRUE,TRUE,FALSE,TRUE

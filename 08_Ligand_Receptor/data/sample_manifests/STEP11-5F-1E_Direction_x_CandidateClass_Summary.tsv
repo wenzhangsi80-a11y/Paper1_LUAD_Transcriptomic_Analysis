@@ -1,0 +1,13 @@
+Direction_ID	Candidate_Consistency_Class	N_records	N_exact_LR_pairs	N_patients
+1	3_of_4_only	120	30	4
+1	4_of_4	1408	352	4
+2	3_of_4_only	100	25	4
+2	4_of_4	1384	346	4
+3	3_of_4_only	104	26	4
+3	4_of_4	1444	361	4
+4	3_of_4_only	92	23	4
+4	4_of_4	1280	320	4
+5	3_of_4_only	176	44	4
+5	4_of_4	1764	441	4
+6	3_of_4_only	172	43	4
+6	4_of_4	1576	394	4

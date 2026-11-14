@@ -1,0 +1,20 @@
+Item	Locked_Value
+Core genes	AOC3 / MS4A7 / IL7R
+Primary compartments	T-cell / Myeloid/macrophage / Endothelial
+Primary patients	9
+Complete three-compartment patients	4
+Sensitivity endothelial patients	2
+Expression source	STEP10F-1 locked patient-level expression
+Detection definition	Raw_UMI > 0
+Quantitative measure	CPM descriptive only
+Statistical testing	NO
+P/FDR	NO
+Differential expression	NO
+Correlation	NO
+CellChat/LR	NO
+Pseudobulk recalculation	NO
+GEO raw matrix rereading	NO
+H5 rereading	NO
+Patient/cell exclusion	NO
+Specificity scoring	NO
+Causal inference	NO

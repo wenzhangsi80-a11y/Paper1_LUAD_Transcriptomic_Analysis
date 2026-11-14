@@ -1,0 +1,20 @@
+Historical GSE32863 group object present: TRUE
+Historical group vector length = 116: TRUE
+Historical group levels are exactly Normal and Tumor: TRUE
+Normal sample count = 58: TRUE
+Tumor sample count = 58: TRUE
+No missing group annotations: TRUE
+group and expr3$Group exact concordance: TRUE
+expr3 sample IDs unique and complete: TRUE
+Expression-object sample-ID sets concordant: TRUE
+Expression-object sample-ID orders concordant: TRUE
+
+Historical group annotations were audited but not reconstructed.
+No sample was reclassified.
+No external sample annotation was substituted.
+No expression values were recalculated or transformed.
+No ROC/AUC calculation was performed.
+No model fitting was performed.
+No threshold optimization was performed.
+
+Paired-patient identity is reserved for STEP13C-4.

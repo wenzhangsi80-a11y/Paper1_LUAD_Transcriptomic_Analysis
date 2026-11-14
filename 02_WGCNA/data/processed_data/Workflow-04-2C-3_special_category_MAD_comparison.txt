@@ -1,0 +1,9 @@
+Category	All_N	MAD0_N	MADgt0_N	All_Percentage	MAD0_Percentage	MADgt0_Percentage
+Protein-coding	18394	858	17536	46.83	11.18	55.48
+Non-protein-coding	20886	6813	14073	53.17	88.82	44.52
+Mitochondrial	17	6	11	0.04	0.08	0.03
+rRNA-related	95	67	28	0.24	0.87	0.09
+Long non-coding RNA	10262	2621	7641	26.13	34.17	24.17
+Small RNA	1387	796	591	3.53	10.38	1.87
+Pseudogene	7295	2662	4633	18.57	34.7	14.66
+TEC	694	167	527	1.77	2.18	1.67

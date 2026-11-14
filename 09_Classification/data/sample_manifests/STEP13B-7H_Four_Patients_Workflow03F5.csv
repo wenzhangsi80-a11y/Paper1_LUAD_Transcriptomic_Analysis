@@ -1,0 +1,5 @@
+"patient_id","Stage","Gender","Age","AgeGroup","Expression_Sample","Sample_Type","Sample_Type_Code","Sample_Category"
+"TCGA-55-6969","I","male",52,"Younger","TCGA-55-6969-11","Solid Tissue Normal","11","Normal only"
+"TCGA-44-6144","I","male",58,"Younger","TCGA-44-6144-11","Solid Tissue Normal","11","Normal only"
+"TCGA-55-1595","I","female",74,"Older",NA,NA,NA,"Other"
+"TCGA-62-A46U","II","female",71,"Older",NA,NA,NA,"Other"

@@ -1,0 +1,68 @@
+STEP9D-5 — Original Reactome GSEA Recovery / Concordance Audit
+============================================================
+
+Audit type: READ-ONLY
+GSEA rerun: FALSE
+Ranking recalculated: FALSE
+DEG recalculated: FALSE
+Jitter used: FALSE
+Artificial tie-breaking: FALSE
+
+LOCKED KEGG RESULT
+------------------
+Pathways returned: 353
+FDR < 0.05: 178
+
+LOCKED GO-BP RESULT
+-------------------
+Pathways returned: 6316
+FDR < 0.05: 2003
+
+ORIGINAL REACTOME REFERENCE
+---------------------------
+
+# A tibble: 3 × 6
+  Gene  Original_Reactome_ID                           Original_Reactome_Pathway             Original_NES  Original_FDR Theme                 
+  <chr> <chr>                                          <chr>                                        <dbl>         <dbl> <chr>                 
+1 IL7R  REACTOME_FCGR_ACTIVATION                       FCGR activation                               2.57 0.00000000399 Fc receptor / immune …
+2 MS4A7 REACTOME_ROLE_OF_PHOSPHOLIPIDS_IN_PHAGOCYTOSIS Role of phospholipids in phagocytosis         2.55 0.00000000399 Phagocytosis / myeloi…
+3 AOC3  REACTOME_CD22_MEDIATED_BCR_REGULATION          CD22-mediated BCR regulation                  2.62 0.00000000399 B-cell receptor / B-c…
+
+
+GENE-LEVEL CONCORDANCE
+-----------------------
+
+# A tibble: 3 × 11
+  Gene  Original_Reactome_ID  Original_Reactome_Pa…¹ Original_NES Original_FDR Theme KEGG_matching KEGG_significant GO_matching GO_significant
+  <chr> <chr>                 <chr>                         <dbl>        <dbl> <chr>         <int>            <int>       <int>          <int>
+1 IL7R  REACTOME_FCGR_ACTIVA… FCGR activation                2.57      3.99e-9 Fc r…             2                1          42             13
+2 MS4A7 REACTOME_ROLE_OF_PHO… Role of phospholipids…         2.55      3.99e-9 Phag…             5                2         126             49
+3 AOC3  REACTOME_CD22_MEDIAT… CD22-mediated BCR reg…         2.62      3.99e-9 B-ce…             1                1          41              5
+# ℹ abbreviated name: ¹​Original_Reactome_Pathway
+# ℹ 1 more variable: Concordance_class <chr>
+
+
+SOURCE INTEGRITY
+----------------
+
+                  KEGG_353             KEGG_FDR05_178             KEGG_unique_ID              KEGG_no_GO_ID                 GO_BP_6316 
+                      TRUE                       TRUE                       TRUE                       TRUE                       TRUE 
+          GO_BP_FDR05_2003            GO_BP_unique_ID            GO_BP_all_GO_ID           GO_BP_no_KEGG_ID                KEGG_schema 
+                      TRUE                       TRUE                       TRUE                       TRUE                       TRUE 
+              GO_BP_schema Three_core_genes_reference 
+                      TRUE                       TRUE 
+
+
+METHOD IMMUTABILITY
+-------------------
+
+             GSEA_rerun    ranking_recalculated        DEG_recalculated             jitter_used artificial_tie_breaking 
+                  FALSE                   FALSE                   FALSE                   FALSE                   FALSE 
+       STEP9D3_modified        STEP9D4_modified 
+                  FALSE                   FALSE 
+
+
+FINAL PRELIMINARY STATUS
+------------------------
+
+STEP9D-5 PRELIMINARY HARD PASS: FALSE

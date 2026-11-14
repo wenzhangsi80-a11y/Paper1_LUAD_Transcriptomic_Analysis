@@ -1,0 +1,47 @@
+============================================================
+Paper 1 — STEP9D-2A
+Ranking Input / GSEA Implementation Audit
+Date: 2026-09-22
+============================================================
+
+STEP9D-1I status: PASS 
+
+Genome-wide source N: 57828 
+
+Potential native signed-statistic columns:
+NONE
+
+clusterProfiler:
+  Available: TRUE 
+  Version: 4.16.0 
+
+fgsea:
+  Available: TRUE 
+  Version: 1.34.2 
+
+P-value audit:
+  NA: 0 
+  Infinite: 0 
+  Zero: 0 
+  Positive: 57828 
+  Invalid: 0 
+  Minimum positive P: 8.777677e-53 
+  Corresponding -log10(P): 52.05662 
+
+FDR audit:
+  NA: 0 
+  Infinite: 0 
+  Invalid: 0 
+
+Direction/log2FC sign consistency: TRUE 
+
+IMPORTANT STATUS
+----------------
+Ranking vector created: NO
+Ranking metric locked: NO
+GSEA performed: NO
+
+This is an implementation/input audit only.
+No ranking metric has been locked.
+No GSEA has been performed.
+Next step: STEP9D-2B Ranking Metric Lock.

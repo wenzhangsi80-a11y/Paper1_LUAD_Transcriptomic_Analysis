@@ -1,0 +1,19 @@
+STEP13B-7I PASS
+SAMPLE-LEVEL PROVENANCE LOCKED
+
+Current expression samples = 574
+Primary Tumor = 513
+Solid Tissue Normal = 59
+Metastatic = 2
+Tumor-versus-Normal eligible = 572
+
+Historical 515 = patient-level intermediate object
+Historical 517 = patient-level intermediate object
+Historical 516 sample-count claim = NOT VERIFIED / NOT USED
+
+NO ROC CALCULATION
+NO AUC CALCULATION
+NO MODEL FITTING
+NO STATISTICAL TEST
+NO EXPRESSION RECALCULATION
+NO THRESHOLD OPTIMIZATION

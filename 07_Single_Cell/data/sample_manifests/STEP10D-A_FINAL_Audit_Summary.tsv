@@ -1,0 +1,9 @@
+Check	Status
+STEP10C pseudobulk dimensions	PASS
+Gene identity/order	PASS
+Raw UMI finite/non-negative/integer	PASS
+Library size valid	PASS
+Detected gene counts valid	PASS
+Detection fraction valid	PASS
+No patient exclusion	PASS
+No statistical testing	PASS

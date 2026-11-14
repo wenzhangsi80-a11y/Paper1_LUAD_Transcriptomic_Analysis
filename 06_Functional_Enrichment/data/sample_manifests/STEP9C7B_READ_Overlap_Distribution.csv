@@ -1,0 +1,3 @@
+"Direction","N_Pairs","Shared_1","Shared_2_4","Shared_5_9","Shared_10_or_more","Jaccard_ge_0_10","Jaccard_ge_0_25","Jaccard_ge_0_50"
+"Tumor-up",388,130,91,63,104,129,34,4
+"Tumor-down",31108,14542,12570,3205,791,1084,93,17

@@ -1,0 +1,42 @@
+============================================================
+STEP9D-4C FINAL GO-BP GSEA RESULT & REPRODUCIBILITY AUDIT
+============================================================
+
+Authoritative GO-BP pathways = 6316
+Authoritative GO-BP FDR < 0.05 = 2003
+GO-BP input ranking N = 18008
+Genome-wide ranking N = 57828
+Ranking tie fraction = 0.2141826
+
+CORE GENES
+   Gene         ENSEMBL Present
+1  AOC3 ENSG00000131471    TRUE
+2 MS4A7 ENSG00000166927    TRUE
+3  IL7R ENSG00000168685    TRUE
+
+FINAL CHECKS
+                  Required_files             gseaResult_structure                   Result_columns Authoritative_pathway_count_6316 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+  Authoritative_FDR05_count_2003                  GO_ID_integrity                     GO_ID_unique               Numerical_validity 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+        Result_CSV_authoritative               Result_CSV_GO_only    Significant_CSV_authoritative          Significant_CSV_GO_only 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+                 Input_structure                    Input_N_18008                  Input_ID_unique                      Input_no_NA 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+                    Input_finite                     Input_sorted            Input_CSV_concordance        Input_GSEA_ID_concordance 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+    Input_GSEA_value_concordance           Genome_ranking_N_57828         Genome_ranking_ID_unique                        Tie_audit 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+              Core_gene_presence                Provenance_fields                Provenance_values              Method_immutability 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+
+STEP9D-4C FINAL HARD PASS = TRUE
+
+METHOD INTEGRITY
+GSEA rerun = FALSE
+Ranking recalculation = FALSE
+DEG recalculation = FALSE
+Jitter = FALSE
+Artificial tie-breaking = FALSE
+
+FINAL STATUS = FINAL_PASS

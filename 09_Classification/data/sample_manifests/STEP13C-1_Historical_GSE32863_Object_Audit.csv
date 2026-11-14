@@ -1,0 +1,11 @@
+"object_name","available","class","dimensions","length"
+"expr",TRUE,"data.frame","48803 × 117",117
+"expr.mat",TRUE,"matrix;array","28742 × 116",3334072
+"expr.final",TRUE,"matrix;array","19425 × 116",2253300
+"expr2",TRUE,"data.frame","28742 × 118",118
+"expr3",TRUE,"data.frame","116 × 5",5
+"group",TRUE,"character","NULL",116
+"genes",TRUE,"character","NULL",3
+"anno",TRUE,"data.frame","48803 × 22",22
+"anno2",TRUE,"data.frame","48803 × 2",2
+"roc.ext",TRUE,"roc","NULL",15

@@ -1,0 +1,91 @@
+STEP11-5F-4C FINAL MASTER LR DESCRIPTIVE CONTEXT TABLE AUDIT
+Input:
+ O:/Rproject/Paper 1_Step 11-CellChat/STEP11-5F-4_Patient_Level_LR_Final_Context_Summary/STEP11-5F-4C_FINAL_Master_LR_Descriptive_Context_Table.tsv 
+
+Rows: 585
+Columns: 36
+
+Column names:
+ [1] "Exact_LR_Pair"                      "ligand"                             "receptor"                          
+ [4] "Candidate_Consistency_Class"        "Candidate_Set_Provenance"           "interaction_name_Provenance"       
+ [7] "pathway_name"                       "annotation"                         "N_Directions"                      
+[10] "Directions"                         "Direction_Labels"                   "N_Patient_Records"                 
+[13] "N_Patients"                         "N_Compatible"                       "N_Incompatible"                    
+[16] "Overall_Compatibility_Fraction"     "Ligand_Median_log2CPM"              "Ligand_IQR_log2CPM"                
+[19] "Ligand_Min_log2CPM"                 "Ligand_Max_log2CPM"                 "Receptor_Median_log2CPM"           
+[22] "Receptor_IQR_log2CPM"               "Receptor_Min_log2CPM"               "Receptor_Max_log2CPM"              
+[25] "MeanPair_Median_log2CPM"            "MeanPair_IQR_log2CPM"               "Difference_Median_log2CPM"         
+[28] "Difference_IQR_log2CPM"             "Core_Gene_Involved"                 "Patient_Compatibility_Patterns"    
+[31] "Direction_1_Compatibility_Fraction" "Direction_2_Compatibility_Fraction" "Direction_3_Compatibility_Fraction"
+[34] "Direction_4_Compatibility_Fraction" "Direction_5_Compatibility_Fraction" "Direction_6_Compatibility_Fraction"
+
+Missing-value summary:
+                                                               Column N_missing Percent_missing
+Direction_4_Compatibility_Fraction Direction_4_Compatibility_Fraction       242        41.36752
+Direction_2_Compatibility_Fraction Direction_2_Compatibility_Fraction       214        36.58120
+Direction_1_Compatibility_Fraction Direction_1_Compatibility_Fraction       203        34.70085
+Direction_3_Compatibility_Fraction Direction_3_Compatibility_Fraction       198        33.84615
+Direction_6_Compatibility_Fraction Direction_6_Compatibility_Fraction       148        25.29915
+Direction_5_Compatibility_Fraction Direction_5_Compatibility_Fraction       100        17.09402
+Exact_LR_Pair                                           Exact_LR_Pair         0         0.00000
+ligand                                                         ligand         0         0.00000
+receptor                                                     receptor         0         0.00000
+Candidate_Consistency_Class               Candidate_Consistency_Class         0         0.00000
+Candidate_Set_Provenance                     Candidate_Set_Provenance         0         0.00000
+interaction_name_Provenance               interaction_name_Provenance         0         0.00000
+pathway_name                                             pathway_name         0         0.00000
+annotation                                                 annotation         0         0.00000
+N_Directions                                             N_Directions         0         0.00000
+Directions                                                 Directions         0         0.00000
+Direction_Labels                                     Direction_Labels         0         0.00000
+N_Patient_Records                                   N_Patient_Records         0         0.00000
+N_Patients                                                 N_Patients         0         0.00000
+N_Compatible                                             N_Compatible         0         0.00000
+N_Incompatible                                         N_Incompatible         0         0.00000
+Overall_Compatibility_Fraction         Overall_Compatibility_Fraction         0         0.00000
+Ligand_Median_log2CPM                           Ligand_Median_log2CPM         0         0.00000
+Ligand_IQR_log2CPM                                 Ligand_IQR_log2CPM         0         0.00000
+Ligand_Min_log2CPM                                 Ligand_Min_log2CPM         0         0.00000
+Ligand_Max_log2CPM                                 Ligand_Max_log2CPM         0         0.00000
+Receptor_Median_log2CPM                       Receptor_Median_log2CPM         0         0.00000
+Receptor_IQR_log2CPM                             Receptor_IQR_log2CPM         0         0.00000
+Receptor_Min_log2CPM                             Receptor_Min_log2CPM         0         0.00000
+Receptor_Max_log2CPM                             Receptor_Max_log2CPM         0         0.00000
+MeanPair_Median_log2CPM                       MeanPair_Median_log2CPM         0         0.00000
+MeanPair_IQR_log2CPM                             MeanPair_IQR_log2CPM         0         0.00000
+Difference_Median_log2CPM                   Difference_Median_log2CPM         0         0.00000
+Difference_IQR_log2CPM                         Difference_IQR_log2CPM         0         0.00000
+Core_Gene_Involved                                 Core_Gene_Involved         0         0.00000
+Patient_Compatibility_Patterns         Patient_Compatibility_Patterns         0         0.00000
+
+Exact duplicate rows:
+[1] 0
+
+Recommended manuscript-facing columns:
+            Recommended_Column Present_in_Master
+1                Exact_LR_Pair              TRUE
+2                       ligand              TRUE
+3                     receptor              TRUE
+4  Candidate_Consistency_Class              TRUE
+5          Patient_Consistency             FALSE
+6                       Sender             FALSE
+7                     Receiver             FALSE
+8                    Direction             FALSE
+9        N_compatible_patients             FALSE
+10          pathway_annotation             FALSE
+11         resource_annotation             FALSE
+12   ligand_expression_context             FALSE
+13 receptor_expression_context             FALSE
+
+Potential audit-only columns:
+ [1] "Candidate_Set_Provenance"           "interaction_name_Provenance"        "pathway_name"                      
+ [4] "annotation"                         "N_Directions"                       "Directions"                        
+ [7] "Direction_Labels"                   "N_Patient_Records"                  "N_Patients"                        
+[10] "N_Compatible"                       "N_Incompatible"                     "Overall_Compatibility_Fraction"    
+[13] "Ligand_Median_log2CPM"              "Ligand_IQR_log2CPM"                 "Ligand_Min_log2CPM"                
+[16] "Ligand_Max_log2CPM"                 "Receptor_Median_log2CPM"            "Receptor_IQR_log2CPM"              
+[19] "Receptor_Min_log2CPM"               "Receptor_Max_log2CPM"               "MeanPair_Median_log2CPM"           
+[22] "MeanPair_IQR_log2CPM"               "Difference_Median_log2CPM"          "Difference_IQR_log2CPM"            
+[25] "Core_Gene_Involved"                 "Patient_Compatibility_Patterns"     "Direction_1_Compatibility_Fraction"
+[28] "Direction_2_Compatibility_Fraction" "Direction_3_Compatibility_Fraction" "Direction_4_Compatibility_Fraction"
+[31] "Direction_5_Compatibility_Fraction" "Direction_6_Compatibility_Fraction"

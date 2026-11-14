@@ -1,0 +1,5 @@
+Dataset	Expected_Eligibility	Observed_Eligibility	PASS
+Primary_T-cell	Primary	Primary	TRUE
+Primary_Myeloid_macrophage	Primary	Primary	TRUE
+Primary_Endothelial	Primary	Primary	TRUE
+Sensitivity_Endothelial	Sensitivity	Sensitivity	TRUE

@@ -1,0 +1,29 @@
+============================================================
+STEP9D-2C FINAL RANKING VECTOR AUDIT
+============================================================
+
+Source file: O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_FULL.csv
+Genome-wide genes: 57828
+log2FC > 0: 37501
+log2FC < 0: 20327
+log2FC = 0: 0
+P = 0: 0
+P = 1: 13
+
+Ranking > 0: 37492
+Ranking < 0: 20323
+Ranking = 0: 13
+Non-zero ranking: 57815
+
+Zero ranking due to P=1: 13
+Zero ranking due to log2FC=0: 0
+Unexplained zero ranking: 0
+True sign switches: 0
+Direction consistency: TRUE
+
+Ranking vector created: TRUE
+GSEA performed: FALSE
+DEG recalculated: FALSE
+
+FINAL HARD PASS: TRUE
+============================================================

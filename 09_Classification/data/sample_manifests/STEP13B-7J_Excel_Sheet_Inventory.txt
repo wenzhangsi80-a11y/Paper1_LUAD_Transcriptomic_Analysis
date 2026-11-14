@@ -1,0 +1,6 @@
+STEP13B-7J Excel Workbook Inventory
+====================================
+Input: O:/Rproject/Paper1_Figure2_Figure12_TCGA_LUAD_ROC_etal/临床意义 - 诊断类 - [云] 诊断ROC-AOC3MS4A7IL7R-分析数据.xlsx
+Number of sheets: 1
+
+Sheet 1

@@ -1,0 +1,83 @@
+============================================================
+STEP9D-5C FINAL CONCORDANCE EVIDENCE REVIEW / LOCK
+============================================================
+
+Status: FAIL
+
+Authoritative source:
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9D_GenomeWide_Preranked_GSEA/9D-5B_Strict_Theme_Evidence_Audit/STEP9D5B_FINAL_Strict_Theme_Evidence_Audit.rds 
+
+Evidence definition source: STEP9D-5B only
+
+Final gene-level evidence review:
+   Gene                Original_Reactome_Pathway                                Original_Theme KEGG_Theme_Matching KEGG_Significant_Theme
+1  IL7R                   Fc receptor activation      Fc receptor / immune receptor activation                   0                      0
+2 MS4A7    Role of phospholipids in phagocytosis Phagocytosis / myeloid innate immune function                   7                      3
+3  AOC3 CD22-mediated B-cell receptor regulation     B-cell receptor / B-cell immune signaling                   1                      1
+  KEGG_Direct_Significant KEGG_Contextual_Significant GO_BP_Theme_Matching GO_BP_Significant_Theme GO_BP_Direct_Significant
+1                       0                           0                   41                      15                        5
+2                       1                           2                  251                      83                        6
+3                       1                           0                   58                       9                        0
+  GO_BP_Contextual_Significant
+1                           10
+2                           77
+3                            9
+
+Locked STEP9D-5B gene summary:
+   Gene Database Total_pathways Theme_matching_pathways Significant_theme_pathways Direct_significant Contextual_significant
+1  IL7R     KEGG            353                       0                          0                  0                      0
+2  IL7R    GO_BP           6316                      41                         15                  5                     10
+3 MS4A7     KEGG            353                       7                          3                  1                      2
+4 MS4A7    GO_BP           6316                     251                         83                  6                     77
+5  AOC3     KEGG            353                       1                          1                  1                      0
+6  AOC3    GO_BP           6316                      58                          9                  0                      9
+  Direct_non_significant Contextual_non_significant No_theme_match
+1                      0                          0            353
+2                     11                         15           6275
+3                      1                          3            346
+4                     15                        153           6065
+5                      0                          0            352
+6                      7                         42           6258
+
+Original Reactome reference:
+   Gene                           Original_Reactome_ID                Original_Reactome_Pathway Original_NES Original_FDR
+1  IL7R                       REACTOME_FCGR_ACTIVATION                   Fc receptor activation     2.569834     3.99e-09
+2 MS4A7 REACTOME_ROLE_OF_PHOSPHOLIPIDS_IN_PHAGOCYTOSIS    Role of phospholipids in phagocytosis     2.550673     3.99e-09
+3  AOC3          REACTOME_CD22_MEDIATED_BCR_REGULATION CD22-mediated B-cell receptor regulation     2.620611     3.99e-09
+                                          Theme
+1      Fc receptor / immune receptor activation
+2 Phagocytosis / myeloid innate immune function
+3     B-cell receptor / B-cell immune signaling
+
+Final audit checks:
+               Required_5B_files           STEP9D5B_RDS_structure        STEP9D5B_preliminary_pass        STEP9D5B_source_integrity 
+                            TRUE                             TRUE                            FALSE                             TRUE 
+        STEP9D5B_theme_structure        STEP9D5B_method_integrity STEP9D5B_no_final_classification               Core_gene_coverage 
+                           FALSE                             TRUE                             TRUE                             TRUE 
+      Locked_gene_summary_values    Corrected_CSV_RDS_concordance               Summary_arithmetic       Locked_evidence_dimensions 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+     Original_Reactome_reference           Reactome_CSV_reference              Final_review_values               IL7R_KEGG_no_theme 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+      MS4A7_cross_database_theme                 AOC3_KEGG_direct             AOC3_GO_BP_no_direct            AOC3_GO_BP_contextual 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+             Method_immutability            No_biological_ranking              No_biological_score          No_final_classification 
+                            TRUE                             TRUE                             TRUE                             TRUE 
+   No_Strong_Moderate_Limited_No 
+                            TRUE 
+
+Method integrity:
+              GSEA_rerun     ranking_recalculated         DEG_recalculated              jitter_used  artificial_tie_breaking 
+                   FALSE                    FALSE                    FALSE                    FALSE                    FALSE 
+        STEP9D3_modified         STEP9D4_modified theme_recalculated_in_5C 
+                   FALSE                    FALSE                    FALSE 
+
+Final concordance classification performed: FALSE
+Biological ranking assigned: FALSE
+Biological score assigned: FALSE
+GSEA rerun: FALSE
+Ranking recalculated: FALSE
+DEG recalculated: FALSE
+Jitter used: FALSE
+Artificial tie-breaking: FALSE
+
+STEP9D-5C FINAL HARD PASS: FALSE

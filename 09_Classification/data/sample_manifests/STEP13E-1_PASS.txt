@@ -1,0 +1,13 @@
+STEP13E-1 — PASS
+
+PASS — STEP13E-1 historical TCGA ROC expression-scale provenance established.
+
+Historical TCGA ROC branch:
+Source: TCGA-LUAD STAR RNA-seq TPM
+Transformation: log2(value + 1)
+Samples: 516 Tumor + 59 Normal = 575
+
+No expression recalculation.
+No ROC/AUC recalculation.
+No model fitting.
+No threshold optimization.

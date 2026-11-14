@@ -1,0 +1,11 @@
+Metric	Value
+Candidate_LR_records	2406
+Unique_exact_LR_pairs	585
+Unique_ligands	267
+Unique_receptors	225
+Exact_LR_pairs_shared_ge3_and_ge4	492
+Exact_LR_pairs_ge3_only	93
+Exact_LR_pairs_4of4	492
+Ligands_shared_ge3_and_ge4	232
+Ligands_ge3_only	35
+Ligands_4of4	232

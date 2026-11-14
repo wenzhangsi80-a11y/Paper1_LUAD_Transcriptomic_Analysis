@@ -1,0 +1,11 @@
+STEP13B-6 STATUS: HOLD
+Annotation structure is internally verified, but exact
+original-matrix ↔ annotation reconciliation is not yet complete.
+
+Two unclassified records remain unresolved.
+Historical 516 + 59 composition remains unresolved.
+No final diagnostic-classification input lock is issued.
+
+NO ROC CALCULATION
+NO MODEL FITTING
+NO STATISTICAL TEST

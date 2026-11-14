@@ -1,0 +1,14 @@
+"Stage","Object","Class","Dimensions"
+"STEP7B4C","step7b4c_audit","list",
+"STEP7B4D","step7b4d_audit","list",
+"STEP7B5","purity_adjusted_dataset","data.frame","500 x 8"
+"STEP7B5","step7b5_audit","list",
+"STEP7B5","purity_summary_7b5","numeric",
+"STEP7B5","excluded_purity_ids_7b5","character",
+"STEP7B6","purity_adjusted_models","list",
+"STEP7B6","purity_adjusted_results_raw","data.frame","9 x 16"
+"STEP7B6","purity_adjusted_results","data.frame","9 x 16"
+"STEP7B6","model_spec_7b6","data.frame","9 x 2"
+"STEP7B6","step7b6_extraction_passed","logical",
+"STEP7B6","step7b6_final_audit","list",
+"STEP7B6","step7b6_final_passed","logical",

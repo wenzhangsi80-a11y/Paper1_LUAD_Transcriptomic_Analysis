@@ -1,0 +1,3 @@
+Candidate_Consistency_Class	N_Exact_LR_Pairs	N_Direction_Records	N_Patient_Records	N_Patients	N_Compatible	N_Incompatible	Compatibility_Fraction	Ligand_Median_log2CPM	Receptor_Median_log2CPM	MeanPair_Median_log2CPM
+3_of_4_only	93	191	764	4	573	191	0.75	0.389485909052322	1.19608413691252	1.51221137449389
+4_of_4	492	2214	8856	4	8356	500	0.943541102077688	2.99900844322715	2.63165718221713	3.21829186158354

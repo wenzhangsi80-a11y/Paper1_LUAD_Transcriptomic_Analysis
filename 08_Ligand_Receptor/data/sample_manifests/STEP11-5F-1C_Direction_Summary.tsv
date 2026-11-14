@@ -1,0 +1,7 @@
+Direction_ID	N_records	N_exact_LR_pairs	N_patients	Sender	Receiver
+1	1528	382	4	Endothelial	Myeloid/macrophage
+2	1484	371	4	Myeloid/macrophage	Endothelial
+3	1548	387	4	Endothelial	T-cell
+4	1372	343	4	T-cell	Endothelial
+5	1940	485	4	Myeloid/macrophage	T-cell
+6	1748	437	4	T-cell	Myeloid/macrophage

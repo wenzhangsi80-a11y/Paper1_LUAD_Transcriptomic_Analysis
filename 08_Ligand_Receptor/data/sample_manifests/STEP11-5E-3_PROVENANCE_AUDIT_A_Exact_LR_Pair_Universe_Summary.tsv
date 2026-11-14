@@ -1,0 +1,8 @@
+Metric	Value
+ge3_exact_LR_pairs	585
+ge4_exact_LR_pairs	492
+shared_exact_LR_pairs	492
+ge3_only_exact_LR_pairs	93
+ge4_only_exact_LR_pairs	0
+ge4_nested_in_ge3	1
+expected_locked_counts	1

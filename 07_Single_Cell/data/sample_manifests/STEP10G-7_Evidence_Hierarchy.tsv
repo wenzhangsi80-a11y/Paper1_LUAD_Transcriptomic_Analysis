@@ -1,0 +1,11 @@
+Evidence_Level	STEP10_Component	Status
+Dataset / cell structure	STEP10A / STEP10B	LOCKED
+Patient-level compartment representation	STEP10B	LOCKED
+Raw-UMI pseudobulk construction	STEP10C	LOCKED
+Library QC	STEP10D-A	LOCKED
+Core-gene detection	STEP10D-B / STEP10D-C	LOCKED
+Quantitative expression context	STEP10E / STEP10F-1	LOCKED
+Detection–abundance integration	STEP10F-2 / STEP10F-3	LOCKED
+Cell-type specificity	Not established	NOT CLAIMED
+Intercellular communication	Not established	NOT CLAIMED
+Causal mechanism	Not established	NOT CLAIMED

@@ -1,0 +1,19 @@
+QC_Item	PASS
+All locked input files available	TRUE
+Candidate required columns present	TRUE
+Structural audit columns present	TRUE
+Exact LR identity consistent	TRUE
+>=3/4 exact LR pair count = 585	TRUE
+4/4 exact LR pair count = 492	TRUE
+Shared exact LR pair count = 492	TRUE
+>=3/4-only exact LR pair count = 93	TRUE
+4/4-only exact LR pair count = 0	TRUE
+All 4/4 pairs contained in >=3/4	TRUE
+Overlap arithmetic consistent	TRUE
+4/4 arithmetic consistent	TRUE
+Patient compatibility integrity	TRUE
+Patient consistency fraction integrity	TRUE
+Direction mapping consistent	TRUE
+No unexpected candidate class	TRUE
+No unexpected patient pattern	TRUE
+No core-gene LR candidates	TRUE

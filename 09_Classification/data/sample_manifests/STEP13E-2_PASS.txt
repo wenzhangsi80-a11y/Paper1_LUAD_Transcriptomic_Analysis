@@ -1,0 +1,21 @@
+STEP13E-2 — PASS
+
+PASS — STEP13E-2 historical GSE32863 object/sample-scale provenance established.
+
+Historical GSE32863 structure:
+116 samples
+58 Normal + 58 Tumor
+
+expr: 48803 × 117
+expr.mat: 28742 × 116
+expr2: 28742 × 118
+expr.final: 19425 × 116
+expr3: 116 × 5
+roc.ext: 116 observations
+
+Core genes: AOC3 / MS4A7 / IL7R
+
+No expression recalculation.
+No probe selection.
+No ROC/AUC recalculation.
+No model fitting.

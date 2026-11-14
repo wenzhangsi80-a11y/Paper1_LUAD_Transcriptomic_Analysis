@@ -1,0 +1,7 @@
+Sender	Receiver	Direction	N_Unique_LR_Interactions
+Myeloid/macrophage	Endothelial	Myeloid/macrophage -> Endothelial	0
+T-cell	Endothelial	T-cell -> Endothelial	0
+Endothelial	Myeloid/macrophage	Endothelial -> Myeloid/macrophage	0
+T-cell	Myeloid/macrophage	T-cell -> Myeloid/macrophage	0
+Endothelial	T-cell	Endothelial -> T-cell	0
+Myeloid/macrophage	T-cell	Myeloid/macrophage -> T-cell	0

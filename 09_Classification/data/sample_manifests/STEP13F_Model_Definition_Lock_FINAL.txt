@@ -1,0 +1,46 @@
+STEP13F — MODEL DEFINITION LOCK
+================================
+
+Status: PASS
+
+Core genes: AOC3, MS4A7, IL7R
+Outcome: TumorStatus
+Outcome levels: Normal / Tumor
+Reference level: Normal
+Positive class: Tumor
+Model: multivariable_logistic_regression
+Formula: TumorStatus ~ AOC3 + MS4A7 + IL7R
+Objective: Exploratory tumor-versus-normal tissue classification
+
+Nested CV required: TRUE
+Outer folds: 10
+Inner folds: 10
+Stratified CV: TRUE
+
+Feature selection allowed: FALSE
+External refit allowed: FALSE
+External coefficient estimation allowed: FALSE
+External feature selection allowed: FALSE
+External threshold optimization allowed: FALSE
+External cutpoint search allowed: FALSE
+External model tuning allowed: FALSE
+
+Clinical diagnostic claim allowed: FALSE
+Diagnostic biomarker claim allowed: FALSE
+
+GSE32863 locked structure:
+116 samples; 59 subjects; 57 complete N+T pairs; 58 tumor; 58 normal.
+
+TCGA branch separation:
+Historical ROC: Xiangtao-derived original ROC branch | 516 Tumor + 59 Normal = 575
+Revised WGCNA: Sangerbox-derived tumor-only WGCNA branch | 513 Primary Tumor + 59 Normal
+
+No model fitting was performed.
+No ROC/AUC calculation was performed.
+No cross-validation was performed.
+No threshold optimization was performed.
+No external refitting was performed.
+No external coefficient estimation was performed.
+No external feature selection was performed.
+
+STEP13F is a model-definition lock only.

@@ -1,0 +1,84 @@
+============================================================
+Paper 1
+STEP 8E — Leave-One-Core-Gene-Out Circularity / Dependence Audit
+============================================================
+
+Date: 2026-09-20
+
+PHASE:
+Phase 1 — Locked-result subset audit
+
+PURPOSE:
+Assess whether the locked immune-checkpoint association pattern
+is disproportionately dependent on any one of the three core genes.
+
+CORE GENES:
+AOC3, MS4A7, IL7R
+
+CHECKPOINT GENES:
+PDCD1, CD274, PDCD1LG2, CTLA4, CD80, CD86, LAG3, HAVCR2, TIGIT, CD96, VSIR, VTCN1, BTLA, TNFRSF4, TNFRSF9, ICOS, LGALS9, CD200
+
+FULL ANALYSIS:
+54 predefined core-gene × checkpoint-gene pairs
+
+LEAVE-ONE-GENE-OUT SUBSETS:
+Leave AOC3-out   = MS4A7 + IL7R = 36 pairs
+Leave MS4A7-out  = AOC3 + IL7R = 36 pairs
+Leave IL7R-out   = AOC3 + MS4A7 = 36 pairs
+
+IMPORTANT METHODOLOGICAL STATUS:
+No new Spearman correlations were calculated.
+No new partial Spearman correlations were calculated.
+No new ImmuneScore adjustment was performed.
+No new TumorPurity adjustment was performed.
+No BH-FDR recalculation was performed.
+
+LOCKED GLOBAL VALUES:
+Unadjusted significant = 48 /54
+ImmuneScore-adjusted significant = 38 /54
+TumorPurity-adjusted significant = 39 /54
+Significant in all three layers = 27 /54
+
+LOCKED THREE-LAYER DIRECTION PATTERNS:
+P→N→N = 30 /54
+P→P→P = 17 /54
+P→P→N = 4 /54
+P→N→P = 2 /54
+N→N→N = 1 /54
+
+CORE-GENE LOCKED VALUES:
+AOC3:    14 / 13 / 17 significant
+MS4A7:   17 / 12 / 11 significant
+IL7R:    17 / 13 / 11 significant
+
+ORDER:
+Unadjusted / ImmuneScore-adjusted / TumorPurity-adjusted
+
+FINAL QC:
+Association_ID matching = PASS
+Subset size QC = PASS
+Locked 54-pair completeness = PASS
+Global locked values = PASS
+Direction arithmetic = PASS
+Significance arithmetic = PASS
+Subset arithmetic = PASS
+Core-gene locked values preserved = PASS
+STEP 8C-7B values preserved = PASS
+STEP 8D-15 values preserved = PASS
+Complete QC export = PASS
+
+STATISTICAL RE-CALCULATION:
+NO NEW STATISTICS = TRUE
+NO FDR RECALCULATION = TRUE
+LOCKED 54-PAIR RESULTS ONLY = TRUE
+
+STEP 8E FINAL STATUS = PASS
+
+INTERPRETATION STATUS:
+STEP 8E Phase 1 is an audit of locked results.
+It does not establish causality or prove absence of compositional dependence.
+It does not establish cell-intrinsic regulation or direct molecular interaction.
+
+============================================================
+END OF STEP 8E FINAL LOCK REPORT
+============================================================

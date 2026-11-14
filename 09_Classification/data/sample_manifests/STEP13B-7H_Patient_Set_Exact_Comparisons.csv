@@ -1,0 +1,5 @@
+"set_A","set_B","n_A","n_B","A_not_B","B_not_A","EXACT"
+"sample_group","patient_summary",517,515,2,0,FALSE
+"patient_summary","patient_expr_summary",515,515,0,0,TRUE
+"clinical_with_primary","primary_expression_patients",513,513,0,0,TRUE
+"clinical_without_primary","no_primary",4,4,0,0,TRUE

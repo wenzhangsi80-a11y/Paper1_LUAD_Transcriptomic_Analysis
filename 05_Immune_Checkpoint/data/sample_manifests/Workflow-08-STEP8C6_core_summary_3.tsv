@@ -1,0 +1,4 @@
+Core_Gene	N_Checkpoint_Tests	Unadjusted_FDR_Significant	Adjusted_FDR_Significant	Significant_Before_And_After	Significance_Lost	Significance_Gained	Unadjusted_Positive	Unadjusted_Negative	Adjusted_Positive	Adjusted_Negative	Direction_Switches
+AOC3	18	14	13	9	5	4	17	1	4	14	13
+MS4A7	18	17	12	12	5	0	18	0	6	12	12
+IL7R	18	17	13	13	4	0	18	0	11	7	7

@@ -1,0 +1,91 @@
+STEP7B6 – ABSOLUTE Purity-Adjusted Results
+Provenance and Interpretation Audit
+============================================================
+
+Audit date: 2026-11-01
+
+1. UPSTREAM DATA PROVENANCE
+Expression input:
+Merge_RNA_seq_FPKM_UQ.txt
+Clinical input:
+YOUR_TCGA_CLINICAL_FILE.xlsx
+
+These are user-reported upstream tumor-only WGCNA inputs.
+Their original paths, versions and download dates require
+confirmation from the original source records.
+
+The ABSOLUTE purity source must be independently documented.
+It must not be inferred from the Sangerbox expression source.
+
+2. SAMPLE FLOW
+Primary tumor cohort: 513
+Exact ABSOLUTE matches: 502
+Matched samples without purity: 2
+No ABSOLUTE record: 11
+Final STEP7B5 dataset: 500
+
+3. STEP7B6 MODEL DESIGN
+Number of models: 9
+Expected models: 9
+Expected N per model: 500
+
+Intended model interpretation:
+TME score ~ prioritized gene expression + ABSOLUTE purity
+
+The dependent TME outcomes are ESTIMATE-derived scores.
+ABSOLUTE purity is an explanatory covariate.
+These are not ABSOLUTE-derived TME scores.
+
+4. SEPARATE ESTIMATE-DERIVED PURITY ANALYSIS
+ESTIMATE-derived TumorPurity used in a separate checkpoint
+analysis is distinct from ABSOLUTE_Purity in STEP7B6.
+
+5. AUDIT STATUS
+                                       Audit_Item Status
+1                  All four RData files available   TRUE
+2                    Expected key objects present   TRUE
+3                     STEP7B5 final dataset n=500   TRUE
+4                       Nine saved models present   TRUE
+5                           All nine models n=500   TRUE
+6                     Expected model combinations   TRUE
+7  ABSOLUTE purity included in all model formulas   TRUE
+8     ABSOLUTE_Purity variable present in dataset   TRUE
+9            Expression source identified by user   TRUE
+10             Clinical source identified by user   TRUE
+11 ABSOLUTE original source/version/date verified  FALSE
+
+6. MODEL FORMULAS
+                 Model Class   N                                 Formula      Response              Predictors
+1    ImmuneScore__AOC3    lm 500    ImmuneScore ~ AOC3 + ABSOLUTE_Purity   ImmuneScore  AOC3 + ABSOLUTE_Purity
+2   ImmuneScore__MS4A7    lm 500   ImmuneScore ~ MS4A7 + ABSOLUTE_Purity   ImmuneScore MS4A7 + ABSOLUTE_Purity
+3    ImmuneScore__IL7R    lm 500    ImmuneScore ~ IL7R + ABSOLUTE_Purity   ImmuneScore  IL7R + ABSOLUTE_Purity
+4   StromalScore__AOC3    lm 500   StromalScore ~ AOC3 + ABSOLUTE_Purity  StromalScore  AOC3 + ABSOLUTE_Purity
+5  StromalScore__MS4A7    lm 500  StromalScore ~ MS4A7 + ABSOLUTE_Purity  StromalScore MS4A7 + ABSOLUTE_Purity
+6   StromalScore__IL7R    lm 500   StromalScore ~ IL7R + ABSOLUTE_Purity  StromalScore  IL7R + ABSOLUTE_Purity
+7  ESTIMATEScore__AOC3    lm 500  ESTIMATEScore ~ AOC3 + ABSOLUTE_Purity ESTIMATEScore  AOC3 + ABSOLUTE_Purity
+8 ESTIMATEScore__MS4A7    lm 500 ESTIMATEScore ~ MS4A7 + ABSOLUTE_Purity ESTIMATEScore MS4A7 + ABSOLUTE_Purity
+9  ESTIMATEScore__IL7R    lm 500  ESTIMATEScore ~ IL7R + ABSOLUTE_Purity ESTIMATEScore  IL7R + ABSOLUTE_Purity
+
+7. FORMULA INTERPRETATION
+                 Model Response_Variable     Predictor_Variables Includes_ABSOLUTE_Purity Includes_Gene_Expression
+1    ImmuneScore__AOC3       ImmuneScore  AOC3 + ABSOLUTE_Purity                     TRUE                     TRUE
+2   ImmuneScore__MS4A7       ImmuneScore MS4A7 + ABSOLUTE_Purity                     TRUE                     TRUE
+3    ImmuneScore__IL7R       ImmuneScore  IL7R + ABSOLUTE_Purity                     TRUE                     TRUE
+4   StromalScore__AOC3      StromalScore  AOC3 + ABSOLUTE_Purity                     TRUE                     TRUE
+5  StromalScore__MS4A7      StromalScore MS4A7 + ABSOLUTE_Purity                     TRUE                     TRUE
+6   StromalScore__IL7R      StromalScore  IL7R + ABSOLUTE_Purity                     TRUE                     TRUE
+7  ESTIMATEScore__AOC3     ESTIMATEScore  AOC3 + ABSOLUTE_Purity                     TRUE                     TRUE
+8 ESTIMATEScore__MS4A7     ESTIMATEScore MS4A7 + ABSOLUTE_Purity                     TRUE                     TRUE
+9  ESTIMATEScore__IL7R     ESTIMATEScore  IL7R + ABSOLUTE_Purity                     TRUE                     TRUE
+
+8. LIMITATIONS / ITEMS REQUIRING SOURCE CONFIRMATION
+- Exact ABSOLUTE source and data release/version.
+- ABSOLUTE download or retrieval date.
+- Original ABSOLUTE source file name and archived provenance.
+- Original expression and clinical file paths/version/date.
+- Confirmation of the recorded 502/2/11 sample-flow counts
+  from the detailed STEP7B4C/4D/5 audit objects.
+
+No regression models were refitted.
+No sample matching or barcode reconciliation was repeated.
+No imputation or data modification was performed.

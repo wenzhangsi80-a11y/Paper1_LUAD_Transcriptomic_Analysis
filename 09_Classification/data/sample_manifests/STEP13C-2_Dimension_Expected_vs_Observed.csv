@@ -1,0 +1,6 @@
+"object","expected_nrow","expected_ncol","nrow","ncol","dimension_match"
+"expr",48803,117,48803,117,TRUE
+"expr.final",19425,116,19425,116,TRUE
+"expr.mat",28742,116,28742,116,TRUE
+"expr2",28742,118,28742,118,TRUE
+"expr3",116,5,116,5,TRUE

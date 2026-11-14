@@ -1,0 +1,40 @@
+STEP10D-B — AOC3–MS4A7–IL7R Core-Gene Raw-Count & Detection Audit
+============================================================
+
+STATUS: PASS
+
+Locked core genes:
+AOC3 / MS4A7 / IL7R
+
+Locked pseudobulk groups:
+Primary T-cell: 9
+Primary Myeloid/macrophage: 9
+Primary Endothelial: 4
+Sensitivity Endothelial: 2
+
+Raw UMI pseudobulk counts were used.
+No normalized expression was used.
+No log transformation was performed.
+
+Detection definition:
+raw UMI count > 0
+
+Zero-count observations were retained.
+No patient or cell was excluded.
+
+No inferential statistics were performed.
+No correlation analysis was performed.
+No differential expression analysis was performed.
+No CellChat or ligand-receptor analysis was performed.
+No survival analysis was performed.
+
+STEP10C locked pseudobulk matrices were NOT recalculated.
+STEP10D-A library QC was NOT recalculated.
+
+Output files:
+STEP10D-B_Pseudobulk_CoreGene_RawCounts.tsv 
+STEP10D-C_Pseudobulk_CoreGene_Detection.tsv 
+STEP10D-B_CoreGene_Detection_Count_Summary.tsv 
+STEP10D-B_CoreGene_Presence_Audit.tsv 
+STEP10D-B_Dataset_GroupCount_Audit.tsv 
+STEP10D-B_FINAL_Audit_Summary.tsv 

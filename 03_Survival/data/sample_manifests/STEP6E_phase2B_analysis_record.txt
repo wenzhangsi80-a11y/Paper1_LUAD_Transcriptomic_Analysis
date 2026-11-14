@@ -1,0 +1,12 @@
+STEP 6E Phase 2B — KM analysis record
+Input: O:/Rproject/Paper 1_Step 6-survival analysis/STEP_6E_KM_curve_harmonization/STEP6E_input_cohort_checkpoint.rds
+R: R version 4.5.1 (2025-06-13 ucrt)
+survival: 3.8.9
+survminer: 0.5.2
+ggplot2: 4.0.3
+Cohort: 485 cases; 178 events; 307 censored.
+Median split: expression <= median = Low; > median = High.
+Zero-time observations retained without modification.
+KM confidence intervals displayed.
+Group comparison: two-sided log-rank test.
+Continuous Cox results were not recalculated or changed.

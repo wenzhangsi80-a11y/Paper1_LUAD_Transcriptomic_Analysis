@@ -1,0 +1,26 @@
+WORKFLOW-13 — STEP13B
+Preliminary TCGA Input Interpretation
+============================================================
+
+Purpose:
+Identify the correct TCGA tumor-versus-normal input before
+any ROC/model recalculation.
+
+Locked core genes:
+AOC3, MS4A7, IL7R 
+
+Candidate files inspected:
+
+ - O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C_WGCNA_candidate_log2_FPKM_UQ.txt
+ - O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_ESTIMATE_input_GeneSymbol_log2_FPKM_UQ.txt
+ - O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_Ensembl_to_GeneSymbol_GENCODE_v22.txt
+ - O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C_expr_primary_tumor_log2_FPKM_UQ.txt
+
+Important methodological rule:
+No file is designated as the final diagnostic/classification
+input solely from its filename. The final input must be
+demonstrated to contain the appropriate TCGA sample population,
+tumor/normal labels, expression scale, and the three locked genes.
+
+Current status:
+STEP13B INPUT INVENTORY COMPLETE — FINAL INPUT NOT YET LOCKED

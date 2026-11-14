@@ -1,0 +1,10 @@
+Metric	Value
+>=3/4 candidate records	2406
+4/4 candidate records	1714
+>=3/4 exact LR pairs	585
+4/4 exact LR pairs	492
+Shared exact LR pairs	492
+>=3/4-only exact LR pairs	93
+4/4-only exact LR pairs	0
+4/4 retention among >=3/4 exact LR pairs (%)	84.1
+Direction_ID categories	6

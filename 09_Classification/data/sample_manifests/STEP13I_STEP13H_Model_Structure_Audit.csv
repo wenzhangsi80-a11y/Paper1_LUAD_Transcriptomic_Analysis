@@ -1,0 +1,4 @@
+"check","PASS"
+"glm_class",TRUE
+"binomial_family",TRUE
+"logit_link",TRUE

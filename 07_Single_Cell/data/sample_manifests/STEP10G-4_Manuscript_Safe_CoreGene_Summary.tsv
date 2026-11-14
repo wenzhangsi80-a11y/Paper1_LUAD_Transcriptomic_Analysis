@@ -1,0 +1,4 @@
+Gene	Primary_Detection_Pattern	Highest_Quantitative_Context	Highest_Median_CPM	Interpretation	Specificity	Causality
+AOC3	6/9 T-cell; 8/9 myeloid/macrophage; 2/4 endothelial	Myeloid/macrophage	1.3345484	Multi-compartment detection with relatively higher quantitative expression in myeloid/macrophage cells.	Not assigned	Not inferred
+MS4A7	9/9 T-cell; 9/9 myeloid/macrophage; 4/4 endothelial	Myeloid/macrophage	506.195517	Broad detection with a myeloid/macrophage-associated quantitative expression context.	Not assigned	Not inferred
+IL7R	9/9 T-cell; 9/9 myeloid/macrophage; 4/4 endothelial	T-cell	258.1607418	Broad detection with a T-cell-associated quantitative expression context.	Not assigned	Not inferred

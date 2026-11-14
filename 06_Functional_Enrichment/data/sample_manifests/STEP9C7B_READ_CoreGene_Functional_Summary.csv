@@ -1,0 +1,4 @@
+"Core_Gene","N_GO_KEGG_Overlap_Pairs","N_TumorUp_Pairs","N_TumorDown_Pairs","N_GO_Terms","N_KEGG_Pathways"
+"AOC3",1,0,1,1,1
+"MS4A7",0,0,0,0,0
+"IL7R",54,0,54,27,2

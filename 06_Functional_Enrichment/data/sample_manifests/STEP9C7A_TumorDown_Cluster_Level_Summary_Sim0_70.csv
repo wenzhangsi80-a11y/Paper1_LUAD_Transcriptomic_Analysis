@@ -1,0 +1,744 @@
+"Direction","Similarity_Threshold","Cluster","Cluster_Size","Representative_ID","Representative_Description","Representative_p_adjust"
+"Tumor-down",0.7,1,2,"GO:0003012","muscle system process",0.00000000000000000486279563294928
+"Tumor-down",0.7,2,2,"GO:0006936","muscle contraction",0.000000000000000255999557199953
+"Tumor-down",0.7,3,2,"GO:0043269","regulation of monoatomic ion transport",0.0000000000000102665109829084
+"Tumor-down",0.7,4,2,"GO:0003341","cilium movement",0.00000000000014017436609249
+"Tumor-down",0.7,5,2,"GO:0098742","cell-cell adhesion via plasma-membrane adhesion molecules",0.000000000000155775696704416
+"Tumor-down",0.7,6,2,"GO:0003015","heart process",0.000000000000280861601393026
+"Tumor-down",0.7,7,2,"GO:1903522","regulation of blood circulation",0.00000000000117880929090049
+"Tumor-down",0.7,8,2,"GO:0042391","regulation of membrane potential",0.00000000000201594238746512
+"Tumor-down",0.7,9,3,"GO:0007188","adenylate cyclase-modulating G protein-coupled receptor signaling pathway",0.00000000000253931758514424
+"Tumor-down",0.7,10,3,"GO:0008016","regulation of heart contraction",0.00000000000256767014874121
+"Tumor-down",0.7,11,3,"GO:0010959","regulation of metal ion transport",0.0000000000112226393434798
+"Tumor-down",0.7,12,1,"GO:0042060","wound healing",0.0000000000196901883250028
+"Tumor-down",0.7,13,3,"GO:0006935","chemotaxis",0.0000000000211623144359609
+"Tumor-down",0.7,14,1,"GO:0003018","vascular process in circulatory system",0.0000000000467806074596663
+"Tumor-down",0.7,15,2,"GO:0006816","calcium ion transport",0.0000000000486652490478504
+"Tumor-down",0.7,16,2,"GO:1901342","regulation of vasculature development",0.0000000000522697774582436
+"Tumor-down",0.7,17,3,"GO:0045765","regulation of angiogenesis",0.0000000000621984794843711
+"Tumor-down",0.7,18,2,"GO:0050878","regulation of body fluid levels",0.0000000000643095019371047
+"Tumor-down",0.7,19,3,"GO:0008217","regulation of blood pressure",0.000000000175994044587495
+"Tumor-down",0.7,20,3,"GO:0002274","myeloid leukocyte activation",0.000000000175994044587495
+"Tumor-down",0.7,21,2,"GO:0034765","regulation of monoatomic ion transmembrane transport",0.000000000198534205441609
+"Tumor-down",0.7,22,2,"GO:0034762","regulation of transmembrane transport",0.000000000487724122649917
+"Tumor-down",0.7,23,2,"GO:0003007","heart morphogenesis",0.000000000851975077015555
+"Tumor-down",0.7,24,2,"GO:0001539","cilium or flagellum-dependent cell motility",0.000000000992451062894425
+"Tumor-down",0.7,25,2,"GO:0060294","cilium movement involved in cell motility",0.00000000127935449173827
+"Tumor-down",0.7,26,1,"GO:0031032","actomyosin structure organization",0.00000000220504492253108
+"Tumor-down",0.7,27,2,"GO:0002444","myeloid leukocyte mediated immunity",0.00000000236487533954201
+"Tumor-down",0.7,28,1,"GO:0050817","coagulation",0.00000000350165062063317
+"Tumor-down",0.7,29,2,"GO:0090257","regulation of muscle system process",0.00000000350165062063317
+"Tumor-down",0.7,30,2,"GO:0007596","blood coagulation",0.00000000374732969090405
+"Tumor-down",0.7,31,2,"GO:0070374","positive regulation of ERK1 and ERK2 cascade",0.00000000561526471663307
+"Tumor-down",0.7,32,2,"GO:0006937","regulation of muscle contraction",0.00000000565901103416443
+"Tumor-down",0.7,33,4,"GO:0035082","axoneme assembly",0.00000000565901103416443
+"Tumor-down",0.7,34,1,"GO:0043062","extracellular structure organization",0.0000000107397252909977
+"Tumor-down",0.7,35,2,"GO:0002040","sprouting angiogenesis",0.0000000108541397159607
+"Tumor-down",0.7,36,1,"GO:0070372","regulation of ERK1 and ERK2 cascade",0.0000000115194703199763
+"Tumor-down",0.7,37,1,"GO:0045229","external encapsulating structure organization",0.0000000120189803862249
+"Tumor-down",0.7,38,2,"GO:0030198","extracellular matrix organization",0.0000000188061049979929
+"Tumor-down",0.7,39,3,"GO:0042692","muscle cell differentiation",0.0000000219269066150829
+"Tumor-down",0.7,40,3,"GO:0072001","renal system development",0.0000000252334864364163
+"Tumor-down",0.7,41,2,"GO:0019722","calcium-mediated signaling",0.0000000286595571831709
+"Tumor-down",0.7,42,1,"GO:0032970","regulation of actin filament-based process",0.0000000329151197095273
+"Tumor-down",0.7,43,4,"GO:0007204","positive regulation of cytosolic calcium ion concentration",0.0000000374112200391468
+"Tumor-down",0.7,44,2,"GO:0001508","action potential",0.0000000445654914955773
+"Tumor-down",0.7,45,3,"GO:0070371","ERK1 and ERK2 cascade",0.000000047936663484161
+"Tumor-down",0.7,46,1,"GO:0001578","microtubule bundle formation",0.0000000519111609740697
+"Tumor-down",0.7,47,3,"GO:0045807","positive regulation of endocytosis",0.000000057202291193145
+"Tumor-down",0.7,48,2,"GO:0060537","muscle tissue development",0.0000000594566603279733
+"Tumor-down",0.7,49,4,"GO:0042063","gliogenesis",0.0000000594566603279733
+"Tumor-down",0.7,50,2,"GO:0070252","actin-mediated cell contraction",0.0000000662711893052775
+"Tumor-down",0.7,51,2,"GO:0031589","cell-substrate adhesion",0.0000000720295461984926
+"Tumor-down",0.7,52,5,"GO:0007200","phospholipase C-activating G protein-coupled receptor signaling pathway",0.0000000826779807834181
+"Tumor-down",0.7,53,1,"GO:0060048","cardiac muscle contraction",0.000000103932048566845
+"Tumor-down",0.7,54,2,"GO:0006909","phagocytosis",0.000000147555872790256
+"Tumor-down",0.7,55,3,"GO:0003171","atrioventricular valve development",0.000000196350661237532
+"Tumor-down",0.7,56,2,"GO:0060485","mesenchyme development",0.000000236886536535475
+"Tumor-down",0.7,57,3,"GO:0048738","cardiac muscle tissue development",0.000000241791878070657
+"Tumor-down",0.7,58,2,"GO:0023061","signal release",0.000000244173093940796
+"Tumor-down",0.7,59,1,"GO:0070588","calcium ion transmembrane transport",0.000000244173093940796
+"Tumor-down",0.7,60,2,"GO:0006939","smooth muscle contraction",0.00000026995690688124
+"Tumor-down",0.7,61,2,"GO:0001935","endothelial cell proliferation",0.000000271031304095903
+"Tumor-down",0.7,62,3,"GO:0060326","cell chemotaxis",0.000000279104178986933
+"Tumor-down",0.7,63,1,"GO:0010876","lipid localization",0.000000279104178986933
+"Tumor-down",0.7,64,3,"GO:0003206","cardiac chamber morphogenesis",0.000000322890219000176
+"Tumor-down",0.7,65,2,"GO:0045785","positive regulation of cell adhesion",0.000000334625991512648
+"Tumor-down",0.7,66,2,"GO:0086009","membrane repolarization",0.000000342595786151303
+"Tumor-down",0.7,67,2,"GO:0002263","cell activation involved in immune response",0.000000415594010877972
+"Tumor-down",0.7,68,2,"GO:0007517","muscle organ development",0.000000415594010877972
+"Tumor-down",0.7,69,2,"GO:0006869","lipid transport",0.000000463573273413213
+"Tumor-down",0.7,70,2,"GO:0007162","negative regulation of cell adhesion",0.000000498382501433089
+"Tumor-down",0.7,71,3,"GO:0032956","regulation of actin cytoskeleton organization",0.000000499000870938895
+"Tumor-down",0.7,72,1,"GO:0097722","sperm motility",0.000000499000870938895
+"Tumor-down",0.7,73,1,"GO:0003158","endothelium development",0.000000549086058953118
+"Tumor-down",0.7,74,1,"GO:0006813","potassium ion transport",0.00000062301952578641
+"Tumor-down",0.7,75,1,"GO:0055074","calcium ion homeostasis",0.00000062301952578641
+"Tumor-down",0.7,76,3,"GO:0015718","monocarboxylic acid transport",0.000000651052385128783
+"Tumor-down",0.7,77,2,"GO:0032496","response to lipopolysaccharide",0.000000746839042085942
+"Tumor-down",0.7,78,5,"GO:0050900","leukocyte migration",0.000000774362998266456
+"Tumor-down",0.7,79,2,"GO:0003181","atrioventricular valve morphogenesis",0.00000113278632135122
+"Tumor-down",0.7,80,2,"GO:0071805","potassium ion transmembrane transport",0.00000113979742438899
+"Tumor-down",0.7,81,2,"GO:0033002","muscle cell proliferation",0.0000012147340735584
+"Tumor-down",0.7,82,3,"GO:0043542","endothelial cell migration",0.00000125462979115001
+"Tumor-down",0.7,83,2,"GO:0008277","regulation of G protein-coupled receptor signaling pathway",0.00000131351097928452
+"Tumor-down",0.7,84,2,"GO:0050727","regulation of inflammatory response",0.00000135619113669416
+"Tumor-down",0.7,85,1,"GO:0006814","sodium ion transport",0.00000162616045128332
+"Tumor-down",0.7,86,2,"GO:0015849","organic acid transport",0.00000162616045128332
+"Tumor-down",0.7,87,3,"GO:0086002","cardiac muscle cell action potential involved in contraction",0.00000163944636840624
+"Tumor-down",0.7,88,3,"GO:0048762","mesenchymal cell differentiation",0.0000017923810913231
+"Tumor-down",0.7,89,1,"GO:0006959","humoral immune response",0.0000019261505339316
+"Tumor-down",0.7,90,2,"GO:0001570","vasculogenesis",0.00000203395659473935
+"Tumor-down",0.7,91,2,"GO:0045446","endothelial cell differentiation",0.00000245519634456606
+"Tumor-down",0.7,92,1,"GO:0001503","ossification",0.0000025314505758966
+"Tumor-down",0.7,93,1,"GO:0015850","organic hydroxy compound transport",0.00000266525892534299
+"Tumor-down",0.7,94,2,"GO:0001936","regulation of endothelial cell proliferation",0.0000035580357189659
+"Tumor-down",0.7,95,1,"GO:0043299","leukocyte degranulation",0.0000036632611411876
+"Tumor-down",0.7,96,2,"GO:0002275","myeloid cell activation involved in immune response",0.00000381124894051903
+"Tumor-down",0.7,97,4,"GO:0003205","cardiac chamber development",0.00000466821761094273
+"Tumor-down",0.7,98,2,"GO:0046879","hormone secretion",0.00000575066138905501
+"Tumor-down",0.7,99,2,"GO:0072593","reactive oxygen species metabolic process",0.0000065159781981917
+"Tumor-down",0.7,100,2,"GO:0018958","phenol-containing compound metabolic process",0.00000702242896430746
+"Tumor-down",0.7,101,1,"GO:0001906","cell killing",0.00000725912159739945
+"Tumor-down",0.7,102,2,"GO:0060840","artery development",0.00000733044715933711
+"Tumor-down",0.7,103,1,"GO:0040013","negative regulation of locomotion",0.00000755383134199238
+"Tumor-down",0.7,104,3,"GO:0030323","respiratory tube development",0.00000857368211209387
+"Tumor-down",0.7,105,3,"GO:0007015","actin filament organization",0.0000102854322878956
+"Tumor-down",0.7,106,2,"GO:0006690","icosanoid metabolic process",0.0000103595787183821
+"Tumor-down",0.7,107,2,"GO:0050766","positive regulation of phagocytosis",0.0000103595787183821
+"Tumor-down",0.7,108,2,"GO:0045055","regulated exocytosis",0.0000106048049440514
+"Tumor-down",0.7,109,2,"GO:0006584","catecholamine metabolic process",0.0000110454409648789
+"Tumor-down",0.7,110,1,"GO:0072132","mesenchyme morphogenesis",0.0000110454409648789
+"Tumor-down",0.7,111,2,"GO:0010927","cellular component assembly involved in morphogenesis",0.0000113450932849613
+"Tumor-down",0.7,112,1,"GO:0032989","cellular anatomical entity morphogenesis",0.0000113450932849613
+"Tumor-down",0.7,113,2,"GO:0015669","gas transport",0.0000113450932849613
+"Tumor-down",0.7,114,3,"GO:0014074","response to purine-containing compound",0.0000113450932849613
+"Tumor-down",0.7,115,2,"GO:0034767","positive regulation of monoatomic ion transmembrane transport",0.0000113450932849613
+"Tumor-down",0.7,116,1,"GO:0009914","hormone transport",0.0000113450932849613
+"Tumor-down",0.7,117,1,"GO:0042744","hydrogen peroxide catabolic process",0.0000122668324799165
+"Tumor-down",0.7,118,3,"GO:0051017","actin filament bundle assembly",0.0000124051715153782
+"Tumor-down",0.7,119,1,"GO:0050886","endocrine process",0.0000136594250468723
+"Tumor-down",0.7,120,2,"GO:0030282","bone mineralization",0.000013887957692188
+"Tumor-down",0.7,121,2,"GO:0010810","regulation of cell-substrate adhesion",0.0000147349052092427
+"Tumor-down",0.7,122,3,"GO:0050921","positive regulation of chemotaxis",0.0000148451966510499
+"Tumor-down",0.7,123,2,"GO:0060541","respiratory system development",0.0000151167440747796
+"Tumor-down",0.7,124,2,"GO:0055001","muscle cell development",0.0000163147947576177
+"Tumor-down",0.7,125,2,"GO:2000146","negative regulation of cell motility",0.0000167295694124999
+"Tumor-down",0.7,126,2,"GO:0097553","calcium ion transmembrane import into cytosol",0.0000172521075621487
+"Tumor-down",0.7,127,2,"GO:0032412","regulation of monoatomic ion transmembrane transporter activity",0.0000173916275626562
+"Tumor-down",0.7,128,2,"GO:0048660","regulation of smooth muscle cell proliferation",0.0000176576817552768
+"Tumor-down",0.7,129,1,"GO:0046683","response to organophosphorus",0.0000190723885088766
+"Tumor-down",0.7,130,3,"GO:0001945","lymph vessel development",0.0000203846041750433
+"Tumor-down",0.7,131,2,"GO:0019755","one-carbon compound transport",0.0000224615722091734
+"Tumor-down",0.7,132,2,"GO:0010543","regulation of platelet activation",0.0000234865671553043
+"Tumor-down",0.7,133,2,"GO:0007389","pattern specification process",0.0000243981608396439
+"Tumor-down",0.7,134,2,"GO:0050729","positive regulation of inflammatory response",0.0000249571270299109
+"Tumor-down",0.7,135,2,"GO:0003014","renal system process",0.0000309512356746219
+"Tumor-down",0.7,136,3,"GO:0060411","cardiac septum morphogenesis",0.0000317080958391875
+"Tumor-down",0.7,137,2,"GO:0009620","response to fungus",0.0000317080958391875
+"Tumor-down",0.7,138,1,"GO:0051047","positive regulation of secretion",0.0000330999300118557
+"Tumor-down",0.7,139,2,"GO:0048659","smooth muscle cell proliferation",0.0000357879338771541
+"Tumor-down",0.7,140,2,"GO:0021782","glial cell development",0.0000366941578131804
+"Tumor-down",0.7,141,2,"GO:0090287","regulation of cellular response to growth factor stimulus",0.0000372879960271042
+"Tumor-down",0.7,142,1,"GO:0006898","receptor-mediated endocytosis",0.0000379820750424725
+"Tumor-down",0.7,143,2,"GO:0015908","fatty acid transport",0.0000384470659750483
+"Tumor-down",0.7,144,1,"GO:0002042","cell migration involved in sprouting angiogenesis",0.0000389467869993933
+"Tumor-down",0.7,145,2,"GO:0030593","neutrophil chemotaxis",0.0000398889238804082
+"Tumor-down",0.7,146,2,"GO:0030239","myofibril assembly",0.0000406329323356231
+"Tumor-down",0.7,147,2,"GO:0085029","extracellular matrix assembly",0.0000413421572068655
+"Tumor-down",0.7,148,2,"GO:0046883","regulation of hormone secretion",0.0000417519328902583
+"Tumor-down",0.7,149,2,"GO:0110053","regulation of actin filament organization",0.0000417519328902583
+"Tumor-down",0.7,150,3,"GO:0042742","defense response to bacterium",0.0000431905180407046
+"Tumor-down",0.7,151,2,"GO:0055008","cardiac muscle tissue morphogenesis",0.0000489378729638471
+"Tumor-down",0.7,152,2,"GO:0035296","regulation of tube diameter",0.0000508702094229171
+"Tumor-down",0.7,153,3,"GO:0097746","blood vessel diameter maintenance",0.0000508702094229171
+"Tumor-down",0.7,154,2,"GO:0060976","coronary vasculature development",0.0000513435503034698
+"Tumor-down",0.7,155,2,"GO:0009855","determination of bilateral symmetry",0.0000513435503034698
+"Tumor-down",0.7,156,2,"GO:0048844","artery morphogenesis",0.0000513435503034698
+"Tumor-down",0.7,157,2,"GO:0035725","sodium ion transmembrane transport",0.0000522247881011907
+"Tumor-down",0.7,158,2,"GO:1903169","regulation of calcium ion transmembrane transport",0.0000533048492800304
+"Tumor-down",0.7,159,3,"GO:0010594","regulation of endothelial cell migration",0.0000538947540440267
+"Tumor-down",0.7,160,2,"GO:0061041","regulation of wound healing",0.0000622442739686513
+"Tumor-down",0.7,161,3,"GO:0003272","endocardial cushion formation",0.000064679468295408
+"Tumor-down",0.7,162,3,"GO:0046456","icosanoid biosynthetic process",0.000064872438299821
+"Tumor-down",0.7,163,3,"GO:0060972","left/right pattern formation",0.00006731440030226
+"Tumor-down",0.7,164,3,"GO:0032835","glomerulus development",0.0000681293049442165
+"Tumor-down",0.7,165,1,"GO:0034764","positive regulation of transmembrane transport",0.00006843471350329
+"Tumor-down",0.7,166,2,"GO:0001894","tissue homeostasis",0.0000767536492279427
+"Tumor-down",0.7,167,1,"GO:0060249","anatomical structure homeostasis",0.0000767536492279427
+"Tumor-down",0.7,168,2,"GO:0050920","regulation of chemotaxis",0.0000810454044184526
+"Tumor-down",0.7,169,2,"GO:0007411","axon guidance",0.0000862076773105158
+"Tumor-down",0.7,170,2,"GO:0097530","granulocyte migration",0.0000862076773105158
+"Tumor-down",0.7,171,2,"GO:1902930","regulation of alcohol biosynthetic process",0.0000869979138538731
+"Tumor-down",0.7,172,2,"GO:0048661","positive regulation of smooth muscle cell proliferation",0.0000923937871391997
+"Tumor-down",0.7,173,1,"GO:0007631","feeding behavior",0.0000929840243013245
+"Tumor-down",0.7,174,3,"GO:0007178","cell surface receptor protein serine/threonine kinase signaling pathway",0.0000933447018177128
+"Tumor-down",0.7,175,3,"GO:0010562","positive regulation of phosphorus metabolic process",0.0000965352433894973
+"Tumor-down",0.7,176,1,"GO:0035265","organ growth",0.000097013192111306
+"Tumor-down",0.7,177,2,"GO:0090092","regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",0.000100310542405626
+"Tumor-down",0.7,178,2,"GO:0072012","glomerulus vasculature development",0.000102583810504568
+"Tumor-down",0.7,179,2,"GO:0061900","glial cell activation",0.000111492784950648
+"Tumor-down",0.7,180,2,"GO:0014002","astrocyte development",0.000112000701226601
+"Tumor-down",0.7,181,2,"GO:0061337","cardiac conduction",0.000112169215083567
+"Tumor-down",0.7,182,2,"GO:0003179","heart valve morphogenesis",0.000112938808680685
+"Tumor-down",0.7,183,2,"GO:0060415","muscle tissue morphogenesis",0.000112938808680685
+"Tumor-down",0.7,184,3,"GO:0050832","defense response to fungus",0.000113222319826044
+"Tumor-down",0.7,185,2,"GO:0001909","leukocyte mediated cytotoxicity",0.000115442262862138
+"Tumor-down",0.7,186,4,"GO:0032231","regulation of actin filament bundle assembly",0.000118877433810272
+"Tumor-down",0.7,187,1,"GO:0007157","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.000123707691549149
+"Tumor-down",0.7,188,2,"GO:1903532","positive regulation of secretion by cell",0.000126632865160558
+"Tumor-down",0.7,189,1,"GO:0090066","regulation of anatomical structure size",0.000128482020216658
+"Tumor-down",0.7,190,3,"GO:0007611","learning or memory",0.000130868422710161
+"Tumor-down",0.7,191,2,"GO:0090100","positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",0.000133549404431026
+"Tumor-down",0.7,192,2,"GO:0050680","negative regulation of epithelial cell proliferation",0.000133549404431026
+"Tumor-down",0.7,193,1,"GO:0035924","cellular response to vascular endothelial growth factor stimulus",0.000135749328502074
+"Tumor-down",0.7,194,6,"GO:0007215","glutamate receptor signaling pathway",0.000140374134281853
+"Tumor-down",0.7,195,1,"GO:0050890","cognition",0.000140460039605525
+"Tumor-down",0.7,196,2,"GO:0003208","cardiac ventricle morphogenesis",0.000143280204419814
+"Tumor-down",0.7,197,3,"GO:0043434","response to peptide hormone",0.000147816928055233
+"Tumor-down",0.7,198,1,"GO:0002443","leukocyte mediated immunity",0.000147816928055233
+"Tumor-down",0.7,199,2,"GO:0009612","response to mechanical stimulus",0.000149654367976916
+"Tumor-down",0.7,200,2,"GO:0010232","vascular transport",0.000152575298197063
+"Tumor-down",0.7,201,1,"GO:0051899","membrane depolarization",0.000166276685757206
+"Tumor-down",0.7,202,1,"GO:0010720","positive regulation of cell development",0.000168100277776216
+"Tumor-down",0.7,203,1,"GO:0045444","fat cell differentiation",0.000170550088125361
+"Tumor-down",0.7,204,2,"GO:0048771","tissue remodeling",0.000173629797564635
+"Tumor-down",0.7,205,1,"GO:0002269","leukocyte activation involved in inflammatory response",0.00017977893316641
+"Tumor-down",0.7,206,2,"GO:0010919","regulation of inositol phosphate biosynthetic process",0.000180047252161854
+"Tumor-down",0.7,207,1,"GO:0032409","regulation of transporter activity",0.000180282460324957
+"Tumor-down",0.7,208,1,"GO:0002687","positive regulation of leukocyte migration",0.000182534102941901
+"Tumor-down",0.7,209,4,"GO:0086065","cell communication involved in cardiac conduction",0.000184711276769582
+"Tumor-down",0.7,210,2,"GO:0022408","negative regulation of cell-cell adhesion",0.000184711276769582
+"Tumor-down",0.7,211,3,"GO:0035051","cardiocyte differentiation",0.000189752437685025
+"Tumor-down",0.7,212,2,"GO:0035886","vascular associated smooth muscle cell differentiation",0.000199005886701925
+"Tumor-down",0.7,213,1,"GO:0006942","regulation of striated muscle contraction",0.000199270005196971
+"Tumor-down",0.7,214,1,"GO:0008037","cell recognition",0.000221654005083548
+"Tumor-down",0.7,215,2,"GO:0001774","microglial cell activation",0.000228731057736587
+"Tumor-down",0.7,216,3,"GO:1905314","semi-lunar valve development",0.000228731057736587
+"Tumor-down",0.7,217,1,"GO:0045576","mast cell activation",0.000237464011346052
+"Tumor-down",0.7,218,1,"GO:0043303","mast cell degranulation",0.00023783941169771
+"Tumor-down",0.7,219,2,"GO:0061437","renal system vasculature development",0.00023808910907638
+"Tumor-down",0.7,220,2,"GO:0006956","complement activation",0.000239690920382676
+"Tumor-down",0.7,221,2,"GO:0071715","icosanoid transport",0.000239690920382676
+"Tumor-down",0.7,222,1,"GO:0141091","transforming growth factor beta receptor superfamily signaling pathway",0.000242627901117869
+"Tumor-down",0.7,223,2,"GO:0051962","positive regulation of nervous system development",0.000244980042211449
+"Tumor-down",0.7,224,2,"GO:0002697","regulation of immune effector process",0.000267091917638367
+"Tumor-down",0.7,225,4,"GO:0002685","regulation of leukocyte migration",0.000269317857038389
+"Tumor-down",0.7,226,1,"GO:0007585","respiratory gaseous exchange by respiratory system",0.000272949825503755
+"Tumor-down",0.7,227,1,"GO:1990868","response to chemokine",0.000280131273507014
+"Tumor-down",0.7,228,2,"GO:1990869","cellular response to chemokine",0.000280131273507014
+"Tumor-down",0.7,229,1,"GO:0010463","mesenchymal cell proliferation",0.000287570811326859
+"Tumor-down",0.7,230,3,"GO:1901343","negative regulation of vasculature development",0.000287570811326859
+"Tumor-down",0.7,231,2,"GO:0090049","regulation of cell migration involved in sprouting angiogenesis",0.000298018336035931
+"Tumor-down",0.7,232,2,"GO:0055017","cardiac muscle tissue growth",0.000300619681617282
+"Tumor-down",0.7,233,2,"GO:0150063","visual system development",0.000303029787922717
+"Tumor-down",0.7,234,2,"GO:0097305","response to alcohol",0.000310859796318329
+"Tumor-down",0.7,235,1,"GO:0042886","amide transport",0.000312306084765786
+"Tumor-down",0.7,236,2,"GO:0003071","renal system process involved in regulation of systemic arterial blood pressure",0.000316748643675752
+"Tumor-down",0.7,237,2,"GO:0009636","response to toxic substance",0.000317732937790778
+"Tumor-down",0.7,238,2,"GO:0046890","regulation of lipid biosynthetic process",0.000333768449057565
+"Tumor-down",0.7,239,1,"GO:0050866","negative regulation of cell activation",0.000340564363908817
+"Tumor-down",0.7,240,1,"GO:0098801","regulation of renal system process",0.000350098919167053
+"Tumor-down",0.7,241,2,"GO:0051051","negative regulation of transport",0.000353943553915477
+"Tumor-down",0.7,242,2,"GO:0050818","regulation of coagulation",0.000354353716547498
+"Tumor-down",0.7,243,2,"GO:0010744","positive regulation of macrophage derived foam cell differentiation",0.000362881094100818
+"Tumor-down",0.7,244,1,"GO:0035050","embryonic heart tube development",0.000394519871823278
+"Tumor-down",0.7,245,2,"GO:0006910","phagocytosis, recognition",0.000425385733166085
+"Tumor-down",0.7,246,2,"GO:0099625","ventricular cardiac muscle cell membrane repolarization",0.000425385733166085
+"Tumor-down",0.7,247,2,"GO:0043266","regulation of potassium ion transport",0.000425385733166085
+"Tumor-down",0.7,248,2,"GO:0072330","monocarboxylic acid biosynthetic process",0.000430564999620987
+"Tumor-down",0.7,249,1,"GO:0120254","olefinic compound metabolic process",0.000443007220060709
+"Tumor-down",0.7,250,2,"GO:0055117","regulation of cardiac muscle contraction",0.00044482045405347
+"Tumor-down",0.7,251,2,"GO:0006633","fatty acid biosynthetic process",0.000452253974387283
+"Tumor-down",0.7,252,2,"GO:0032060","bleb assembly",0.000471355528126176
+"Tumor-down",0.7,253,3,"GO:1901379","regulation of potassium ion transmembrane transport",0.000483051939361074
+"Tumor-down",0.7,254,1,"GO:0007626","locomotory behavior",0.0004857988016745
+"Tumor-down",0.7,255,1,"GO:0010565","regulation of ketone metabolic process",0.000504291169948183
+"Tumor-down",0.7,256,2,"GO:0001938","positive regulation of endothelial cell proliferation",0.000505297011610028
+"Tumor-down",0.7,257,2,"GO:0001947","heart looping",0.000507724460603059
+"Tumor-down",0.7,258,2,"GO:0048566","embryonic digestive tract development",0.000508283326055979
+"Tumor-down",0.7,259,2,"GO:0060317","cardiac epithelial to mesenchymal transition",0.000508283326055979
+"Tumor-down",0.7,260,1,"GO:0099560","synaptic membrane adhesion",0.000508283326055979
+"Tumor-down",0.7,261,1,"GO:0032102","negative regulation of response to external stimulus",0.000511392296007275
+"Tumor-down",0.7,262,2,"GO:0001667","ameboidal-type cell migration",0.000521538682711164
+"Tumor-down",0.7,263,1,"GO:0002448","mast cell mediated immunity",0.000523315058212346
+"Tumor-down",0.7,264,1,"GO:1901654","response to ketone",0.000533495117125963
+"Tumor-down",0.7,265,2,"GO:0002064","epithelial cell development",0.000535728244356787
+"Tumor-down",0.7,266,2,"GO:0090087","regulation of peptide transport",0.000538576146961733
+"Tumor-down",0.7,267,2,"GO:0061045","negative regulation of wound healing",0.000541968850720834
+"Tumor-down",0.7,268,3,"GO:0072073","kidney epithelium development",0.000545618951705651
+"Tumor-down",0.7,269,2,"GO:0051336","regulation of hydrolase activity",0.000549850981231971
+"Tumor-down",0.7,270,3,"GO:0043536","positive regulation of blood vessel endothelial cell migration",0.000577344983594701
+"Tumor-down",0.7,271,3,"GO:0006066","alcohol metabolic process",0.000588036824916239
+"Tumor-down",0.7,272,5,"GO:0043010","camera-type eye development",0.000588036824916239
+"Tumor-down",0.7,273,1,"GO:0060419","heart growth",0.000594617057995118
+"Tumor-down",0.7,274,3,"GO:0030193","regulation of blood coagulation",0.000603820300020667
+"Tumor-down",0.7,275,1,"GO:0061371","determination of heart left/right asymmetry",0.000603820300020667
+"Tumor-down",0.7,276,2,"GO:0003184","pulmonary valve morphogenesis",0.000611111127665992
+"Tumor-down",0.7,277,1,"GO:0060973","cell migration involved in heart development",0.000611111127665992
+"Tumor-down",0.7,278,1,"GO:0031640","killing of cells of another organism",0.000611179825348305
+"Tumor-down",0.7,279,1,"GO:0141061","disruption of cell in another organism",0.000611179825348305
+"Tumor-down",0.7,280,3,"GO:0051279","regulation of release of sequestered calcium ion into cytosol",0.000614522711787107
+"Tumor-down",0.7,281,2,"GO:0030900","forebrain development",0.000623140371371357
+"Tumor-down",0.7,282,2,"GO:0060562","epithelial tube morphogenesis",0.000632840456183269
+"Tumor-down",0.7,283,2,"GO:0031644","regulation of nervous system process",0.000645226382744804
+"Tumor-down",0.7,284,2,"GO:0050806","positive regulation of synaptic transmission",0.000649145317092373
+"Tumor-down",0.7,285,2,"GO:1905952","regulation of lipid localization",0.000661812572832054
+"Tumor-down",0.7,286,2,"GO:0015833","peptide transport",0.000670512207057465
+"Tumor-down",0.7,287,3,"GO:0051209","release of sequestered calcium ion into cytosol",0.000670512207057465
+"Tumor-down",0.7,288,4,"GO:0031960","response to corticosteroid",0.000707111322638478
+"Tumor-down",0.7,289,2,"GO:0051896","regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",0.0007172334231493
+"Tumor-down",0.7,290,2,"GO:0035249","synaptic transmission, glutamatergic",0.000744217573856485
+"Tumor-down",0.7,291,2,"GO:0002791","regulation of peptide secretion",0.00074915504720116
+"Tumor-down",0.7,292,2,"GO:0002695","negative regulation of leukocyte activation",0.000750667006845009
+"Tumor-down",0.7,293,3,"GO:0051283","negative regulation of sequestering of calcium ion",0.000785677449164857
+"Tumor-down",0.7,294,2,"GO:0050708","regulation of protein secretion",0.000789145435976587
+"Tumor-down",0.7,295,1,"GO:0071695","anatomical structure maturation",0.000863941558122309
+"Tumor-down",0.7,296,3,"GO:0003351","epithelial cilium movement involved in extracellular fluid movement",0.000869246628652289
+"Tumor-down",0.7,297,2,"GO:0043114","regulation of vascular permeability",0.000877298861400616
+"Tumor-down",0.7,298,2,"GO:0045987","positive regulation of smooth muscle contraction",0.000882945220318937
+"Tumor-down",0.7,299,1,"GO:1903531","negative regulation of secretion by cell",0.000889197893001124
+"Tumor-down",0.7,300,2,"GO:1900046","regulation of hemostasis",0.000923313331171214
+"Tumor-down",0.7,301,2,"GO:0036293","response to decreased oxygen levels",0.000923479406362034
+"Tumor-down",0.7,302,2,"GO:0001659","temperature homeostasis",0.000965308956890453
+"Tumor-down",0.7,303,3,"GO:0060042","retina morphogenesis in camera-type eye",0.000982119075073614
+"Tumor-down",0.7,304,1,"GO:1903053","regulation of extracellular matrix organization",0.000982119075073614
+"Tumor-down",0.7,305,2,"GO:0019216","regulation of lipid metabolic process",0.00101607215490402
+"Tumor-down",0.7,306,2,"GO:0060070","canonical Wnt signaling pathway",0.00101607215490402
+"Tumor-down",0.7,307,2,"GO:1902903","regulation of supramolecular fiber organization",0.00101844862600568
+"Tumor-down",0.7,308,1,"GO:1901890","positive regulation of cell junction assembly",0.00103637086483139
+"Tumor-down",0.7,309,2,"GO:0002028","regulation of sodium ion transport",0.00106146978982967
+"Tumor-down",0.7,310,2,"GO:0015844","monoamine transport",0.00106146978982967
+"Tumor-down",0.7,311,3,"GO:0060306","regulation of membrane repolarization",0.00107147461516374
+"Tumor-down",0.7,312,1,"GO:0061448","connective tissue development",0.00108072743575937
+"Tumor-down",0.7,313,1,"GO:0001666","response to hypoxia",0.00109043854124644
+"Tumor-down",0.7,314,2,"GO:0007567","parturition",0.00110226440736836
+"Tumor-down",0.7,315,1,"GO:0141060","disruption of anatomical structure in another organism",0.00112191857180798
+"Tumor-down",0.7,316,3,"GO:1990748","cellular detoxification",0.00112191857180798
+"Tumor-down",0.7,317,2,"GO:0055078","sodium ion homeostasis",0.00112191857180798
+"Tumor-down",0.7,318,2,"GO:0030278","regulation of ossification",0.00117059836040138
+"Tumor-down",0.7,319,2,"GO:0044344","cellular response to fibroblast growth factor stimulus",0.00118693778121029
+"Tumor-down",0.7,320,1,"GO:0010644","cell communication by electrical coupling",0.00124840781497218
+"Tumor-down",0.7,321,2,"GO:0061036","positive regulation of cartilage development",0.00124840781497218
+"Tumor-down",0.7,322,3,"GO:0048167","regulation of synaptic plasticity",0.00129682481625817
+"Tumor-down",0.7,323,1,"GO:0098739","import across plasma membrane",0.00133097368565564
+"Tumor-down",0.7,324,3,"GO:0002761","regulation of myeloid leukocyte differentiation",0.00136509878816934
+"Tumor-down",0.7,325,2,"GO:0098659","inorganic cation import across plasma membrane",0.00136509878816934
+"Tumor-down",0.7,326,1,"GO:0099587","inorganic ion import across plasma membrane",0.00136509878816934
+"Tumor-down",0.7,327,2,"GO:1902895","positive regulation of miRNA transcription",0.0014154914820146
+"Tumor-down",0.7,328,2,"GO:0048010","vascular endothelial growth factor receptor signaling pathway",0.0014997811099239
+"Tumor-down",0.7,329,1,"GO:0042445","hormone metabolic process",0.00150335219075216
+"Tumor-down",0.7,330,2,"GO:0001934","positive regulation of protein phosphorylation",0.00156795198395474
+"Tumor-down",0.7,331,1,"GO:0001780","neutrophil homeostasis",0.00156795198395474
+"Tumor-down",0.7,332,3,"GO:1901017","negative regulation of potassium ion transmembrane transporter activity",0.00156795198395474
+"Tumor-down",0.7,333,1,"GO:1901568","fatty acid derivative metabolic process",0.00157363873739809
+"Tumor-down",0.7,334,1,"GO:0009308","amine metabolic process",0.00157731123390824
+"Tumor-down",0.7,335,1,"GO:0001649","osteoblast differentiation",0.00159078326077948
+"Tumor-down",0.7,336,2,"GO:0071560","cellular response to transforming growth factor beta stimulus",0.00160894369560543
+"Tumor-down",0.7,337,1,"GO:0034109","homotypic cell-cell adhesion",0.00166416140588303
+"Tumor-down",0.7,338,2,"GO:0090276","regulation of peptide hormone secretion",0.00167896313720362
+"Tumor-down",0.7,339,1,"GO:0044782","cilium organization",0.00167948079419818
+"Tumor-down",0.7,340,2,"GO:0045667","regulation of osteoblast differentiation",0.00168055028489529
+"Tumor-down",0.7,341,1,"GO:0009624","response to nematode",0.00168422644901091
+"Tumor-down",0.7,342,2,"GO:0060371","regulation of atrial cardiac muscle cell membrane depolarization",0.00168422644901091
+"Tumor-down",0.7,343,3,"GO:0071774","response to fibroblast growth factor",0.00173507157689125
+"Tumor-down",0.7,344,2,"GO:0045639","positive regulation of myeloid cell differentiation",0.00173507157689125
+"Tumor-down",0.7,345,2,"GO:0061384","heart trabecula morphogenesis",0.00173507157689125
+"Tumor-down",0.7,346,2,"GO:0002886","regulation of myeloid leukocyte mediated immunity",0.00176342370332807
+"Tumor-down",0.7,347,2,"GO:1901888","regulation of cell junction assembly",0.00176605251296893
+"Tumor-down",0.7,348,1,"GO:0002283","neutrophil activation involved in immune response",0.00176721381329045
+"Tumor-down",0.7,349,2,"GO:0007159","leukocyte cell-cell adhesion",0.00177761702978367
+"Tumor-down",0.7,350,2,"GO:0062012","regulation of small molecule metabolic process",0.00178257485086291
+"Tumor-down",0.7,351,1,"GO:0006836","neurotransmitter transport",0.00181281121758302
+"Tumor-down",0.7,352,3,"GO:0030099","myeloid cell differentiation",0.00181281121758302
+"Tumor-down",0.7,353,2,"GO:0071375","cellular response to peptide hormone stimulus",0.00181606246639516
+"Tumor-down",0.7,354,1,"GO:0006858","extracellular transport",0.00186972554088351
+"Tumor-down",0.7,355,2,"GO:0032368","regulation of lipid transport",0.00189662027006869
+"Tumor-down",0.7,356,1,"GO:0022010","central nervous system myelination",0.00189674290967674
+"Tumor-down",0.7,357,4,"GO:0032291","axon ensheathment in central nervous system",0.00189674290967674
+"Tumor-down",0.7,358,2,"GO:0060353","regulation of cell adhesion molecule production",0.00189887191728172
+"Tumor-down",0.7,359,1,"GO:0060841","venous blood vessel development",0.00189887191728172
+"Tumor-down",0.7,360,2,"GO:0007612","learning",0.00189887191728172
+"Tumor-down",0.7,361,1,"GO:0002357","defense response to tumor cell",0.00189887191728172
+"Tumor-down",0.7,362,2,"GO:0042045","epithelial fluid transport",0.00189887191728172
+"Tumor-down",0.7,363,2,"GO:0071222","cellular response to lipopolysaccharide",0.00190103022775416
+"Tumor-down",0.7,364,4,"GO:0060828","regulation of canonical Wnt signaling pathway",0.00193921120309451
+"Tumor-down",0.7,365,1,"GO:0007548","sex differentiation",0.00196453003675283
+"Tumor-down",0.7,366,2,"GO:0048638","regulation of developmental growth",0.00199370680241863
+"Tumor-down",0.7,367,5,"GO:0050769","positive regulation of neurogenesis",0.0020307688122707
+"Tumor-down",0.7,368,2,"GO:0055123","digestive system development",0.00210840973039902
+"Tumor-down",0.7,369,1,"GO:0021700","developmental maturation",0.00214805471935075
+"Tumor-down",0.7,370,1,"GO:0015732","prostaglandin transport",0.00214805471935075
+"Tumor-down",0.7,371,2,"GO:0086010","membrane depolarization during action potential",0.00214805471935075
+"Tumor-down",0.7,372,2,"GO:0038063","collagen-activated tyrosine kinase receptor signaling pathway",0.00214805471935075
+"Tumor-down",0.7,373,2,"GO:0070167","regulation of biomineral tissue development",0.00218874347199431
+"Tumor-down",0.7,374,2,"GO:0045165","cell fate commitment",0.00219866966469652
+"Tumor-down",0.7,375,2,"GO:0002526","acute inflammatory response",0.00229826897006625
+"Tumor-down",0.7,376,1,"GO:0070527","platelet aggregation",0.00238856214952848
+"Tumor-down",0.7,377,2,"GO:0045823","positive regulation of heart contraction",0.00240047918213717
+"Tumor-down",0.7,378,2,"GO:0051150","regulation of smooth muscle cell differentiation",0.00241757914770666
+"Tumor-down",0.7,379,1,"GO:0007409","axonogenesis",0.00247964074375646
+"Tumor-down",0.7,380,4,"GO:0006631","fatty acid metabolic process",0.00248508850153845
+"Tumor-down",0.7,381,2,"GO:0030072","peptide hormone secretion",0.00249491466978517
+"Tumor-down",0.7,382,1,"GO:0009410","response to xenobiotic stimulus",0.00249849466144507
+"Tumor-down",0.7,383,2,"GO:0045664","regulation of neuron differentiation",0.00255370616232428
+"Tumor-down",0.7,384,2,"GO:0017157","regulation of exocytosis",0.00262266585093714
+"Tumor-down",0.7,385,1,"GO:0014009","glial cell proliferation",0.00265205223744987
+"Tumor-down",0.7,386,2,"GO:0032332","positive regulation of chondrocyte differentiation",0.00268619949866798
+"Tumor-down",0.7,387,1,"GO:0071880","adenylate cyclase-activating adrenergic receptor signaling pathway",0.00268619949866798
+"Tumor-down",0.7,388,3,"GO:0048469","cell maturation",0.0026981505144359
+"Tumor-down",0.7,389,2,"GO:0048645","animal organ formation",0.00281458311327824
+"Tumor-down",0.7,390,1,"GO:0006576","biogenic amine metabolic process",0.00282813076548934
+"Tumor-down",0.7,391,2,"GO:0060045","positive regulation of cardiac muscle cell proliferation",0.00293619998154573
+"Tumor-down",0.7,392,2,"GO:0086019","cell-cell signaling involved in cardiac conduction",0.00293619998154573
+"Tumor-down",0.7,393,1,"GO:0099505","regulation of presynaptic membrane potential",0.00293619998154573
+"Tumor-down",0.7,394,2,"GO:0150146","cell junction disassembly",0.00293619998154573
+"Tumor-down",0.7,395,1,"GO:0006968","cellular defense response",0.00293619998154573
+"Tumor-down",0.7,396,2,"GO:0001818","negative regulation of cytokine production",0.002982302617372
+"Tumor-down",0.7,397,1,"GO:1901655","cellular response to ketone",0.00302582588121386
+"Tumor-down",0.7,398,4,"GO:0099054","presynapse assembly",0.00302582588121386
+"Tumor-down",0.7,399,2,"GO:1902305","regulation of sodium ion transmembrane transport",0.00302582588121386
+"Tumor-down",0.7,400,2,"GO:0098810","neurotransmitter reuptake",0.00304886613706977
+"Tumor-down",0.7,401,2,"GO:0006801","superoxide metabolic process",0.00306428803410694
+"Tumor-down",0.7,402,2,"GO:0003352","regulation of cilium movement",0.00308019599207296
+"Tumor-down",0.7,403,2,"GO:0002478","antigen processing and presentation of exogenous peptide antigen",0.00308019599207296
+"Tumor-down",0.7,404,1,"GO:0045745","positive regulation of G protein-coupled receptor signaling pathway",0.00308019599207296
+"Tumor-down",0.7,405,1,"GO:0097242","amyloid-beta clearance",0.00308019599207296
+"Tumor-down",0.7,406,2,"GO:0050867","positive regulation of cell activation",0.00315867714093053
+"Tumor-down",0.7,407,2,"GO:0055007","cardiac muscle cell differentiation",0.00322264549285457
+"Tumor-down",0.7,408,1,"GO:1903027","regulation of opsonization",0.0032331062736715
+"Tumor-down",0.7,409,1,"GO:1904238","pericyte cell differentiation",0.0032331062736715
+"Tumor-down",0.7,410,2,"GO:0008202","steroid metabolic process",0.00323769365024242
+"Tumor-down",0.7,411,2,"GO:0002399","MHC class II protein complex assembly",0.00324448202327705
+"Tumor-down",0.7,412,2,"GO:0002503","peptide antigen assembly with MHC class II protein complex",0.00324448202327705
+"Tumor-down",0.7,413,2,"GO:0070943","neutrophil-mediated killing of symbiont cell",0.00324448202327705
+"Tumor-down",0.7,414,2,"GO:0019226","transmission of nerve impulse",0.00326276022704064
+"Tumor-down",0.7,415,2,"GO:0044458","motile cilium assembly",0.00326276022704064
+"Tumor-down",0.7,416,1,"GO:0010975","regulation of neuron projection development",0.00350972481872601
+"Tumor-down",0.7,417,2,"GO:2000027","regulation of animal organ morphogenesis",0.00352590191525695
+"Tumor-down",0.7,418,2,"GO:0046622","positive regulation of organ growth",0.00355107255313125
+"Tumor-down",0.7,419,1,"GO:1901570","fatty acid derivative biosynthetic process",0.00355107255313125
+"Tumor-down",0.7,420,1,"GO:0016339","calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules",0.00373796752022059
+"Tumor-down",0.7,421,1,"GO:0019884","antigen processing and presentation of exogenous antigen",0.00373796752022059
+"Tumor-down",0.7,422,2,"GO:0050432","catecholamine secretion",0.00373796752022059
+"Tumor-down",0.7,423,2,"GO:0022409","positive regulation of cell-cell adhesion",0.00390411133684094
+"Tumor-down",0.7,424,1,"GO:0140962","multicellular organismal-level chemical homeostasis",0.00391670776038843
+"Tumor-down",0.7,425,1,"GO:0010881","regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion",0.00393173834734465
+"Tumor-down",0.7,426,3,"GO:0035930","corticosteroid hormone secretion",0.00393173834734465
+"Tumor-down",0.7,427,2,"GO:0051148","negative regulation of muscle cell differentiation",0.00395286066263798
+"Tumor-down",0.7,428,1,"GO:0038084","vascular endothelial growth factor signaling pathway",0.00395286066263798
+"Tumor-down",0.7,429,1,"GO:0052652","cyclic purine nucleotide metabolic process",0.00395765172932316
+"Tumor-down",0.7,430,2,"GO:0055023","positive regulation of cardiac muscle tissue growth",0.00395765172932316
+"Tumor-down",0.7,431,4,"GO:0032635","interleukin-6 production",0.00407865362373231
+"Tumor-down",0.7,432,2,"GO:0032675","regulation of interleukin-6 production",0.00407865362373231
+"Tumor-down",0.7,433,2,"GO:0018108","peptidyl-tyrosine phosphorylation",0.00412366642772011
+"Tumor-down",0.7,434,3,"GO:0050805","negative regulation of synaptic transmission",0.00412918120817755
+"Tumor-down",0.7,435,2,"GO:0099172","presynapse organization",0.00412918120817755
+"Tumor-down",0.7,436,1,"GO:0045216","cell-cell junction organization",0.00414930640745232
+"Tumor-down",0.7,437,2,"GO:0019730","antimicrobial humoral response",0.00434965887510072
+"Tumor-down",0.7,438,2,"GO:0071773","cellular response to BMP stimulus",0.00434965887510072
+"Tumor-down",0.7,439,1,"GO:0140115","export across plasma membrane",0.00438107424114524
+"Tumor-down",0.7,440,1,"GO:0010842","retina layer formation",0.00456527973469467
+"Tumor-down",0.7,441,2,"GO:0007043","cell-cell junction assembly",0.00463046140496112
+"Tumor-down",0.7,442,2,"GO:1903589","positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis",0.00464676591807787
+"Tumor-down",0.7,443,3,"GO:2000846","regulation of corticosteroid hormone secretion",0.00464676591807787
+"Tumor-down",0.7,444,2,"GO:0019369","arachidonate metabolic process",0.00508574661753029
+"Tumor-down",0.7,445,2,"GO:1903409","reactive oxygen species biosynthetic process",0.00508574661753029
+"Tumor-down",0.7,446,2,"GO:0009187","cyclic nucleotide metabolic process",0.00510214119911791
+"Tumor-down",0.7,447,2,"GO:1903036","positive regulation of response to wounding",0.00510214119911791
+"Tumor-down",0.7,448,1,"GO:0097006","regulation of plasma lipoprotein particle levels",0.00510614974840807
+"Tumor-down",0.7,449,2,"GO:0071466","cellular response to xenobiotic stimulus",0.00510614974840807
+"Tumor-down",0.7,450,2,"GO:0099174","regulation of presynapse organization",0.00510614974840807
+"Tumor-down",0.7,451,2,"GO:0003230","cardiac atrium development",0.00510614974840807
+"Tumor-down",0.7,452,2,"GO:0010742","macrophage derived foam cell differentiation",0.00510614974840807
+"Tumor-down",0.7,453,1,"GO:0034110","regulation of homotypic cell-cell adhesion",0.00510614974840807
+"Tumor-down",0.7,454,2,"GO:0034368","protein-lipid complex remodeling",0.00510614974840807
+"Tumor-down",0.7,455,4,"GO:0034369","plasma lipoprotein particle remodeling",0.00510614974840807
+"Tumor-down",0.7,456,2,"GO:0048608","reproductive structure development",0.00512988214894144
+"Tumor-down",0.7,457,1,"GO:0061138","morphogenesis of a branching epithelium",0.00515736260660077
+"Tumor-down",0.7,458,2,"GO:0002286","T cell activation involved in immune response",0.00522165548666309
+"Tumor-down",0.7,459,2,"GO:0045598","regulation of fat cell differentiation",0.00522165548666309
+"Tumor-down",0.7,460,1,"GO:0071216","cellular response to biotic stimulus",0.00523615323993792
+"Tumor-down",0.7,461,2,"GO:0014897","striated muscle hypertrophy",0.00523867793582491
+"Tumor-down",0.7,462,1,"GO:0002468","dendritic cell antigen processing and presentation",0.00527978245231188
+"Tumor-down",0.7,463,2,"GO:0034103","regulation of tissue remodeling",0.00529580495268806
+"Tumor-down",0.7,464,1,"GO:0120316","sperm flagellum assembly",0.00532512120183388
+"Tumor-down",0.7,465,1,"GO:0048864","stem cell development",0.0056005202623973
+"Tumor-down",0.7,466,2,"GO:0006837","serotonin transport",0.0056005202623973
+"Tumor-down",0.7,467,2,"GO:0060193","positive regulation of lipase activity",0.0056005202623973
+"Tumor-down",0.7,468,2,"GO:0031341","regulation of cell killing",0.00564731532168948
+"Tumor-down",0.7,469,2,"GO:0033604","negative regulation of catecholamine secretion",0.00567486030863696
+"Tumor-down",0.7,470,2,"GO:0071389","cellular response to mineralocorticoid stimulus",0.00567486030863696
+"Tumor-down",0.7,471,2,"GO:0008203","cholesterol metabolic process",0.00573078893651942
+"Tumor-down",0.7,472,2,"GO:1903706","regulation of hemopoiesis",0.00588739268789783
+"Tumor-down",0.7,473,2,"GO:0010718","positive regulation of epithelial to mesenchymal transition",0.00599722961877141
+"Tumor-down",0.7,474,2,"GO:0002690","positive regulation of leukocyte chemotaxis",0.00599722961877141
+"Tumor-down",0.7,475,1,"GO:0072577","endothelial cell apoptotic process",0.00601620381090764
+"Tumor-down",0.7,476,2,"GO:0015698","inorganic anion transport",0.00605860782473487
+"Tumor-down",0.7,477,2,"GO:0051953","negative regulation of amine transport",0.00615770204500398
+"Tumor-down",0.7,478,2,"GO:0086013","membrane repolarization during cardiac muscle cell action potential",0.00615770204500398
+"Tumor-down",0.7,479,2,"GO:0090130","tissue migration",0.00625395411676812
+"Tumor-down",0.7,480,1,"GO:0019933","cAMP-mediated signaling",0.00625395411676812
+"Tumor-down",0.7,481,2,"GO:0120161","regulation of cold-induced thermogenesis",0.00637663517962931
+"Tumor-down",0.7,482,4,"GO:0001990","regulation of systemic arterial blood pressure by hormone",0.00641762533412898
+"Tumor-down",0.7,483,2,"GO:0002438","acute inflammatory response to antigenic stimulus",0.00641762533412898
+"Tumor-down",0.7,484,1,"GO:0007588","excretion",0.00641762533412898
+"Tumor-down",0.7,485,1,"GO:0014047","glutamate secretion",0.00641762533412898
+"Tumor-down",0.7,486,2,"GO:0090330","regulation of platelet aggregation",0.00641762533412898
+"Tumor-down",0.7,487,1,"GO:1905207","regulation of cardiocyte differentiation",0.00641762533412898
+"Tumor-down",0.7,488,3,"GO:0002688","regulation of leukocyte chemotaxis",0.00644453795173441
+"Tumor-down",0.7,489,2,"GO:0022612","gland morphogenesis",0.00644453795173441
+"Tumor-down",0.7,490,2,"GO:0045777","positive regulation of blood pressure",0.00645857059693002
+"Tumor-down",0.7,491,1,"GO:0036005","response to macrophage colony-stimulating factor",0.00645857059693002
+"Tumor-down",0.7,492,2,"GO:0051937","catecholamine transport",0.00645857059693002
+"Tumor-down",0.7,493,1,"GO:2000630","positive regulation of miRNA metabolic process",0.00645857059693002
+"Tumor-down",0.7,494,2,"GO:0007009","plasma membrane organization",0.00656905787501362
+"Tumor-down",0.7,495,1,"GO:0038166","angiotensin-activated signaling pathway",0.0066780399750215
+"Tumor-down",0.7,496,1,"GO:0060352","cell adhesion molecule production",0.0066780399750215
+"Tumor-down",0.7,497,1,"GO:0086014","atrial cardiac muscle cell action potential",0.0066780399750215
+"Tumor-down",0.7,498,1,"GO:0051494","negative regulation of cytoskeleton organization",0.006901866842674
+"Tumor-down",0.7,499,1,"GO:0106106","cold-induced thermogenesis",0.00700237510655179
+"Tumor-down",0.7,500,1,"GO:0019233","sensory perception of pain",0.0070519722862258
+"Tumor-down",0.7,501,1,"GO:0007269","neurotransmitter secretion",0.0070519722862258
+"Tumor-down",0.7,502,1,"GO:0036006","cellular response to macrophage colony-stimulating factor stimulus",0.00705298249518081
+"Tumor-down",0.7,503,2,"GO:0099565","chemical synaptic transmission, postsynaptic",0.00717100851900102
+"Tumor-down",0.7,504,1,"GO:0090278","negative regulation of peptide hormone secretion",0.00731606126944348
+"Tumor-down",0.7,505,2,"GO:0009713","catechol-containing compound biosynthetic process",0.00774736216857781
+"Tumor-down",0.7,506,2,"GO:0042423","catecholamine biosynthetic process",0.00774736216857781
+"Tumor-down",0.7,507,1,"GO:0097164","ammonium ion metabolic process",0.00774736216857781
+"Tumor-down",0.7,508,1,"GO:2000047","regulation of cell-cell adhesion mediated by cadherin",0.00774736216857781
+"Tumor-down",0.7,509,2,"GO:0071825","protein-lipid complex organization",0.00774736216857781
+"Tumor-down",0.7,510,2,"GO:1903037","regulation of leukocyte cell-cell adhesion",0.00775261111789412
+"Tumor-down",0.7,511,1,"GO:0070741","response to interleukin-6",0.00775261111789412
+"Tumor-down",0.7,512,1,"GO:0045926","negative regulation of growth",0.00788708613971785
+"Tumor-down",0.7,513,1,"GO:0007158","neuron cell-cell adhesion",0.00806666382218808
+"Tumor-down",0.7,514,1,"GO:0010649","regulation of cell communication by electrical coupling",0.00806666382218808
+"Tumor-down",0.7,515,2,"GO:0043500","muscle adaptation",0.00807711609105038
+"Tumor-down",0.7,516,2,"GO:0042044","fluid transport",0.00807711609105038
+"Tumor-down",0.7,517,1,"GO:0043271","negative regulation of monoatomic ion transport",0.00810965802192933
+"Tumor-down",0.7,518,2,"GO:0006694","steroid biosynthetic process",0.00816520088859487
+"Tumor-down",0.7,519,1,"GO:0032958","inositol phosphate biosynthetic process",0.00820015610110546
+"Tumor-down",0.7,520,2,"GO:0043627","response to estrogen",0.00822570477998276
+"Tumor-down",0.7,521,2,"GO:0043086","negative regulation of catalytic activity",0.0082606485118449
+"Tumor-down",0.7,522,2,"GO:0090075","relaxation of muscle",0.00828646583026551
+"Tumor-down",0.7,523,1,"GO:0071692","protein localization to extracellular region",0.00830565750404059
+"Tumor-down",0.7,524,2,"GO:0032233","positive regulation of actin filament bundle assembly",0.00841235299180833
+"Tumor-down",0.7,525,1,"GO:0071248","cellular response to metal ion",0.00860698673230513
+"Tumor-down",0.7,526,1,"GO:0010038","response to metal ion",0.00865714223581992
+"Tumor-down",0.7,527,2,"GO:0042698","ovulation cycle",0.00871037605349359
+"Tumor-down",0.7,528,1,"GO:0001763","morphogenesis of a branching structure",0.00910907149491203
+"Tumor-down",0.7,529,2,"GO:0001755","neural crest cell migration",0.009246277174786
+"Tumor-down",0.7,530,2,"GO:0001886","endothelial cell morphogenesis",0.009246277174786
+"Tumor-down",0.7,531,1,"GO:0032341","aldosterone metabolic process",0.009246277174786
+"Tumor-down",0.7,532,1,"GO:0070278","extracellular matrix constituent secretion",0.009246277174786
+"Tumor-down",0.7,533,1,"GO:0015812","gamma-aminobutyric acid transport",0.00971108119591034
+"Tumor-down",0.7,534,1,"GO:0097254","renal tubular secretion",0.00971108119591034
+"Tumor-down",0.7,535,1,"GO:0001820","serotonin secretion",0.00996746903539063
+"Tumor-down",0.7,536,2,"GO:0007440","foregut morphogenesis",0.00996746903539063
+"Tumor-down",0.7,537,1,"GO:0044331","cell-cell adhesion mediated by cadherin",0.0100716920113976
+"Tumor-down",0.7,538,2,"GO:0071320","cellular response to cAMP",0.0100716920113976
+"Tumor-down",0.7,539,2,"GO:0001910","regulation of leukocyte mediated cytotoxicity",0.0100716920113976
+"Tumor-down",0.7,540,2,"GO:0030513","positive regulation of BMP signaling pathway",0.01013682713242
+"Tumor-down",0.7,541,1,"GO:0035592","establishment of protein localization to extracellular region",0.0102411547274368
+"Tumor-down",0.7,542,1,"GO:0007519","skeletal muscle tissue development",0.010665079515869
+"Tumor-down",0.7,543,2,"GO:1903038","negative regulation of leukocyte cell-cell adhesion",0.0107544998191765
+"Tumor-down",0.7,544,2,"GO:0034394","protein localization to cell surface",0.0107544998191765
+"Tumor-down",0.7,545,2,"GO:0051216","cartilage development",0.0108033491543429
+"Tumor-down",0.7,546,1,"GO:0060560","developmental growth involved in morphogenesis",0.0108561636495379
+"Tumor-down",0.7,547,1,"GO:1905606","regulation of presynapse assembly",0.0108561636495379
+"Tumor-down",0.7,548,1,"GO:0046887","positive regulation of hormone secretion",0.0108561636495379
+"Tumor-down",0.7,549,1,"GO:0003209","cardiac atrium morphogenesis",0.0108561636495379
+"Tumor-down",0.7,550,2,"GO:0035116","embryonic hindlimb morphogenesis",0.0108561636495379
+"Tumor-down",0.7,551,1,"GO:0051489","regulation of filopodium assembly",0.0108561636495379
+"Tumor-down",0.7,552,3,"GO:0043583","ear development",0.0111860307609517
+"Tumor-down",0.7,553,2,"GO:0070661","leukocyte proliferation",0.011785287202842
+"Tumor-down",0.7,554,1,"GO:1900744","regulation of p38MAPK cascade",0.0118661066674422
+"Tumor-down",0.7,555,3,"GO:0002763","positive regulation of myeloid leukocyte differentiation",0.0119219388976353
+"Tumor-down",0.7,556,1,"GO:0008347","glial cell migration",0.0119219388976353
+"Tumor-down",0.7,557,1,"GO:0035358","regulation of peroxisome proliferator activated receptor signaling pathway",0.0119219388976353
+"Tumor-down",0.7,558,1,"GO:0035641","locomotory exploration behavior",0.0119219388976353
+"Tumor-down",0.7,559,2,"GO:0048557","embryonic digestive tract morphogenesis",0.0119219388976353
+"Tumor-down",0.7,560,1,"GO:0009306","protein secretion",0.0120433833120642
+"Tumor-down",0.7,561,2,"GO:0071706","tumor necrosis factor superfamily cytokine production",0.0120433833120642
+"Tumor-down",0.7,562,2,"GO:1903555","regulation of tumor necrosis factor superfamily cytokine production",0.0120433833120642
+"Tumor-down",0.7,563,2,"GO:0042304","regulation of fatty acid biosynthetic process",0.0120433833120642
+"Tumor-down",0.7,564,1,"GO:0016049","cell growth",0.0120792960490393
+"Tumor-down",0.7,565,2,"GO:1904063","negative regulation of cation transmembrane transport",0.0124302252709875
+"Tumor-down",0.7,566,1,"GO:1903115","regulation of actin filament-based movement",0.0125121750691003
+"Tumor-down",0.7,567,1,"GO:0019218","regulation of steroid metabolic process",0.0129568120052902
+"Tumor-down",0.7,568,2,"GO:0019217","regulation of fatty acid metabolic process",0.0129568120052902
+"Tumor-down",0.7,569,2,"GO:0032760","positive regulation of tumor necrosis factor production",0.0129568120052902
+"Tumor-down",0.7,570,1,"GO:0038093","Fc receptor signaling pathway",0.013061951786851
+"Tumor-down",0.7,571,2,"GO:0015800","acidic amino acid transport",0.0130872935042913
+"Tumor-down",0.7,572,3,"GO:0045137","development of primary sexual characteristics",0.0131098466674223
+"Tumor-down",0.7,573,1,"GO:0098815","modulation of excitatory postsynaptic potential",0.0131098466674223
+"Tumor-down",0.7,574,2,"GO:0032228","regulation of synaptic transmission, GABAergic",0.0132069346262234
+"Tumor-down",0.7,575,2,"GO:0048265","response to pain",0.0132069346262234
+"Tumor-down",0.7,576,1,"GO:1990845","adaptive thermogenesis",0.0133399966567951
+"Tumor-down",0.7,577,1,"GO:0002888","positive regulation of myeloid leukocyte mediated immunity",0.0133483814605779
+"Tumor-down",0.7,578,2,"GO:0048732","gland development",0.0136619290140042
+"Tumor-down",0.7,579,2,"GO:0008360","regulation of cell shape",0.0137465981241968
+"Tumor-down",0.7,580,2,"GO:0003094","glomerular filtration",0.0142082374156129
+"Tumor-down",0.7,581,1,"GO:0006911","phagocytosis, engulfment",0.0143137329060907
+"Tumor-down",0.7,582,3,"GO:0006068","ethanol catabolic process",0.0143217875074208
+"Tumor-down",0.7,583,1,"GO:0008212","mineralocorticoid metabolic process",0.0143217875074208
+"Tumor-down",0.7,584,1,"GO:0044706","multi-multicellular organism process",0.0143660945017613
+"Tumor-down",0.7,585,1,"GO:0015695","organic cation transport",0.0143660945017613
+"Tumor-down",0.7,586,1,"GO:0150115","cell-substrate junction organization",0.0144908181897225
+"Tumor-down",0.7,587,1,"GO:0031623","receptor internalization",0.0149462993241114
+"Tumor-down",0.7,588,1,"GO:0071260","cellular response to mechanical stimulus",0.0152002474590335
+"Tumor-down",0.7,589,1,"GO:0043268","positive regulation of potassium ion transport",0.0154479141966929
+"Tumor-down",0.7,590,1,"GO:0071402","cellular response to lipoprotein particle stimulus",0.0154479141966929
+"Tumor-down",0.7,591,1,"GO:1902652","secondary alcohol metabolic process",0.0154479141966929
+"Tumor-down",0.7,592,1,"GO:0070509","calcium ion import",0.0160762313499026
+"Tumor-down",0.7,593,1,"GO:0010721","negative regulation of cell development",0.0163843054815027
+"Tumor-down",0.7,594,2,"GO:0050994","regulation of lipid catabolic process",0.0164102533928989
+"Tumor-down",0.7,595,1,"GO:0042180","ketone metabolic process",0.0164456523514733
+"Tumor-down",0.7,596,2,"GO:0009743","response to carbohydrate",0.0165433291592271
+"Tumor-down",0.7,597,1,"GO:0001660","fever generation",0.0167056647774018
+"Tumor-down",0.7,598,1,"GO:0038130","ERBB4 signaling pathway",0.0167056647774018
+"Tumor-down",0.7,599,1,"GO:0098870","action potential propagation",0.0167056647774018
+"Tumor-down",0.7,600,1,"GO:1901748","leukotriene D4 metabolic process",0.0167056647774018
+"Tumor-down",0.7,601,2,"GO:0090596","sensory organ morphogenesis",0.0168038504752835
+"Tumor-down",0.7,602,1,"GO:0031643","positive regulation of myelination",0.0170514091306306
+"Tumor-down",0.7,603,1,"GO:0032413","negative regulation of ion transmembrane transporter activity",0.0170991668915782
+"Tumor-down",0.7,604,3,"GO:0006638","neutral lipid metabolic process",0.0172114510311277
+"Tumor-down",0.7,605,1,"GO:0002347","response to tumor cell",0.0172387118905322
+"Tumor-down",0.7,606,1,"GO:0003009","skeletal muscle contraction",0.0172387118905322
+"Tumor-down",0.7,607,1,"GO:0050730","regulation of peptidyl-tyrosine phosphorylation",0.0173192153014977
+"Tumor-down",0.7,608,1,"GO:0030212","hyaluronan metabolic process",0.0173863080034012
+"Tumor-down",0.7,609,1,"GO:0071496","cellular response to external stimulus",0.0174204882888647
+"Tumor-down",0.7,610,1,"GO:0046660","female sex differentiation",0.0176896222370929
+"Tumor-down",0.7,611,2,"GO:0046165","alcohol biosynthetic process",0.0177191019060899
+"Tumor-down",0.7,612,1,"GO:0031099","regeneration",0.0177817552452094
+"Tumor-down",0.7,613,1,"GO:0038066","p38MAPK cascade",0.0180602346904489
+"Tumor-down",0.7,614,1,"GO:0031579","membrane raft organization",0.0181070418082315
+"Tumor-down",0.7,615,1,"GO:0060441","epithelial tube branching involved in lung morphogenesis",0.0181070418082315
+"Tumor-down",0.7,616,2,"GO:0010596","negative regulation of endothelial cell migration",0.0181070418082315
+"Tumor-down",0.7,617,1,"GO:2000177","regulation of neural precursor cell proliferation",0.0183023622075036
+"Tumor-down",0.7,618,2,"GO:0048008","platelet-derived growth factor receptor signaling pathway",0.0183613540437373
+"Tumor-down",0.7,619,1,"GO:0033622","integrin activation",0.0183853011972519
+"Tumor-down",0.7,620,1,"GO:0048520","positive regulation of behavior",0.0183853011972519
+"Tumor-down",0.7,621,2,"GO:0060259","regulation of feeding behavior",0.0183853011972519
+"Tumor-down",0.7,622,2,"GO:1902692","regulation of neuroblast proliferation",0.0186625340511795
+"Tumor-down",0.7,623,1,"GO:0036215","response to stem cell factor",0.0186625340511795
+"Tumor-down",0.7,624,1,"GO:0036216","cellular response to stem cell factor stimulus",0.0186625340511795
+"Tumor-down",0.7,625,1,"GO:0038109","Kit signaling pathway",0.0186625340511795
+"Tumor-down",0.7,626,2,"GO:2001222","regulation of neuron migration",0.0186625340511795
+"Tumor-down",0.7,627,2,"GO:0042593","glucose homeostasis",0.0187330954208249
+"Tumor-down",0.7,628,1,"GO:0051965","positive regulation of synapse assembly",0.0187339496747414
+"Tumor-down",0.7,629,1,"GO:0048588","developmental cell growth",0.018765568566603
+"Tumor-down",0.7,630,1,"GO:0071354","cellular response to interleukin-6",0.0203291701497916
+"Tumor-down",0.7,631,2,"GO:0007286","spermatid development",0.0204913851159326
+"Tumor-down",0.7,632,1,"GO:1990849","vacuolar localization",0.0207373576145984
+"Tumor-down",0.7,633,2,"GO:0050672","negative regulation of lymphocyte proliferation",0.0208258378556834
+"Tumor-down",0.7,634,2,"GO:2000351","regulation of endothelial cell apoptotic process",0.0212127676340878
+"Tumor-down",0.7,635,2,"GO:0060572","morphogenesis of an epithelial bud",0.021288904666963
+"Tumor-down",0.7,636,1,"GO:0030947","regulation of vascular endothelial growth factor receptor signaling pathway",0.0218476536730582
+"Tumor-down",0.7,637,2,"GO:0048863","stem cell differentiation",0.0219461191967926
+"Tumor-down",0.7,638,1,"GO:0030501","positive regulation of bone mineralization",0.0228363768093804
+"Tumor-down",0.7,639,1,"GO:0061614","miRNA transcription",0.0231483310024497
+"Tumor-down",0.7,640,2,"GO:1904893","negative regulation of receptor signaling pathway via STAT",0.0231483310024497
+"Tumor-down",0.7,641,2,"GO:0042632","cholesterol homeostasis",0.0232349290217319
+"Tumor-down",0.7,642,1,"GO:0060021","roof of mouth development",0.0235152997698974
+"Tumor-down",0.7,643,1,"GO:0007620","copulation",0.0235152997698974
+"Tumor-down",0.7,644,1,"GO:0032310","prostaglandin secretion",0.0235152997698974
+"Tumor-down",0.7,645,2,"GO:1905063","regulation of vascular associated smooth muscle cell differentiation",0.0235152997698974
+"Tumor-down",0.7,646,1,"GO:0034763","negative regulation of transmembrane transport",0.0235156844280078
+"Tumor-down",0.7,647,1,"GO:0045662","negative regulation of myoblast differentiation",0.0238388646458302
+"Tumor-down",0.7,648,2,"GO:0010878","cholesterol storage",0.0240823704457633
+"Tumor-down",0.7,649,3,"GO:0032649","regulation of type II interferon production",0.0244113181774917
+"Tumor-down",0.7,650,1,"GO:0050905","neuromuscular process",0.0244888961865576
+"Tumor-down",0.7,651,1,"GO:1902905","positive regulation of supramolecular fiber organization",0.0244888961865576
+"Tumor-down",0.7,652,1,"GO:0046651","lymphocyte proliferation",0.0251795155409755
+"Tumor-down",0.7,653,1,"GO:0030041","actin filament polymerization",0.0255367507624515
+"Tumor-down",0.7,654,1,"GO:0002698","negative regulation of immune effector process",0.0256212142037533
+"Tumor-down",0.7,655,2,"GO:0010459","negative regulation of heart rate",0.0256212142037533
+"Tumor-down",0.7,656,1,"GO:0070857","regulation of bile acid biosynthetic process",0.0256212142037533
+"Tumor-down",0.7,657,1,"GO:2000310","regulation of NMDA receptor activity",0.0256212142037533
+"Tumor-down",0.7,658,2,"GO:0032945","negative regulation of mononuclear cell proliferation",0.0260776406114379
+"Tumor-down",0.7,659,1,"GO:0007617","mating behavior",0.0263319311881381
+"Tumor-down",0.7,660,2,"GO:0051056","regulation of small GTPase mediated signal transduction",0.026432237338613
+"Tumor-down",0.7,661,2,"GO:0070663","regulation of leukocyte proliferation",0.0267024745140394
+"Tumor-down",0.7,662,2,"GO:0061005","cell differentiation involved in kidney development",0.0270070196299119
+"Tumor-down",0.7,663,2,"GO:1904659","D-glucose transmembrane transport",0.028348016729842
+"Tumor-down",0.7,664,1,"GO:0090322","regulation of superoxide metabolic process",0.0283711908625185
+"Tumor-down",0.7,665,1,"GO:0033627","cell adhesion mediated by integrin",0.0295661321910867
+"Tumor-down",0.7,666,1,"GO:0097009","energy homeostasis",0.0295681478869525
+"Tumor-down",0.7,667,2,"GO:0008406","gonad development",0.0297493778130106
+"Tumor-down",0.7,668,1,"GO:0032354","response to follicle-stimulating hormone",0.0297493778130106
+"Tumor-down",0.7,669,2,"GO:0050954","sensory perception of mechanical stimulus",0.0301873883128042
+"Tumor-down",0.7,670,1,"GO:0045927","positive regulation of growth",0.030210756426698
+"Tumor-down",0.7,671,1,"GO:0061318","renal filtration cell differentiation",0.0310966501986002
+"Tumor-down",0.7,672,2,"GO:0072112","podocyte differentiation",0.0310966501986002
+"Tumor-down",0.7,673,1,"GO:0051923","sulfation",0.0312079273041397
+"Tumor-down",0.7,674,1,"GO:1904754","positive regulation of vascular associated smooth muscle cell migration",0.0312079273041397
+"Tumor-down",0.7,675,2,"GO:0043300","regulation of leukocyte degranulation",0.0319104155245006
+"Tumor-down",0.7,676,1,"GO:0006835","dicarboxylic acid transport",0.0319104155245006
+"Tumor-down",0.7,677,2,"GO:0055021","regulation of cardiac muscle tissue growth",0.0322543132479084
+"Tumor-down",0.7,678,1,"GO:0033344","cholesterol efflux",0.0328058719836429
+"Tumor-down",0.7,679,1,"GO:0043406","positive regulation of MAP kinase activity",0.0328058719836429
+"Tumor-down",0.7,680,1,"GO:0032418","lysosome localization",0.0332976903425175
+"Tumor-down",0.7,681,1,"GO:0060348","bone development",0.0349926526772613
+"Tumor-down",0.7,682,1,"GO:1902476","chloride transmembrane transport",0.034998044297417
+"Tumor-down",0.7,683,1,"GO:0035710","CD4-positive, alpha-beta T cell activation",0.034998044297417
+"Tumor-down",0.7,684,1,"GO:0002495","antigen processing and presentation of peptide antigen via MHC class II",0.035090353235697
+"Tumor-down",0.7,685,1,"GO:0007288","sperm axoneme assembly",0.035090353235697
+"Tumor-down",0.7,686,1,"GO:0017145","stem cell division",0.035090353235697
+"Tumor-down",0.7,687,1,"GO:0044060","regulation of endocrine process",0.0354657815466107
+"Tumor-down",0.7,688,1,"GO:0034446","substrate adhesion-dependent cell spreading",0.0363452047038282
+"Tumor-down",0.7,689,1,"GO:0010611","regulation of cardiac muscle hypertrophy",0.03651195379866
+"Tumor-down",0.7,690,1,"GO:0043030","regulation of macrophage activation",0.03651195379866
+"Tumor-down",0.7,691,1,"GO:1903708","positive regulation of hemopoiesis",0.0365526058630415
+"Tumor-down",0.7,692,1,"GO:0007044","cell-substrate junction assembly",0.0367984141279535
+"Tumor-down",0.7,693,1,"GO:0008643","carbohydrate transport",0.0372579836853811
+"Tumor-down",0.7,694,1,"GO:0046209","nitric oxide metabolic process",0.0376379042878286
+"Tumor-down",0.7,695,1,"GO:0003156","regulation of animal organ formation",0.0376429325055805
+"Tumor-down",0.7,696,1,"GO:0010989","negative regulation of low-density lipoprotein particle clearance",0.0376429325055805
+"Tumor-down",0.7,697,1,"GO:0035810","positive regulation of urine volume",0.0376429325055805
+"Tumor-down",0.7,698,1,"GO:0036302","atrioventricular canal development",0.0376429325055805
+"Tumor-down",0.7,699,1,"GO:0051610","serotonin uptake",0.0376429325055805
+"Tumor-down",0.7,700,2,"GO:0034219","carbohydrate transmembrane transport",0.0380244945500579
+"Tumor-down",0.7,701,1,"GO:0021953","central nervous system neuron differentiation",0.0387517480447449
+"Tumor-down",0.7,702,1,"GO:0007586","digestion",0.0391618468423599
+"Tumor-down",0.7,703,1,"GO:0097306","cellular response to alcohol",0.039244731670028
+"Tumor-down",0.7,704,1,"GO:0006706","steroid catabolic process",0.0396158112494749
+"Tumor-down",0.7,705,1,"GO:0070665","positive regulation of leukocyte proliferation",0.0404124009462735
+"Tumor-down",0.7,706,1,"GO:0007379","segment specification",0.0406794507006226
+"Tumor-down",0.7,707,1,"GO:0033137","negative regulation of peptidyl-serine phosphorylation",0.0406794507006226
+"Tumor-down",0.7,708,1,"GO:0033623","regulation of integrin activation",0.0406794507006226
+"Tumor-down",0.7,709,2,"GO:0034035","purine ribonucleoside bisphosphate metabolic process",0.0406794507006226
+"Tumor-down",0.7,710,1,"GO:1902307","positive regulation of sodium ion transmembrane transport",0.040873765397066
+"Tumor-down",0.7,711,1,"GO:2000738","positive regulation of stem cell differentiation",0.040873765397066
+"Tumor-down",0.7,712,1,"GO:1904950","negative regulation of establishment of protein localization",0.0415626802003956
+"Tumor-down",0.7,713,3,"GO:0016101","diterpenoid metabolic process",0.0417817150921423
+"Tumor-down",0.7,714,1,"GO:0006695","cholesterol biosynthetic process",0.0420041586631901
+"Tumor-down",0.7,715,1,"GO:0045669","positive regulation of osteoblast differentiation",0.042199534026088
+"Tumor-down",0.7,716,1,"GO:0010464","regulation of mesenchymal cell proliferation",0.0422798412046059
+"Tumor-down",0.7,717,1,"GO:0050891","multicellular organismal-level water homeostasis",0.0422798412046059
+"Tumor-down",0.7,718,1,"GO:0009755","hormone-mediated signaling pathway",0.0422798412046059
+"Tumor-down",0.7,719,1,"GO:0050671","positive regulation of lymphocyte proliferation",0.0422798412046059
+"Tumor-down",0.7,720,1,"GO:0030856","regulation of epithelial cell differentiation",0.043519622543499
+"Tumor-down",0.7,721,1,"GO:1903039","positive regulation of leukocyte cell-cell adhesion",0.0438618635246457
+"Tumor-down",0.7,722,1,"GO:0001974","blood vessel remodeling",0.0439873797742431
+"Tumor-down",0.7,723,1,"GO:0008038","neuron recognition",0.0439873797742431
+"Tumor-down",0.7,724,1,"GO:0030534","adult behavior",0.0446169552602402
+"Tumor-down",0.7,725,1,"GO:0050868","negative regulation of T cell activation",0.0453548650655797
+"Tumor-down",0.7,726,1,"GO:0050803","regulation of synapse structure or activity",0.046082758887084
+"Tumor-down",0.7,727,1,"GO:0140448","signaling receptor ligand precursor processing",0.046082758887084
+"Tumor-down",0.7,728,1,"GO:2001057","reactive nitrogen species metabolic process",0.046082758887084
+"Tumor-down",0.7,729,1,"GO:0032966","negative regulation of collagen biosynthetic process",0.046082758887084
+"Tumor-down",0.7,730,1,"GO:0044854","plasma membrane raft assembly",0.046082758887084
+"Tumor-down",0.7,731,1,"GO:0061626","pharyngeal arch artery morphogenesis",0.046082758887084
+"Tumor-down",0.7,732,1,"GO:0071372","cellular response to follicle-stimulating hormone stimulus",0.046082758887084
+"Tumor-down",0.7,733,1,"GO:0098917","retrograde trans-synaptic signaling",0.046082758887084
+"Tumor-down",0.7,734,1,"GO:1902306","negative regulation of sodium ion transmembrane transport",0.046082758887084
+"Tumor-down",0.7,735,2,"GO:1903276","regulation of sodium ion export across plasma membrane",0.046082758887084
+"Tumor-down",0.7,736,1,"GO:1904383","response to sodium phosphate",0.046082758887084
+"Tumor-down",0.7,737,1,"GO:1990416","cellular response to brain-derived neurotrophic factor stimulus",0.046082758887084
+"Tumor-down",0.7,738,2,"GO:0010563","negative regulation of phosphorus metabolic process",0.046116784577825
+"Tumor-down",0.7,739,1,"GO:1990138","neuron projection extension",0.0463773798387988
+"Tumor-down",0.7,740,1,"GO:0006809","nitric oxide biosynthetic process",0.0470284487095716
+"Tumor-down",0.7,741,1,"GO:0046503","glycerolipid catabolic process",0.0472282271582113
+"Tumor-down",0.7,742,1,"GO:0051495","positive regulation of cytoskeleton organization",0.0482315484359662
+"Tumor-down",0.7,743,1,"GO:0048872","homeostasis of number of cells",0.0498801982987378

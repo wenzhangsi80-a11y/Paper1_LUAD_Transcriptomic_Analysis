@@ -1,0 +1,4 @@
+"gene","object","n","tumor","normal","response_class","predictor_class"
+"AOC3","roc_AOC3",575,516,59,"numeric","numeric"
+"MS4A7","roc_MS4A7",575,516,59,"numeric","numeric"
+"IL7R","roc_IL7R",575,516,59,"numeric","numeric"

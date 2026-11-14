@@ -1,0 +1,156 @@
+============================================================
+PAPER 1 - STEP7B6 SCRIPT 01
+Checkpoint Object Inventory and Model Integrity Audit
+============================================================
+
+Analysis date:
+2026-11-01 
+
+R version:
+R version 4.5.1 (2025-06-13 ucrt) 
+
+Base directory:
+O:/Rproject/Paper1_tumor-only WGCNA 
+
+------------------------------------------------------------
+1. Input file status
+------------------------------------------------------------
+                 file_key                                                                                       file_path file_exists
+1      STEP7B6_checkpoint  O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B6_purity_adjusted_regression_checkpoint.RData        TRUE
+2         STEP7B5_dataset         O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B5_locked_purity_adjusted_dataset.RData        TRUE
+3 STEP7B4C_matching_audit               O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B4C_ABSOLUTE_matching_audit.RData        TRUE
+4  STEP7B4D_barcode_audit O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B4D_ABSOLUTE_barcode_reconciliation_audit.RData        TRUE
+  file_size_MB
+1        0.254
+2        0.028
+3        0.001
+4        0.001
+
+------------------------------------------------------------
+2. RData loading status
+------------------------------------------------------------
+                 file_key load_success object_count error_message
+1      STEP7B6_checkpoint         TRUE            7              
+2         STEP7B5_dataset         TRUE            4              
+3 STEP7B4C_matching_audit         TRUE            1              
+4  STEP7B4D_barcode_audit         TRUE            1              
+
+------------------------------------------------------------
+3. Complete object inventory
+------------------------------------------------------------
+    record_type                file_key                 object_name object_class object_type object_length dimensions
+1  RData_object      STEP7B6_checkpoint              model_spec_7b6   data.frame        list             2      9 x 2
+2  RData_object      STEP7B6_checkpoint      purity_adjusted_models         list        list             9       <NA>
+3  RData_object      STEP7B6_checkpoint     purity_adjusted_results   data.frame        list            16     9 x 16
+4  RData_object      STEP7B6_checkpoint purity_adjusted_results_raw   data.frame        list            16     9 x 16
+5  RData_object      STEP7B6_checkpoint   step7b6_extraction_passed      logical     logical             1       <NA>
+6  RData_object      STEP7B6_checkpoint         step7b6_final_audit         list        list            32       <NA>
+7  RData_object      STEP7B6_checkpoint        step7b6_final_passed      logical     logical             1       <NA>
+8  RData_object         STEP7B5_dataset     excluded_purity_ids_7b5    character   character            13       <NA>
+9  RData_object         STEP7B5_dataset     purity_adjusted_dataset   data.frame        list             8    500 x 8
+10 RData_object         STEP7B5_dataset          purity_summary_7b5      numeric      double             7       <NA>
+11 RData_object         STEP7B5_dataset               step7b5_audit         list        list            24       <NA>
+12 RData_object STEP7B4C_matching_audit              step7b4c_audit         list        list            32       <NA>
+13 RData_object  STEP7B4D_barcode_audit              step7b4d_audit         list        list            15       <NA>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 component_names
+1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                TME_Trait; Gene
+2                                                                                                                                                                                                                                                                                                                                                                                                                          ImmuneScore__AOC3; ImmuneScore__MS4A7; ImmuneScore__IL7R; StromalScore__AOC3; StromalScore__MS4A7; StromalScore__IL7R; ESTIMATEScore__AOC3; ESTIMATEScore__MS4A7; ESTIMATEScore__IL7R
+3                                                                                                                                                                                                                                                                                                                                                                                                                                   TME_Trait; Gene; N; Gene_Beta; Gene_SE; Gene_t; Gene_P; Gene_FDR_BH; Direction; Significant_FDR05; Purity_Beta; Purity_SE; Purity_t; Purity_P; R_squared; Adjusted_R_squared
+4                                                                                                                                                                                                                                                                                                                                                                                                                                   TME_Trait; Gene; N; Gene_Beta; Gene_SE; Gene_t; Gene_P; Purity_Beta; Purity_SE; Purity_t; Purity_P; R_squared; Adjusted_R_squared; Direction; Gene_FDR_BH; Significant_FDR05
+5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <NA>
+6                                            status; analysis; model_type; n_models; N_per_model; predictors; gene_terms; TME_traits; multiple_testing; adjusted_term; no_adjusted_spearman; no_model_refitting_during_extraction; purity_imputation_performed; barcode_transformation_performed; automatic_remapping_performed; step7a2_objects_modified; audit_model_number; audit_N; audit_gene_beta; audit_gene_p; audit_gene_fdr; audit_purity_beta; audit_purity_p; audit_fdr_definition; audit_trait_order; audit_gene_order; audit_fdr_final; audit_direction; audit_significance; audit_step7a2_objects
+7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <NA>
+8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <NA>
+9                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Sample_ID; AOC3; MS4A7; IL7R; StromalScore; ImmuneScore; ESTIMATEScore; ABSOLUTE_Purity
+10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             N; Min; Q1; Median; Mean; Q3; Max
+11                                                             step; purpose; source_core_tme_n; source_core_tme_unique_samples; absolute_source_n; exact_absolute_matches_n; exact_absolute_missing_purity_n; no_absolute_record_n; final_analysis_n; excluded_n; excluded_ids; excluded_no_absolute_record_ids; excluded_missing_purity_ids; purity_source; purity_variable; barcode_matching_method; barcode_transformation_performed; automatic_remapping_performed; purity_imputation_performed; statistical_analysis_performed; regression_performed; spearman_performed; step7a2_objects_modified; status
+12 step; source_file; source_dimensions; required_columns_present; array_unique_n; array_duplicate_n; sample_unique_n; sample_duplicate_n; purity_is_numeric; purity_missing_n; purity_nonfinite_n; purity_min; purity_median; purity_mean; purity_max; purity_within_0_1; call_status_table; primary_LUAD_N; primary_LUAD_unique_N; exact_match_n; exact_match_fraction; unmatched_primary_ids; multiple_absolute_records; zero_absolute_records; matched_purity_missing_n; matched_purity_finite_n; barcode_transformation_performed; statistical_analysis_performed; regression_performed; spearman_performed
+13                                                                                                                                                                                                                                                      step; unmatched_primary_ids; unmatched_prefix_summary; prefix_match_list; missing_purity_df; exact_matched_N; exact_matched_missing_purity_N; exact_matched_finite_purity_N; barcode_transformation_performed; automatic_remapping_performed; statistical_analysis_performed; regression_performed; spearman_performed; step7a2_objects_modified; status
+
+------------------------------------------------------------
+4. Expected object checks
+------------------------------------------------------------
+            file_key         expected_object object_present
+1 STEP7B6_checkpoint  purity_adjusted_models           TRUE
+2 STEP7B6_checkpoint purity_adjusted_results           TRUE
+3 STEP7B6_checkpoint     step7b6_final_audit           TRUE
+4 STEP7B6_checkpoint purity_adjusted_dataset          FALSE
+5    STEP7B5_dataset purity_adjusted_dataset           TRUE
+6    STEP7B5_dataset           step7b5_audit           TRUE
+
+------------------------------------------------------------
+5. Key object inventory across files
+------------------------------------------------------------
+               object_name                file_key object_present
+1  purity_adjusted_dataset      STEP7B6_checkpoint          FALSE
+2  purity_adjusted_dataset         STEP7B5_dataset           TRUE
+3  purity_adjusted_dataset STEP7B4C_matching_audit          FALSE
+4  purity_adjusted_dataset  STEP7B4D_barcode_audit          FALSE
+5   purity_adjusted_models      STEP7B6_checkpoint           TRUE
+6   purity_adjusted_models         STEP7B5_dataset          FALSE
+7   purity_adjusted_models STEP7B4C_matching_audit          FALSE
+8   purity_adjusted_models  STEP7B4D_barcode_audit          FALSE
+9  purity_adjusted_results      STEP7B6_checkpoint           TRUE
+10 purity_adjusted_results         STEP7B5_dataset          FALSE
+11 purity_adjusted_results STEP7B4C_matching_audit          FALSE
+12 purity_adjusted_results  STEP7B4D_barcode_audit          FALSE
+13           step7b5_audit      STEP7B6_checkpoint          FALSE
+14           step7b5_audit         STEP7B5_dataset           TRUE
+15           step7b5_audit STEP7B4C_matching_audit          FALSE
+16           step7b5_audit  STEP7B4D_barcode_audit          FALSE
+17     step7b6_final_audit      STEP7B6_checkpoint           TRUE
+18     step7b6_final_audit         STEP7B5_dataset          FALSE
+19     step7b6_final_audit STEP7B4C_matching_audit          FALSE
+20     step7b6_final_audit  STEP7B4D_barcode_audit          FALSE
+
+------------------------------------------------------------
+6. Fitted model inventory
+------------------------------------------------------------
+                                   model_name model_class model_N      N_method   N_check
+1    purity_adjusted_models$ImmuneScore__AOC3          lm     500 stats::nobs() PASS_N500
+2   purity_adjusted_models$ImmuneScore__MS4A7          lm     500 stats::nobs() PASS_N500
+3    purity_adjusted_models$ImmuneScore__IL7R          lm     500 stats::nobs() PASS_N500
+4   purity_adjusted_models$StromalScore__AOC3          lm     500 stats::nobs() PASS_N500
+5  purity_adjusted_models$StromalScore__MS4A7          lm     500 stats::nobs() PASS_N500
+6   purity_adjusted_models$StromalScore__IL7R          lm     500 stats::nobs() PASS_N500
+7  purity_adjusted_models$ESTIMATEScore__AOC3          lm     500 stats::nobs() PASS_N500
+8 purity_adjusted_models$ESTIMATEScore__MS4A7          lm     500 stats::nobs() PASS_N500
+9  purity_adjusted_models$ESTIMATEScore__IL7R          lm     500 stats::nobs() PASS_N500
+
+------------------------------------------------------------
+7. Results object summary
+------------------------------------------------------------
+  results_object_present results_class results_rows results_columns
+1                   TRUE    data.frame            9              16
+                                                                                                                                                          results_column_names
+1 TME_Trait; Gene; N; Gene_Beta; Gene_SE; Gene_t; Gene_P; Gene_FDR_BH; Direction; Significant_FDR05; Purity_Beta; Purity_SE; Purity_t; Purity_P; R_squared; Adjusted_R_squared
+
+------------------------------------------------------------
+8. Expected Gene-TME combinations
+------------------------------------------------------------
+   Gene     TME_trait       combination_id combination_count_expected
+1  AOC3   ImmuneScore    AOC3__ImmuneScore                          1
+2 MS4A7   ImmuneScore   MS4A7__ImmuneScore                          1
+3  IL7R   ImmuneScore    IL7R__ImmuneScore                          1
+4  AOC3  StromalScore   AOC3__StromalScore                          1
+5 MS4A7  StromalScore  MS4A7__StromalScore                          1
+6  IL7R  StromalScore   IL7R__StromalScore                          1
+7  AOC3 ESTIMATEScore  AOC3__ESTIMATEScore                          1
+8 MS4A7 ESTIMATEScore MS4A7__ESTIMATEScore                          1
+9  IL7R ESTIMATEScore  IL7R__ESTIMATEScore                          1
+
+------------------------------------------------------------
+9. Structural correspondence checks
+------------------------------------------------------------
+                          check_item            check_result
+1     Expected Gene-TME combinations 9 expected combinations
+2    Fitted model objects identified                       9
+3                        Model count      PASS_MODEL_COUNT_9
+4                 All models N = 500    PASS_ALL_MODELS_N500
+5              Results object exists                 PRESENT
+6     Results object contains 9 rows     PASS_RESULTS_ROWS_9
+7 Exact model-results correspondence       PENDING_SCRIPT_02
+
+============================================================
+END OF SCRIPT 01
+============================================================

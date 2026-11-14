@@ -1,0 +1,59 @@
+O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6B_Historical_Workflow03F_Lineage_Audit/03_workspace_audit/STEP9B6B_RData_DEG_relevant_object_hits.csv
+O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6C_Historical_DEG_Provenance_Audit/01_tables/STEP9B6C_DEG_candidate_structural_audit.csv
+O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6C_Historical_DEG_Provenance_Audit/01_tables/STEP9B6C_DEG_column_definition_candidates.csv
+O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6C_Historical_DEG_Provenance_Audit/01_tables/STEP9B6C_DEG_result_object_assignment_candidates.csv
+O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6C_Historical_DEG_Provenance_Audit/01_tables/STEP9B6C_historical_DEG_filename_candidates.csv
+O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6C_Historical_DEG_Provenance_Audit/03_workspace_audit/STEP9B6C_RData_objects_with_DEG_like_columns.csv
+O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6D_Final_Historical_DEG_Candidate_Disambiguation/01_script_audit/STEP9B6D_historical_DEG_column_hits.csv
+O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6D_Final_Historical_DEG_Candidate_Disambiguation/01_script_audit/STEP9B6D_historical_DEG_threshold_hits.csv
+O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6D_Final_Historical_DEG_Candidate_Disambiguation/02_output_command_audit/STEP9B6D_DEG_related_output_commands.csv
+O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6D_Final_Historical_DEG_Candidate_Disambiguation/04_rdata_audit/STEP9B6D_RData_DEG_like_objects_SAFE.csv
+O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/QC/Step14A-14E_LOCKED_KEY_RESULTS.csv
+O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/Tables/Step14D_module_TME_FDR05.csv
+O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C_gene_filtering_statistics.txt
+O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C5B_core_checkpoint_pairedAudit_unadjusted_vs_ImmuneScore.rds
+O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_adjusted_significant_38.tsv
+O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7A_manuscript_result_definition_lock.rds
+O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7A_manuscript_result_definition_lock.tsv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9A_Input_Inventory_Definition_Lock/01_inventory/STEP9A_DEG_candidate_files.txt
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9A_Input_Inventory_Definition_Lock/01_inventory/STEP9A_upstream_file_search_results.rds
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9A_Input_Inventory_Definition_Lock/03_QC/STEP9A_DEG_QC.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_ALL.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_DOWN.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_FULL.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_UP.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/03_QC/STEP9B7R_CoreGene_DEG_Audit.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/01_file_inventory/STEP9B_STEP2_DEG_candidate_file_inventory.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/01_file_inventory/STEP9B2_candidate_STEP2_DEG_files.txt
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/01_file_inventory/STEP9B3_targeted_DEG_recovery_candidates.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/01_file_inventory/STEP9B5_candidate_historical_DEG_files.txt
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B_DEG_candidate_structural_audit.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B_likely_DEG_candidates.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B5_candidate_historical_DEG_files.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B6_strong_DEG_script_candidates.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B6_strong_DEG_script_excerpts.txt
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B6A_expression_DEG_structural_audit.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/03_locked_input/STEP9B6_final_historical_DEG_candidates.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/03_locked_input/STEP9B6_final_historical_DEG_candidates.txt
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/04_QC/STEP9B_DEG_definition_status.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/00_input/STEP9C_DEG_testing_universe_57828.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/00_input/STEP9C_locked_DEG_all.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/00_input/STEP9C_locked_DEG_Tumor_down.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/00_input/STEP9C_locked_DEG_Tumor_up.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_BP/Tumor_down_GO_BP_FDR05.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_BP/Tumor_up_GO_BP_FDR05.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_CC/Tumor_down_GO_CC_FDR05.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_CC/Tumor_up_GO_CC_FDR05.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_MF/Tumor_down_GO_MF_FDR05.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_MF/Tumor_up_GO_MF_FDR05.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/KEGG/Tumor_down_KEGG_DEG_Ensembl_to_Entrez_mapping.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/KEGG/Tumor_down_KEGG_FDR05.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/KEGG/Tumor_up_KEGG_DEG_Ensembl_to_Entrez_mapping.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/KEGG/Tumor_up_KEGG_FDR05.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C5A_KEGG_TumorDown_enrichResult.rds
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C5A_KEGG_TumorUp_enrichResult.rds
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C5B_MANUSCRIPT_RESULTS_LOCKED.rds
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C6_GO_BP_TumorDown_FDR05.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C6_GO_BP_TumorUp_FDR05.csv
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C6A_GO_BP_RESULT_QC_LOCK.rds
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C6B_MANUSCRIPT_RESULTS_LOCKED.rds

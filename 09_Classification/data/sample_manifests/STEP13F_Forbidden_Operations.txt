@@ -1,0 +1,20 @@
+STEP13F — FORBIDDEN DOWNSTREAM OPERATIONS
+============================================================
+
+External model refitting
+External coefficient estimation
+External feature selection
+External stepwise selection
+External LASSO selection
+External elastic-net selection
+External threshold optimization
+External cutpoint search
+External hyperparameter tuning
+External dataset-specific scaling
+External dataset-specific standardization
+Pooling TCGA and GSE32863 before model fitting
+Using GSE32863 to define the model
+Using external outcome labels to alter model specification
+Changing predictor genes after this lock
+Changing predictor order after this lock
+Changing outcome reference level after this lock

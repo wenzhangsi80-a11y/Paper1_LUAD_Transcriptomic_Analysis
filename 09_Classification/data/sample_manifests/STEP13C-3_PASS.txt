@@ -1,0 +1,20 @@
+STEP13C-3 — PASS
+
+GSE32863 historical sample annotation provenance established.
+
+Normal N = 58
+Tumor N = 58
+Total N = 116
+
+group and expr3$Group are exactly concordant.
+Expression-object sample-ID sets are concordant.
+
+No sample reclassification performed.
+No expression reconstruction performed.
+No expression transformation performed.
+No probe selection performed.
+No ROC/AUC recalculation performed.
+No model refitting performed.
+No threshold optimization performed.
+
+Paired-patient identity remains reserved for STEP13C-4.

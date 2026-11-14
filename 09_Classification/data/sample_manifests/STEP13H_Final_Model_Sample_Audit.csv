@@ -1,0 +1,4 @@
+"quantity","observed","expected","PASS"
+"Model observations",575,575,TRUE
+"Tumor observations",516,516,TRUE
+"Normal observations",59,59,TRUE

@@ -1,0 +1,10 @@
+WGCNA apparent sample columns = 513
+WGCNA IDs found in annotation = 513
+WGCNA IDs absent from annotation = 0
+Annotation Tumor IDs absent from WGCNA = 0
+
+WGCNA IDs absent from annotation:
+NONE
+
+Annotation Tumor IDs absent from WGCNA:
+NONE

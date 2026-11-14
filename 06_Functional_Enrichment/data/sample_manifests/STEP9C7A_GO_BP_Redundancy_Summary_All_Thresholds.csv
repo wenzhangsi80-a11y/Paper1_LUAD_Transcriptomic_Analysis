@@ -1,0 +1,9 @@
+"Direction","Similarity_Threshold","N_Terms","N_Clusters","Singleton_Clusters","Redundant_Clusters","Terms_In_Redundant_Clusters","Max_Cluster_Size","Mean_Cluster_Size","Median_Cluster_Size"
+"Tumor-up",0.5,161,64,17,47,144,7,2.515625,2
+"Tumor-up",0.6,161,76,26,50,135,5,2.11842105263158,2
+"Tumor-up",0.7,161,97,50,47,111,4,1.65979381443299,1
+"Tumor-up",0.8,161,119,80,39,81,4,1.35294117647059,1
+"Tumor-down",0.5,1296,426,54,372,1242,11,3.04225352112676,3
+"Tumor-down",0.6,1296,557,126,431,1170,9,2.32675044883303,2
+"Tumor-down",0.7,1296,743,307,436,989,6,1.7442799461642,2
+"Tumor-down",0.8,1296,935,603,332,693,4,1.38609625668449,1

@@ -1,0 +1,27 @@
+QC_Item	PASS
+LEVEL A — Exact LR identity	TRUE
+LEVEL A — ge4 nested within ge3 exact LR universe	TRUE
+LEVEL A — Expected 585/492/492/93/0 counts	TRUE
+LEVEL B — Canonical key defined	TRUE
+LEVEL B — Candidate_Consistency_Class invariant	TRUE
+LEVEL B — Exact_LR_Pair invariant	TRUE
+LEVEL B — interaction_name provenance consistent	TRUE
+LEVEL B — pathway_name invariant	TRUE
+LEVEL B — ligand invariant	TRUE
+LEVEL B — receptor invariant	TRUE
+LEVEL B — annotation invariant	TRUE
+LEVEL B — Direction_ID invariant	TRUE
+LEVEL B — Sender invariant	TRUE
+LEVEL B — Receiver invariant	TRUE
+LEVEL B — Core-gene fields invariant	TRUE
+LEVEL B — expression fields invariant	TRUE
+LEVEL B — compatibility invariant	TRUE
+LEVEL C — Allowed Candidate_Set provenance patterns	TRUE
+LEVEL C — ge4 provenance belongs to ge4 LR universe	TRUE
+LEVEL C — Candidate class matches exact-LR-pair universe	TRUE
+LEVEL C — ge3-only / 4_of_4 correctly explained	TRUE
+LEVEL C — ge3-only / 3_of_4_only correctly explained	TRUE
+GLOBAL — Raw record count 16480	TRUE
+GLOBAL — Canonical key count 9620	TRUE
+GLOBAL — No canonical collapse performed	TRUE
+GLOBAL — Core-gene separation inherited from locked LR-universe audit	TRUE

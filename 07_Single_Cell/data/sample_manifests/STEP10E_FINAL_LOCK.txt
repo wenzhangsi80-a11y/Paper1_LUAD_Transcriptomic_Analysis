@@ -1,0 +1,36 @@
+STEP10E — Patient-Level Pseudobulk Expression Characterization
+FINAL LOCK
+============================================================
+
+STATUS: PASS
+
+Primary expression observations: 66
+Primary patients: 9
+Primary T-cell groups: 9
+Primary Myeloid/macrophage groups: 9
+Primary Endothelial groups: 4
+Sensitivity Endothelial groups: 2
+Complete three-compartment patients: 4
+
+Core genes: AOC3 / MS4A7 / IL7R
+
+Expression basis: locked raw-UMI pseudobulk counts
+Raw UMI counts retained: YES
+CPM: derived descriptively from raw UMI counts
+Log2(CPM+1): descriptive transformation only
+Detection definition: Raw UMI > 0
+Zero counts retained: YES
+
+Statistical testing: NO
+Differential expression: NO
+P value: NO
+FDR: NO
+Correlation: NO
+CellChat/LR: NO
+Pseudobulk recalculation: NO
+Patient exclusion: NO
+
+Sensitivity Endothelial remains separate from primary analysis.
+No sensitivity observations were mixed with primary observations.
+
+STEP10E FINAL LOCK: PASS

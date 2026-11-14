@@ -1,0 +1,2 @@
+"Module","ME","Module_Size","Survival_N","Events","Cox_HR_1SD","Cox_P","TimeVarying_Term_HR","TimeVarying_Term_P","C_index","C_index_SE","AIC","LRT_P","ImmuneScore_rho","StromalScore_rho","ESTIMATEScore_rho","Survival_role","TME_role"
+"brown","ME3",1338,485,178,1.804223,0.0023,0.674764,0.072,0.6978267,0.0223648,1822.82,5.767664e-13,-0.162189,-0.1924747,-0.1863114,"Survival-associated reference module","Weak inverse TME association"

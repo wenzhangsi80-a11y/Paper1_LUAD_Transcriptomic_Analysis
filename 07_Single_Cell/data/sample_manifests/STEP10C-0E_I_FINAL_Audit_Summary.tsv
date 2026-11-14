@@ -1,0 +1,15 @@
+Metric	Value
+TISCH2 total cells	203298
+GEO raw UMI total cells	208506
+TISCH2-GEO raw intersection	203298
+TISCH2-only cells	0
+GEO raw-only cells	5208
+Primary+Tumor TISCH2 cells	65702
+Primary+Tumor patients	9
+Primary+Tumor cells present in GEO raw	65702
+Primary+Tumor cells missing from GEO raw	0
+T-cell cells	31114
+Myeloid/macrophage cells	11410
+Endothelial cells	951
+Pseudobulk manifest rows	65702
+Pseudobulk manifest unique Cell IDs	65702

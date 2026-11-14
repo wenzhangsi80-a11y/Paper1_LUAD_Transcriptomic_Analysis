@@ -1,0 +1,11 @@
+"file","exists","n_lines","tumor_hits","normal_hits"
+"Workflow-03F-9_provenance_audit_DONE.txt",TRUE,28,0,0
+"Workflow-03F-9_expression_scale_provenance.txt",TRUE,20,2,2
+"Workflow-03F-8_expression_provenance_test.txt",TRUE,7,1,1
+"Workflow-03F-7_expression_matrix_structure.txt",TRUE,29,0,0
+"Workflow-03F-5_historical_517_patient_annotation.txt",TRUE,518,513,59
+"Workflow-03F-3_patient_expression_mapping.txt",TRUE,518,513,59
+"Workflow-03F-2_expression_annotation.txt",TRUE,575,513,59
+"Workflow-03F-2_primary_tumor_with_clinical.txt",TRUE,514,513,0
+"TCGA_Patient_Level_Summary.txt",TRUE,516,1,1
+"TCGA_Expression_Sample_Annotation_Basic.txt",TRUE,575,514,60

@@ -1,0 +1,6 @@
+Module	N	Events	Censored	ZeroTime	Age_N	Gender_N	Stage_N
+ME_grey60	485	178	307	4	485	485	485
+ME_brown	485	178	307	4	485	485	485
+ME_lightgreen	485	178	307	4	485	485	485
+ME_darkgreen	485	178	307	4	485	485	485
+ME_darkgrey	485	178	307	4	485	485	485

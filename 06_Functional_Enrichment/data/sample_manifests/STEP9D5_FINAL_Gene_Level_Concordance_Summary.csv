@@ -1,0 +1,4 @@
+"Gene","Original_Reactome_ID","Original_Reactome_Pathway","Original_NES","Original_FDR","Theme","KEGG_matching","KEGG_significant","GO_matching","GO_significant","Concordance_class"
+"IL7R","REACTOME_FCGR_ACTIVATION","FCGR activation",2.569834,3.99e-09,"Fc receptor / immune receptor activation",2,1,42,13,"Strong"
+"MS4A7","REACTOME_ROLE_OF_PHOSPHOLIPIDS_IN_PHAGOCYTOSIS","Role of phospholipids in phagocytosis",2.550673,3.99e-09,"Phagocytosis / myeloid innate immune function",5,2,126,49,"Strong"
+"AOC3","REACTOME_CD22_MEDIATED_BCR_REGULATION","CD22-mediated BCR regulation",2.620611,3.99e-09,"B-cell receptor / B-cell immune signaling",1,1,41,5,"Strong"

@@ -1,0 +1,60 @@
+============================================================
+Paper 1 — STEP9D-1I Formal Input / Gene-Universe Lock
+Date: 2026-09-22
+============================================================
+
+FINAL STATUS: PASS
+
+SOURCE
+------
+STEP9B7R_Revised_DEG_FULL.csv
+57,828 unique Ensembl gene IDs
+
+TESTING UNIVERSE
+----------------
+STEP9C_DEG_testing_universe_57828.csv
+57,828 unique Ensembl gene IDs
+
+EXACT SOURCE/UNIVERSE MATCH
+---------------------------
+TRUE
+
+STEP9D-1H DEG RESULT-LEVEL RECONSTRUCTION
+-----------------------------------------
+Definition: FDR < 0.05 AND abs(log2FC) > 1
+Total: 16,065
+Tumor_up: 9,311
+Tumor_down: 6,754
+Exact logical match: TRUE
+Logical disagreements: 0
+
+CORE GENES
+----------
+AOC3  -> ENSG00000131471
+MS4A7 -> ENSG00000166927
+IL7R  -> ENSG00000168685
+
+Core genes in source: TRUE
+Core genes in universe: TRUE
+Core genes exact DEG match: TRUE
+
+PROVENANCE NOTE
+---------------
+The original STEP9B generating script/provenance was not recovered.
+The DEG definition is documented as an exact result-level
+reconstruction, not as recovery of the original generating script.
+
+ACTIONS NOT PERFORMED
+---------------------
+DEG recalculation: NO
+STEP9B modification: NO
+STEP9C modification: NO
+GSEA: NO
+Ranking-list construction: NO
+Ranking-metric lock: NO
+P/FDR recalculation: NO
+ID conversion: NO
+
+NEXT STEP
+---------
+STEP9D-2 — Ranking Metric Lock

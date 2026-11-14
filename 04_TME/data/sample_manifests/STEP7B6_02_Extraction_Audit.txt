@@ -1,0 +1,55 @@
+============================================================
+STEP7B6_02 EXTRACTION AUDIT
+ABSOLUTE purity-adjusted regression results
+============================================================
+
+Date: 2026-11-01
+Checkpoint: O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B6_purity_adjusted_regression_checkpoint.RData
+Output directory: O:/Rproject/Paper1_tumor-only WGCNA/STEP7B6_ABSOLUTE_Result_Extraction
+
+1. CHECKPOINT OBJECTS
+Loaded objects: purity_adjusted_models, purity_adjusted_results_raw, purity_adjusted_results, model_spec_7b6, step7b6_extraction_passed, step7b6_final_audit, step7b6_final_passed
+Number of models: 9
+Number of saved result rows: 9
+
+2. MODEL STRUCTURE
+Expected model names matched: TRUE
+All models are lm: TRUE
+All model N = 500: TRUE
+All saved result N = 500: TRUE
+
+3. MODEL-TO-RESULT CROSS-CHECK
+All extracted coefficients/statistics match saved results: TRUE
+Number of cross-check entries: 81
+Number of matching entries: 81
+Number of mismatches: 0
+
+4. BH CORRECTION
+Method: Benjamini-Hochberg
+Correction family: 9 gene P values across 3 genes x 3 TME traits
+BH correction independently verified: TRUE
+Number of matching BH values: 9
+Number of mismatching BH values: 0
+
+5. RAW RESULTS OBJECT
+Class: data.frame
+Dimensions: 9 x 16
+Identical to purity_adjusted_results: FALSE
+The raw object was preserved as an RDS file without modification.
+
+6. OUTPUT FILES
+STEP7B6_02_ABSOLUTE_Adjusted_Results.csv
+STEP7B6_02_Model_Results_Crosscheck.csv
+STEP7B6_02_BH_Correction_Audit.csv
+STEP7B6_02_purity_adjusted_results_raw.rds
+STEP7B6_02_Raw_Object_Structure.txt
+Excel workbook generated: TRUE
+
+7. FINAL STATUS
+OVERALL PASS: TRUE
+
+No models were refitted.
+No sample matching was repeated.
+No purity values were imputed.
+Original STEP7B6 checkpoint was not modified.
+============================================================

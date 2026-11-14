@@ -1,0 +1,17 @@
+Variable	PASS
+Candidate_Consistency_Class	TRUE
+Exact_LR_Pair	TRUE
+pathway_name	TRUE
+ligand	TRUE
+receptor	TRUE
+annotation	TRUE
+Direction_ID	TRUE
+Sender	TRUE
+Receiver	TRUE
+Core_Gene_Involved	TRUE
+Core_Gene	TRUE
+Ligand_log2CPM	TRUE
+Receptor_log2CPM	TRUE
+Compatible	TRUE
+Ligand_Receptor_Mean_log2CPM	TRUE
+Ligand_Receptor_Difference_log2CPM	TRUE

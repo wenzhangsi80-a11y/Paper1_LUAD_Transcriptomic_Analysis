@@ -1,0 +1,4 @@
+"gene","excel_records","excel_tumor","excel_normal","historical_n","historical_tumor","historical_normal","total_n_match","tumor_n_match","normal_n_match"
+"AOC3",575,516,59,575,516,59,TRUE,TRUE,TRUE
+"MS4A7",575,516,59,575,516,59,TRUE,TRUE,TRUE
+"IL7R",575,516,59,575,516,59,TRUE,TRUE,TRUE

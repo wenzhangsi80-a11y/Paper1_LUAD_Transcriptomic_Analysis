@@ -1,0 +1,10 @@
+Compartment	Eligibility	Gene	N	Detected_N	Zero_N	Detection_Frequency	Detection_Percent
+T-cell	Primary	AOC3	9	6	3	0.666666666666667	66.6666666666667
+T-cell	Primary	MS4A7	9	9	0	1	100
+T-cell	Primary	IL7R	9	9	0	1	100
+Myeloid/macrophage	Primary	AOC3	9	8	1	0.888888888888889	88.8888888888889
+Myeloid/macrophage	Primary	MS4A7	9	9	0	1	100
+Myeloid/macrophage	Primary	IL7R	9	9	0	1	100
+Endothelial	Primary	AOC3	4	2	2	0.5	50
+Endothelial	Primary	MS4A7	4	4	0	1	100
+Endothelial	Primary	IL7R	4	4	0	1	100

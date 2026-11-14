@@ -1,0 +1,25 @@
+Item	Value
+Input	STEP10E locked patient-level core-gene expression
+Expression source	STEP10E raw-UMI pseudobulk
+Core genes	AOC3 / MS4A7 / IL7R
+Primary T-cell	n=9
+Primary Myeloid/macrophage	n=9
+Primary Endothelial	n=4
+Sensitivity Endothelial	n=2, sensitivity only
+Raw UMI	USED
+CPM	DESCRIPTIVE ONLY
+Log2(CPM+1)	DESCRIPTIVE ONLY: log2(CPM+1)
+Detection definition	Raw_UMI > 0
+Patient-level analysis	YES
+Differential expression	NO
+Statistical testing	NO
+P values	NO
+FDR	NO
+Correlation	NO
+CellChat/LR	NO
+Pseudobulk recalculation	NO
+GEO raw matrix rereading	NO
+H5 rereading	NO
+Patient exclusion	NO
+Cell exclusion	NO
+Primary/Sensitivity endothelial separation	YES

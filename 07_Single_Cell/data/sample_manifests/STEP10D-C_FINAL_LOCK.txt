@@ -1,0 +1,58 @@
+STEP10D-C — Core-Gene Compartment-Level Expression Audit
+============================================================
+
+STATUS: PASS
+
+Locked core genes:
+AOC3 / MS4A7 / IL7R
+
+Locked datasets:
+Primary T-cell: 9 groups
+Primary Myeloid/macrophage: 9 groups
+Primary Endothelial: 4 groups
+Sensitivity Endothelial: 2 groups
+
+Input:
+STEP10D-B locked core-gene raw-count table
+
+Expression scale:
+Raw UMI pseudobulk counts
+
+Detection definition:
+raw UMI count > 0
+
+Zero-count observations were retained.
+No patient or cell was excluded.
+
+Primary Endothelial and Sensitivity Endothelial were
+kept as separate datasets.
+
+No normalization was performed.
+No log transformation was performed.
+No inferential statistics were performed.
+No p-values or FDR were calculated.
+No differential expression analysis was performed.
+No correlation analysis was performed.
+No CellChat or ligand-receptor analysis was performed.
+
+STEP10C pseudobulk matrices were NOT recalculated.
+STEP10D-A library QC was NOT recalculated.
+STEP10D-B core-gene counts were NOT recalculated.
+
+STEP10D-C provides descriptive compartment-level
+raw-count and detection information only.
+
+Output files:
+STEP10D-C_CoreGene_Compartment_Level_Long.tsv 
+STEP10D-C_CoreGene_Patient_Level_RawCounts.tsv 
+STEP10D-C_CoreGene_Compartment_Descriptive_Summary.tsv 
+STEP10D-C_CoreGene_Detection_Frequency.tsv 
+STEP10D-C_CoreGene_RawCount_Range_Summary.tsv 
+STEP10D-C_Zero_Count_Audit.tsv 
+STEP10D-C_Patient_Identity_Audit.tsv 
+STEP10D-C_Primary_Compartment_Patient_Overlap.tsv 
+STEP10D-C_Group_Count_Audit.tsv 
+STEP10D-C_Compartment_Label_Audit.tsv 
+STEP10D-C_Eligibility_Label_Audit.tsv 
+STEP10D-C_Methodological_Lock.tsv 
+STEP10D-C_FINAL_Audit_Summary.tsv 

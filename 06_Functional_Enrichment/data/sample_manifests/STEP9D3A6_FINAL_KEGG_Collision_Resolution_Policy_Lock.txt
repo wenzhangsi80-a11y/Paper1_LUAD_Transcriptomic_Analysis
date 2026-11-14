@@ -1,0 +1,63 @@
+============================================================
+Paper 1
+STEP9D-3A-6
+Final KEGG Collision Resolution Policy Lock
+============================================================
+
+STATUS: FINAL LOCK
+
+LOCKED POLICY:
+Policy B — Maximum Absolute Ranking
+
+POLICY DEFINITION:
+For KEGG GSEA, when multiple locked Ensembl genes map to the same Entrez identifier, retain the Ensembl gene with the maximum absolute value of the already locked genome-wide ranking statistic. This rule is applied only to resolve Ensembl-to-Entrez collisions for KEGG input construction. The original 57,828-gene ranking vector remains unchanged.
+
+------------------------------------------------------------
+LOCKED COUNTS
+------------------------------------------------------------
+candidate Ensembl = 34138
+candidate unique Entrez = 34120
+collision groups = 18
+collision-affected Ensembl = 36
+opposite-direction groups = 6
+Policy B retained Ensembl = 34120
+Policy B retained Entrez = 34120
+discarded Ensembl = 18
+discarded/unrepresented Entrez = 0
+retained positive = 21189
+retained negative = 12924
+retained zero = 7
+maximum-absolute ties = 0
+
+------------------------------------------------------------
+CORE-GENE PRESERVATION
+------------------------------------------------------------
+AOC3 = retained
+MS4A7 = retained
+IL7R = retained
+
+------------------------------------------------------------
+METHOD INTEGRITY
+------------------------------------------------------------
+arbitrary first-match = FALSE
+jitter = FALSE
+artificial tie-breaking = FALSE
+ranking recalculated = FALSE
+DEG recalculated = FALSE
+GSEA performed = FALSE
+
+------------------------------------------------------------
+ORIGINAL RANKING
+------------------------------------------------------------
+original genome-wide ranking genes = 57,828
+
+------------------------------------------------------------
+FINAL STATUS
+------------------------------------------------------------
+STEP9D-3A-6 FINAL HARD PASS = TRUE
+
+This lock defines the formal KEGG GSEA input policy.
+Actual KEGG GSEA is NOT performed in STEP9D-3A-6.
+KEGG GSEA may proceed only in STEP9D-3B using this locked policy.
+
+============================================================

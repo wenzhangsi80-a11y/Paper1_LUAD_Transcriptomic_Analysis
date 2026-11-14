@@ -1,0 +1,12 @@
+Metric	PASS
+N_Patients	TRUE
+Detection_N	TRUE
+Detection_Percent	TRUE
+CPM_Median	TRUE
+CPM_Mean	TRUE
+CPM_Q1	TRUE
+CPM_Q3	TRUE
+CPM_Min	TRUE
+CPM_Max	TRUE
+CPM_IQR	TRUE
+Log2_CPM_Plus1_Median	TRUE

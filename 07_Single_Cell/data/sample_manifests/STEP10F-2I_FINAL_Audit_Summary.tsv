@@ -1,0 +1,23 @@
+Check	Result
+Primary observations	TRUE
+Primary patients	TRUE
+T-cell patients	TRUE
+Myeloid/macrophage patients	TRUE
+Endothelial primary patients	TRUE
+Sensitivity endothelial patients	TRUE
+Complete three-compartment patients	TRUE
+Core gene set	TRUE
+Primary profile rows	TRUE
+Sensitivity profile rows	TRUE
+Detection definition	TRUE
+Primary profile reconciliation	TRUE
+Sensitivity kept separate	TRUE
+Statistical testing	TRUE
+P/FDR	TRUE
+Differential expression	TRUE
+Correlation	TRUE
+CellChat/LR	TRUE
+Pseudobulk recalculation	TRUE
+GEO raw rereading	TRUE
+H5 rereading	TRUE
+Patient/cell exclusion	TRUE

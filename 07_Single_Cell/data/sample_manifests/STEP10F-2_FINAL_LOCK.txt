@@ -1,0 +1,45 @@
+STEP10F-2 — Gene–Compartment Expression Pattern Audit
+============================================================
+
+FINAL STATUS: PASS
+
+Primary patient-level observations: 66
+Primary patients: 9
+Primary T-cell patients: 9
+Primary Myeloid/macrophage patients: 9
+Primary Endothelial patients: 4
+Sensitivity Endothelial patients: 2
+Complete three-compartment patients: 4
+
+Core genes: AOC3 / MS4A7 / IL7R
+
+Expression source: STEP10F-1 locked patient-level expression
+Raw UMI counts: USED
+CPM: DESCRIPTIVE ONLY
+Log2(CPM+1): DESCRIPTIVE ONLY
+Detection definition: Raw_UMI > 0
+
+Primary gene × compartment profiles: RECONCILED
+Complete-patient within-patient ranking: DESCRIPTIVE ONLY
+Sensitivity Endothelial analysis: KEPT SEPARATE
+
+Statistical testing: NO
+P values: NO
+FDR: NO
+Differential expression: NO
+Correlation: NO
+CellChat/LR: NO
+Pseudobulk recalculation: NO
+GEO raw matrix rereading: NO
+H5 rereading: NO
+Patient/cell exclusion: NO
+
+Specificity claims: NOT ASSIGNED
+Causal inference: NO
+
+Purpose:
+Descriptive audit of compartment-associated expression context
+for AOC3, MS4A7 and IL7R.
+
+============================================================
+STEP10F-2 FINAL LOCK: PASS

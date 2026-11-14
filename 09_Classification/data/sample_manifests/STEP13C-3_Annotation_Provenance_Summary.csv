@@ -1,0 +1,20 @@
+"metric","pass"
+"group object present",TRUE
+"group object is vector",TRUE
+"group length = 116",TRUE
+"missing group annotations = 0",TRUE
+"group levels are Normal/Tumor",TRUE
+"Normal N = 58",TRUE
+"Tumor N = 58",TRUE
+"expr3 present",TRUE
+"expr3 is data.frame",TRUE
+"expr3$Group present",TRUE
+"expr3$Group length = 116",TRUE
+"group vs expr3$Group exact concordance",TRUE
+"expr3 sample IDs unique and complete",TRUE
+"expr3 vs expr sample-ID set concordance",TRUE
+"expr3 vs expr.mat sample-ID set concordance",TRUE
+"expr3 vs expr.final sample-ID set concordance",TRUE
+"expr3 vs expr2 sample-ID set concordance",TRUE
+"all expression-object sample-ID sets concordant",TRUE
+"all expression-object sample-ID orders concordant",TRUE

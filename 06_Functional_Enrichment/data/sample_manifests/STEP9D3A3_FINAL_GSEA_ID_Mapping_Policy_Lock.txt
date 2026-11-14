@@ -1,0 +1,51 @@
+STEP9D-3A-3 FINAL GSEA ID / MAPPING POLICY LOCK
+============================================================
+
+Status: FINAL_PASS 
+Hard PASS: TRUE 
+
+Genome-wide N: 57828 
+Ranking vector N: 57828 
+Standard Ensembl N: 57828 
+Mapped Ensembl N: 34631 
+Unique Entrez N: 35365 
+Unmapped Ensembl N: 23197 
+Mapping rate: 0.598862 
+One-to-many Ensembl N: 493 
+Many-to-one Entrez N: 409 
+
+Core genes:
+ SYMBOL         ENSEMBL ENTREZID
+   AOC3 ENSG00000131471     8639
+  MS4A7 ENSG00000166927    58475
+   IL7R ENSG00000168685     3575
+
+Core traceable: TRUE 
+Core one-to-one: TRUE 
+
+GO POLICY:
+ GO GSEA will use gseGO() directly with OrgDb = org.Hs.eg.db and keyType = ENSEMBL. The original 57,828-gene Ensembl ranking remains the locked genome-wide ranking. Genes without GO annotation are not deleted from the ranking; they simply do not contribute to GO-annotated gene sets. 
+
+KEGG POLICY:
+ KEGG GSEA will use gseKEGG() with organism = hsa and an Entrez-based ranked input. Only Ensembl IDs with a valid mapping to EntrezID are eligible for KEGG mapping. 
+
+ONE-TO-MANY POLICY:
+ Ensembl IDs mapping to more than one EntrezID will not be resolved by arbitrary first-match selection. 
+
+MANY-TO-ONE POLICY:
+ Many-to-one Entrez collisions will not be silently removed with !duplicated(), arbitrary first-match selection, jittering, or any modification of the locked ranking. 
+
+UNMAPPED POLICY:
+ Unmapped Ensembl genes remain in the original 57,828-gene ranking and are excluded only from analyses requiring a mapped identifier. 
+
+Execution safeguards:
+Ranking recalculated: FALSE 
+DEG recalculated: FALSE 
+GSEA performed: FALSE 
+Jitter used: FALSE 
+Artificial tie breaking: FALSE 
+Arbitrary first-match mapping: FALSE 
+
+============================================================
+STEP9D-3A-3 END
+============================================================

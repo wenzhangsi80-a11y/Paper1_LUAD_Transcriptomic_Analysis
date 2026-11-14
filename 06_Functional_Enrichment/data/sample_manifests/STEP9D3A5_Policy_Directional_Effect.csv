@@ -1,0 +1,4 @@
+"policy","positive_retained_n","positive_discarded_n","negative_retained_n","negative_discarded_n","zero_retained_n","zero_discarded_n"
+"Policy_A_Strict_Bijection",21184,14,12911,22,7,0
+"Policy_B_Max_Absolute_Ranking",21189,9,12924,9,7,0
+"Policy_C_Deterministic_Ranking_Order",21189,9,12924,9,7,0

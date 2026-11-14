@@ -1,0 +1,47 @@
+"FullPath","FileName","Extension","STEP2_hits","DEG_hits","TumorNormal_hits","StatisticalMethod_hits","FoldChange_hits","MultipleTesting_hits","TCGA_hits","Combined_DEG_signature"
+"O:/Rproject/Figure 5_TIDE analysis/Figure 5_TIDE analysis.R","Figure 5_TIDE analysis.R","r",26,0,0,68,0,0,18,FALSE
+"O:/Rproject/Figure 9A_9B_umap/Figure 9A_9B_umap.R","Figure 9A_9B_umap.R","r",8,0,0,0,0,0,0,FALSE
+"O:/Rproject/Figure 9C Dot Plot (Publication-ready)/Figure 9C Dot Plot (Publication-ready).R","Figure 9C Dot Plot (Publication-ready).R","r",4,0,0,0,2,0,0,FALSE
+"O:/Rproject/Figure A-Correlation volcano/Figure 1A-Correlation volcano.R","Figure 1A-Correlation volcano.R","r",0,0,0,0,0,3,0,FALSE
+"O:/Rproject/Figure_10_ CCI analysis/Figure_10_CCI analysis.R","Figure_10_CCI analysis.R","r",8,1,0,0,0,0,0,FALSE
+"O:/Rproject/Figure_12 R/Figure12_Mechanism.R","Figure12_Mechanism.R","r",0,0,0,0,6,0,0,FALSE
+"O:/Rproject/GEO2R results tansfer/GEO2R results tansfer.R","GEO2R results tansfer.R","r",0,0,0,0,0,0,0,FALSE
+"O:/Rproject/Paper 1_Step 6-survival analysis/Paper 1 – Survival visualization package.R","Paper 1 – Survival visualization package.R","r",0,0,0,0,0,267,3,FALSE
+"O:/Rproject/Paper 1_Step 6-survival analysis/Paper 1_Step 6-survival analysis.R","Paper 1_Step 6-survival analysis.R","r",0,0,0,0,0,0,1,FALSE
+"O:/Rproject/Paper 1_Step 6-survival analysis/Paper 1_Step 6-survival analysis_STEP 6C-Multivariable Cox regression.R","Paper 1_Step 6-survival analysis_STEP 6C-Multivariable Cox regression.R","r",0,0,0,0,0,52,2,FALSE
+"O:/Rproject/Paper 1_Step 7_ Immune Infiltration Analysis/Paper 1_Step 7_ Immune Infiltration Analysis-2.R","Paper 1_Step 7_ Immune Infiltration Analysis-2.R","r",0,0,0,0,0,1,6,FALSE
+"O:/Rproject/Paper 1_Step 7_ Immune Infiltration Analysis/Paper 1_Step 7_ Immune Infiltration Analysis.R","Paper 1_Step 7_ Immune Infiltration Analysis.R","r",0,0,1,0,0,258,28,FALSE
+"O:/Rproject/Paper 1_Step 8_Immune Checkpoint/Paper 1_Step 8_Immune Checkpoint.R","Paper 1_Step 8_Immune Checkpoint.R","r",0,0,13,0,0,482,2,FALSE
+"O:/Rproject/Paper 1_Step 8_Immune Checkpoint/Paper 1_STEP 8D_Purity sensitivity analysis.R","Paper 1_STEP 8D_Purity sensitivity analysis.R","r",0,0,0,0,0,157,0,FALSE
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/Paper 1_Step 9-Functional Enrichment.R","Paper 1_Step 9-Functional Enrichment.R","r",18,31,6,4,14,12,1,TRUE
+"O:/Rproject/Paper1_Figure2_Figure12_TCGA_LUAD_ROC_etal/Paper1_Figure2_Figure12_TCGA_LUAD_ROC_etal.R","Paper1_Figure2_Figure12_TCGA_LUAD_ROC_etal.R","r",8,0,3,3,0,0,1,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_ME_brown_checkpoint_Step10G.R","Paper1_ME_brown_checkpoint_Step10G.R","r",2,0,0,0,0,1,0,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_ME_brown_Gender_checkpoint_Final.R","Paper1_ME_brown_Gender_checkpoint_Final.R","r",0,0,0,0,0,0,0,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_SF4_TumorOnly_WGCNA_Plotting.R","Paper1_SF4_TumorOnly_WGCNA_Plotting.R","r",0,0,0,0,0,124,1,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_SF4_TumorOnly_WGCNA_Plotting_Figure4A-4D.R","Paper1_SF4_TumorOnly_WGCNA_Plotting_Figure4A-4D.R","r",0,0,0,0,0,29,0,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/paper1_Step13G_FINAL_checkpoint.R","paper1_Step13G_FINAL_checkpoint.R","r",0,0,0,0,0,0,0,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Paper1_ME_brown_checkpoint_Step10G.R","Paper1_ME_brown_checkpoint_Step10G.R","r",2,0,0,0,0,1,0,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Paper1_ME_brown_Gender_checkpoint_Final.R","Paper1_ME_brown_Gender_checkpoint_Final.R","r",0,0,0,0,0,0,0,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/paper1_Step13G_FINAL_checkpoint.R","paper1_Step13G_FINAL_checkpoint.R","r",0,0,0,0,0,0,0,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Paper1_tumor-only WGCNA.R","Paper1_tumor-only WGCNA.R","r",4,0,45,0,0,0,134,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R","Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R","r",0,9,2,0,0,90,1,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/WORKFLOW-03_Step14F-1_CoreGene_ModuleLocalization.R","WORKFLOW-03_Step14F-1_CoreGene_ModuleLocalization.R","r",0,0,0,0,0,50,6,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Workflow-03F-9_provenance_audit.R","Workflow-03F-9_provenance_audit.R","r",4,0,45,0,0,0,134,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Workflow-04-1F-1_clinical_cleaning_checkpoint.R","Workflow-04-1F-1_clinical_cleaning_checkpoint.R","r",2,0,45,0,0,0,134,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Workflow-04-2D-5 Soft-threshold checkpoint.R","Workflow-04-2D-5 Soft-threshold checkpoint.R","r",1,0,0,5,0,26,2,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_tumor-only WGCNA.R","Paper1_tumor-only WGCNA.R","r",4,0,45,0,0,0,134,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R","Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R","r",0,9,2,0,0,90,1,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03_Step14F-1_CoreGene_ModuleLocalization.R","WORKFLOW-03_Step14F-1_CoreGene_ModuleLocalization.R","r",0,0,0,0,0,50,6,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-9_provenance_audit.R","Workflow-03F-9_provenance_audit.R","r",4,0,45,0,0,0,134,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-1F-1_clinical_cleaning_checkpoint.R","Workflow-04-1F-1_clinical_cleaning_checkpoint.R","r",2,0,45,0,0,0,134,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D-5 Soft-threshold checkpoint.R","Workflow-04-2D-5 Soft-threshold checkpoint.R","r",1,0,0,5,0,26,2,FALSE
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D_R_history.Rhistory","Workflow-04-2D_R_history.Rhistory","rhistory",1,0,2,0,0,0,24,FALSE
+"O:/Rproject/Paper2_Figure 3_Tumor Microenvironment Analysis/Figure 3_Tumor Microenvironment Analysis.R","Figure 3_Tumor Microenvironment Analysis.R","r",9,0,0,62,0,0,12,FALSE
+"O:/Rproject/Paper2_Figure 8_GFI1B_expression_Stemness score/Paper2_Figure 8_GFI1B_expression_Stemness score.R","Paper2_Figure 8_GFI1B_expression_Stemness score.R","r",3,0,0,8,0,0,18,FALSE
+"O:/Rproject/Paper2_Figure 9_GFI1B_Proliferation/Paper2_Figure 9_GFI1B_Proliferation.R","Paper2_Figure 9_GFI1B_Proliferation.R","r",3,0,0,0,0,0,17,FALSE
+"O:/Rproject/Paper2_Figure11_MediationAnalysis/Paper2_Figure11_MediationAnalysis.R","Paper2_Figure11_MediationAnalysis.R","r",4,0,0,0,0,0,19,FALSE
+"O:/Rproject/Paper2_Figure1E_GOE_GSE68465/Paper2_Figure1E_GOE_GSE68465.R","Paper2_Figure1E_GOE_GSE68465.R","r",10,0,1,2,0,0,0,FALSE
+"O:/Rproject/Paper2_Figure6A2_GFI1BF_Immune exclusion/Paper2_Figure6A2_GFI1BF_Immune exclusion.R","Paper2_Figure6A2_GFI1BF_Immune exclusion.R","r",6,0,0,22,0,0,17,FALSE
+"O:/Rproject/Paper2_Figure7_GFI1BF_Pathway/Paper2_Figure7_GFI1BF_Pathway.R","Paper2_Figure7_GFI1BF_Pathway.R","r",11,0,0,41,0,0,17,FALSE
+"O:/Rproject/Paper2_GFI1B_Single cell analysis/Figure 9A_9B_umap.R","Figure 9A_9B_umap.R","r",13,1,0,0,0,0,0,FALSE
+"O:/Rproject/TCGA_LUAD_ROC/combined ROC+3 GENES.R","combined ROC+3 GENES.R","r",15,0,1,6,2,0,4,FALSE

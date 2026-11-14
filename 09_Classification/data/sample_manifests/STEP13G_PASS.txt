@@ -1,0 +1,13 @@
+STEP13G FINAL STATUS
+
+PASS — STEP13G Nested Cross-Validation completed.
+
+OOF AUC = 0.987945
+95% CI = 0.977145 – 0.998745
+
+No feature selection was performed.
+No external refitting was performed.
+No external coefficient estimation was performed.
+No threshold optimization was performed.
+
+Performance was estimated from outer-fold held-out predictions.

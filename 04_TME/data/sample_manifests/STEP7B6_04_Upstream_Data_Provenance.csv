@@ -1,0 +1,4 @@
+"Component","Reported_File_or_Source","Role","Provenance_Status"
+"Tumor-only WGCNA expression input","Merge_RNA_seq_FPKM_UQ.txt","Gene expression input for tumor-only WGCNA and downstream TME analyses","User-reported; original path/version/date require source-record confirmation"
+"TCGA-LUAD clinical input","YOUR_TCGA_CLINICAL_FILE.xlsx","Manually matched TCGA clinical information","User-reported; original path/version/date require source-record confirmation"
+"ABSOLUTE purity input","Not established by the supplied file names","Purity covariate used in the STEP7B6 regression models","Requires confirmation from ABSOLUTE source documentation or matching audit"

@@ -1,0 +1,10 @@
+Item,Status
+Final STEP2 DEG file,NOT_YET_LOCKED
+Tumor vs normal comparison,EXPECTED_TUMOR_VS_NORMAL_BUT_MUST_VERIFY
+Differential expression method,NOT_YET_LOCKED
+log2FC threshold,NOT_YET_LOCKED
+Adjusted P/FDR threshold,NOT_YET_LOCKED
+Upregulated definition,NOT_YET_LOCKED
+Downregulated definition,NOT_YET_LOCKED
+DEG statistical testing universe,NOT_YET_LOCKED
+DEG ORA background universe,NOT_YET_LOCKED

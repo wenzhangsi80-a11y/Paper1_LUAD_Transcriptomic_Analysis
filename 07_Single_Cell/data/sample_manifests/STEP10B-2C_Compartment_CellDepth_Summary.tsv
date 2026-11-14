@@ -1,0 +1,4 @@
+Compartment	Patients	Zero_cells	Min	Q1	Median	Mean	Q3	Max	IQR	N_ge20	N_ge50	N_ge100	N_lt20	N_20_49	N_ge50_primary
+T_cell	9	0	1995	2752	3480	3457.11111111111	4009	4808	1257	9	9	9	0	0	9
+Myeloid_macrophage	9	0	283	639	1266	1267.77777777778	1576	3384	937	9	9	9	0	0	9
+Endothelial	9	0	2	6	41	105.666666666667	113	345	107	6	4	3	3	2	4

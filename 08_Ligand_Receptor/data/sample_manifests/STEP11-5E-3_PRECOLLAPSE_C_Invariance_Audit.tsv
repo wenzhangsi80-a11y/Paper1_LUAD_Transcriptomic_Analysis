@@ -1,0 +1,17 @@
+Variable	All_Keys_Invariant	N_Keys_Fail
+Candidate_Set	FALSE	6856
+Candidate_Consistency_Class	TRUE	0
+pathway_name	TRUE	0
+ligand	TRUE	0
+receptor	TRUE	0
+annotation	TRUE	0
+Direction_ID	TRUE	0
+Sender	TRUE	0
+Receiver	TRUE	0
+Core_Gene_Involved	TRUE	0
+Core_Gene	TRUE	0
+Ligand_log2CPM	TRUE	0
+Receptor_log2CPM	TRUE	0
+Compatible	TRUE	0
+Ligand_Receptor_Mean_log2CPM	TRUE	0
+Ligand_Receptor_Difference_log2CPM	TRUE	0

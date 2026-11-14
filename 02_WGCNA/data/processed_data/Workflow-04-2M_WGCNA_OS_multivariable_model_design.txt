@@ -1,0 +1,6 @@
+Module	PH_status	Recommended_model
+ME_grey60	No evidence of PH violation	Conventional Cox
+ME_brown	No evidence of PH violation	Conventional Cox
+ME_lightgreen	Potential PH violation	Time-dependent / sensitivity analysis
+ME_darkgreen	Potential PH violation	Time-dependent / sensitivity analysis
+ME_darkgrey	Potential PH violation	Time-dependent / sensitivity analysis

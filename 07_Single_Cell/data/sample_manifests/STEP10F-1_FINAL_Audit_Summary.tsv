@@ -1,0 +1,28 @@
+Check	Result	Overall_PASS
+Primary STEP10E input available	TRUE	TRUE
+Sensitivity STEP10E input available	TRUE	TRUE
+Required columns verified	TRUE	TRUE
+Core genes verified	TRUE	TRUE
+Primary patient count	TRUE	TRUE
+Primary Group_ID count	TRUE	TRUE
+Primary observation count	TRUE	TRUE
+Primary T-cell group count	TRUE	TRUE
+Primary Myeloid/macrophage group count	TRUE	TRUE
+Primary Endothelial group count	TRUE	TRUE
+Sensitivity Endothelial group count	TRUE	TRUE
+Sensitivity observation count	TRUE	TRUE
+Unique patient × compartment × gene observations	TRUE	TRUE
+Raw UMI integrity	TRUE	TRUE
+CPM integrity	TRUE	TRUE
+Log2(CPM+1) integrity	TRUE	TRUE
+Detection definition	TRUE	TRUE
+Complete three-compartment patient count	TRUE	TRUE
+Statistical testing	TRUE	TRUE
+P/FDR	TRUE	TRUE
+Correlation	TRUE	TRUE
+CellChat/LR	TRUE	TRUE
+Pseudobulk recalculation	TRUE	TRUE
+GEO raw matrix rereading	TRUE	TRUE
+H5 rereading	TRUE	TRUE
+Patient/cell exclusion	TRUE	TRUE
+Primary/Sensitivity Endothelial separation	TRUE	TRUE

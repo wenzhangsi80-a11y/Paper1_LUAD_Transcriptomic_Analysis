@@ -1,0 +1,7 @@
+Source	Cell_Count	Patient_Count	Sample_Count
+mBrain	28249	10	10
+mLN	18298	4	6
+nLN	31884	10	10
+Normal	39102	6	11
+Pleural effusion	20063	5	5
+Tumor	65702	9	16

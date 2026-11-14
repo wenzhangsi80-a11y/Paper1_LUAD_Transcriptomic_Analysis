@@ -1,0 +1,255 @@
+
+============================================================
+FILE:
+ O:/Rproject/Paper 1_Step 9-Functional Enrichment/Paper 1_Step 9-Functional Enrichment.R 
+============================================================
+
+[Line 18] # Purpose:
+[Line 19] #   1. Inventory all required upstream inputs
+[Line 20] #   2. Verify tumor-only WGCNA expression matrix
+[Line 21] #   3. Verify 50 WGCNA modules and gene membership
+[Line 22] #   4. Verify STEP14 locked module–TME results
+[Line 60] project_dir <- "O:/Rproject/Paper 1_Step 9-Functional Enrichment"
+[Line 61] 
+[Line 62] tumor_wgcna_dir <- "O:/Rproject/Paper1_tumor-only WGCNA"
+[Line 63] 
+[Line 64] if (!dir.exists(project_dir)) {
+[Line 66] }
+[Line 67] 
+[Line 68] if (!dir.exists(tumor_wgcna_dir)) {
+[Line 69]   stop("Tumor-only WGCNA directory does not exist:\n", tumor_wgcna_dir)
+[Line 70] }
+[Line 71] 
+[Line 75] cat(project_dir, "\n\n")
+[Line 76] 
+[Line 77] cat("Tumor-only WGCNA directory:\n")
+[Line 78] cat(tumor_wgcna_dir, "\n\n")
+[Line 79] 
+[Line 80] 
+[Line 227] 
+[Line 228] all_project_files <- list.files(
+[Line 229]   tumor_wgcna_dir,
+[Line 230]   recursive = TRUE,
+[Line 231]   full.names = TRUE,
+[Line 244]   step9a_dir,
+[Line 245]   "01_inventory",
+[Line 246]   "STEP9A_full_tumor_WGCNA_file_inventory.csv"
+[Line 247] )
+[Line 248] 
+[Line 268] 
+[Line 269] # ------------------------------------------------------------
+[Line 270] # 7A. Tumor-only expression matrix
+[Line 271] # ------------------------------------------------------------
+[Line 272] 
+[Line 273] expr_hits <- find_files_by_pattern(
+[Line 274]   tumor_wgcna_dir,
+[Line 275]   "Workflow-04-2C_expr_primary_tumor_log2_FPKM_UQ"
+[Line 276] )
+[Line 277] 
+[Line 285] 
+[Line 286] wgcna_expr_hits <- find_files_by_pattern(
+[Line 287]   tumor_wgcna_dir,
+[Line 288]   "Workflow-04-2C_WGCNA_candidate_log2_FPKM_UQ"
+[Line 289] )
+[Line 298] 
+[Line 299] module_hits <- find_files_by_pattern(
+[Line 300]   tumor_wgcna_dir,
+[Line 301]   "Workflow-04-2F_gene_module_assignment"
+[Line 302] )
+[Line 311] 
+[Line 312] step14_hits <- find_files_by_pattern(
+[Line 313]   tumor_wgcna_dir,
+[Line 314]   "Step14D_module_TME|Step14A-14E_LOCKED_KEY_RESULTS|Step14.*FINAL_LOCKED"
+[Line 315] )
+[Line 324] 
+[Line 325] step18a_hits <- find_files_by_pattern(
+[Line 326]   tumor_wgcna_dir,
+[Line 327]   "STEP18A_30_candidate|STEP18A_core_gene|candidate_master_18D|Supplementary_Table_X_TumorOnly_WGCNA_CoreGenes"
+[Line 328] )
+[Line 329] 
+[Line 337] 
+[Line 338] deg_hits <- find_files_by_pattern(
+[Line 339]   tumor_wgcna_dir,
+[Line 340]   "DEG|differential|Differential|DESeq|limma|edgeR|tumor.*normal|normal.*tumor"
+[Line 341] )
+[Line 342] 
+[Line 370] 
+[Line 371] cat("\n------------------------------------------------------------\n")
+[Line 372] cat("STEP9A-03: Tumor-only expression matrix QC\n")
+[Line 373] cat("------------------------------------------------------------\n")
+[Line 374] 
+[Line 375] 
+[Line 376] # Prefer the exact primary tumor expression file
+[Line 377] expr_primary <- expr_hits[
+[Line 378]   grepl(
+[Line 379]     "expr_primary_tumor_log2_FPKM_UQ\\.txt$",
+[Line 380]     basename(expr_hits),
+[Line 381]     ignore.case = TRUE
+[Line 386]   
+[Line 387]   cat(
+[Line 388]     "\nWARNING: Exactly one primary tumor expression file was not\n",
+[Line 389]     "automatically identified.\n\n",
+[Line 390]     "Candidates found:\n",
+[Line 479]   )
+[Line 480]   
+[Line 481]   # Gene count expected from locked tumor-only WGCNA
+[Line 482]   expr_qc <- rbind(
+[Line 483]     expr_qc,
+[Line 489]   )
+[Line 490]   
+[Line 491]   # Expected tumor count
+[Line 492]   expr_qc <- rbind(
+[Line 493]     expr_qc,
+[Line 494]     data.frame(
+[Line 495]       item = "expected_tumor_sample_count",
+[Line 496]       value = 513,
+[Line 497]       status = pass_flag(length(sample_names) == 513)
+[Line 505]       step9a_dir,
+[Line 506]       "02_locked_inputs",
+[Line 507]       "STEP9A_tumor_only_31609_gene_universe.txt"
+[Line 508]     )
+[Line 509]   )
+[Line 514]       step9a_dir,
+[Line 515]       "02_locked_inputs",
+[Line 516]       "STEP9A_tumor_only_513_sample_ids.txt"
+[Line 517]     )
+[Line 518]   )
+[Line 1046] 
+[Line 1047] # ============================================================
+[Line 1048] # 12. DEG audit — DO NOT GUESS THRESHOLD
+[Line 1049] # ============================================================
+[Line 1050] 
+[Line 1057]   "\nIMPORTANT:\n",
+[Line 1058]   "STEP9A will NOT automatically select a DEG file solely by filename,\n",
+[Line 1059]   "and will NOT assume |log2FC| > 0.58 or |log2FC| > 1.5.\n\n",
+[Line 1060]   "The final DEG definition must be traced to the locked STEP2 output.\n\n"
+[Line 1061] )
+[Line 1093]   ),
+[Line 1094]   data.frame(
+[Line 1095]     item = "DEG_threshold",
+[Line 1096]     value = "NOT_ASSUMED",
+[Line 1097]     status = "REVIEW_REQUIRED"
+[Line 1138]   "",
+[Line 1139]   "UPSTREAM DIRECTORY:",
+[Line 1140]   tumor_wgcna_dir,
+[Line 1141]   "",
+[Line 1142]   "------------------------------------------------------------",
+[Line 1144]   "------------------------------------------------------------",
+[Line 1145]   "",
+[Line 1146]   "Tumor-only expression:",
+[Line 1147]   "513 primary LUAD tumor samples × 31,609 genes",
+[Line 1148]   "",
+[Line 1149]   "WGCNA:",
+[Line 1150]   "Tumor-only WGCNA",
+[Line 1151]   "50 module labels expected",
+[Line 1152]   "",
+[Line 1172]   "------------------------------------------------------------",
+[Line 1173]   "",
+[Line 1174]   "The final DEG file, DEG threshold, and DEG testing universe",
+[Line 1175]   "must be traced to the locked STEP2 result.",
+[Line 1176]   "",
+[Line 1177]   "STEP9A intentionally does NOT assume:",
+[Line 1178]   "|log2FC| > 0.58",
+[Line 1179]   "|log2FC| > 1.5",
+[Line 1180]   "or any other historical DEG threshold.",
+[Line 1181]   "",
+[Line 1182]   "No enrichment analysis is performed in STEP9A.",
+[Line 1208] overall_qc <- data.frame(
+[Line 1209]   component = c(
+[Line 1210]     "Tumor-only expression",
+[Line 1211]     "31,609-gene expectation",
+[Line 1212]     "513-sample expectation",
+[Line 1235]     ifelse(
+[Line 1236]       exists("expr_qc") &&
+[Line 1237]         any(expr_qc$item == "expected_tumor_sample_count" &
+[Line 1238]               expr_qc$status == "PASS"),
+[Line 1239]       "PASS",
+[Line 1344]   project_dir = project_dir,
+[Line 1345]   
+[Line 1346]   tumor_wgcna_dir = tumor_wgcna_dir,
+[Line 1347]   
+[Line 1348]   expected_tumor_samples = 513,
+[Line 1349]   
+[Line 1350]   expected_wgcna_genes = 31609,
+[Line 1362]   ),
+[Line 1363]   
+[Line 1364]   deg_threshold_locked = FALSE,
+[Line 1365]   
+[Line 1366]   deg_universe_locked = FALSE,
+[Line 1529]   "differential",
+[Line 1530]   "Differential",
+[Line 1531]   "DESeq",
+[Line 1532]   "limma",
+[Line 1533]   "edgeR",
+[Line 1534]   "tumor.*normal",
+[Line 1535]   "normal.*tumor",
+[Line 1536]   sep = "|"
+[Line 1537] )
+[Line 1627]     Ncol = NA_integer_,
+[Line 1628]     Columns = NA_character_,
+[Line 1629]     Has_logFC = FALSE,
+[Line 1630]     Has_log2FC = FALSE,
+[Line 1631]     Has_FDR = FALSE,
+[Line 1632]     Has_adjP = FALSE,
+[Line 1633]     Has_padj = FALSE,
+[Line 1685]       )
+[Line 1686]       
+[Line 1687]       result$Has_logFC <- any(
+[Line 1688]         grepl(
+[Line 1689]           "^logFC$|logFC",
+[Line 1690]           cn,
+[Line 1691]           ignore.case = TRUE
+[Line 1693]       )
+[Line 1694]       
+[Line 1695]       result$Has_log2FC <- any(
+[Line 1696]         grepl(
+[Line 1697]           "log2FC|log2\\.FC|log_?2FC",
+[Line 1698]           cn,
+[Line 1699]           ignore.case = TRUE
+[Line 1701]       )
+[Line 1702]       
+[Line 1703]       result$Has_FDR <- any(
+[Line 1704]         grepl(
+[Line 1705]           "^FDR$|FDR",
+[Line 1706]           cn,
+[Line 1707]           ignore.case = TRUE
+[Line 1711]       result$Has_adjP <- any(
+[Line 1712]         grepl(
+[Line 1713]           "adj.*P|adjusted.*P",
+[Line 1714]           cn,
+[Line 1715]           ignore.case = TRUE
+[Line 1816]   Read_Status == "PASS" &
+[Line 1817]     (
+[Line 1818]       Has_logFC |
+[Line 1819]         Has_log2FC
+[Line 1820]     ) &
+[Line 1821]     (
+[Line 1822]       Has_FDR |
+[Line 1823]         Has_adjP |
+[Line 1824]         Has_padj
+[Line 1837]       Nrow,
+[Line 1838]       Ncol,
+[Line 1839]       Has_logFC,
+[Line 1840]       Has_log2FC,
+[Line 1841]       Has_FDR,
+[Line 1842]       Has_adjP,
+[Line 1843]       Has_padj,
+[Line 1871]   Item = c(
+[Line 1872]     "Final STEP2 DEG file",
+[Line 1873]     "Tumor vs normal comparison",
+[Line 1874]     "Differential expression method",
+[Line 1875]     "log2FC threshold",
+[Line 1876]     "Adjusted P/FDR threshold",
+[Line 1877]     "Upregulated definition",
+[Line 1878]     "Downregulated definition",
+[Line 1887] 
+[Line 1888] definition_status[
+[Line 1889]   Item == "Tumor vs normal comparison",
+[Line 1890]   Status := "EXPECTED_TUMOR_VS_NORMAL_BUT_MUST_VERIFY"
+[Line 1891] ]
+[Line 1892] 
+[Line 1918] 
+[Line 1919] cat(
+[Line 1920]   "No DEG threshold was assumed.\n"
+[Line 1921] )
+[Line 1922] 

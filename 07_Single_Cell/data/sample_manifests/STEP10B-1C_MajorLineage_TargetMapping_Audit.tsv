@@ -1,0 +1,12 @@
+Major_Lineage	T_Cell_Match	Myeloid_Match	Endothelial_Match	Target_Compartment
+B	FALSE	FALSE	FALSE	NA
+CD4Tconv	TRUE	FALSE	FALSE	T_cell
+CD8T	TRUE	FALSE	FALSE	T_cell
+CD8Tex	TRUE	FALSE	FALSE	T_cell
+DC	FALSE	FALSE	FALSE	NA
+Endothelial	FALSE	FALSE	TRUE	Endothelial
+Epithelial	FALSE	FALSE	FALSE	NA
+Fibroblasts	FALSE	FALSE	FALSE	NA
+Mast	FALSE	FALSE	FALSE	NA
+Mono/Macro	FALSE	TRUE	FALSE	Myeloid_macrophage
+Plasma	FALSE	FALSE	FALSE	NA

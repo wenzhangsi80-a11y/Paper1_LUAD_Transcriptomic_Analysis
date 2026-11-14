@@ -1,0 +1,22 @@
+Item	Result
+Core genes	AOC3 / MS4A7 / IL7R
+Input	STEP10D-B locked core-gene raw-count table
+Expression scale	Raw UMI pseudobulk counts
+Detection definition	Raw UMI count > 0
+Primary T-cell N	9
+Primary Myeloid/macrophage N	9
+Primary Endothelial N	4
+Sensitivity Endothelial N	2
+Zero counts retained	YES
+Normalization	NO
+Log transformation	NO
+Inferential statistics	NO
+P-values	NO
+FDR	NO
+Differential expression	NO
+Correlation	NO
+CellChat	NO
+Ligand-receptor analysis	NO
+Patient exclusion	NO
+Cell exclusion	NO
+Pseudobulk recalculation	NO

@@ -1,0 +1,5 @@
+QC_Item	PASS
+Expected candidate-set patterns only	TRUE
+ge4 nested within ge3	FALSE
+Candidate_Consistency_Class invariant	TRUE
+Candidate_Set ↔ consistency-class relationship	FALSE

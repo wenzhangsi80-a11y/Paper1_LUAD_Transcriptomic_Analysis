@@ -1,0 +1,1287 @@
+"GO_ID","GO_Description","N_KEGG_Pathways","Total_Shared_Genes","Max_Shared_Genes","Mean_Shared_Genes","Max_Jaccard"
+"GO:0009743","response to carbohydrate",56,155,8,2.76785714285714,0.108108108108108
+"GO:0034284","response to monosaccharide",56,132,7,2.35714285714286,0.101449275362319
+"GO:0023061","signal release",55,258,21,4.69090909090909,0.0950226244343891
+"GO:0050878","regulation of body fluid levels",55,234,17,4.25454545454545,0.121212121212121
+"GO:0042060","wound healing",55,240,16,4.36363636363636,0.10958904109589
+"GO:0051223","regulation of protein transport",55,215,9,3.90909090909091,0.0803571428571429
+"GO:0033500","carbohydrate homeostasis",55,132,6,2.4,0.075
+"GO:0042593","glucose homeostasis",55,132,6,2.4,0.075
+"GO:0034762","regulation of transmembrane transport",54,291,19,5.38888888888889,0.104651162790698
+"GO:0010562","positive regulation of phosphorus metabolic process",54,218,15,4.03703703703704,0.0878378378378378
+"GO:0045937","positive regulation of phosphate metabolic process",54,218,15,4.03703703703704,0.0878378378378378
+"GO:0051047","positive regulation of secretion",54,205,15,3.7962962962963,0.0815217391304348
+"GO:1903532","positive regulation of secretion by cell",54,190,13,3.51851851851852,0.0769230769230769
+"GO:0042886","amide transport",54,161,11,2.98148148148148,0.104166666666667
+"GO:0046879","hormone secretion",53,198,17,3.73584905660377,0.107692307692308
+"GO:0009914","hormone transport",53,200,17,3.77358490566038,0.106870229007634
+"GO:0046883","regulation of hormone secretion",53,177,15,3.33962264150943,0.0932203389830508
+"GO:1901342","regulation of vasculature development",53,194,15,3.66037735849057,0.0898203592814371
+"GO:0002237","response to molecule of bacterial origin",53,211,14,3.9811320754717,0.0886075949367089
+"GO:0045765","regulation of angiogenesis",53,189,14,3.56603773584906,0.0843373493975904
+"GO:0001934","positive regulation of protein phosphorylation",53,201,13,3.79245283018868,0.102362204724409
+"GO:0042327","positive regulation of phosphorylation",53,201,13,3.79245283018868,0.099236641221374
+"GO:0032496","response to lipopolysaccharide",53,203,13,3.83018867924528,0.0833333333333333
+"GO:0050890","cognition",53,173,12,3.26415094339623,0.0923076923076923
+"GO:0015833","peptide transport",53,156,11,2.94339622641509,0.094017094017094
+"GO:0009410","response to xenobiotic stimulus",53,155,10,2.92452830188679,0.0648148148148148
+"GO:0006816","calcium ion transport",52,332,32,6.38461538461539,0.189349112426035
+"GO:0043410","positive regulation of MAPK cascade",52,280,23,5.38461538461539,0.131428571428571
+"GO:0043434","response to peptide hormone",52,224,14,4.30769230769231,0.0818713450292398
+"GO:0032102","negative regulation of response to external stimulus",52,144,12,2.76923076923077,0.101694915254237
+"GO:0051051","negative regulation of transport",52,161,10,3.09615384615385,0.0542168674698795
+"GO:0009306","protein secretion",52,187,9,3.59615384615385,0.0769230769230769
+"GO:0035592","establishment of protein localization to extracellular region",52,187,9,3.59615384615385,0.0760869565217391
+"GO:0071692","protein localization to extracellular region",52,187,9,3.59615384615385,0.074468085106383
+"GO:0050708","regulation of protein secretion",52,175,8,3.36538461538462,0.0875
+"GO:0043269","regulation of monoatomic ion transport",51,314,24,6.15686274509804,0.124352331606218
+"GO:0097305","response to alcohol",51,197,14,3.86274509803922,0.104651162790698
+"GO:0070482","response to oxygen levels",51,155,9,3.03921568627451,0.0927835051546392
+"GO:0009612","response to mechanical stimulus",51,134,6,2.62745098039216,0.0697674418604651
+"GO:0003012","muscle system process",50,341,30,6.82,0.155440414507772
+"GO:0010959","regulation of metal ion transport",50,240,20,4.8,0.115606936416185
+"GO:0055074","calcium ion homeostasis",50,251,19,5.02,0.131034482758621
+"GO:0030072","peptide hormone secretion",50,149,11,2.98,0.101851851851852
+"GO:0002790","peptide secretion",50,149,11,2.98,0.0990990990990991
+"GO:1901654","response to ketone",50,162,10,3.24,0.0697674418604651
+"GO:0001666","response to hypoxia",50,144,9,2.88,0.0860215053763441
+"GO:0006898","receptor-mediated endocytosis",50,117,9,2.34,0.0853658536585366
+"GO:0036293","response to decreased oxygen levels",50,146,9,2.92,0.0833333333333333
+"GO:0003018","vascular process in circulatory system",49,228,22,4.6530612244898,0.147826086956522
+"GO:0051924","regulation of calcium ion transport",49,194,19,3.95918367346939,0.143939393939394
+"GO:0006874","intracellular calcium ion homeostasis",49,239,18,4.87755102040816,0.129496402877698
+"GO:0007596","blood coagulation",49,160,16,3.26530612244898,0.168421052631579
+"GO:0050817","coagulation",49,160,16,3.26530612244898,0.166666666666667
+"GO:0007599","hemostasis",49,162,16,3.30612244897959,0.163265306122449
+"GO:0070371","ERK1 and ERK2 cascade",49,170,14,3.46938775510204,0.112
+"GO:0032970","regulation of actin filament-based process",49,150,14,3.06122448979592,0.0864197530864197
+"GO:0071375","cellular response to peptide hormone stimulus",49,190,13,3.87755102040816,0.0916666666666667
+"GO:0050727","regulation of inflammatory response",49,176,11,3.59183673469388,0.0656934306569343
+"GO:0042063","gliogenesis",49,157,10,3.20408163265306,0.0613496932515337
+"GO:0090276","regulation of peptide hormone secretion",49,131,9,2.6734693877551,0.0882352941176471
+"GO:0002791","regulation of peptide secretion",49,131,9,2.6734693877551,0.0865384615384615
+"GO:0090087","regulation of peptide transport",49,133,9,2.71428571428571,0.0857142857142857
+"GO:0050796","regulation of insulin secretion",49,127,8,2.59183673469388,0.0833333333333333
+"GO:0030073","insulin secretion",49,128,8,2.61224489795918,0.0816326530612245
+"GO:0050714","positive regulation of protein secretion",49,126,6,2.57142857142857,0.0943396226415094
+"GO:0090066","regulation of anatomical structure size",48,250,24,5.20833333333333,0.124087591240876
+"GO:0015850","organic hydroxy compound transport",48,143,11,2.97916666666667,0.130952380952381
+"GO:0006935","chemotaxis",47,241,31,5.12765957446809,0.176470588235294
+"GO:0042330","taxis",47,241,31,5.12765957446809,0.176470588235294
+"GO:0070372","regulation of ERK1 and ERK2 cascade",47,161,14,3.42553191489362,0.114754098360656
+"GO:0030099","myeloid cell differentiation",47,109,12,2.31914893617021,0.0967741935483871
+"GO:0050673","epithelial cell proliferation",47,149,12,3.17021276595745,0.0764331210191083
+"GO:0046887","positive regulation of hormone secretion",47,109,11,2.31914893617021,0.0833333333333333
+"GO:0032868","response to insulin",47,123,9,2.61702127659574,0.0803571428571429
+"GO:0001894","tissue homeostasis",47,113,8,2.40425531914894,0.0655737704918033
+"GO:0060249","anatomical structure homeostasis",47,113,8,2.40425531914894,0.0655737704918033
+"GO:0010038","response to metal ion",47,139,7,2.95744680851064,0.0546875
+"GO:0150076","neuroinflammatory response",47,93,6,1.97872340425532,0.1
+"GO:0007204","positive regulation of cytosolic calcium ion concentration",46,202,27,4.39130434782609,0.181208053691275
+"GO:0045785","positive regulation of cell adhesion",46,296,18,6.43478260869565,0.120567375886525
+"GO:0070374","positive regulation of ERK1 and ERK2 cascade",46,142,13,3.08695652173913,0.12621359223301
+"GO:0030168","platelet activation",46,115,12,2.5,0.2
+"GO:0032956","regulation of actin cytoskeleton organization",46,112,11,2.43478260869565,0.0723684210526316
+"GO:0007162","negative regulation of cell adhesion",46,106,8,2.30434782608696,0.0588235294117647
+"GO:0048545","response to steroid hormone",46,111,8,2.41304347826087,0.055045871559633
+"GO:0010720","positive regulation of cell development",45,157,17,3.48888888888889,0.105590062111801
+"GO:0002443","leukocyte mediated immunity",45,230,14,5.11111111111111,0.1015625
+"GO:0015711","organic anion transport",45,141,13,3.13333333333333,0.104
+"GO:0002263","cell activation involved in immune response",45,172,13,3.82222222222222,0.0891089108910891
+"GO:0015849","organic acid transport",45,135,11,3,0.1
+"GO:0046942","carboxylic acid transport",45,135,11,3,0.1
+"GO:1904018","positive regulation of vasculature development",45,128,11,2.84444444444444,0.0980392156862745
+"GO:1902903","regulation of supramolecular fiber organization",45,104,11,2.31111111111111,0.0748299319727891
+"GO:0050806","positive regulation of synaptic transmission",45,133,9,2.95555555555556,0.1
+"GO:0032869","cellular response to insulin stimulus",45,104,9,2.31111111111111,0.0947368421052632
+"GO:0033002","muscle cell proliferation",45,138,8,3.06666666666667,0.0681818181818182
+"GO:0043086","negative regulation of catalytic activity",45,87,7,1.93333333333333,0.0526315789473684
+"GO:0090287","regulation of cellular response to growth factor stimulus",45,88,6,1.95555555555556,0.0454545454545455
+"GO:0060326","cell chemotaxis",44,203,29,4.61363636363636,0.24468085106383
+"GO:0050900","leukocyte migration",44,238,27,5.40909090909091,0.178807947019868
+"GO:0070588","calcium ion transmembrane transport",44,250,26,5.68181818181818,0.181818181818182
+"GO:0019722","calcium-mediated signaling",44,191,18,4.34090909090909,0.138461538461538
+"GO:0010876","lipid localization",44,171,14,3.88636363636364,0.114754098360656
+"GO:0043270","positive regulation of monoatomic ion transport",44,175,13,3.97727272727273,0.100840336134454
+"GO:0002366","leukocyte activation involved in immune response",44,169,13,3.84090909090909,0.09
+"GO:0007611","learning or memory",44,151,11,3.43181818181818,0.0901639344262295
+"GO:0050678","regulation of epithelial cell proliferation",44,123,11,2.79545454545455,0.0797101449275362
+"GO:0045766","positive regulation of angiogenesis",44,123,10,2.79545454545455,0.099009900990099
+"GO:0014074","response to purine-containing compound",44,114,9,2.59090909090909,0.079646017699115
+"GO:0050729","positive regulation of inflammatory response",44,104,9,2.36363636363636,0.0775862068965517
+"GO:0048659","smooth muscle cell proliferation",44,112,8,2.54545454545455,0.0625
+"GO:0048660","regulation of smooth muscle cell proliferation",44,112,8,2.54545454545455,0.0625
+"GO:0016049","cell growth",44,120,8,2.72727272727273,0.0610687022900763
+"GO:0010001","glial cell differentiation",44,99,6,2.25,0.0659340659340659
+"GO:0007548","sex differentiation",44,85,5,1.93181818181818,0.05
+"GO:0048608","reproductive structure development",44,82,5,1.86363636363636,0.0394736842105263
+"GO:0061458","reproductive system development",44,82,5,1.86363636363636,0.038961038961039
+"GO:0097553","calcium ion transmembrane import into cytosol",43,185,20,4.30232558139535,0.181818181818182
+"GO:0031589","cell-substrate adhesion",43,148,17,3.44186046511628,0.140495867768595
+"GO:0002697","regulation of immune effector process",43,208,13,4.83720930232558,0.115384615384615
+"GO:0043491","phosphatidylinositol 3-kinase/protein kinase B signal transduction",43,125,12,2.90697674418605,0.107142857142857
+"GO:0030900","forebrain development",43,112,9,2.6046511627907,0.0547945205479452
+"GO:0072593","reactive oxygen species metabolic process",43,105,8,2.44186046511628,0.0705882352941176
+"GO:0034763","negative regulation of transmembrane transport",43,84,7,1.95348837209302,0.07
+"GO:0034219","carbohydrate transmembrane transport",43,81,4,1.88372093023256,0.0769230769230769
+"GO:0008643","carbohydrate transport",43,81,4,1.88372093023256,0.0754716981132075
+"GO:1904659","D-glucose transmembrane transport",43,78,4,1.81395348837209,0.0754716981132075
+"GO:0008645","hexose transmembrane transport",43,78,4,1.81395348837209,0.0740740740740741
+"GO:0045137","development of primary sexual characteristics",43,75,4,1.74418604651163,0.0533333333333333
+"GO:0008406","gonad development",43,71,4,1.65116279069767,0.0517241379310345
+"GO:0097529","myeloid leukocyte migration",42,183,23,4.35714285714286,0.227848101265823
+"GO:1903522","regulation of blood circulation",42,265,23,6.30952380952381,0.172413793103448
+"GO:0060537","muscle tissue development",42,194,22,4.61904761904762,0.134146341463415
+"GO:0007015","actin filament organization",42,108,18,2.57142857142857,0.110429447852761
+"GO:0034765","regulation of monoatomic ion transmembrane transport",42,222,17,5.28571428571429,0.108108108108108
+"GO:0042742","defense response to bacterium",42,121,14,2.88095238095238,0.108527131782946
+"GO:0006869","lipid transport",42,156,13,3.71428571428571,0.110169491525424
+"GO:0062012","regulation of small molecule metabolic process",42,97,10,2.30952380952381,0.108695652173913
+"GO:0034764","positive regulation of transmembrane transport",42,130,10,3.0952380952381,0.0818181818181818
+"GO:0045471","response to ethanol",42,101,9,2.4047619047619,0.170212765957447
+"GO:0001822","kidney development",42,129,9,3.07142857142857,0.0655737704918033
+"GO:0072001","renal system development",42,130,9,3.0952380952381,0.062992125984252
+"GO:0001659","temperature homeostasis",42,112,8,2.66666666666667,0.106060606060606
+"GO:0001818","negative regulation of cytokine production",42,109,8,2.5952380952381,0.0727272727272727
+"GO:0048732","gland development",42,102,8,2.42857142857143,0.050314465408805
+"GO:0010543","regulation of platelet activation",42,73,6,1.73809523809524,0.122448979591837
+"GO:0010721","negative regulation of cell development",42,86,6,2.04761904761905,0.0789473684210526
+"GO:0042391","regulation of membrane potential",41,296,28,7.21951219512195,0.138728323699422
+"GO:0070661","leukocyte proliferation",41,170,15,4.14634146341463,0.119047619047619
+"GO:0051208","sequestering of calcium ion",41,118,12,2.8780487804878,0.12
+"GO:0051209","release of sequestered calcium ion into cytosol",41,118,12,2.8780487804878,0.12
+"GO:0051282","regulation of sequestering of calcium ion",41,118,12,2.8780487804878,0.12
+"GO:0051283","negative regulation of sequestering of calcium ion",41,118,12,2.8780487804878,0.12
+"GO:0002699","positive regulation of immune effector process",41,157,11,3.82926829268293,0.152777777777778
+"GO:0051896","regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",41,101,11,2.46341463414634,0.105769230769231
+"GO:0002444","myeloid leukocyte mediated immunity",41,90,10,2.19512195121951,0.104166666666667
+"GO:0150063","visual system development",41,102,10,2.48780487804878,0.0574712643678161
+"GO:0048880","sensory system development",41,102,10,2.48780487804878,0.0571428571428571
+"GO:0048771","tissue remodeling",41,93,8,2.26829268292683,0.0588235294117647
+"GO:0007613","memory",41,98,7,2.39024390243902,0.0943396226415094
+"GO:0010563","negative regulation of phosphorus metabolic process",41,79,5,1.92682926829268,0.0434782608695652
+"GO:0045936","negative regulation of phosphate metabolic process",41,79,5,1.92682926829268,0.0434782608695652
+"GO:0008217","regulation of blood pressure",40,177,27,4.425,0.16875
+"GO:0030595","leukocyte chemotaxis",40,159,24,3.975,0.233766233766234
+"GO:0007159","leukocyte cell-cell adhesion",40,262,23,6.55,0.178294573643411
+"GO:0090257","regulation of muscle system process",40,215,20,5.375,0.150375939849624
+"GO:1904062","regulation of monoatomic cation transmembrane transport",40,195,17,4.875,0.114864864864865
+"GO:0001906","cell killing",40,174,15,4.35,0.130434782608696
+"GO:0002573","myeloid leukocyte differentiation",40,90,12,2.25,0.13953488372093
+"GO:0071222","cellular response to lipopolysaccharide",40,129,11,3.225,0.0921052631578947
+"GO:0071219","cellular response to molecule of bacterial origin",40,129,11,3.225,0.0909090909090909
+"GO:0071216","cellular response to biotic stimulus",40,131,11,3.275,0.088
+"GO:0002274","myeloid leukocyte activation",40,116,11,2.9,0.0743243243243243
+"GO:0032943","mononuclear cell proliferation",40,156,10,3.9,0.133333333333333
+"GO:0007626","locomotory behavior",40,108,8,2.7,0.0727272727272727
+"GO:0050805","negative regulation of synaptic transmission",40,64,5,1.6,0.0833333333333333
+"GO:0046661","male sex differentiation",40,66,4,1.65,0.0638297872340425
+"GO:0045444","fat cell differentiation",40,74,4,1.85,0.0506329113924051
+"GO:0008584","male gonad development",40,61,3,1.525,0.0731707317073171
+"GO:0046546","development of primary male sexual characteristics",40,61,3,1.525,0.0731707317073171
+"GO:0007200","phospholipase C-activating G protein-coupled receptor signaling pathway",39,194,30,4.97435897435897,0.217391304347826
+"GO:0006936","muscle contraction",39,305,28,7.82051282051282,0.166666666666667
+"GO:0014706","striated muscle tissue development",39,180,21,4.61538461538461,0.132075471698113
+"GO:0002703","regulation of leukocyte mediated immunity",39,158,10,4.05128205128205,0.144927536231884
+"GO:0048167","regulation of synaptic plasticity",39,115,10,2.94871794871795,0.104477611940299
+"GO:0001503","ossification",39,114,10,2.92307692307692,0.0571428571428571
+"GO:0030100","regulation of endocytosis",39,98,8,2.51282051282051,0.0727272727272727
+"GO:0050866","negative regulation of cell activation",39,76,7,1.94871794871795,0.0630630630630631
+"GO:0006887","exocytosis",39,87,6,2.23076923076923,0.0336134453781513
+"GO:0071466","cellular response to xenobiotic stimulus",39,52,3,1.33333333333333,0.0416666666666667
+"GO:0042692","muscle cell differentiation",38,195,26,5.13157894736842,0.165605095541401
+"GO:0007517","muscle organ development",38,157,24,4.13157894736842,0.166666666666667
+"GO:0060047","heart contraction",38,240,21,6.31578947368421,0.185840707964602
+"GO:0003015","heart process",38,243,21,6.39473684210526,0.182608695652174
+"GO:0008016","regulation of heart contraction",38,216,18,5.68421052631579,0.173076923076923
+"GO:1903037","regulation of leukocyte cell-cell adhesion",38,227,18,5.97368421052632,0.149425287356322
+"GO:0002685","regulation of leukocyte migration",38,138,15,3.63157894736842,0.141025641025641
+"GO:0006909","phagocytosis",38,111,15,2.92105263157895,0.130434782608696
+"GO:0006836","neurotransmitter transport",38,91,14,2.39473684210526,0.138613861386139
+"GO:0051960","regulation of nervous system development",38,100,14,2.63157894736842,0.0843373493975904
+"GO:0030198","extracellular matrix organization",38,120,13,3.15789473684211,0.118181818181818
+"GO:0043062","extracellular structure organization",38,120,13,3.15789473684211,0.117117117117117
+"GO:0045229","external encapsulating structure organization",38,120,13,3.15789473684211,0.117117117117117
+"GO:0061041","regulation of wound healing",38,70,10,1.84210526315789,0.151515151515152
+"GO:0032640","tumor necrosis factor production",38,108,10,2.84210526315789,0.138888888888889
+"GO:0032680","regulation of tumor necrosis factor production",38,108,10,2.84210526315789,0.138888888888889
+"GO:0071706","tumor necrosis factor superfamily cytokine production",38,109,10,2.86842105263158,0.136986301369863
+"GO:1903555","regulation of tumor necrosis factor superfamily cytokine production",38,109,10,2.86842105263158,0.136986301369863
+"GO:0046651","lymphocyte proliferation",38,153,10,4.02631578947368,0.135135135135135
+"GO:1903034","regulation of response to wounding",38,74,10,1.94736842105263,0.135135135135135
+"GO:0019216","regulation of lipid metabolic process",38,95,10,2.5,0.108695652173913
+"GO:0051928","positive regulation of calcium ion transport",38,99,10,2.60526315789474,0.0980392156862745
+"GO:0034767","positive regulation of monoatomic ion transmembrane transport",38,111,10,2.92105263157895,0.0909090909090909
+"GO:0001935","endothelial cell proliferation",38,96,9,2.52631578947368,0.0891089108910891
+"GO:0046683","response to organophosphorus",38,83,7,2.18421052631579,0.0707070707070707
+"GO:0021700","developmental maturation",38,85,7,2.23684210526316,0.0636363636363636
+"GO:0031960","response to corticosteroid",38,73,7,1.92105263157895,0.0618556701030928
+"GO:0017157","regulation of exocytosis",38,69,5,1.81578947368421,0.0434782608695652
+"GO:0048872","homeostasis of number of cells",38,66,5,1.73684210526316,0.0434782608695652
+"GO:0071248","cellular response to metal ion",38,72,4,1.89473684210526,0.0727272727272727
+"GO:0006959","humoral immune response",37,189,22,5.10810810810811,0.166666666666667
+"GO:0035150","regulation of tube size",37,171,21,4.62162162162162,0.205479452054795
+"GO:0035296","regulation of tube diameter",37,171,21,4.62162162162162,0.205479452054795
+"GO:0097746","blood vessel diameter maintenance",37,171,21,4.62162162162162,0.205479452054795
+"GO:0006937","regulation of muscle contraction",37,199,19,5.37837837837838,0.163793103448276
+"GO:1903169","regulation of calcium ion transmembrane transport",37,119,13,3.21621621621622,0.116071428571429
+"GO:0001909","leukocyte mediated cytotoxicity",37,123,11,3.32432432432432,0.119565217391304
+"GO:0001508","action potential",37,140,10,3.78378378378378,0.118421052631579
+"GO:0044706","multi-multicellular organism process",37,82,10,2.21621621621622,0.0636942675159236
+"GO:0015718","monocarboxylic acid transport",37,95,9,2.56756756756757,0.121621621621622
+"GO:1990778","protein localization to cell periphery",37,90,9,2.43243243243243,0.0625
+"GO:0050767","regulation of neurogenesis",37,83,9,2.24324324324324,0.0616438356164384
+"GO:0040013","negative regulation of locomotion",37,83,9,2.24324324324324,0.0545454545454545
+"GO:0032409","regulation of transporter activity",37,103,8,2.78378378378378,0.0888888888888889
+"GO:0071695","anatomical structure maturation",37,80,7,2.16216216216216,0.0714285714285714
+"GO:0051384","response to glucocorticoid",37,67,7,1.81081081081081,0.0555555555555556
+"GO:0022408","negative regulation of cell-cell adhesion",37,74,6,2,0.055045871559633
+"GO:0045055","regulated exocytosis",37,79,6,2.13513513513514,0.0404040404040404
+"GO:0034109","homotypic cell-cell adhesion",37,60,5,1.62162162162162,0.087719298245614
+"GO:0006809","nitric oxide biosynthetic process",37,65,4,1.75675675675676,0.105263157894737
+"GO:0046209","nitric oxide metabolic process",37,66,4,1.78378378378378,0.1
+"GO:2001057","reactive nitrogen species metabolic process",37,66,4,1.78378378378378,0.1
+"GO:0007188","adenylate cyclase-modulating G protein-coupled receptor signaling pathway",36,332,48,9.22222222222222,0.296296296296296
+"GO:0006939","smooth muscle contraction",36,128,20,3.55555555555556,0.16
+"GO:0022409","positive regulation of cell-cell adhesion",36,224,18,6.22222222222222,0.173913043478261
+"GO:0050867","positive regulation of cell activation",36,243,17,6.75,0.179775280898876
+"GO:0007160","cell-matrix adhesion",36,111,14,3.08333333333333,0.164705882352941
+"GO:0048738","cardiac muscle tissue development",36,138,14,3.83333333333333,0.139784946236559
+"GO:0035249","synaptic transmission, glutamatergic",36,90,13,2.5,0.129411764705882
+"GO:0110053","regulation of actin filament organization",36,76,11,2.11111111111111,0.0852713178294574
+"GO:1904064","positive regulation of cation transmembrane transport",36,99,10,2.75,0.0952380952380952
+"GO:0044703","multi-organism reproductive process",36,76,10,2.11111111111111,0.0645161290322581
+"GO:0043010","camera-type eye development",36,80,10,2.22222222222222,0.0613496932515337
+"GO:0001654","eye development",36,86,10,2.38888888888889,0.0584795321637427
+"GO:0001936","regulation of endothelial cell proliferation",36,88,9,2.44444444444444,0.0967741935483871
+"GO:0051048","negative regulation of secretion",36,60,9,1.66666666666667,0.0584415584415584
+"GO:0030336","negative regulation of cell migration",36,79,9,2.19444444444444,0.0573248407643312
+"GO:2000146","negative regulation of cell motility",36,80,9,2.22222222222222,0.05625
+"GO:0003014","renal system process",36,86,8,2.38888888888889,0.116666666666667
+"GO:0050830","defense response to Gram-positive bacterium",36,79,8,2.19444444444444,0.0952380952380952
+"GO:0032412","regulation of monoatomic ion transmembrane transporter activity",36,102,8,2.83333333333333,0.0919540229885057
+"GO:0022898","regulation of transmembrane transporter activity",36,102,8,2.83333333333333,0.0909090909090909
+"GO:0060291","long-term synaptic potentiation",36,87,7,2.41666666666667,0.136363636363636
+"GO:0062013","positive regulation of small molecule metabolic process",36,64,7,1.77777777777778,0.127272727272727
+"GO:0002526","acute inflammatory response",36,87,6,2.41666666666667,0.122448979591837
+"GO:0051336","regulation of hydrolase activity",36,74,6,2.05555555555556,0.0561797752808989
+"GO:0070527","platelet aggregation",36,54,5,1.5,0.0980392156862745
+"GO:0048708","astrocyte differentiation",36,63,5,1.75,0.0925925925925926
+"GO:0048661","positive regulation of smooth muscle cell proliferation",36,81,5,2.25,0.08
+"GO:0021782","glial cell development",36,66,5,1.83333333333333,0.0757575757575758
+"GO:0031623","receptor internalization",36,63,5,1.75,0.0612244897959184
+"GO:0016055","Wnt signaling pathway",35,80,19,2.28571428571429,0.112426035502959
+"GO:0006631","fatty acid metabolic process",35,91,16,2.6,0.164948453608247
+"GO:0070663","regulation of leukocyte proliferation",35,151,13,4.31428571428571,0.144927536231884
+"GO:1903706","regulation of hemopoiesis",35,129,13,3.68571428571429,0.0844155844155844
+"GO:0002687","positive regulation of leukocyte migration",35,121,12,3.45714285714286,0.158730158730159
+"GO:0043542","endothelial cell migration",35,80,12,2.28571428571429,0.105263157894737
+"GO:0050886","endocrine process",35,82,11,2.34285714285714,0.189189189189189
+"GO:0045216","cell-cell junction organization",35,79,11,2.25714285714286,0.108910891089109
+"GO:0097006","regulation of plasma lipoprotein particle levels",35,66,10,1.88571428571429,0.303030303030303
+"GO:0032944","regulation of mononuclear cell proliferation",35,144,10,4.11428571428571,0.15625
+"GO:0050670","regulation of lymphocyte proliferation",35,144,10,4.11428571428571,0.15625
+"GO:1902105","regulation of leukocyte differentiation",35,123,10,3.51428571428571,0.099009900990099
+"GO:0033627","cell adhesion mediated by integrin",35,75,9,2.14285714285714,0.166666666666667
+"GO:1905952","regulation of lipid localization",35,100,9,2.85714285714286,0.160714285714286
+"GO:0015908","fatty acid transport",35,81,8,2.31428571428571,0.142857142857143
+"GO:0032760","positive regulation of tumor necrosis factor production",35,84,8,2.4,0.135593220338983
+"GO:1903557","positive regulation of tumor necrosis factor superfamily cytokine production",35,84,8,2.4,0.135593220338983
+"GO:0051897","positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",35,79,8,2.25714285714286,0.0930232558139535
+"GO:0007612","learning",35,88,8,2.51428571428571,0.087719298245614
+"GO:0045637","regulation of myeloid cell differentiation",35,74,8,2.11428571428571,0.0823529411764706
+"GO:0043271","negative regulation of monoatomic ion transport",35,73,7,2.08571428571429,0.072463768115942
+"GO:1903531","negative regulation of secretion by cell",35,55,7,1.57142857142857,0.0460526315789474
+"GO:0018958","phenol-containing compound metabolic process",35,70,6,2,0.127659574468085
+"GO:0051966","regulation of synaptic transmission, glutamatergic",35,60,6,1.71428571428571,0.0810810810810811
+"GO:0009308","amine metabolic process",35,69,5,1.97142857142857,0.125
+"GO:1901655","cellular response to ketone",35,83,5,2.37142857142857,0.0819672131147541
+"GO:0016525","negative regulation of angiogenesis",35,61,5,1.74285714285714,0.0533333333333333
+"GO:2000181","negative regulation of blood vessel morphogenesis",35,61,5,1.74285714285714,0.0533333333333333
+"GO:1901343","negative regulation of vasculature development",35,61,5,1.74285714285714,0.0526315789473684
+"GO:0071260","cellular response to mechanical stimulus",35,54,4,1.54285714285714,0.075
+"GO:0071496","cellular response to external stimulus",35,54,4,1.54285714285714,0.075
+"GO:1903305","regulation of regulated secretory pathway",35,58,4,1.65714285714286,0.0375
+"GO:0007189","adenylate cyclase-activating G protein-coupled receptor signaling pathway",34,258,31,7.58823529411765,0.26530612244898
+"GO:0031032","actomyosin structure organization",34,97,22,2.85294117647059,0.183333333333333
+"GO:1903039","positive regulation of leukocyte cell-cell adhesion",34,206,18,6.05882352941176,0.206349206349206
+"GO:0002696","positive regulation of leukocyte activation",34,231,16,6.79411764705882,0.20253164556962
+"GO:0002285","lymphocyte activation involved in immune response",34,126,10,3.70588235294118,0.119402985074627
+"GO:0042180","ketone metabolic process",34,62,8,1.82352941176471,0.119402985074627
+"GO:0060562","epithelial tube morphogenesis",34,81,8,2.38235294117647,0.054421768707483
+"GO:0035710","CD4-positive, alpha-beta T cell activation",34,88,7,2.58823529411765,0.152173913043478
+"GO:1990845","adaptive thermogenesis",34,70,7,2.05882352941176,0.120689655172414
+"GO:0031341","regulation of cell killing",34,94,7,2.76470588235294,0.113636363636364
+"GO:0001910","regulation of leukocyte mediated cytotoxicity",34,87,7,2.55882352941176,0.107142857142857
+"GO:0046890","regulation of lipid biosynthetic process",34,69,7,2.02941176470588,0.1
+"GO:0045807","positive regulation of endocytosis",34,80,7,2.35294117647059,0.0813953488372093
+"GO:0010810","regulation of cell-substrate adhesion",34,70,7,2.05882352941176,0.0736842105263158
+"GO:0071559","response to transforming growth factor beta",34,84,7,2.47058823529412,0.06
+"GO:0071560","cellular response to transforming growth factor beta stimulus",34,84,7,2.47058823529412,0.06
+"GO:0002064","epithelial cell development",34,81,7,2.38235294117647,0.0507246376811594
+"GO:0043500","muscle adaptation",34,73,6,2.14705882352941,0.105263157894737
+"GO:0140353","lipid export from cell",34,70,6,2.05882352941176,0.1
+"GO:0002761","regulation of myeloid leukocyte differentiation",34,67,6,1.97058823529412,0.0869565217391304
+"GO:0003158","endothelium development",34,74,6,2.17647058823529,0.0487804878048781
+"GO:0042417","dopamine metabolic process",34,58,5,1.70588235294118,0.161290322580645
+"GO:0006584","catecholamine metabolic process",34,65,5,1.91176470588235,0.125
+"GO:0009712","catechol-containing compound metabolic process",34,65,5,1.91176470588235,0.125
+"GO:0014002","astrocyte development",34,60,5,1.76470588235294,0.116279069767442
+"GO:0006576","biogenic amine metabolic process",34,67,5,1.97058823529412,0.113636363636364
+"GO:0097306","cellular response to alcohol",34,77,5,2.26470588235294,0.0892857142857143
+"GO:0050728","negative regulation of inflammatory response",34,70,5,2.05882352941176,0.0602409638554217
+"GO:1902905","positive regulation of supramolecular fiber organization",34,60,4,1.76470588235294,0.0487804878048781
+"GO:0070665","positive regulation of leukocyte proliferation",33,124,11,3.75757575757576,0.18
+"GO:0010594","regulation of endothelial cell migration",33,70,11,2.12121212121212,0.112244897959184
+"GO:0051962","positive regulation of nervous system development",33,85,10,2.57575757575758,0.0714285714285714
+"GO:0050671","positive regulation of lymphocyte proliferation",33,118,9,3.57575757575758,0.195652173913043
+"GO:0002286","T cell activation involved in immune response",33,108,9,3.27272727272727,0.137254901960784
+"GO:0070509","calcium ion import",33,83,9,2.51515151515152,0.12
+"GO:0015844","monoamine transport",33,70,9,2.12121212121212,0.113924050632911
+"GO:0050769","positive regulation of neurogenesis",33,72,9,2.18181818181818,0.0725806451612903
+"GO:0051279","regulation of release of sequestered calcium ion into cytosol",33,68,7,2.06060606060606,0.0736842105263158
+"GO:0002695","negative regulation of leukocyte activation",33,64,7,1.93939393939394,0.0666666666666667
+"GO:0042116","macrophage activation",33,71,6,2.15151515151515,0.0806451612903226
+"GO:0021537","telencephalon development",33,69,6,2.09090909090909,0.0530973451327434
+"GO:2000027","regulation of animal organ morphogenesis",33,48,5,1.45454545454545,0.0714285714285714
+"GO:0045926","negative regulation of growth",33,68,5,2.06060606060606,0.0428571428571429
+"GO:0140962","multicellular organismal-level chemical homeostasis",33,41,4,1.24242424242424,0.0833333333333333
+"GO:0060986","endocrine hormone secretion",33,49,4,1.48484848484848,0.0681818181818182
+"GO:0007269","neurotransmitter secretion",33,53,4,1.60606060606061,0.0422535211267606
+"GO:0099643","signal release from synapse",33,53,4,1.60606060606061,0.0422535211267606
+"GO:0031099","regeneration",33,53,3,1.60606060606061,0.0428571428571429
+"GO:0050920","regulation of chemotaxis",32,104,12,3.25,0.115384615384615
+"GO:0018108","peptidyl-tyrosine phosphorylation",32,86,11,2.6875,0.126436781609195
+"GO:0018212","peptidyl-tyrosine modification",32,86,11,2.6875,0.126436781609195
+"GO:0050818","regulation of coagulation",32,53,10,1.65625,0.2
+"GO:0003007","heart morphogenesis",32,96,9,3,0.0833333333333333
+"GO:0006814","sodium ion transport",32,122,9,3.8125,0.0761904761904762
+"GO:0048568","embryonic organ development",32,78,9,2.4375,0.0511363636363636
+"GO:0010565","regulation of ketone metabolic process",32,54,8,1.6875,0.140350877192982
+"GO:0035051","cardiocyte differentiation",32,89,8,2.78125,0.114285714285714
+"GO:0098739","import across plasma membrane",32,103,8,3.21875,0.0930232558139535
+"GO:0035265","organ growth",32,69,8,2.15625,0.0683760683760684
+"GO:0106106","cold-induced thermogenesis",32,65,7,2.03125,0.125
+"GO:0120161","regulation of cold-induced thermogenesis",32,65,7,2.03125,0.125
+"GO:0050954","sensory perception of mechanical stimulus",32,44,7,1.375,0.056
+"GO:0030534","adult behavior",32,51,6,1.59375,0.0659340659340659
+"GO:0043583","ear development",32,60,6,1.875,0.0495867768595041
+"GO:0150146","cell junction disassembly",32,59,5,1.84375,0.106382978723404
+"GO:0002446","neutrophil mediated immunity",32,49,5,1.53125,0.0909090909090909
+"GO:0042476","odontogenesis",32,52,5,1.625,0.0508474576271186
+"GO:0045446","endothelial cell differentiation",32,63,5,1.96875,0.0491803278688525
+"GO:0051017","actin filament bundle assembly",32,51,5,1.59375,0.0431034482758621
+"GO:0061572","actin filament bundle organization",32,51,5,1.59375,0.0427350427350427
+"GO:0060840","artery development",32,62,4,1.9375,0.0769230769230769
+"GO:0051495","positive regulation of cytoskeleton organization",32,59,4,1.84375,0.0487804878048781
+"GO:1900271","regulation of long-term synaptic potentiation",32,34,2,1.0625,0.0434782608695652
+"GO:0051146","striated muscle cell differentiation",31,125,22,4.03225806451613,0.174603174603175
+"GO:0007409","axonogenesis",31,92,18,2.96774193548387,0.113207547169811
+"GO:0097530","granulocyte migration",31,114,17,3.67741935483871,0.19672131147541
+"GO:0071621","granulocyte chemotaxis",31,98,16,3.16129032258065,0.218181818181818
+"GO:0071674","mononuclear cell migration",31,126,16,4.06451612903226,0.168831168831169
+"GO:0042310","vasoconstriction",31,104,14,3.35483870967742,0.169491525423729
+"GO:1990266","neutrophil migration",31,95,12,3.06451612903226,0.145454545454545
+"GO:0141091","transforming growth factor beta receptor superfamily signaling pathway",31,78,12,2.51612903225806,0.0784313725490196
+"GO:0007178","cell surface receptor protein serine/threonine kinase signaling pathway",31,84,12,2.70967741935484,0.075
+"GO:0030593","neutrophil chemotaxis",31,83,11,2.67741935483871,0.156862745098039
+"GO:0030193","regulation of blood coagulation",31,51,10,1.64516129032258,0.208333333333333
+"GO:1900046","regulation of hemostasis",31,51,10,1.64516129032258,0.208333333333333
+"GO:0008202","steroid metabolic process",31,73,10,2.35483870967742,0.123456790123457
+"GO:0043534","blood vessel endothelial cell migration",31,58,9,1.87096774193548,0.0967741935483871
+"GO:0032635","interleukin-6 production",31,88,9,2.83870967741935,0.0945945945945946
+"GO:0032675","regulation of interleukin-6 production",31,88,9,2.83870967741935,0.0945945945945946
+"GO:0015837","amine transport",31,70,9,2.25806451612903,0.0833333333333333
+"GO:0051952","regulation of amine transport",31,65,9,2.09677419354839,0.0759493670886076
+"GO:0060485","mesenchyme development",31,93,8,3,0.05
+"GO:0048638","regulation of developmental growth",31,80,8,2.58064516129032,0.049645390070922
+"GO:0032368","regulation of lipid transport",31,76,7,2.45161290322581,0.117647058823529
+"GO:0071825","protein-lipid complex organization",31,52,6,1.67741935483871,0.206896551724138
+"GO:0006801","superoxide metabolic process",31,52,6,1.67741935483871,0.119047619047619
+"GO:0061900","glial cell activation",31,66,6,2.12903225806452,0.087719298245614
+"GO:0048588","developmental cell growth",31,66,6,2.12903225806452,0.0574712643678161
+"GO:0045927","positive regulation of growth",31,57,6,1.83870967741935,0.048
+"GO:0006694","steroid biosynthetic process",31,53,5,1.70967741935484,0.0943396226415094
+"GO:0048844","artery morphogenesis",31,55,4,1.7741935483871,0.0952380952380952
+"GO:0043406","positive regulation of MAP kinase activity",31,51,4,1.64516129032258,0.0517241379310345
+"GO:0006941","striated muscle contraction",30,164,17,5.46666666666667,0.184782608695652
+"GO:0048010","vascular endothelial growth factor receptor signaling pathway",30,66,13,2.2,0.173913043478261
+"GO:0010975","regulation of neuron projection development",30,75,13,2.5,0.0807453416149068
+"GO:0030111","regulation of Wnt signaling pathway",30,51,11,1.7,0.0723684210526316
+"GO:0061045","negative regulation of wound healing",30,46,10,1.53333333333333,0.2
+"GO:1903035","negative regulation of response to wounding",30,49,10,1.63333333333333,0.188679245283019
+"GO:0072330","monocarboxylic acid biosynthetic process",30,62,10,2.06666666666667,0.136986301369863
+"GO:0046394","carboxylic acid biosynthetic process",30,65,10,2.16666666666667,0.112359550561798
+"GO:0016053","organic acid biosynthetic process",30,65,10,2.16666666666667,0.111111111111111
+"GO:0050730","regulation of peptidyl-tyrosine phosphorylation",30,66,8,2.2,0.0909090909090909
+"GO:0055078","sodium ion homeostasis",30,68,7,2.26666666666667,0.132075471698113
+"GO:0071715","icosanoid transport",30,62,7,2.06666666666667,0.11864406779661
+"GO:0051480","regulation of cytosolic calcium ion concentration",30,75,7,2.5,0.087719298245614
+"GO:0071827","plasma lipoprotein particle organization",30,51,6,1.7,0.214285714285714
+"GO:0045823","positive regulation of heart contraction",30,69,6,2.3,0.0909090909090909
+"GO:1903524","positive regulation of blood circulation",30,69,6,2.3,0.0909090909090909
+"GO:0035633","maintenance of blood-brain barrier",30,49,6,1.63333333333333,0.0833333333333333
+"GO:0048469","cell maturation",30,57,6,1.9,0.0588235294117647
+"GO:0002886","regulation of myeloid leukocyte mediated immunity",30,46,5,1.53333333333333,0.0925925925925926
+"GO:0001774","microglial cell activation",30,51,5,1.7,0.08
+"GO:0002269","leukocyte activation involved in inflammatory response",30,51,5,1.7,0.0784313725490196
+"GO:0051899","membrane depolarization",30,71,5,2.36666666666667,0.0740740740740741
+"GO:0050680","negative regulation of epithelial cell proliferation",30,43,5,1.43333333333333,0.0420168067226891
+"GO:0001885","endothelial cell development",30,48,4,1.6,0.075
+"GO:0008347","glial cell migration",30,46,4,1.53333333333333,0.0666666666666667
+"GO:0110020","regulation of actomyosin structure organization",30,48,4,1.6,0.0375
+"GO:0002675","positive regulation of acute inflammatory response",30,50,3,1.66666666666667,0.115384615384615
+"GO:0060078","regulation of postsynaptic membrane potential",29,120,22,4.13793103448276,0.229885057471264
+"GO:0060070","canonical Wnt signaling pathway",29,66,15,2.27586206896552,0.101351351351351
+"GO:0006940","regulation of smooth muscle contraction",29,85,14,2.93103448275862,0.108527131782946
+"GO:0033555","multicellular organismal response to stress",29,80,12,2.75862068965517,0.128205128205128
+"GO:0019229","regulation of vasoconstriction",29,85,12,2.93103448275862,0.12280701754386
+"GO:0002027","regulation of heart rate",29,125,11,4.31034482758621,0.144736842105263
+"GO:0050679","positive regulation of epithelial cell proliferation",29,81,11,2.79310344827586,0.118279569892473
+"GO:0002688","regulation of leukocyte chemotaxis",29,73,10,2.51724137931034,0.169811320754717
+"GO:0008277","regulation of G protein-coupled receptor signaling pathway",29,76,8,2.62068965517241,0.0810810810810811
+"GO:0031644","regulation of nervous system process",29,68,8,2.3448275862069,0.0645161290322581
+"GO:0060415","muscle tissue morphogenesis",29,63,7,2.17241379310345,0.134615384615385
+"GO:0032309","icosanoid secretion",29,61,7,2.10344827586207,0.132075471698113
+"GO:0048644","muscle organ morphogenesis",29,63,7,2.17241379310345,0.132075471698113
+"GO:0031343","positive regulation of cell killing",29,73,6,2.51724137931034,0.142857142857143
+"GO:0001912","positive regulation of leukocyte mediated cytotoxicity",29,69,6,2.37931034482759,0.117647058823529
+"GO:0007586","digestion",29,59,6,2.03448275862069,0.0869565217391304
+"GO:0003205","cardiac chamber development",29,71,6,2.44827586206897,0.075
+"GO:0035725","sodium ion transmembrane transport",29,84,6,2.89655172413793,0.0675675675675676
+"GO:0002698","negative regulation of immune effector process",29,54,5,1.86206896551724,0.0819672131147541
+"GO:0002275","myeloid cell activation involved in immune response",29,45,5,1.55172413793103,0.0714285714285714
+"GO:0009636","response to toxic substance",29,59,5,2.03448275862069,0.0617283950617284
+"GO:0050905","neuromuscular process",29,64,5,2.20689655172414,0.0579710144927536
+"GO:0030947","regulation of vascular endothelial growth factor receptor signaling pathway",29,39,4,1.3448275862069,0.0869565217391304
+"GO:0001764","neuron migration",29,47,4,1.62068965517241,0.051948051948052
+"GO:0051968","positive regulation of synaptic transmission, glutamatergic",29,45,3,1.55172413793103,0.103448275862069
+"GO:0030038","contractile actin filament bundle assembly",29,43,3,1.48275862068966,0.0333333333333333
+"GO:0043149","stress fiber assembly",29,43,3,1.48275862068966,0.0333333333333333
+"GO:0098742","cell-cell adhesion via plasma-membrane adhesion molecules",28,137,32,4.89285714285714,0.217054263565891
+"GO:0055001","muscle cell development",28,132,23,4.71428571428571,0.219047619047619
+"GO:0055002","striated muscle cell development",28,107,21,3.82142857142857,0.216494845360825
+"GO:0060048","cardiac muscle contraction",28,139,15,4.96428571428571,0.185185185185185
+"GO:0007215","glutamate receptor signaling pathway",28,77,12,2.75,0.148648648648649
+"GO:1901888","regulation of cell junction assembly",28,61,12,2.17857142857143,0.108108108108108
+"GO:0061448","connective tissue development",28,71,12,2.53571428571429,0.0902255639097744
+"GO:0060079","excitatory postsynaptic potential",28,71,11,2.53571428571429,0.123456790123457
+"GO:0050921","positive regulation of chemotaxis",28,90,11,3.21428571428571,0.119402985074627
+"GO:0099565","chemical synaptic transmission, postsynaptic",28,71,11,2.53571428571429,0.119047619047619
+"GO:0007043","cell-cell junction assembly",28,54,10,1.92857142857143,0.111111111111111
+"GO:0007389","pattern specification process",28,56,10,2,0.0526315789473684
+"GO:0006633","fatty acid biosynthetic process",28,57,9,2.03571428571429,0.145161290322581
+"GO:0050829","defense response to Gram-negative bacterium",28,61,9,2.17857142857143,0.113924050632911
+"GO:1902107","positive regulation of leukocyte differentiation",28,82,9,2.92857142857143,0.0818181818181818
+"GO:1903708","positive regulation of hemopoiesis",28,82,9,2.92857142857143,0.0818181818181818
+"GO:0003002","regionalization",28,53,9,1.89285714285714,0.05
+"GO:0008306","associative learning",28,65,8,2.32142857142857,0.103896103896104
+"GO:0002040","sprouting angiogenesis",28,64,7,2.28571428571429,0.0673076923076923
+"GO:0006813","potassium ion transport",28,95,7,3.39285714285714,0.0555555555555556
+"GO:0003206","cardiac chamber morphogenesis",28,65,6,2.32142857142857,0.0821917808219178
+"GO:0072006","nephron development",28,69,6,2.46428571428571,0.0746268656716418
+"GO:0031214","biomineral tissue development",28,59,6,2.10714285714286,0.072289156626506
+"GO:0001837","epithelial to mesenchymal transition",28,66,6,2.35714285714286,0.0684931506849315
+"GO:0048762","mesenchymal cell differentiation",28,76,6,2.71428571428571,0.0505050505050505
+"GO:0048839","inner ear development",28,47,6,1.67857142857143,0.0465116279069767
+"GO:0031649","heat generation",28,57,5,2.03571428571429,0.166666666666667
+"GO:0032835","glomerulus development",28,60,5,2.14285714285714,0.0961538461538462
+"GO:0043266","regulation of potassium ion transport",28,66,5,2.35714285714286,0.0740740740740741
+"GO:0003231","cardiac ventricle development",28,59,5,2.10714285714286,0.072463768115942
+"GO:0046849","bone remodeling",28,42,5,1.5,0.0508474576271186
+"GO:0055017","cardiac muscle tissue growth",28,46,5,1.64285714285714,0.0508474576271186
+"GO:0060419","heart growth",28,46,5,1.64285714285714,0.05
+"GO:1990776","response to angiotensin",28,42,4,1.5,0.19047619047619
+"GO:0034694","response to prostaglandin",28,40,4,1.42857142857143,0.0857142857142857
+"GO:0007616","long-term memory",28,42,3,1.5,0.0714285714285714
+"GO:1903053","regulation of extracellular matrix organization",28,39,3,1.39285714285714,0.0625
+"GO:0030048","actin filament-based movement",27,107,11,3.96296296296296,0.134146341463415
+"GO:0006066","alcohol metabolic process",27,80,10,2.96296296296296,0.10989010989011
+"GO:0006942","regulation of striated muscle contraction",27,98,9,3.62962962962963,0.137254901960784
+"GO:0060538","skeletal muscle organ development",27,53,9,1.96296296296296,0.0825688073394495
+"GO:0045933","positive regulation of muscle contraction",27,65,9,2.40740740740741,0.0813953488372093
+"GO:0043535","regulation of blood vessel endothelial cell migration",27,49,8,1.81481481481481,0.0975609756097561
+"GO:0045165","cell fate commitment",27,58,8,2.14814814814815,0.0540540540540541
+"GO:0055008","cardiac muscle tissue morphogenesis",27,56,7,2.07407407407407,0.14
+"GO:1904427","positive regulation of calcium ion transmembrane transport",27,47,7,1.74074074074074,0.0645161290322581
+"GO:1905954","positive regulation of lipid localization",27,65,6,2.40740740740741,0.136363636363636
+"GO:0051250","negative regulation of lymphocyte activation",27,50,6,1.85185185185185,0.0625
+"GO:0022612","gland morphogenesis",27,51,6,1.88888888888889,0.0576923076923077
+"GO:0060560","developmental growth involved in morphogenesis",27,60,6,2.22222222222222,0.047244094488189
+"GO:0006953","acute-phase response",27,56,5,2.07407407407407,0.111111111111111
+"GO:1902895","positive regulation of miRNA transcription",27,54,5,2,0.0952380952380952
+"GO:2000630","positive regulation of miRNA metabolic process",27,54,5,2,0.0952380952380952
+"GO:0061614","miRNA transcription",27,54,5,2,0.0930232558139535
+"GO:1902893","regulation of miRNA transcription",27,54,5,2,0.0930232558139535
+"GO:0019226","transmission of nerve impulse",27,56,5,2.07407407407407,0.0615384615384615
+"GO:0015732","prostaglandin transport",27,43,4,1.59259259259259,0.121212121212121
+"GO:0032613","interleukin-10 production",27,53,4,1.96296296296296,0.111111111111111
+"GO:0032653","regulation of interleukin-10 production",27,53,4,1.96296296296296,0.111111111111111
+"GO:0050994","regulation of lipid catabolic process",27,37,4,1.37037037037037,0.1
+"GO:0098815","modulation of excitatory postsynaptic potential",27,51,4,1.88888888888889,0.0909090909090909
+"GO:0014896","muscle hypertrophy",27,47,4,1.74074074074074,0.0701754385964912
+"GO:0002028","regulation of sodium ion transport",27,55,3,2.03703703703704,0.0681818181818182
+"GO:0034110","regulation of homotypic cell-cell adhesion",27,35,3,1.2962962962963,0.0487804878048781
+"GO:1904950","negative regulation of establishment of protein localization",27,31,2,1.14814814814815,0.0392156862745098
+"GO:0019730","antimicrobial humoral response",26,96,16,3.69230769230769,0.254237288135593
+"GO:0010595","positive regulation of endothelial cell migration",26,54,11,2.07692307692308,0.146666666666667
+"GO:0070252","actin-mediated cell contraction",26,101,11,3.88461538461538,0.141025641025641
+"GO:0030195","negative regulation of blood coagulation",26,39,10,1.5,0.238095238095238
+"GO:1900047","negative regulation of hemostasis",26,39,10,1.5,0.238095238095238
+"GO:0050819","negative regulation of coagulation",26,39,10,1.5,0.232558139534884
+"GO:0007229","integrin-mediated signaling pathway",26,58,10,2.23076923076923,0.175438596491228
+"GO:0060828","regulation of canonical Wnt signaling pathway",26,46,10,1.76923076923077,0.0709219858156028
+"GO:0019217","regulation of fatty acid metabolic process",26,38,8,1.46153846153846,0.177777777777778
+"GO:0086001","cardiac muscle cell action potential",26,88,8,3.38461538461538,0.16
+"GO:0086003","cardiac muscle cell contraction",26,86,8,3.30769230769231,0.134615384615385
+"GO:0055007","cardiac muscle cell differentiation",26,72,8,2.76923076923077,0.116666666666667
+"GO:0050731","positive regulation of peptidyl-tyrosine phosphorylation",26,60,8,2.30769230769231,0.0983606557377049
+"GO:0008037","cell recognition",26,42,8,1.61538461538462,0.0833333333333333
+"GO:0007519","skeletal muscle tissue development",26,46,8,1.76923076923077,0.0761904761904762
+"GO:0001649","osteoblast differentiation",26,56,8,2.15384615384615,0.062015503875969
+"GO:0045834","positive regulation of lipid metabolic process",26,55,7,2.11538461538462,0.134615384615385
+"GO:0051937","catecholamine transport",26,51,7,1.96153846153846,0.0921052631578947
+"GO:0007605","sensory perception of sound",26,38,7,1.46153846153846,0.0588235294117647
+"GO:0006690","icosanoid metabolic process",26,51,6,1.96153846153846,0.0961538461538462
+"GO:0086009","membrane repolarization",26,69,6,2.65384615384615,0.0909090909090909
+"GO:0010811","positive regulation of cell-substrate adhesion",26,51,6,1.96153846153846,0.0810810810810811
+"GO:0034766","negative regulation of monoatomic ion transmembrane transport",26,51,6,1.96153846153846,0.0697674418604651
+"GO:1904063","negative regulation of cation transmembrane transport",26,51,6,1.96153846153846,0.0697674418604651
+"GO:0050432","catecholamine secretion",26,43,6,1.65384615384615,0.0666666666666667
+"GO:1902904","negative regulation of supramolecular fiber organization",26,35,6,1.34615384615385,0.0566037735849057
+"GO:0001952","regulation of cell-matrix adhesion",26,46,5,1.76923076923077,0.0666666666666667
+"GO:0030282","bone mineralization",26,54,5,2.07692307692308,0.0657894736842105
+"GO:0050433","regulation of catecholamine secretion",26,37,5,1.42307692307692,0.0547945205479452
+"GO:0014013","regulation of gliogenesis",26,40,5,1.53846153846154,0.05
+"GO:0051147","regulation of muscle cell differentiation",26,50,5,1.92307692307692,0.0470588235294118
+"GO:0048562","embryonic organ morphogenesis",26,53,5,2.03846153846154,0.037593984962406
+"GO:0032310","prostaglandin secretion",26,42,4,1.61538461538462,0.142857142857143
+"GO:0019218","regulation of steroid metabolic process",26,41,4,1.57692307692308,0.0952380952380952
+"GO:0051591","response to cAMP",26,43,4,1.65384615384615,0.0740740740740741
+"GO:0003300","cardiac muscle hypertrophy",26,46,4,1.76923076923077,0.0727272727272727
+"GO:0014897","striated muscle hypertrophy",26,46,4,1.76923076923077,0.0714285714285714
+"GO:0034103","regulation of tissue remodeling",26,43,4,1.65384615384615,0.06
+"GO:1904705","regulation of vascular associated smooth muscle cell proliferation",26,40,4,1.53846153846154,0.0571428571428571
+"GO:1990874","vascular associated smooth muscle cell proliferation",26,40,4,1.53846153846154,0.0571428571428571
+"GO:1903707","negative regulation of hemopoiesis",26,32,3,1.23076923076923,0.0612244897959184
+"GO:0032231","regulation of actin filament bundle assembly",26,36,3,1.38461538461538,0.0428571428571429
+"GO:0090330","regulation of platelet aggregation",26,32,2,1.23076923076923,0.0512820512820513
+"GO:0003073","regulation of systemic arterial blood pressure",25,90,15,3.6,0.184210526315789
+"GO:0061337","cardiac conduction",25,92,10,3.68,0.149253731343284
+"GO:0090092","regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",25,58,10,2.32,0.0699300699300699
+"GO:0009187","cyclic nucleotide metabolic process",25,114,9,4.56,0.264705882352941
+"GO:0052652","cyclic purine nucleotide metabolic process",25,114,9,4.56,0.264705882352941
+"GO:0001938","positive regulation of endothelial cell proliferation",25,64,9,2.56,0.123287671232877
+"GO:0071875","adrenergic receptor signaling pathway",25,87,8,3.48,0.176470588235294
+"GO:0055117","regulation of cardiac muscle contraction",25,82,8,3.28,0.130434782608696
+"GO:0098659","inorganic cation import across plasma membrane",25,86,8,3.44,0.114285714285714
+"GO:0099587","inorganic ion import across plasma membrane",25,86,8,3.44,0.114285714285714
+"GO:0032755","positive regulation of interleukin-6 production",25,71,8,2.84,0.0983606557377049
+"GO:0120162","positive regulation of cold-induced thermogenesis",25,50,7,2,0.162790697674419
+"GO:0032609","type II interferon production",25,82,7,3.28,0.155555555555556
+"GO:0032649","regulation of type II interferon production",25,82,7,3.28,0.155555555555556
+"GO:0055013","cardiac muscle cell development",25,68,7,2.72,0.145833333333333
+"GO:0055006","cardiac cell development",25,68,7,2.72,0.14
+"GO:0050764","regulation of phagocytosis",25,49,7,1.96,0.0909090909090909
+"GO:0045639","positive regulation of myeloid cell differentiation",25,47,7,1.88,0.0714285714285714
+"GO:0086002","cardiac muscle cell action potential involved in contraction",25,65,6,2.6,0.127659574468085
+"GO:0033559","unsaturated fatty acid metabolic process",25,46,6,1.84,0.121951219512195
+"GO:0034446","substrate adhesion-dependent cell spreading",25,35,6,1.4,0.101694915254237
+"GO:1903038","negative regulation of leukocyte cell-cell adhesion",25,54,6,2.16,0.0659340659340659
+"GO:0007179","transforming growth factor beta receptor signaling pathway",25,55,6,2.2,0.0595238095238095
+"GO:0071805","potassium ion transmembrane transport",25,76,6,3.04,0.0520833333333333
+"GO:0055010","ventricular cardiac muscle tissue morphogenesis",25,43,5,1.72,0.111111111111111
+"GO:0046165","alcohol biosynthetic process",25,46,5,1.84,0.104166666666667
+"GO:0003229","ventricular cardiac muscle tissue development",25,44,5,1.76,0.1
+"GO:0003208","cardiac ventricle morphogenesis",25,49,5,1.96,0.0925925925925926
+"GO:0046456","icosanoid biosynthetic process",25,40,5,1.6,0.0819672131147541
+"GO:0032370","positive regulation of lipid transport",25,53,5,2.12,0.075
+"GO:0060292","long-term synaptic depression",25,40,4,1.6,0.103448275862069
+"GO:0099622","cardiac muscle cell membrane repolarization",25,50,4,2,0.102564102564103
+"GO:0006636","unsaturated fatty acid biosynthetic process",25,37,4,1.48,0.0975609756097561
+"GO:0070167","regulation of biomineral tissue development",25,40,4,1.6,0.0615384615384615
+"GO:0050810","regulation of steroid biosynthetic process",25,32,4,1.28,0.0612244897959184
+"GO:0043299","leukocyte degranulation",25,37,4,1.48,0.0597014925373134
+"GO:0072073","kidney epithelium development",25,47,4,1.88,0.0461538461538462
+"GO:0046888","negative regulation of hormone secretion",25,31,3,1.24,0.0625
+"GO:0060041","retina development in camera-type eye",25,40,3,1.6,0.0428571428571429
+"GO:0045598","regulation of fat cell differentiation",25,36,3,1.44,0.0416666666666667
+"GO:1900452","regulation of long-term synaptic depression",25,28,2,1.12,0.0434782608695652
+"GO:0045776","negative regulation of blood pressure",24,63,10,2.625,0.102564102564103
+"GO:0002690","positive regulation of leukocyte chemotaxis",24,61,9,2.54166666666667,0.166666666666667
+"GO:0030316","osteoclast differentiation",24,41,9,1.70833333333333,0.157894736842105
+"GO:0071880","adenylate cyclase-activating adrenergic receptor signaling pathway",24,80,8,3.33333333333333,0.193548387096774
+"GO:0030324","lung development",24,54,8,2.25,0.08
+"GO:0030323","respiratory tube development",24,54,8,2.25,0.0792079207920792
+"GO:0060541","respiratory system development",24,55,8,2.29166666666667,0.0761904761904762
+"GO:0090596","sensory organ morphogenesis",24,54,8,2.25,0.0563380281690141
+"GO:0086065","cell communication involved in cardiac conduction",24,72,7,3,0.116666666666667
+"GO:0050766","positive regulation of phagocytosis",24,45,7,1.875,0.0875
+"GO:0032945","negative regulation of mononuclear cell proliferation",24,43,6,1.79166666666667,0.0857142857142857
+"GO:0050672","negative regulation of lymphocyte proliferation",24,43,6,1.79166666666667,0.0857142857142857
+"GO:0070664","negative regulation of leukocyte proliferation",24,44,6,1.83333333333333,0.0833333333333333
+"GO:0050868","negative regulation of T cell activation",24,45,6,1.875,0.0714285714285714
+"GO:0014009","glial cell proliferation",24,45,6,1.875,0.0659340659340659
+"GO:0097009","energy homeostasis",24,44,6,1.83333333333333,0.0540540540540541
+"GO:0010742","macrophage derived foam cell differentiation",24,37,5,1.54166666666667,0.148148148148148
+"GO:0010743","regulation of macrophage derived foam cell differentiation",24,37,5,1.54166666666667,0.148148148148148
+"GO:0090077","foam cell differentiation",24,37,5,1.54166666666667,0.148148148148148
+"GO:0043030","regulation of macrophage activation",24,35,5,1.45833333333333,0.114285714285714
+"GO:0015872","dopamine transport",24,37,5,1.54166666666667,0.1
+"GO:0090075","relaxation of muscle",24,40,5,1.66666666666667,0.1
+"GO:1901379","regulation of potassium ion transmembrane transport",24,49,5,2.04166666666667,0.06
+"GO:0003151","outflow tract morphogenesis",24,40,5,1.66666666666667,0.0517241379310345
+"GO:0097242","amyloid-beta clearance",24,37,4,1.54166666666667,0.142857142857143
+"GO:0099623","regulation of cardiac muscle cell membrane repolarization",24,38,4,1.58333333333333,0.121212121212121
+"GO:0050891","multicellular organismal-level water homeostasis",24,29,4,1.20833333333333,0.114285714285714
+"GO:0060306","regulation of membrane repolarization",24,42,4,1.75,0.105263157894737
+"GO:0072577","endothelial cell apoptotic process",24,41,4,1.70833333333333,0.0930232558139535
+"GO:0046889","positive regulation of lipid biosynthetic process",24,43,4,1.79166666666667,0.0851063829787234
+"GO:0001656","metanephros development",24,33,4,1.375,0.0645161290322581
+"GO:0035904","aorta development",24,37,3,1.54166666666667,0.0555555555555556
+"GO:0090322","regulation of superoxide metabolic process",24,29,3,1.20833333333333,0.0454545454545455
+"GO:0051056","regulation of small GTPase mediated signal transduction",24,32,3,1.33333333333333,0.0285714285714286
+"GO:0042481","regulation of odontogenesis",24,26,2,1.08333333333333,0.0555555555555556
+"GO:0007218","neuropeptide signaling pathway",23,65,24,2.82608695652174,0.186046511627907
+"GO:0007631","feeding behavior",23,62,18,2.69565217391304,0.133333333333333
+"GO:0060395","SMAD protein signal transduction",23,49,10,2.1304347826087,0.103092783505155
+"GO:0007411","axon guidance",23,58,10,2.52173913043478,0.075187969924812
+"GO:0097485","neuron projection guidance",23,58,10,2.52173913043478,0.075187969924812
+"GO:0006865","amino acid transport",23,47,9,2.04347826086957,0.1
+"GO:0045987","positive regulation of smooth muscle contraction",23,45,9,1.95652173913043,0.0731707317073171
+"GO:0046058","cAMP metabolic process",23,96,8,4.17391304347826,0.275862068965517
+"GO:0002548","monocyte chemotaxis",23,51,8,2.21739130434783,0.2
+"GO:0002026","regulation of the force of heart contraction",23,69,8,3,0.166666666666667
+"GO:0043536","positive regulation of blood vessel endothelial cell migration",23,37,8,1.60869565217391,0.119402985074627
+"GO:0019233","sensory perception of pain",23,41,8,1.78260869565217,0.0609756097560976
+"GO:0031640","killing of cells of another organism",23,65,7,2.82608695652174,0.12280701754386
+"GO:0141060","disruption of anatomical structure in another organism",23,65,7,2.82608695652174,0.12280701754386
+"GO:0141061","disruption of cell in another organism",23,65,7,2.82608695652174,0.12280701754386
+"GO:0001763","morphogenesis of a branching structure",23,52,7,2.26086956521739,0.0652173913043478
+"GO:0022604","regulation of cell morphogenesis",23,43,7,1.8695652173913,0.0564516129032258
+"GO:0001667","ameboidal-type cell migration",23,58,7,2.52173913043478,0.0546875
+"GO:0002763","positive regulation of myeloid leukocyte differentiation",23,43,6,1.8695652173913,0.0909090909090909
+"GO:0009620","response to fungus",23,44,6,1.91304347826087,0.0731707317073171
+"GO:0010744","positive regulation of macrophage derived foam cell differentiation",23,33,5,1.43478260869565,0.12
+"GO:0033198","response to ATP",23,38,5,1.65217391304348,0.075
+"GO:1901016","regulation of potassium ion transmembrane transporter activity",23,38,5,1.65217391304348,0.0677966101694915
+"GO:0045664","regulation of neuron differentiation",23,34,5,1.47826086956522,0.0416666666666667
+"GO:0002888","positive regulation of myeloid leukocyte mediated immunity",23,35,4,1.52173913043478,0.0909090909090909
+"GO:0086012","membrane depolarization during cardiac muscle cell action potential",23,44,4,1.91304347826087,0.0909090909090909
+"GO:0086010","membrane depolarization during action potential",23,44,4,1.91304347826087,0.0833333333333333
+"GO:0042119","neutrophil activation",23,36,4,1.56521739130435,0.0769230769230769
+"GO:0036230","granulocyte activation",23,39,4,1.69565217391304,0.0740740740740741
+"GO:0072009","nephron epithelium development",23,40,4,1.73913043478261,0.0555555555555556
+"GO:0038066","p38MAPK cascade",23,29,4,1.26086956521739,0.0526315789473684
+"GO:0048565","digestive tract development",23,31,4,1.34782608695652,0.0373831775700935
+"GO:0055123","digestive system development",23,31,4,1.34782608695652,0.0363636363636364
+"GO:0048143","astrocyte activation",23,39,3,1.69565217391304,0.107142857142857
+"GO:1902305","regulation of sodium ion transmembrane transport",23,38,3,1.65217391304348,0.0833333333333333
+"GO:1902622","regulation of neutrophil migration",23,33,3,1.43478260869565,0.0487804878048781
+"GO:0051492","regulation of stress fiber assembly",23,30,3,1.30434782608696,0.0307692307692308
+"GO:0007187","G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",22,63,17,2.86363636363636,0.140495867768595
+"GO:0045123","cellular extravasation",22,72,10,3.27272727272727,0.146341463414634
+"GO:0001504","neurotransmitter uptake",22,35,8,1.59090909090909,0.115942028985507
+"GO:0098810","neurotransmitter reuptake",22,35,8,1.59090909090909,0.115942028985507
+"GO:0030856","regulation of epithelial cell differentiation",22,42,8,1.90909090909091,0.0754716981132075
+"GO:0051145","smooth muscle cell differentiation",22,45,7,2.04545454545455,0.0714285714285714
+"GO:0061138","morphogenesis of a branching epithelium",22,51,7,2.31818181818182,0.0666666666666667
+"GO:0035994","response to muscle stretch",22,44,6,2,0.166666666666667
+"GO:0045670","regulation of osteoclast differentiation",22,35,6,1.59090909090909,0.115384615384615
+"GO:0002437","inflammatory response to antigenic stimulus",22,50,6,2.27272727272727,0.0975609756097561
+"GO:0030278","regulation of ossification",22,43,6,1.95454545454545,0.0563380281690141
+"GO:0042304","regulation of fatty acid biosynthetic process",22,29,5,1.31818181818182,0.135135135135135
+"GO:0061756","leukocyte adhesion to vascular endothelial cell",22,43,5,1.95454545454545,0.0952380952380952
+"GO:0048863","stem cell differentiation",22,46,5,2.09090909090909,0.0533333333333333
+"GO:0038166","angiotensin-activated signaling pathway",22,32,4,1.45454545454545,0.266666666666667
+"GO:0086091","regulation of heart rate by cardiac conduction",22,40,4,1.81818181818182,0.0816326530612245
+"GO:1900744","regulation of p38MAPK cascade",22,28,4,1.27272727272727,0.0571428571428571
+"GO:0003170","heart valve development",22,35,4,1.59090909090909,0.0566037735849057
+"GO:0030500","regulation of bone mineralization",22,35,4,1.59090909090909,0.0512820512820513
+"GO:0048639","positive regulation of developmental growth",22,37,4,1.68181818181818,0.0454545454545455
+"GO:0001660","fever generation",22,36,3,1.63636363636364,0.111111111111111
+"GO:0014046","dopamine secretion",22,29,3,1.31818181818182,0.0714285714285714
+"GO:0002042","cell migration involved in sprouting angiogenesis",22,31,3,1.40909090909091,0.0408163265306122
+"GO:0050995","negative regulation of lipid catabolic process",22,25,2,1.13636363636364,0.08
+"GO:0001780","neutrophil homeostasis",22,25,2,1.13636363636364,0.0526315789473684
+"GO:0043114","regulation of vascular permeability",22,29,2,1.31818181818182,0.0465116279069767
+"GO:0003407","neural retina development",22,28,2,1.27272727272727,0.0444444444444444
+"GO:0010927","cellular component assembly involved in morphogenesis",21,69,20,3.28571428571429,0.208333333333333
+"GO:0032989","cellular anatomical entity morphogenesis",21,69,20,3.28571428571429,0.208333333333333
+"GO:0003044","regulation of systemic arterial blood pressure mediated by a chemical signal",21,75,11,3.57142857142857,0.35
+"GO:0090100","positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway",21,41,10,1.95238095238095,0.0980392156862745
+"GO:0051216","cartilage development",21,48,10,2.28571428571429,0.0869565217391304
+"GO:0010232","vascular transport",21,47,7,2.23809523809524,0.137254901960784
+"GO:0150104","transport across blood-brain barrier",21,47,7,2.23809523809524,0.137254901960784
+"GO:0051494","negative regulation of cytoskeleton organization",21,30,6,1.42857142857143,0.0576923076923077
+"GO:0045667","regulation of osteoblast differentiation",21,40,6,1.9047619047619,0.0545454545454545
+"GO:0042554","superoxide anion generation",21,36,5,1.71428571428571,0.117647058823529
+"GO:0010460","positive regulation of heart rate",21,49,5,2.33333333333333,0.0909090909090909
+"GO:0014015","positive regulation of gliogenesis",21,34,5,1.61904761904762,0.0588235294117647
+"GO:1902930","regulation of alcohol biosynthetic process",21,33,5,1.57142857142857,0.0512820512820513
+"GO:1990138","neuron projection extension",21,39,5,1.85714285714286,0.0508474576271186
+"GO:0048754","branching morphogenesis of an epithelial tube",21,44,5,2.0952380952381,0.0470588235294118
+"GO:0045923","positive regulation of fatty acid metabolic process",21,27,4,1.28571428571429,0.117647058823529
+"GO:0086019","cell-cell signaling involved in cardiac conduction",21,43,4,2.04761904761905,0.111111111111111
+"GO:0086005","ventricular cardiac muscle cell action potential",21,44,4,2.0952380952381,0.105263157894737
+"GO:0032623","interleukin-2 production",21,37,4,1.76190476190476,0.0816326530612245
+"GO:0032663","regulation of interleukin-2 production",21,37,4,1.76190476190476,0.0816326530612245
+"GO:0090303","positive regulation of wound healing",21,35,4,1.66666666666667,0.0816326530612245
+"GO:1903036","positive regulation of response to wounding",21,36,4,1.71428571428571,0.0754716981132075
+"GO:0001937","negative regulation of endothelial cell proliferation",21,26,4,1.23809523809524,0.0421052631578947
+"GO:1904994","regulation of leukocyte adhesion to vascular endothelial cell",21,34,3,1.61904761904762,0.0967741935483871
+"GO:0022617","extracellular matrix disassembly",21,27,3,1.28571428571429,0.08
+"GO:0007528","neuromuscular junction development",21,37,3,1.76190476190476,0.0769230769230769
+"GO:0046850","regulation of bone remodeling",21,27,3,1.28571428571429,0.0476190476190476
+"GO:0014743","regulation of muscle hypertrophy",21,26,2,1.23809523809524,0.0434782608695652
+"GO:0007193","adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway",20,60,17,3,0.1328125
+"GO:0061844","antimicrobial humoral immune response mediated by antimicrobial peptide",20,83,16,4.15,0.3125
+"GO:0050807","regulation of synapse organization",20,51,12,2.55,0.0916030534351145
+"GO:0050803","regulation of synapse structure or activity",20,52,12,2.6,0.0909090909090909
+"GO:0006820","monoatomic anion transport",20,55,8,2.75,0.0869565217391304
+"GO:0015909","long-chain fatty acid transport",20,38,7,1.9,0.189189189189189
+"GO:0060348","bone development",20,44,6,2.2,0.0543478260869565
+"GO:0071402","cellular response to lipoprotein particle stimulus",20,30,5,1.5,0.192307692307692
+"GO:0060402","calcium ion transport into cytosol",20,40,5,2,0.0857142857142857
+"GO:1903409","reactive oxygen species biosynthetic process",20,35,5,1.75,0.075
+"GO:0007009","plasma membrane organization",20,32,5,1.6,0.0657894736842105
+"GO:0007585","respiratory gaseous exchange by respiratory system",20,39,5,1.95,0.0408163265306122
+"GO:2000351","regulation of endothelial cell apoptotic process",20,34,4,1.7,0.1
+"GO:0002691","regulation of cellular extravasation",20,37,4,1.85,0.0909090909090909
+"GO:1903115","regulation of actin filament-based movement",20,42,4,2.1,0.0869565217391304
+"GO:0098754","detoxification",20,30,4,1.5,0.0645161290322581
+"GO:0150115","cell-substrate junction organization",20,29,4,1.45,0.0634920634920635
+"GO:0043268","positive regulation of potassium ion transport",20,31,4,1.55,0.0540540540540541
+"GO:0090130","tissue migration",20,35,4,1.75,0.0535714285714286
+"GO:0014888","striated muscle adaptation",20,34,4,1.7,0.0476190476190476
+"GO:0035886","vascular associated smooth muscle cell differentiation",20,29,4,1.45,0.0459770114942529
+"GO:0003279","cardiac septum development",20,31,4,1.55,0.0405405405405405
+"GO:0050848","regulation of calcium-mediated signaling",20,30,4,1.5,0.04
+"GO:0099625","ventricular cardiac muscle cell membrane repolarization",20,34,3,1.7,0.0810810810810811
+"GO:0086011","membrane repolarization during action potential",20,28,3,1.4,0.0789473684210526
+"GO:0010765","positive regulation of sodium ion transport",20,32,3,1.6,0.0606060606060606
+"GO:0090049","regulation of cell migration involved in sprouting angiogenesis",20,28,3,1.4,0.0465116279069767
+"GO:0003281","ventricular septum development",20,27,3,1.35,0.0363636363636364
+"GO:0045723","positive regulation of fatty acid biosynthetic process",20,21,2,1.05,0.0645161290322581
+"GO:0010611","regulation of cardiac muscle hypertrophy",20,25,2,1.25,0.0444444444444444
+"GO:0043300","regulation of leukocyte degranulation",20,22,2,1.1,0.0416666666666667
+"GO:0048260","positive regulation of receptor-mediated endocytosis",20,25,2,1.25,0.0416666666666667
+"GO:0010812","negative regulation of cell-substrate adhesion",20,22,2,1.1,0.0317460317460317
+"GO:0016264","gap junction assembly",20,20,1,1,0.0588235294117647
+"GO:0030239","myofibril assembly",19,54,19,2.84210526315789,0.2375
+"GO:0044344","cellular response to fibroblast growth factor stimulus",19,46,13,2.42105263157895,0.134146341463415
+"GO:0071774","response to fibroblast growth factor",19,46,13,2.42105263157895,0.132530120481928
+"GO:0007416","synapse assembly",19,73,12,3.84210526315789,0.0990990990990991
+"GO:0008154","actin polymerization or depolymerization",19,41,10,2.15789473684211,0.0970873786407767
+"GO:0008064","regulation of actin polymerization or depolymerization",19,40,9,2.10526315789474,0.09375
+"GO:0030832","regulation of actin filament length",19,40,9,2.10526315789474,0.0927835051546392
+"GO:0120254","olefinic compound metabolic process",19,42,7,2.21052631578947,0.12962962962963
+"GO:0015698","inorganic anion transport",19,54,7,2.84210526315789,0.0857142857142857
+"GO:0006911","phagocytosis, engulfment",19,32,6,1.68421052631579,0.125
+"GO:0010882","regulation of cardiac muscle contraction by calcium ion signaling",19,50,6,2.63157894736842,0.121212121212121
+"GO:0015800","acidic amino acid transport",19,34,6,1.78947368421053,0.0769230769230769
+"GO:0010717","regulation of epithelial to mesenchymal transition",19,44,6,2.31578947368421,0.0727272727272727
+"GO:0045669","positive regulation of osteoblast differentiation",19,32,6,1.68421052631579,0.0666666666666667
+"GO:0010718","positive regulation of epithelial to mesenchymal transition",19,43,5,2.26315789473684,0.0888888888888889
+"GO:0007588","excretion",19,34,5,1.78947368421053,0.0882352941176471
+"GO:0042445","hormone metabolic process",19,41,5,2.15789473684211,0.0793650793650794
+"GO:0045778","positive regulation of ossification",19,31,4,1.63157894736842,0.0666666666666667
+"GO:1905314","semi-lunar valve development",19,30,4,1.57894736842105,0.0638297872340425
+"GO:0003179","heart valve morphogenesis",19,31,4,1.63157894736842,0.0588235294117647
+"GO:2001257","regulation of cation channel activity",19,40,4,2.10526315789474,0.0576923076923077
+"GO:0010631","epithelial cell migration",19,29,4,1.52631578947368,0.0566037735849057
+"GO:0090132","epithelium migration",19,29,4,1.52631578947368,0.0566037735849057
+"GO:0008360","regulation of cell shape",19,32,4,1.68421052631579,0.0526315789473684
+"GO:0006835","dicarboxylic acid transport",19,33,4,1.73684210526316,0.0470588235294118
+"GO:0051385","response to mineralocorticoid",19,32,3,1.68421052631579,0.0967741935483871
+"GO:0086013","membrane repolarization during cardiac muscle cell action potential",19,26,3,1.36842105263158,0.0857142857142857
+"GO:0061437","renal system vasculature development",19,31,3,1.63157894736842,0.0810810810810811
+"GO:0061440","kidney vasculature development",19,31,3,1.63157894736842,0.0810810810810811
+"GO:0072012","glomerulus vasculature development",19,31,3,1.63157894736842,0.0810810810810811
+"GO:0030501","positive regulation of bone mineralization",19,28,3,1.47368421052632,0.0714285714285714
+"GO:0035909","aorta morphogenesis",19,24,3,1.26315789473684,0.0625
+"GO:0045745","positive regulation of G protein-coupled receptor signaling pathway",19,26,3,1.36842105263158,0.0625
+"GO:0090050","positive regulation of cell migration involved in sprouting angiogenesis",19,25,3,1.31578947368421,0.0606060606060606
+"GO:0042698","ovulation cycle",19,25,3,1.31578947368421,0.04
+"GO:0086070","SA node cell to atrial cardiac muscle cell communication",19,27,2,1.42105263157895,0.0666666666666667
+"GO:0034112","positive regulation of homotypic cell-cell adhesion",19,23,2,1.21052631578947,0.0588235294117647
+"GO:0043302","positive regulation of leukocyte degranulation",19,20,2,1.05263157894737,0.0465116279069767
+"GO:1903307","positive regulation of regulated secretory pathway",19,22,2,1.15789473684211,0.0408163265306122
+"GO:0045214","sarcomere organization",18,35,11,1.94444444444444,0.141025641025641
+"GO:0051932","synaptic transmission, GABAergic",18,47,9,2.61111111111111,0.116279069767442
+"GO:0001990","regulation of systemic arterial blood pressure by hormone",18,46,8,2.55555555555556,0.411764705882353
+"GO:0006821","chloride transport",18,48,7,2.66666666666667,0.0909090909090909
+"GO:0038093","Fc receptor signaling pathway",18,39,5,2.16666666666667,0.105263157894737
+"GO:0002438","acute inflammatory response to antigenic stimulus",18,31,5,1.72222222222222,0.0909090909090909
+"GO:0010644","cell communication by electrical coupling",18,43,5,2.38888888888889,0.0810810810810811
+"GO:0014855","striated muscle cell proliferation",18,32,5,1.77777777777778,0.0714285714285714
+"GO:0050832","defense response to fungus",18,36,5,2,0.0701754385964912
+"GO:0035929","steroid hormone secretion",18,28,4,1.55555555555556,0.1
+"GO:0032689","negative regulation of type II interferon production",18,27,4,1.5,0.0606060606060606
+"GO:0060411","cardiac septum morphogenesis",18,25,4,1.38888888888889,0.0396039603960396
+"GO:0060021","roof of mouth development",18,24,4,1.33333333333333,0.0384615384615385
+"GO:0098915","membrane repolarization during ventricular cardiac muscle cell action potential",18,24,3,1.33333333333333,0.09375
+"GO:0106070","regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway",18,28,3,1.55555555555556,0.0909090909090909
+"GO:0098801","regulation of renal system process",18,29,3,1.61111111111111,0.0882352941176471
+"GO:2000352","negative regulation of endothelial cell apoptotic process",18,26,3,1.44444444444444,0.0857142857142857
+"GO:0006837","serotonin transport",18,27,3,1.5,0.0810810810810811
+"GO:1902307","positive regulation of sodium ion transmembrane transport",18,26,3,1.44444444444444,0.0714285714285714
+"GO:2001222","regulation of neuron migration",18,23,3,1.27777777777778,0.0588235294117647
+"GO:0035050","embryonic heart tube development",18,31,3,1.72222222222222,0.0392156862745098
+"GO:0035641","locomotory exploration behavior",18,22,2,1.22222222222222,0.0416666666666667
+"GO:1903596","regulation of gap junction assembly",18,18,1,1,0.0666666666666667
+"GO:0032233","positive regulation of actin filament bundle assembly",18,18,1,1,0.032258064516129
+"GO:0006956","complement activation",17,42,15,2.47058823529412,0.348837209302326
+"GO:0030509","BMP signaling pathway",17,28,9,1.64705882352941,0.0818181818181818
+"GO:0071772","response to BMP",17,28,9,1.64705882352941,0.079646017699115
+"GO:0071773","cellular response to BMP stimulus",17,28,9,1.64705882352941,0.079646017699115
+"GO:0042632","cholesterol homeostasis",17,32,8,1.88235294117647,0.222222222222222
+"GO:0055092","sterol homeostasis",17,32,8,1.88235294117647,0.222222222222222
+"GO:0070296","sarcoplasmic reticulum calcium ion transport",17,48,8,2.82352941176471,0.108695652173913
+"GO:0003081","regulation of systemic arterial blood pressure by renin-angiotensin",17,34,7,2,0.538461538461538
+"GO:0010880","regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",17,41,6,2.41176470588235,0.0909090909090909
+"GO:0014808","release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",17,41,6,2.41176470588235,0.0909090909090909
+"GO:1903514","release of sequestered calcium ion into cytosol by endoplasmic reticulum",17,41,6,2.41176470588235,0.0909090909090909
+"GO:0010881","regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion",17,40,5,2.35294117647059,0.0952380952380952
+"GO:0045666","positive regulation of neuron differentiation",17,21,5,1.23529411764706,0.0520833333333333
+"GO:0072132","mesenchyme morphogenesis",17,28,5,1.64705882352941,0.0515463917525773
+"GO:1902932","positive regulation of alcohol biosynthetic process",17,22,5,1.29411764705882,0.0454545454545455
+"GO:0035930","corticosteroid hormone secretion",17,27,4,1.58823529411765,0.111111111111111
+"GO:0044060","regulation of endocrine process",17,26,4,1.52941176470588,0.0952380952380952
+"GO:0086064","cell communication by electrical coupling involved in cardiac conduction",17,39,4,2.29411764705882,0.0909090909090909
+"GO:1903523","negative regulation of blood circulation",17,29,4,1.70588235294118,0.0851063829787234
+"GO:1904707","positive regulation of vascular associated smooth muscle cell proliferation",17,27,4,1.58823529411765,0.0634920634920635
+"GO:0010634","positive regulation of epithelial cell migration",17,25,3,1.47058823529412,0.0714285714285714
+"GO:0071354","cellular response to interleukin-6",17,22,3,1.29411764705882,0.0652173913043478
+"GO:0010632","regulation of epithelial cell migration",17,25,3,1.47058823529412,0.0625
+"GO:0070741","response to interleukin-6",17,22,3,1.29411764705882,0.0625
+"GO:0072010","glomerular epithelium development",17,25,3,1.47058823529412,0.0588235294117647
+"GO:0022602","ovulation cycle process",17,21,3,1.23529411764706,0.0319148936170213
+"GO:0003214","cardiac left ventricle morphogenesis",17,21,3,1.23529411764706,0.0294117647058824
+"GO:1901731","positive regulation of platelet aggregation",17,21,2,1.23529411764706,0.0625
+"GO:0030212","hyaluronan metabolic process",17,20,2,1.17647058823529,0.0444444444444444
+"GO:0051489","regulation of filopodium assembly",17,21,2,1.23529411764706,0.0333333333333333
+"GO:0048709","oligodendrocyte differentiation",17,22,2,1.29411764705882,0.032258064516129
+"GO:0046847","filopodium assembly",17,21,2,1.23529411764706,0.0294117647058824
+"GO:0009755","hormone-mediated signaling pathway",16,44,13,2.75,0.126315789473684
+"GO:0019884","antigen processing and presentation of exogenous antigen",16,122,11,7.625,0.409090909090909
+"GO:1990806","ligand-gated ion channel signaling pathway",16,51,10,3.1875,0.178571428571429
+"GO:0060390","regulation of SMAD protein signal transduction",16,30,10,1.875,0.10989010989011
+"GO:0006639","acylglycerol metabolic process",16,29,9,1.8125,0.225
+"GO:0006638","neutral lipid metabolic process",16,29,9,1.8125,0.219512195121951
+"GO:0071675","regulation of mononuclear cell migration",16,52,9,3.25,0.125
+"GO:0030041","actin filament polymerization",16,34,9,2.125,0.0918367346938776
+"GO:0045777","positive regulation of blood pressure",16,39,9,2.4375,0.0737704918032787
+"GO:0050918","positive chemotaxis",16,50,8,3.125,0.123076923076923
+"GO:0043277","apoptotic cell clearance",16,29,7,1.8125,0.14
+"GO:0034367","protein-containing complex remodeling",16,29,6,1.8125,0.24
+"GO:0034368","protein-lipid complex remodeling",16,29,6,1.8125,0.24
+"GO:0034369","plasma lipoprotein particle remodeling",16,29,6,1.8125,0.24
+"GO:0010919","regulation of inositol phosphate biosynthetic process",16,24,5,1.5,0.0571428571428571
+"GO:0032958","inositol phosphate biosynthetic process",16,24,5,1.5,0.0555555555555556
+"GO:0071320","cellular response to cAMP",16,26,4,1.625,0.0975609756097561
+"GO:0097254","renal tubular secretion",16,29,4,1.8125,0.0967741935483871
+"GO:0055119","relaxation of cardiac muscle",16,27,4,1.6875,0.0869565217391304
+"GO:1990748","cellular detoxification",16,24,4,1.5,0.0754716981132075
+"GO:0097237","cellular response to toxic substance",16,24,4,1.5,0.0727272727272727
+"GO:0071622","regulation of granulocyte chemotaxis",16,27,4,1.6875,0.0714285714285714
+"GO:0006968","cellular defense response",16,29,4,1.8125,0.0681818181818182
+"GO:0046620","regulation of organ growth",16,26,4,1.625,0.0535714285714286
+"GO:0001570","vasculogenesis",16,24,4,1.5,0.0338983050847458
+"GO:0043267","negative regulation of potassium ion transport",16,25,3,1.5625,0.09375
+"GO:0060307","regulation of ventricular cardiac muscle cell membrane repolarization",16,24,3,1.5,0.09375
+"GO:0086014","atrial cardiac muscle cell action potential",16,26,3,1.625,0.0909090909090909
+"GO:0086026","atrial cardiac muscle cell to AV node cell signaling",16,26,3,1.625,0.0909090909090909
+"GO:0086066","atrial cardiac muscle cell to AV node cell communication",16,26,3,1.625,0.0909090909090909
+"GO:0070293","renal absorption",16,26,3,1.625,0.0882352941176471
+"GO:0010517","regulation of phospholipase activity",16,22,3,1.375,0.0625
+"GO:0035850","epithelial cell differentiation involved in kidney development",16,26,3,1.625,0.0526315789473684
+"GO:0090022","regulation of neutrophil chemotaxis",16,24,3,1.5,0.0512820512820513
+"GO:0061005","cell differentiation involved in kidney development",16,26,3,1.625,0.05
+"GO:0060412","ventricular septum morphogenesis",16,22,3,1.375,0.0434782608695652
+"GO:0007286","spermatid development",16,23,3,1.4375,0.037037037037037
+"GO:0048515","spermatid differentiation",16,23,3,1.4375,0.0365853658536585
+"GO:0002468","dendritic cell antigen processing and presentation",16,29,2,1.8125,0.1
+"GO:0061626","pharyngeal arch artery morphogenesis",16,22,2,1.375,0.0714285714285714
+"GO:0003184","pulmonary valve morphogenesis",16,20,2,1.25,0.0645161290322581
+"GO:0003177","pulmonary valve development",16,21,2,1.3125,0.0625
+"GO:0003143","embryonic heart tube morphogenesis",16,19,2,1.1875,0.0416666666666667
+"GO:0060976","coronary vasculature development",16,19,2,1.1875,0.0384615384615385
+"GO:1990868","response to chemokine",15,65,16,4.33333333333333,0.372093023255814
+"GO:1990869","cellular response to chemokine",15,65,16,4.33333333333333,0.372093023255814
+"GO:0002478","antigen processing and presentation of exogenous peptide antigen",15,118,11,7.86666666666667,0.45
+"GO:0036006","cellular response to macrophage colony-stimulating factor stimulus",15,33,9,2.2,0.105882352941176
+"GO:0036005","response to macrophage colony-stimulating factor",15,34,9,2.26666666666667,0.104651162790698
+"GO:0003197","endocardial cushion development",15,22,6,1.46666666666667,0.0631578947368421
+"GO:0021953","central nervous system neuron differentiation",15,29,6,1.93333333333333,0.05
+"GO:0140115","export across plasma membrane",15,36,5,2.4,0.102040816326531
+"GO:2000846","regulation of corticosteroid hormone secretion",15,24,4,1.6,0.117647058823529
+"GO:2000831","regulation of steroid hormone secretion",15,24,4,1.6,0.111111111111111
+"GO:0035812","renal sodium excretion",15,28,4,1.86666666666667,0.107142857142857
+"GO:0045744","negative regulation of G protein-coupled receptor signaling pathway",15,31,4,2.06666666666667,0.0952380952380952
+"GO:0003009","skeletal muscle contraction",15,29,4,1.93333333333333,0.0909090909090909
+"GO:0051346","negative regulation of hydrolase activity",15,22,4,1.46666666666667,0.0769230769230769
+"GO:0003171","atrioventricular valve development",15,21,4,1.4,0.0434782608695652
+"GO:0031016","pancreas development",15,20,4,1.33333333333333,0.0425531914893617
+"GO:0032228","regulation of synaptic transmission, GABAergic",15,23,4,1.53333333333333,0.0377358490566038
+"GO:0001974","blood vessel remodeling",15,23,3,1.53333333333333,0.0909090909090909
+"GO:0002283","neutrophil activation involved in immune response",15,18,3,1.2,0.0652173913043478
+"GO:0033622","integrin activation",15,23,3,1.53333333333333,0.0652173913043478
+"GO:0060193","positive regulation of lipase activity",15,22,3,1.46666666666667,0.0612244897959184
+"GO:0043627","response to estrogen",15,20,3,1.33333333333333,0.0384615384615385
+"GO:0051148","negative regulation of muscle cell differentiation",15,20,3,1.33333333333333,0.0319148936170213
+"GO:0060352","cell adhesion molecule production",15,16,2,1.06666666666667,0.1
+"GO:0060353","regulation of cell adhesion molecule production",15,16,2,1.06666666666667,0.1
+"GO:0002347","response to tumor cell",15,20,2,1.33333333333333,0.0740740740740741
+"GO:0032966","negative regulation of collagen biosynthetic process",15,18,2,1.2,0.0625
+"GO:0072224","metanephric glomerulus development",15,16,2,1.06666666666667,0.0588235294117647
+"GO:0045657","positive regulation of monocyte differentiation",15,18,2,1.2,0.0555555555555556
+"GO:0061384","heart trabecula morphogenesis",15,19,2,1.26666666666667,0.0526315789473684
+"GO:0061383","trabecula morphogenesis",15,19,2,1.26666666666667,0.05
+"GO:0006805","xenobiotic metabolic process",15,16,2,1.06666666666667,0.0357142857142857
+"GO:0010596","negative regulation of endothelial cell migration",15,19,2,1.26666666666667,0.03125
+"GO:0070098","chemokine-mediated signaling pathway",14,64,16,4.57142857142857,0.421052631578947
+"GO:0002495","antigen processing and presentation of peptide antigen via MHC class II",14,107,9,7.64285714285714,0.5625
+"GO:0019886","antigen processing and presentation of exogenous peptide antigen via MHC class II",14,107,9,7.64285714285714,0.5625
+"GO:0042552","myelination",14,29,9,2.07142857142857,0.0818181818181818
+"GO:0007272","ensheathment of neurons",14,30,9,2.14285714285714,0.0810810810810811
+"GO:0008366","axon ensheathment",14,30,9,2.14285714285714,0.0810810810810811
+"GO:0038065","collagen-activated signaling pathway",14,43,8,3.07142857142857,0.0923076923076923
+"GO:0035235","ionotropic glutamate receptor signaling pathway",14,42,7,3,0.2
+"GO:0070633","transepithelial transport",14,24,6,1.71428571428571,0.166666666666667
+"GO:0099505","regulation of presynaptic membrane potential",14,36,6,2.57142857142857,0.137931034482759
+"GO:0098883","synapse pruning",14,27,5,1.92857142857143,0.121951219512195
+"GO:0003203","endocardial cushion morphogenesis",14,20,5,1.42857142857143,0.0555555555555556
+"GO:0098869","cellular oxidant detoxification",14,21,4,1.5,0.0888888888888889
+"GO:0050926","regulation of positive chemotaxis",14,25,4,1.78571428571429,0.0517241379310345
+"GO:0050927","positive regulation of positive chemotaxis",14,25,4,1.78571428571429,0.0517241379310345
+"GO:0003272","endocardial cushion formation",14,19,4,1.35714285714286,0.0465116279069767
+"GO:0046660","female sex differentiation",14,22,4,1.57142857142857,0.0373831775700935
+"GO:0003071","renal system process involved in regulation of systemic arterial blood pressure",14,24,3,1.71428571428571,0.15
+"GO:0003094","glomerular filtration",14,20,3,1.42857142857143,0.0909090909090909
+"GO:0097205","renal filtration",14,20,3,1.42857142857143,0.0909090909090909
+"GO:0071526","semaphorin-plexin signaling pathway",14,21,3,1.5,0.0540540540540541
+"GO:0003230","cardiac atrium development",14,17,3,1.21428571428571,0.0340909090909091
+"GO:0007018","microtubule-based movement",14,22,3,1.57142857142857,0.0175438596491228
+"GO:0003148","outflow tract septum morphogenesis",14,17,2,1.21428571428571,0.0540540540540541
+"GO:0019227","neuronal action potential propagation",14,15,2,1.07142857142857,0.0408163265306122
+"GO:0098870","action potential propagation",14,15,2,1.07142857142857,0.0408163265306122
+"GO:2000177","regulation of neural precursor cell proliferation",14,18,2,1.28571428571429,0.0392156862745098
+"GO:0003283","atrial septum development",14,15,2,1.07142857142857,0.0333333333333333
+"GO:0090288","negative regulation of cellular response to growth factor stimulus",14,15,2,1.07142857142857,0.0256410256410256
+"GO:0051497","negative regulation of stress fiber assembly",14,14,1,1,0.032258064516129
+"GO:0032232","negative regulation of actin filament bundle assembly",14,14,1,1,0.0303030303030303
+"GO:0007157","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",13,42,11,3.23076923076923,0.159420289855072
+"GO:0008203","cholesterol metabolic process",13,35,9,2.69230769230769,0.195652173913043
+"GO:1902652","secondary alcohol metabolic process",13,35,9,2.69230769230769,0.195652173913043
+"GO:0016125","sterol metabolic process",13,35,9,2.69230769230769,0.191489361702128
+"GO:0035924","cellular response to vascular endothelial growth factor stimulus",13,33,9,2.53846153846154,0.10126582278481
+"GO:0002396","MHC protein complex assembly",13,104,8,8,0.571428571428571
+"GO:0002399","MHC class II protein complex assembly",13,104,8,8,0.571428571428571
+"GO:0002501","peptide antigen assembly with MHC protein complex",13,104,8,8,0.571428571428571
+"GO:0002503","peptide antigen assembly with MHC class II protein complex",13,104,8,8,0.571428571428571
+"GO:0038063","collagen-activated tyrosine kinase receptor signaling pathway",13,42,8,3.23076923076923,0.09375
+"GO:0098656","monoatomic anion transmembrane transport",13,41,8,3.15384615384615,0.0898876404494382
+"GO:0006910","phagocytosis, recognition",13,20,7,1.53846153846154,0.106060606060606
+"GO:0061035","regulation of cartilage development",13,20,6,1.53846153846154,0.0652173913043478
+"GO:0014821","phasic smooth muscle contraction",13,27,6,2.07692307692308,0.0625
+"GO:0007567","parturition",13,21,5,1.61538461538462,0.0869565217391304
+"GO:0048593","camera-type eye morphogenesis",13,21,5,1.61538461538462,0.0423728813559322
+"GO:0048592","eye morphogenesis",13,23,5,1.76923076923077,0.0403225806451613
+"GO:0046189","phenol-containing compound biosynthetic process",13,16,4,1.23076923076923,0.16
+"GO:0034374","low-density lipoprotein particle remodeling",13,19,4,1.46153846153846,0.0909090909090909
+"GO:1990573","potassium ion import across plasma membrane",13,31,4,2.38461538461538,0.0833333333333333
+"GO:0007435","salivary gland morphogenesis",13,22,4,1.69230769230769,0.0701754385964912
+"GO:0032413","negative regulation of ion transmembrane transporter activity",13,19,4,1.46153846153846,0.0508474576271186
+"GO:0046622","positive regulation of organ growth",13,19,4,1.46153846153846,0.0461538461538462
+"GO:0060038","cardiac muscle cell proliferation",13,18,4,1.38461538461538,0.0454545454545455
+"GO:0003181","atrioventricular valve morphogenesis",13,19,4,1.46153846153846,0.0444444444444444
+"GO:0036376","sodium ion export across plasma membrane",13,27,3,2.07692307692308,0.0882352941176471
+"GO:0071384","cellular response to corticosteroid stimulus",13,21,3,1.61538461538462,0.0731707317073171
+"GO:0010518","positive regulation of phospholipase activity",13,19,3,1.46153846153846,0.0666666666666667
+"GO:0061318","renal filtration cell differentiation",13,20,3,1.53846153846154,0.0625
+"GO:0072112","podocyte differentiation",13,20,3,1.53846153846154,0.0625
+"GO:0072311","glomerular epithelial cell differentiation",13,20,3,1.53846153846154,0.0625
+"GO:0042551","neuron maturation",13,18,3,1.38461538461538,0.0566037735849057
+"GO:0045576","mast cell activation",13,18,3,1.38461538461538,0.0540540540540541
+"GO:0003180","aortic valve morphogenesis",13,18,3,1.38461538461538,0.0454545454545455
+"GO:0034394","protein localization to cell surface",13,20,3,1.53846153846154,0.0454545454545455
+"GO:0003176","aortic valve development",13,20,3,1.53846153846154,0.0434782608695652
+"GO:0032330","regulation of chondrocyte differentiation",13,16,3,1.23076923076923,0.0333333333333333
+"GO:0009713","catechol-containing compound biosynthetic process",13,14,2,1.07692307692308,0.0952380952380952
+"GO:0042423","catecholamine biosynthetic process",13,14,2,1.07692307692308,0.0952380952380952
+"GO:0051610","serotonin uptake",13,15,2,1.15384615384615,0.0588235294117647
+"GO:0002043","blood vessel endothelial cell proliferation involved in sprouting angiogenesis",13,16,2,1.23076923076923,0.04
+"GO:0030510","regulation of BMP signaling pathway",13,15,2,1.15384615384615,0.0212765957446809
+"GO:0042416","dopamine biosynthetic process",13,13,1,1,0.0555555555555556
+"GO:0051496","positive regulation of stress fiber assembly",13,13,1,1,0.037037037037037
+"GO:2000310","regulation of NMDA receptor activity",13,13,1,1,0.037037037037037
+"GO:0006641","triglyceride metabolic process",12,25,9,2.08333333333333,0.257142857142857
+"GO:0048008","platelet-derived growth factor receptor signaling pathway",12,31,9,2.58333333333333,0.1
+"GO:0019933","cAMP-mediated signaling",12,33,8,2.75,0.228571428571429
+"GO:1902476","chloride transmembrane transport",12,37,7,3.08333333333333,0.1
+"GO:0030178","negative regulation of Wnt signaling pathway",12,19,7,1.58333333333333,0.0555555555555556
+"GO:0001991","regulation of systemic arterial blood pressure by circulatory renin-angiotensin",12,20,6,1.66666666666667,0.5
+"GO:0042044","fluid transport",12,20,6,1.66666666666667,0.166666666666667
+"GO:0060732","positive regulation of inositol phosphate biosynthetic process",12,17,5,1.41666666666667,0.0588235294117647
+"GO:0042045","epithelial fluid transport",12,18,4,1.5,0.125
+"GO:0055021","regulation of cardiac muscle tissue growth",12,18,4,1.5,0.0461538461538462
+"GO:0060420","regulation of heart growth",12,18,4,1.5,0.0454545454545455
+"GO:0009624","response to nematode",12,15,3,1.25,0.0952380952380952
+"GO:0016322","neuron remodeling",12,14,3,1.16666666666667,0.0697674418604651
+"GO:0090023","positive regulation of neutrophil chemotaxis",12,19,3,1.58333333333333,0.0555555555555556
+"GO:0007044","cell-substrate junction assembly",12,16,3,1.33333333333333,0.0491803278688525
+"GO:0048566","embryonic digestive tract development",12,16,3,1.33333333333333,0.0483870967741935
+"GO:0003209","cardiac atrium morphogenesis",12,14,3,1.16666666666667,0.0352941176470588
+"GO:0007368","determination of left/right symmetry",12,14,3,1.16666666666667,0.0236220472440945
+"GO:0060972","left/right pattern formation",12,14,3,1.16666666666667,0.0232558139534884
+"GO:0009799","specification of symmetry",12,14,3,1.16666666666667,0.0230769230769231
+"GO:0009855","determination of bilateral symmetry",12,14,3,1.16666666666667,0.0230769230769231
+"GO:0097164","ammonium ion metabolic process",12,15,2,1.25,0.0714285714285714
+"GO:0002279","mast cell activation involved in immune response",12,15,2,1.25,0.0606060606060606
+"GO:0002448","mast cell mediated immunity",12,15,2,1.25,0.0606060606060606
+"GO:0043303","mast cell degranulation",12,15,2,1.25,0.0606060606060606
+"GO:0032418","lysosome localization",12,15,2,1.25,0.0588235294117647
+"GO:1990849","vacuolar localization",12,15,2,1.25,0.0571428571428571
+"GO:0097084","vascular associated smooth muscle cell development",12,13,2,1.08333333333333,0.0434782608695652
+"GO:1903587","regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis",12,15,2,1.25,0.0434782608695652
+"GO:0085029","extracellular matrix assembly",12,15,2,1.25,0.0344827586206897
+"GO:1905207","regulation of cardiocyte differentiation",12,14,2,1.16666666666667,0.0303030303030303
+"GO:2000738","positive regulation of stem cell differentiation",12,12,1,1,0.0344827586206897
+"GO:0008543","fibroblast growth factor receptor signaling pathway",11,37,13,3.36363636363636,0.152777777777778
+"GO:0060391","positive regulation of SMAD protein signal transduction",11,22,10,2,0.121951219512195
+"GO:1901890","positive regulation of cell junction assembly",11,31,9,2.81818181818182,0.107142857142857
+"GO:0007617","mating behavior",11,31,9,2.81818181818182,0.0869565217391304
+"GO:0042730","fibrinolysis",11,18,8,1.63636363636364,0.222222222222222
+"GO:0099172","presynapse organization",11,27,8,2.45454545454545,0.0972222222222222
+"GO:0048265","response to pain",11,24,7,2.18181818181818,0.0704225352112676
+"GO:0061036","positive regulation of cartilage development",11,16,6,1.45454545454545,0.0705882352941176
+"GO:0051953","negative regulation of amine transport",11,23,6,2.09090909090909,0.0597014925373134
+"GO:0048286","lung alveolus development",11,19,4,1.72727272727273,0.0645161290322581
+"GO:0048864","stem cell development",11,24,4,2.18181818181818,0.0638297872340425
+"GO:0010649","regulation of cell communication by electrical coupling",11,14,4,1.27272727272727,0.0506329113924051
+"GO:0003254","regulation of membrane depolarization",11,19,4,1.72727272727273,0.0476190476190476
+"GO:0051150","regulation of smooth muscle cell differentiation",11,16,4,1.45454545454545,0.0476190476190476
+"GO:0010459","negative regulation of heart rate",11,18,3,1.63636363636364,0.0666666666666667
+"GO:0099509","regulation of presynaptic cytosolic calcium ion concentration",11,16,3,1.45454545454545,0.0540540540540541
+"GO:0060317","cardiac epithelial to mesenchymal transition",11,15,3,1.36363636363636,0.0465116279069767
+"GO:0032332","positive regulation of chondrocyte differentiation",11,13,3,1.18181818181818,0.04
+"GO:0014047","glutamate secretion",11,16,3,1.45454545454545,0.0384615384615385
+"GO:1905063","regulation of vascular associated smooth muscle cell differentiation",11,14,3,1.27272727272727,0.0375
+"GO:0017145","stem cell division",11,13,3,1.18181818181818,0.03125
+"GO:0090102","cochlea development",11,14,3,1.27272727272727,0.0303030303030303
+"GO:0010572","positive regulation of platelet activation",11,15,2,1.36363636363636,0.0740740740740741
+"GO:0035810","positive regulation of urine volume",11,17,2,1.54545454545455,0.0689655172413793
+"GO:1901380","negative regulation of potassium ion transmembrane transport",11,15,2,1.36363636363636,0.0625
+"GO:0050930","induction of positive chemotaxis",11,15,2,1.36363636363636,0.0571428571428571
+"GO:1903589","positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis",11,13,2,1.18181818181818,0.0555555555555556
+"GO:0045600","positive regulation of fat cell differentiation",11,14,2,1.27272727272727,0.0476190476190476
+"GO:2000649","regulation of sodium ion transmembrane transporter activity",11,12,2,1.09090909090909,0.0384615384615385
+"GO:0043537","negative regulation of blood vessel endothelial cell migration",11,15,2,1.36363636363636,0.037037037037037
+"GO:2001212","regulation of vasculogenesis",11,13,2,1.18181818181818,0.0357142857142857
+"GO:0060271","cilium assembly",11,14,2,1.27272727272727,0.0172413793103448
+"GO:0044782","cilium organization",11,14,2,1.27272727272727,0.0161290322580645
+"GO:0010002","cardioblast differentiation",11,11,1,1,0.0357142857142857
+"GO:0051058","negative regulation of small GTPase mediated signal transduction",11,11,1,1,0.0263157894736842
+"GO:0015695","organic cation transport",10,29,9,2.9,0.107142857142857
+"GO:0035590","purinergic nucleotide receptor signaling pathway",10,31,9,3.1,0.104477611940299
+"GO:0038084","vascular endothelial growth factor signaling pathway",10,29,9,2.9,0.1
+"GO:0046503","glycerolipid catabolic process",10,24,5,2.4,0.166666666666667
+"GO:0001676","long-chain fatty acid metabolic process",10,24,5,2.4,0.0980392156862745
+"GO:0001820","serotonin secretion",10,17,3,1.7,0.0909090909090909
+"GO:0042743","hydrogen peroxide metabolic process",10,14,3,1.4,0.0909090909090909
+"GO:0071372","cellular response to follicle-stimulating hormone stimulus",10,16,3,1.6,0.0714285714285714
+"GO:0032354","response to follicle-stimulating hormone",10,16,3,1.6,0.0666666666666667
+"GO:0060973","cell migration involved in heart development",10,15,3,1.5,0.0588235294117647
+"GO:0015812","gamma-aminobutyric acid transport",10,13,3,1.3,0.0434782608695652
+"GO:1905064","negative regulation of vascular associated smooth muscle cell differentiation",10,13,3,1.3,0.0384615384615385
+"GO:0051151","negative regulation of smooth muscle cell differentiation",10,13,3,1.3,0.037037037037037
+"GO:0062042","regulation of cardiac epithelial to mesenchymal transition",10,13,2,1.3,0.0606060606060606
+"GO:0003198","epithelial to mesenchymal transition involved in endocardial cushion formation",10,13,2,1.3,0.0555555555555556
+"GO:0060977","coronary vasculature morphogenesis",10,11,2,1.1,0.0555555555555556
+"GO:0033623","regulation of integrin activation",10,12,2,1.2,0.0454545454545455
+"GO:0007405","neuroblast proliferation",10,16,2,1.6,0.0425531914893617
+"GO:0032060","bleb assembly",10,13,2,1.3,0.0256410256410256
+"GO:0035791","platelet-derived growth factor receptor-beta signaling pathway",9,28,9,3.11111111111111,0.114754098360656
+"GO:0140448","signaling receptor ligand precursor processing",9,14,5,1.55555555555556,0.294117647058824
+"GO:0099174","regulation of presynapse organization",9,17,5,1.88888888888889,0.0579710144927536
+"GO:0006721","terpenoid metabolic process",9,16,4,1.77777777777778,0.121212121212121
+"GO:0010463","mesenchymal cell proliferation",9,19,4,2.11111111111111,0.0615384615384615
+"GO:0055023","positive regulation of cardiac muscle tissue growth",9,14,4,1.55555555555556,0.0491803278688525
+"GO:0060421","positive regulation of heart growth",9,14,4,1.55555555555556,0.0483870967741935
+"GO:0070943","neutrophil-mediated killing of symbiont cell",9,13,3,1.44444444444444,0.0588235294117647
+"GO:0070942","neutrophil mediated cytotoxicity",9,13,3,1.44444444444444,0.0555555555555556
+"GO:0010464","regulation of mesenchymal cell proliferation",9,15,3,1.66666666666667,0.0517241379310345
+"GO:0003341","cilium movement",9,15,3,1.66666666666667,0.0197368421052632
+"GO:0071389","cellular response to mineralocorticoid stimulus",9,11,2,1.22222222222222,0.0666666666666667
+"GO:0072109","glomerular mesangium development",9,10,2,1.11111111111111,0.05
+"GO:1901017","negative regulation of potassium ion transmembrane transporter activity",9,11,2,1.22222222222222,0.037037037037037
+"GO:0060042","retina morphogenesis in camera-type eye",9,11,2,1.22222222222222,0.0333333333333333
+"GO:0090278","negative regulation of peptide hormone secretion",9,11,2,1.22222222222222,0.0294117647058824
+"GO:0002792","negative regulation of peptide secretion",9,11,2,1.22222222222222,0.0285714285714286
+"GO:0043116","negative regulation of vascular permeability",9,9,1,1,0.0285714285714286
+"GO:0031547","brain-derived neurotrophic factor receptor signaling pathway",8,23,8,2.875,0.1
+"GO:0033344","cholesterol efflux",8,19,7,2.375,0.241379310344828
+"GO:0048520","positive regulation of behavior",8,17,6,2.125,0.0491803278688525
+"GO:0002002","regulation of angiotensin levels in blood",8,13,5,1.625,0.5
+"GO:0019369","arachidonate metabolic process",8,18,5,2.25,0.129032258064516
+"GO:0010878","cholesterol storage",8,16,4,2,0.181818181818182
+"GO:0006695","cholesterol biosynthetic process",8,16,4,2,0.129032258064516
+"GO:0016101","diterpenoid metabolic process",8,14,4,1.75,0.129032258064516
+"GO:1902653","secondary alcohol biosynthetic process",8,16,4,2,0.129032258064516
+"GO:0001755","neural crest cell migration",8,20,4,2.5,0.075
+"GO:0090497","mesenchymal cell migration",8,20,4,2.5,0.075
+"GO:0014032","neural crest cell development",8,20,4,2.5,0.0681818181818182
+"GO:0014033","neural crest cell differentiation",8,20,4,2.5,0.0666666666666667
+"GO:0048645","animal organ formation",8,16,4,2,0.0434782608695652
+"GO:0010885","regulation of cholesterol storage",8,14,3,1.75,0.142857142857143
+"GO:0019732","antifungal humoral response",8,12,3,1.5,0.05
+"GO:0035933","glucocorticoid secretion",8,12,3,1.5,0.0416666666666667
+"GO:0001878","response to yeast",8,11,3,1.375,0.0384615384615385
+"GO:0030317","flagellated sperm motility",8,13,3,1.625,0.0247933884297521
+"GO:0097722","sperm motility",8,13,3,1.625,0.0247933884297521
+"GO:0060294","cilium movement involved in cell motility",8,14,3,1.75,0.0227272727272727
+"GO:0001539","cilium or flagellum-dependent cell motility",8,14,3,1.75,0.0225563909774436
+"GO:0060285","cilium-dependent cell motility",8,14,3,1.75,0.0225563909774436
+"GO:0048865","stem cell fate commitment",8,12,2,1.5,0.0714285714285714
+"GO:1903276","regulation of sodium ion export across plasma membrane",8,9,2,1.125,0.032258064516129
+"GO:1903278","positive regulation of sodium ion export across plasma membrane",8,9,2,1.125,0.032258064516129
+"GO:0030513","positive regulation of BMP signaling pathway",8,10,2,1.25,0.0224719101123595
+"GO:0001947","heart looping",8,9,2,1.125,0.0208333333333333
+"GO:0061371","determination of heart left/right asymmetry",8,9,2,1.125,0.0204081632653061
+"GO:0010737","protein kinase A signaling",8,8,1,1,0.04
+"GO:0036323","vascular endothelial growth factor receptor-1 signaling pathway",7,22,8,3.14285714285714,0.101694915254237
+"GO:0036215","response to stem cell factor",7,22,8,3.14285714285714,0.1
+"GO:0036216","cellular response to stem cell factor stimulus",7,22,8,3.14285714285714,0.1
+"GO:0038109","Kit signaling pathway",7,22,8,3.14285714285714,0.1
+"GO:0044331","cell-cell adhesion mediated by cadherin",7,13,7,1.85714285714286,0.0707070707070707
+"GO:0090090","negative regulation of canonical Wnt signaling pathway",7,14,7,2,0.0583333333333333
+"GO:0007620","copulation",7,20,6,2.85714285714286,0.0757575757575758
+"GO:0034308","primary alcohol metabolic process",7,15,5,2.14285714285714,0.128205128205128
+"GO:0033604","negative regulation of catecholamine secretion",7,13,4,1.85714285714286,0.0363636363636364
+"GO:0035696","monocyte extravasation",7,12,3,1.71428571428571,0.0714285714285714
+"GO:0031646","positive regulation of nervous system process",7,10,3,1.42857142857143,0.0392156862745098
+"GO:0031579","membrane raft organization",7,8,2,1.14285714285714,0.0645161290322581
+"GO:1902692","regulation of neuroblast proliferation",7,11,2,1.57142857142857,0.0487804878048781
+"GO:1902259","regulation of delayed rectifier potassium channel activity",7,8,2,1.14285714285714,0.04
+"GO:1903817","negative regulation of voltage-gated potassium channel activity",7,8,2,1.14285714285714,0.0392156862745098
+"GO:0050665","hydrogen peroxide biosynthetic process",7,7,1,1,0.05
+"GO:0060837","blood vessel endothelial cell differentiation",7,7,1,1,0.0434782608695652
+"GO:0003207","cardiac chamber formation",7,7,1,1,0.032258064516129
+"GO:0061760","antifungal innate immune response",7,7,1,1,0.027027027027027
+"GO:0044458","motile cilium assembly",7,7,1,1,0.0222222222222222
+"GO:0007156","homophilic cell adhesion via plasma membrane adhesion molecules",6,52,32,8.66666666666667,0.288288288288288
+"GO:0051965","positive regulation of synapse assembly",6,18,7,3,0.0972222222222222
+"GO:1904861","excitatory synapse assembly",6,15,6,2.5,0.0882352941176471
+"GO:0032924","activin receptor signaling pathway",6,14,6,2.33333333333333,0.0681818181818182
+"GO:0060259","regulation of feeding behavior",6,11,5,1.83333333333333,0.040650406504065
+"GO:0090181","regulation of cholesterol metabolic process",6,14,4,2.33333333333333,0.137931034482759
+"GO:0006691","leukotriene metabolic process",6,9,3,1.5,0.0666666666666667
+"GO:0001945","lymph vessel development",6,13,3,2.16666666666667,0.046875
+"GO:0060314","regulation of ryanodine-sensitive calcium-release channel activity",6,8,3,1.33333333333333,0.0375
+"GO:1904893","negative regulation of receptor signaling pathway via STAT",6,8,2,1.33333333333333,0.0416666666666667
+"GO:0048251","elastic fiber assembly",6,6,1,1,0.0769230769230769
+"GO:1902306","negative regulation of sodium ion transmembrane transport",6,6,1,1,0.0476190476190476
+"GO:1990416","cellular response to brain-derived neurotrophic factor stimulus",6,6,1,1,0.0416666666666667
+"GO:2000047","regulation of cell-cell adhesion mediated by cadherin",6,6,1,1,0.04
+"GO:0060347","heart trabecula formation",6,6,1,1,0.0357142857142857
+"GO:1903670","regulation of sprouting angiogenesis",6,6,1,1,0.0294117647058824
+"GO:1904238","pericyte cell differentiation",6,6,1,1,0.024390243902439
+"GO:0016339","calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules",5,20,13,4,0.139784946236559
+"GO:0006833","water transport",5,10,6,2,0.1875
+"GO:1904862","inhibitory synapse assembly",5,22,5,4.4,0.151515151515152
+"GO:0009952","anterior/posterior pattern specification",5,10,5,2,0.0378787878787879
+"GO:0001523","retinoid metabolic process",5,11,4,2.2,0.133333333333333
+"GO:0019755","one-carbon compound transport",5,12,4,2.4,0.12
+"GO:1901568","fatty acid derivative metabolic process",5,11,4,2.2,0.0869565217391304
+"GO:0010989","negative regulation of low-density lipoprotein particle clearance",5,7,3,1.4,0.15
+"GO:0015670","carbon dioxide transport",5,10,3,2,0.142857142857143
+"GO:0015669","gas transport",5,10,3,2,0.125
+"GO:0019372","lipoxygenase pathway",5,8,3,1.6,0.0909090909090909
+"GO:0048241","epinephrine transport",5,10,3,2,0.0483870967741935
+"GO:0008212","mineralocorticoid metabolic process",5,7,3,1.4,0.0454545454545455
+"GO:0032341","aldosterone metabolic process",5,7,3,1.4,0.0454545454545455
+"GO:0046164","alcohol catabolic process",5,8,2,1.6,0.0869565217391304
+"GO:0033137","negative regulation of peptidyl-serine phosphorylation",5,6,2,1.2,0.0740740740740741
+"GO:0044857","plasma membrane raft organization",5,6,2,1.2,0.0740740740740741
+"GO:0070857","regulation of bile acid biosynthetic process",5,6,2,1.2,0.0625
+"GO:1904995","negative regulation of leukocyte adhesion to vascular endothelial cell",5,8,2,1.6,0.0625
+"GO:0070278","extracellular matrix constituent secretion",5,6,2,1.2,0.0512820512820513
+"GO:0019370","leukotriene biosynthetic process",5,7,2,1.4,0.0476190476190476
+"GO:2000833","positive regulation of steroid hormone secretion",5,6,2,1.2,0.0476190476190476
+"GO:0010842","retina layer formation",5,6,2,1.2,0.0416666666666667
+"GO:0003161","cardiac conduction system development",5,6,2,1.2,0.037037037037037
+"GO:0003156","regulation of animal organ formation",5,8,2,1.6,0.0344827586206897
+"GO:0036303","lymph vessel morphogenesis",5,8,2,1.6,0.0327868852459016
+"GO:0071314","cellular response to cocaine",5,6,2,1.2,0.03125
+"GO:0001946","lymphangiogenesis",5,6,2,1.2,0.0232558139534884
+"GO:0002357","defense response to tumor cell",5,5,1,1,0.0476190476190476
+"GO:2000048","negative regulation of cell-cell adhesion mediated by cadherin",5,5,1,1,0.0454545454545455
+"GO:0099054","presynapse assembly",4,19,8,4.75,0.1
+"GO:1905606","regulation of presynapse assembly",4,12,5,3,0.0588235294117647
+"GO:0034370","triglyceride-rich lipoprotein particle remodeling",4,10,4,2.5,0.210526315789474
+"GO:0034372","very-low-density lipoprotein particle remodeling",4,10,4,2.5,0.210526315789474
+"GO:1901570","fatty acid derivative biosynthetic process",4,10,4,2.5,0.102564102564103
+"GO:0007158","neuron cell-cell adhesion",4,8,4,2,0.0625
+"GO:0008228","opsonization",4,7,4,1.75,0.0625
+"GO:0001867","complement activation, lectin pathway",4,8,3,2,0.0769230769230769
+"GO:0070944","neutrophil-mediated killing of bacterium",4,6,3,1.5,0.0666666666666667
+"GO:1903027","regulation of opsonization",4,6,3,1.5,0.0476190476190476
+"GO:0060632","regulation of microtubule-based movement",4,9,3,2.25,0.0379746835443038
+"GO:0045687","positive regulation of glial cell differentiation",4,6,3,1.5,0.0340909090909091
+"GO:0006706","steroid catabolic process",4,6,2,1.5,0.0833333333333333
+"GO:0044854","plasma membrane raft assembly",4,5,2,1.25,0.08
+"GO:0035358","regulation of peroxisome proliferator activated receptor signaling pathway",4,6,2,1.5,0.0645161290322581
+"GO:0030539","male genitalia development",4,5,2,1.25,0.0416666666666667
+"GO:0097623","potassium ion export across plasma membrane",4,5,2,1.25,0.0392156862745098
+"GO:0045668","negative regulation of osteoblast differentiation",4,6,2,1.5,0.037037037037037
+"GO:0060914","heart formation",4,5,2,1.25,0.0357142857142857
+"GO:0060571","morphogenesis of an epithelial fold",4,8,2,2,0.0350877192982456
+"GO:0060441","epithelial tube branching involved in lung morphogenesis",4,7,2,1.75,0.0338983050847458
+"GO:0048546","digestive tract morphogenesis",4,6,2,1.5,0.0317460317460317
+"GO:0031643","positive regulation of myelination",4,5,2,1.25,0.024390243902439
+"GO:0008038","neuron recognition",4,5,2,1.25,0.0217391304347826
+"GO:1904383","response to sodium phosphate",4,5,2,1.25,0.0217391304347826
+"GO:0001886","endothelial cell morphogenesis",4,5,2,1.25,0.0212765957446809
+"GO:0003382","epithelial cell morphogenesis",4,5,2,1.25,0.0202020202020202
+"GO:0001977","renal system process involved in regulation of blood volume",4,4,1,1,0.0217391304347826
+"GO:0099560","synaptic membrane adhesion",3,17,7,5.66666666666667,0.102941176470588
+"GO:0032288","myelin assembly",3,8,5,2.66666666666667,0.0595238095238095
+"GO:0060045","positive regulation of cardiac muscle cell proliferation",3,8,4,2.66666666666667,0.05
+"GO:0060043","regulation of cardiac muscle cell proliferation",3,8,4,2.66666666666667,0.0483870967741935
+"GO:0042744","hydrogen peroxide catabolic process",3,7,3,2.33333333333333,0.111111111111111
+"GO:1904754","positive regulation of vascular associated smooth muscle cell migration",3,6,3,2,0.0545454545454545
+"GO:0003352","regulation of cilium movement",3,8,3,2.66666666666667,0.0394736842105263
+"GO:0060572","morphogenesis of an epithelial bud",3,6,2,2,0.0363636363636364
+"GO:0022010","central nervous system myelination",3,5,2,1.66666666666667,0.0285714285714286
+"GO:0032291","axon ensheathment in central nervous system",3,5,2,1.66666666666667,0.0285714285714286
+"GO:0014003","oligodendrocyte development",3,5,2,1.66666666666667,0.027027027027027
+"GO:0060841","venous blood vessel development",3,4,2,1.33333333333333,0.0238095238095238
+"GO:0060354","negative regulation of cell adhesion molecule production",3,3,1,1,0.0526315789473684
+"GO:0098917","retrograde trans-synaptic signaling",3,3,1,1,0.0344827586206897
+"GO:0001709","cell fate determination",3,3,1,1,0.025
+"GO:0038130","ERBB4 signaling pathway",3,3,1,1,0.0153846153846154
+"GO:0045662","negative regulation of myoblast differentiation",3,3,1,1,0.0125
+"GO:0015671","oxygen transport",2,6,3,3,0.142857142857143
+"GO:0060371","regulation of atrial cardiac muscle cell membrane depolarization",2,4,3,2,0.032258064516129
+"GO:0048557","embryonic digestive tract morphogenesis",2,4,2,2,0.0357142857142857
+"GO:0003183","mitral valve morphogenesis",2,3,2,1.5,0.021505376344086
+"GO:0003174","mitral valve development",2,3,2,1.5,0.0212765957446809
+"GO:2000253","positive regulation of feeding behavior",2,3,2,1.5,0.0165289256198347
+"GO:0007288","sperm axoneme assembly",2,2,1,1,0.0227272727272727
+"GO:0036302","atrioventricular canal development",2,2,1,1,0.0212765957446809
+"GO:0003188","heart valve formation",2,2,1,1,0.0208333333333333
+"GO:0120316","sperm flagellum assembly",2,2,1,1,0.0196078431372549
+"GO:0035082","axoneme assembly",2,2,1,1,0.0131578947368421
+"GO:0001578","microtubule bundle formation",2,2,1,1,0.0121951219512195
+"GO:0061303","cornea development in camera-type eye",1,3,3,3,0.0326086956521739
+"GO:0006067","ethanol metabolic process",1,2,2,2,0.105263157894737
+"GO:0006068","ethanol catabolic process",1,1,1,1,0.0526315789473684
+"GO:0034310","primary alcohol catabolic process",1,1,1,1,0.0526315789473684
+"GO:0019373","epoxygenase P450 pathway",1,1,1,1,0.0434782608695652
+"GO:0090660","cerebrospinal fluid circulation",1,1,1,1,0.0277777777777778
+"GO:0003351","epithelial cilium movement involved in extracellular fluid movement",1,1,1,1,0.0222222222222222
+"GO:0006858","extracellular transport",1,1,1,1,0.0222222222222222
+"GO:0007440","foregut morphogenesis",1,1,1,1,0.0212765957446809
+"GO:0035116","embryonic hindlimb morphogenesis",1,1,1,1,0.0101010101010101
+"GO:0035137","hindlimb morphogenesis",1,1,1,1,0.01

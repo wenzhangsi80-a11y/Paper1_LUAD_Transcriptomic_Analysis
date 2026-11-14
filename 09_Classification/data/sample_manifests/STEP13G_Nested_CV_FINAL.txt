@@ -1,0 +1,39 @@
+STEP13G — NESTED CROSS-VALIDATION
+===================================
+
+Status: PASS
+
+Input branch: Historical Xiangtao TCGA ROC branch
+Samples: 575
+Tumor: 516
+Normal: 59
+
+Core genes: AOC3, MS4A7, IL7R
+Model: multivariable_logistic_regression
+Formula: TumorStatus ~ AOC3 + MS4A7 + IL7R
+
+Outer folds: 10
+Inner folds: 10
+Feature selection: FALSE
+External refit: FALSE
+External threshold optimization: FALSE
+
+OOF AUC: 0.987945
+OOF AUC 95% CI: 0.977145 – 0.998745
+Fixed threshold: 0.5
+Sensitivity: 0.988372
+Specificity: 0.898305
+Accuracy: 0.979130
+Balanced accuracy: 0.943339
+PPV: 0.988372
+NPV: 0.898305
+Brier score: 0.018200
+
+No external data were used.
+No external refitting was performed.
+No external coefficient estimation was performed.
+No feature selection was performed.
+No threshold optimization was performed.
+Outer-fold held-out predictions were used for performance estimation.
+
+STEP13G is an internal nested-resampling performance analysis.

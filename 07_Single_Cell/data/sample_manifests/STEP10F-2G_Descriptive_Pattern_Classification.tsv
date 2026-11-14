@@ -1,0 +1,4 @@
+Gene	Highest_Median_CPM_Compartment	Highest_Median_CPM	Second_Highest_Median_CPM	Highest_to_Second_Highest_Median_CPM_Ratio	Descriptive_Pattern
+AOC3	Myeloid/macrophage	1.33454842797044	0.86622910547119	1.54064140715349	Relatively compartment-associated
+MS4A7	Myeloid/macrophage	506.195517030647	24.1899641413117	20.9258481771027	Strongly compartment-associated
+IL7R	T-cell	258.160741776727	124.837594289509	2.06797273886927	Strongly compartment-associated

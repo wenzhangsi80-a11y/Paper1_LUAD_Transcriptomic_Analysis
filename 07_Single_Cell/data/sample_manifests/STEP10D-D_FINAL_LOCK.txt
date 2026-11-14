@@ -1,0 +1,37 @@
+STEP10D-D — Patient-Level Compartment Concordance Audit
+FINAL LOCK
+============================================================
+
+STATUS: PASS
+
+Input observations: 66
+Eligibility: Primary only
+Primary patients: 9
+Primary T-cell patients: 9
+Primary Myeloid/macrophage patients: 9
+Primary Endothelial patients: 4
+Complete three-compartment patients: 4
+Primary Group_ID count: 22
+Core genes: AOC3 / MS4A7 / IL7R
+Core-gene observations: 66
+Detection definition: Raw_Count > 0
+Zero counts retained: YES
+
+Normalization: NO
+Statistical testing: NO
+Differential expression: NO
+P/FDR: NO
+CellChat/LR analysis: NO
+Pseudobulk recalculation: NO
+Patient exclusion: NO
+
+Sensitivity Endothelial observations are NOT included in
+the STEP10D-D primary three-compartment concordance input.
+They remain a separate sensitivity cohort upstream.
+
+No STEP10C pseudobulk recalculation performed.
+No STEP10D-A library QC recalculation performed.
+No STEP10D-B core-gene recalculation performed.
+No STEP10D-C expression recalculation performed.
+
+STEP10D-D FINAL LOCK: PASS

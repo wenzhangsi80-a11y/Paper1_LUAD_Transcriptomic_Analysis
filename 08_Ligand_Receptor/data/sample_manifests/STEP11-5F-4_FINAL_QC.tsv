@@ -1,0 +1,34 @@
+QC_Item	PASS
+FINAL input schema	TRUE
+Canonical global structure = 9,620 / 585 / 4 / 6	TRUE
+Canonical key definition	TRUE
+Canonical key uniqueness	TRUE
+Exact LR identity	TRUE
+Direction IDs = 1:6	TRUE
+Sender-receiver mapping	TRUE
+Candidate classes valid	TRUE
+Candidate class invariant	TRUE
+4/4 candidate pairs = 492	TRUE
+3/4-only candidate pairs = 93	TRUE
+Core-gene separation	TRUE
+Expression fields numeric	TRUE
+Expression fields finite	TRUE
+Expression values nonnegative	TRUE
+Mean expression definition consistent	TRUE
+Difference expression definition consistent	TRUE
+Compatibility field logical	TRUE
+Compatibility complete	TRUE
+Annotation complete	TRUE
+Pathway complete	TRUE
+Candidate provenance complete	TRUE
+interaction-name provenance complete	TRUE
+Patient pattern generated	TRUE
+Patient columns complete	TRUE
+Patient pattern row count = 2,405	TRUE
+Final master table = 585 unique LR pairs	TRUE
+Master table required columns present	TRUE
+Master patient-record conservation	TRUE
+Master patient count = 4	TRUE
+Master core-gene separation	TRUE
+Direction compatibility fractions valid	TRUE
+No statistical / ranking analysis performed	TRUE

@@ -1,0 +1,7 @@
+Direction_ID	Sender	Receiver	Candidate_records_ge3of4	Unique_exact_LR_pairs_ge3of4	Shared_4of4_exact_LR_pairs	Ge3of4_only_exact_LR_pairs
+1	Endothelial	Myeloid/macrophage	382	382	352	30
+2	Myeloid/macrophage	Endothelial	371	371	346	25
+3	Endothelial	T-cell	387	387	361	26
+4	T-cell	Endothelial	344	343	320	23
+5	Myeloid/macrophage	T-cell	485	485	441	44
+6	T-cell	Myeloid/macrophage	437	437	394	43

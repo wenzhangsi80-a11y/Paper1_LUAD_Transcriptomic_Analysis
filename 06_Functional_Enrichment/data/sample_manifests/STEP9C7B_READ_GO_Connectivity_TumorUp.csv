@@ -1,0 +1,155 @@
+"GO_ID","GO_Description","N_KEGG_Pathways","Total_Shared_Genes","Max_Shared_Genes","Mean_Shared_Genes","Max_Jaccard"
+"GO:0019730","antimicrobial humoral response",8,37,8,4.625,0.0824742268041237
+"GO:0006959","humoral immune response",8,37,8,4.625,0.0707964601769911
+"GO:1901987","regulation of cell cycle phase transition",7,48,32,6.85714285714286,0.323232323232323
+"GO:0051321","meiotic cell cycle",7,28,16,4,0.137931034482759
+"GO:0071824","protein-DNA complex organization",6,140,37,23.3333333333333,0.430232558139535
+"GO:0065004","protein-DNA complex assembly",6,137,36,22.8333333333333,0.423529411764706
+"GO:0010948","negative regulation of cell cycle process",6,36,23,6,0.267441860465116
+"GO:0045787","positive regulation of cell cycle",6,31,22,5.16666666666667,0.20952380952381
+"GO:1901988","negative regulation of cell cycle phase transition",6,33,21,5.5,0.2625
+"GO:0000075","cell cycle checkpoint signaling",6,32,20,5.33333333333333,0.263157894736842
+"GO:0006310","DNA recombination",6,23,10,3.83333333333333,0.133333333333333
+"GO:0008544","epidermis development",5,42,38,8.4,0.365384615384615
+"GO:0034728","nucleosome organization",5,137,37,27.4,0.544117647058823
+"GO:0006334","nucleosome assembly",5,134,36,26.8,0.537313432835821
+"GO:0006260","DNA replication",5,35,21,7,0.238636363636364
+"GO:0090068","positive regulation of cell cycle process",5,28,21,5.6,0.223404255319149
+"GO:0034502","protein localization to chromosome",5,70,16,14,0.207792207792208
+"GO:0071168","protein localization to chromatin",5,60,15,12,0.238095238095238
+"GO:0071459","protein localization to chromosome, centromeric region",5,65,15,13,0.23728813559322
+"GO:0045652","regulation of megakaryocyte differentiation",5,49,12,9.8,0.24
+"GO:0071695","anatomical structure maturation",5,12,5,2.4,0.036231884057971
+"GO:0061644","protein localization to CENP-A containing chromatin",4,58,15,14.5,0.267857142857143
+"GO:1903046","meiotic cell cycle process",4,24,15,6,0.142857142857143
+"GO:0045653","negative regulation of megakaryocyte differentiation",4,48,12,12,0.25
+"GO:0019731","antibacterial humoral response",4,29,8,7.25,0.109375
+"GO:2000241","regulation of reproductive process",4,13,7,3.25,0.0813953488372093
+"GO:0043588","skin development",3,36,34,12,0.361702127659574
+"GO:0044772","mitotic cell cycle phase transition",3,42,33,14,0.326732673267327
+"GO:1901990","regulation of mitotic cell cycle phase transition",3,36,28,12,0.32183908045977
+"GO:0000280","nuclear division",3,35,25,11.6666666666667,0.170068027210884
+"GO:0048285","organelle fission",3,35,25,11.6666666666667,0.165562913907285
+"GO:0007059","chromosome segregation",3,31,23,10.3333333333333,0.166666666666667
+"GO:0098813","nuclear chromosome segregation",3,29,22,9.66666666666667,0.181818181818182
+"GO:0007093","mitotic cell cycle checkpoint signaling",3,24,17,8,0.242857142857143
+"GO:0000819","sister chromatid segregation",3,20,17,6.66666666666667,0.173469387755102
+"GO:0006261","DNA-templated DNA replication",3,22,16,7.33333333333333,0.213333333333333
+"GO:1901989","positive regulation of cell cycle phase transition",3,19,14,6.33333333333333,0.21875
+"GO:0033045","regulation of sister chromatid segregation",3,17,14,5.66666666666667,0.202898550724638
+"GO:0051983","regulation of chromosome segregation",3,17,14,5.66666666666667,0.181818181818182
+"GO:0061982","meiosis I cell cycle process",3,20,13,6.66666666666667,0.156626506024096
+"GO:2001251","negative regulation of chromosome organization",3,15,12,5,0.181818181818182
+"GO:0140013","meiotic nuclear division",3,20,12,6.66666666666667,0.118811881188119
+"GO:0045132","meiotic chromosome segregation",3,15,11,5,0.148648648648649
+"GO:0007127","meiosis I",3,15,9,5,0.109756097560976
+"GO:0051445","regulation of meiotic cell cycle",3,9,7,3,0.114754098360656
+"GO:0045143","homologous chromosome segregation",3,11,7,3.66666666666667,0.106060606060606
+"GO:0007292","female gamete generation",3,9,5,3,0.0568181818181818
+"GO:0070192","chromosome organization involved in meiotic cell cycle",3,8,3,2.66666666666667,0.09375
+"GO:0007129","homologous chromosome pairing at meiosis",3,7,3,2.33333333333333,0.0645161290322581
+"GO:0002443","leukocyte mediated immunity",3,5,2,1.66666666666667,0.0153846153846154
+"GO:0007338","single fertilization",3,3,1,1,0.0158730158730159
+"GO:0009566","fertilization",3,3,1,1,0.0142857142857143
+"GO:0002449","lymphocyte mediated immunity",3,3,1,1,0.00806451612903226
+"GO:0030216","keratinocyte differentiation",2,30,29,15,0.402777777777778
+"GO:0009913","epidermal cell differentiation",2,30,29,15,0.325842696629214
+"GO:0031424","keratinization",2,24,23,12,0.353846153846154
+"GO:0007218","neuropeptide signaling pathway",2,28,20,14,0.208333333333333
+"GO:0140014","mitotic nuclear division",2,23,20,11.5,0.192307692307692
+"GO:0007088","regulation of mitotic nuclear division",2,18,16,9,0.210526315789474
+"GO:0051783","regulation of nuclear division",2,18,16,9,0.197530864197531
+"GO:0000070","mitotic sister chromatid segregation",2,18,16,9,0.170212765957447
+"GO:1901992","positive regulation of mitotic cell cycle phase transition",2,17,13,8.5,0.216666666666667
+"GO:0045839","negative regulation of mitotic nuclear division",2,15,13,7.5,0.206349206349206
+"GO:0051784","negative regulation of nuclear division",2,15,13,7.5,0.196969696969697
+"GO:0030071","regulation of mitotic metaphase/anaphase transition",2,14,13,7,0.194029850746269
+"GO:1902099","regulation of metaphase/anaphase transition of cell cycle",2,14,13,7,0.194029850746269
+"GO:0007091","metaphase/anaphase transition of mitotic cell cycle",2,14,13,7,0.191176470588235
+"GO:0044784","metaphase/anaphase transition of cell cycle",2,14,13,7,0.191176470588235
+"GO:0006270","DNA replication initiation",2,14,12,7,0.235294117647059
+"GO:0033047","regulation of mitotic sister chromatid segregation",2,14,12,7,0.19047619047619
+"GO:0010965","regulation of mitotic sister chromatid separation",2,13,12,6.5,0.184615384615385
+"GO:0051306","mitotic sister chromatid separation",2,13,12,6.5,0.184615384615385
+"GO:0051304","chromosome separation",2,13,12,6.5,0.176470588235294
+"GO:1905818","regulation of chromosome separation",2,13,12,6.5,0.176470588235294
+"GO:0007094","mitotic spindle assembly checkpoint signaling",2,12,11,6,0.174603174603175
+"GO:0031577","spindle checkpoint signaling",2,12,11,6,0.174603174603175
+"GO:0033046","negative regulation of sister chromatid segregation",2,12,11,6,0.174603174603175
+"GO:0033048","negative regulation of mitotic sister chromatid segregation",2,12,11,6,0.174603174603175
+"GO:0045841","negative regulation of mitotic metaphase/anaphase transition",2,12,11,6,0.174603174603175
+"GO:0051985","negative regulation of chromosome segregation",2,12,11,6,0.174603174603175
+"GO:0071173","spindle assembly checkpoint signaling",2,12,11,6,0.174603174603175
+"GO:0071174","mitotic spindle checkpoint signaling",2,12,11,6,0.174603174603175
+"GO:1902100","negative regulation of metaphase/anaphase transition of cell cycle",2,12,11,6,0.174603174603175
+"GO:1905819","negative regulation of chromosome separation",2,12,11,6,0.174603174603175
+"GO:2000816","negative regulation of mitotic sister chromatid separation",2,12,11,6,0.174603174603175
+"GO:1902850","microtubule cytoskeleton organization involved in mitosis",2,12,10,6,0.120481927710843
+"GO:0090329","regulation of DNA-templated DNA replication",2,10,9,5,0.166666666666667
+"GO:0051303","establishment of chromosome localization",2,10,9,5,0.123287671232877
+"GO:0051310","metaphase chromosome alignment",2,10,9,5,0.123287671232877
+"GO:0050000","chromosome localization",2,10,9,5,0.121621621621622
+"GO:0007051","spindle organization",2,10,9,5,0.103448275862069
+"GO:0044771","meiotic cell cycle phase transition",2,9,8,4.5,0.16
+"GO:0033260","nuclear DNA replication",2,10,8,5,0.140350877192982
+"GO:0044786","cell cycle DNA replication",2,10,8,5,0.135593220338983
+"GO:0007586","digestion",2,13,8,6.5,0.0683760683760684
+"GO:0007080","mitotic metaphase chromosome alignment",2,8,7,4,0.112903225806452
+"GO:0008608","attachment of spindle microtubules to kinetochore",2,8,7,4,0.111111111111111
+"GO:0007052","mitotic spindle organization",2,8,7,4,0.0886075949367089
+"GO:1901976","regulation of cell cycle checkpoint",2,8,6,4,0.103448275862069
+"GO:0051225","spindle assembly",2,7,6,3.5,0.0810810810810811
+"GO:0035825","homologous recombination",2,6,5,3,0.151515151515152
+"GO:0007131","reciprocal meiotic recombination",2,5,4,2.5,0.125
+"GO:0140527","reciprocal homologous recombination",2,5,4,2.5,0.125
+"GO:0051447","negative regulation of meiotic cell cycle",2,5,4,2.5,0.0740740740740741
+"GO:0051315","attachment of mitotic spindle microtubules to kinetochore",2,5,4,2.5,0.0714285714285714
+"GO:0051984","positive regulation of chromosome segregation",2,5,4,2.5,0.0701754385964912
+"GO:0090307","mitotic spindle assembly",2,5,4,2.5,0.0615384615384615
+"GO:0022600","digestive system process",2,8,4,4,0.0588235294117647
+"GO:0051988","regulation of attachment of spindle microtubules to kinetochore",2,4,3,2,0.0535714285714286
+"GO:1901970","positive regulation of mitotic sister chromatid separation",2,4,3,2,0.0535714285714286
+"GO:1905820","positive regulation of chromosome separation",2,4,3,2,0.0508474576271186
+"GO:0030261","chromosome condensation",2,4,3,2,0.0483870967741935
+"GO:0032963","collagen metabolic process",2,5,3,2.5,0.0294117647058824
+"GO:0035630","bone mineralization involved in bone maturation",2,4,2,2,0.0416666666666667
+"GO:0007140","male meiotic nuclear division",2,2,1,1,0.0294117647058824
+"GO:0090190","positive regulation of branching involved in ureteric bud morphogenesis",2,2,1,1,0.02
+"GO:0090189","regulation of branching involved in ureteric bud morphogenesis",2,2,1,1,0.0196078431372549
+"GO:0045103","intermediate filament-based process",1,23,23,23,0.359375
+"GO:0045104","intermediate filament cytoskeleton organization",1,23,23,23,0.359375
+"GO:0045109","intermediate filament organization",1,22,22,22,0.349206349206349
+"GO:0000727","double-strand break repair via break-induced replication",1,6,6,6,0.12
+"GO:0030174","regulation of DNA-templated DNA replication initiation",1,6,6,6,0.12
+"GO:1901993","regulation of meiotic cell cycle phase transition",1,5,5,5,0.1
+"GO:0000076","DNA replication checkpoint signaling",1,5,5,5,0.0961538461538462
+"GO:0090266","regulation of mitotic cell cycle spindle assembly checkpoint",1,5,5,5,0.0909090909090909
+"GO:1903504","regulation of mitotic spindle checkpoint",1,5,5,5,0.0909090909090909
+"GO:0090231","regulation of spindle checkpoint",1,5,5,5,0.0892857142857143
+"GO:0007143","female meiotic nuclear division",1,5,5,5,0.0833333333333333
+"GO:0090232","positive regulation of spindle checkpoint",1,4,4,4,0.0769230769230769
+"GO:0007144","female meiosis I",1,3,3,3,0.0576923076923077
+"GO:0090267","positive regulation of mitotic cell cycle spindle assembly checkpoint",1,3,3,3,0.0576923076923077
+"GO:0000212","meiotic spindle organization",1,3,3,3,0.0545454545454545
+"GO:0045835","negative regulation of meiotic nuclear division",1,2,2,2,0.0384615384615385
+"GO:0007056","spindle assembly involved in female meiosis",1,2,2,2,0.0377358490566038
+"GO:0090306","meiotic spindle assembly",1,2,2,2,0.037037037037037
+"GO:0051446","positive regulation of meiotic cell cycle",1,2,2,2,0.0357142857142857
+"GO:0002460","adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",1,2,2,2,0.015625
+"GO:0048665","neuron fate specification",1,1,1,1,0.0416666666666667
+"GO:0048663","neuron fate commitment",1,1,1,1,0.032258064516129
+"GO:0001708","cell fate specification",1,1,1,1,0.027027027027027
+"GO:0007339","binding of sperm to zona pellucida",1,1,1,1,0.0256410256410256
+"GO:0035036","sperm-egg recognition",1,1,1,1,0.0238095238095238
+"GO:0009988","cell-cell recognition",1,1,1,1,0.0227272727272727
+"GO:0000022","mitotic spindle elongation",1,1,1,1,0.0175438596491228
+"GO:0051255","spindle midzone assembly",1,1,1,1,0.0175438596491228
+"GO:0051256","mitotic spindle midzone assembly",1,1,1,1,0.0175438596491228
+"GO:0051383","kinetochore organization",1,1,1,1,0.0175438596491228
+"GO:0051231","spindle elongation",1,1,1,1,0.0172413793103448
+"GO:0048705","skeletal system morphogenesis",1,1,1,1,0.0111111111111111
+"GO:0030574","collagen catabolic process",1,1,1,1,0.00980392156862745
+"GO:0016064","immunoglobulin mediated immune response",1,1,1,1,0.00869565217391304
+"GO:0019724","B cell mediated immunity",1,1,1,1,0.00869565217391304
+"GO:0042471","ear morphogenesis",1,1,1,1,0.00847457627118644
+"GO:0048562","embryonic organ morphogenesis",1,1,1,1,0.00671140939597315

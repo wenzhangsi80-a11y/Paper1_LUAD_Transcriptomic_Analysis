@@ -1,0 +1,42 @@
+STEP10G — Single-cell Evidence Synthesis
+FINAL LOCK
+============================================================
+
+STATUS: PASS
+
+Core genes: AOC3 / MS4A7 / IL7R
+
+Primary T-cell patients: 9
+Primary Myeloid/macrophage patients: 9
+Primary Endothelial patients: 4
+Sensitivity Endothelial patients: 2
+Complete three-compartment patients: 4
+
+Expression source: STEP10F-1 locked patient-level expression
+Pattern source: STEP10F-2 locked outputs
+Expression-context source: STEP10F-3 locked outputs
+
+Detection definition: Raw_UMI > 0
+CPM: descriptive only
+Log2(CPM+1): descriptive only
+
+Statistical testing: NO
+P/FDR: NO
+Differential expression: NO
+Correlation: NO
+CellChat/LR: NO
+Pseudobulk recalculation: NO
+GEO raw matrix rereading: NO
+H5 rereading: NO
+Patient/cell exclusion: NO
+Specificity scoring: NO
+Causal inference: NO
+
+Cell-type specificity: NOT ESTABLISHED
+Intercellular communication: NOT ESTABLISHED
+Ligand-receptor interaction: NOT ESTABLISHED
+
+Sensitivity Endothelial kept separate.
+
+STEP10G FINAL LOCK: PASS
+============================================================

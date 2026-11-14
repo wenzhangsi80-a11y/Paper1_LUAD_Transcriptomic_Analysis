@@ -1,0 +1,4 @@
+Compartment	Patients	Zero_Cell_Patients	Minimum	Q1	Median	Mean	Q3	Maximum	IQR
+T_cell	9	0	1995	2752	3480	3457.11111111111	4009	4808	1257
+Myeloid_macrophage	9	0	283	639	1266	1267.77777777778	1576	3384	937
+Endothelial	9	0	2	6	41	105.666666666667	113	345	107

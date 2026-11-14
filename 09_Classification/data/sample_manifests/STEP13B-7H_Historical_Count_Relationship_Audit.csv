@@ -1,0 +1,11 @@
+"metric","value"
+"sample_group_n",517
+"patient_summary_n",515
+"patient_expr_summary_n",515
+"clinical_with_primary_n",513
+"clinical_without_primary_n",4
+"no_primary_n",4
+"clinical_with_primary_plus_without_primary_n",517
+"current_primary_expression_patient_n",513
+"current_normal_expression_patient_n",59
+"current_metastatic_expression_patient_n",2

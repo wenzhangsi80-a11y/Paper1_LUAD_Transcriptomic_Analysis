@@ -1,0 +1,4 @@
+"Core_Gene","Total_Pairs","Unadjusted_Significant","ImmuneScore_Significant","TumorPurity_Significant","Significant_All_Three","P_to_N_to_N","P_to_P_to_P","P_to_P_to_N","P_to_N_to_P","N_to_N_to_N"
+"AOC3",18,14,13,17,8,13,3,1,0,1
+"MS4A7",18,17,12,11,10,11,5,1,1,0
+"IL7R",18,17,13,11,9,6,9,2,1,0

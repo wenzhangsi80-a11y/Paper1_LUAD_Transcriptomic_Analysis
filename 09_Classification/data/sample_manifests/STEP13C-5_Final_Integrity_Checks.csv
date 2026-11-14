@@ -1,0 +1,15 @@
+"Check","PASS"
+"Samples_116",TRUE
+"Unique_GSM_116",TRUE
+"Normal_58",TRUE
+"Tumor_58",TRUE
+"Subjects_59",TRUE
+"Complete_pairs_57",TRUE
+"Tumor_only_1",TRUE
+"Normal_only_1",TRUE
+"Other_structure_0",TRUE
+"Subject_code_match_116",TRUE
+"Subject_code_mismatch_0",TRUE
+"Previous_STEP13C4F_PASS",TRUE
+"Tumor_only_subject_3023",TRUE
+"Normal_only_subject_3035",TRUE

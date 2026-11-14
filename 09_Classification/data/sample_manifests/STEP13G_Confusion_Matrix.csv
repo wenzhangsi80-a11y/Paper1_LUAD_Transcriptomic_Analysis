@@ -1,0 +1,5 @@
+"Observed","Predicted","Freq"
+"Normal","Normal",53
+"Tumor","Normal",6
+"Normal","Tumor",6
+"Tumor","Tumor",510

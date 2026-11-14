@@ -1,0 +1,7 @@
+"ENTREZID","n_ensembl","ranking_unique_n","abs_ranking_unique_n","ranking_min","ranking_max","abs_ranking_min","abs_ranking_max","direction_class","contains_positive","contains_negative","contains_zero","contains_core_gene","core_genes","ranking_agreement_class"
+"100652739",2,2,2,-0.258710100935485,0.0329697452318314,0.0329697452318314,0.258710100935485,"positive_negative_zero",TRUE,TRUE,FALSE,FALSE,"","opposite_direction"
+"102060414",2,2,2,-4.28868998604311,0.474288171915886,0.474288171915886,4.28868998604311,"positive_negative_zero",TRUE,TRUE,FALSE,FALSE,"","opposite_direction"
+"339822",2,2,2,-1.60119188428381,0.520221845803065,0.520221845803065,1.60119188428381,"positive_negative_zero",TRUE,TRUE,FALSE,FALSE,"","opposite_direction"
+"54984",2,2,2,-0.470471022921684,0.0224626142812322,0.0224626142812322,0.470471022921684,"positive_negative_zero",TRUE,TRUE,FALSE,FALSE,"","opposite_direction"
+"55831",2,2,2,-1.93716895742463,12.7446437125059,1.93716895742463,12.7446437125059,"positive_negative_zero",TRUE,TRUE,FALSE,FALSE,"","opposite_direction"
+"64881",2,2,2,-8.61773938397335,0.67272028418144,0.67272028418144,8.61773938397335,"positive_negative_zero",TRUE,TRUE,FALSE,FALSE,"","opposite_direction"

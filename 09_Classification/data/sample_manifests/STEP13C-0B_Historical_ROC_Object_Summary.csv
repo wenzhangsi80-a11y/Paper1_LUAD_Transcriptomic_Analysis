@@ -1,0 +1,8 @@
+"object","class","n_cases","n_controls","direction","levels","stored_auc","response_class","predictor_class"
+"roc_AOC3","roc",516,59,">","0 | 1","0.986828274865327","numeric","numeric"
+"roc_MS4A7","roc",516,59,">","0 | 1","0.980390224674813","numeric","numeric"
+"roc_IL7R","roc",516,59,">","0 | 1","0.927046380239128","numeric","numeric"
+"roc_combined","roc",516,59,"<","0 | 1","0.993561949809486","numeric","numeric"
+"roc_cv","roc",516,59,"<","Normal | Tumor","0.990408619103929","factor","numeric"
+"roc.ext","roc",58,58,"<","Normal | Tumor","0.997621878715815","factor","numeric"
+"Figure12A_CombinedROC","roc",516,59,"<","0 | 1","0.993561949809486","numeric","numeric"

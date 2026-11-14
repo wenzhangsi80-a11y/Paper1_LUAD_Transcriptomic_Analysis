@@ -1,0 +1,7 @@
+diagnostic biomarker
+clinical diagnostic biomarker
+clinical diagnostic value
+clinical diagnostic utility
+clinical applicability
+clinical implementation
+patient stratification based on the diagnostic model

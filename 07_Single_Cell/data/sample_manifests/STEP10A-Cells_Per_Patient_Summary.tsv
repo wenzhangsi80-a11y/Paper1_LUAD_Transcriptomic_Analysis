@@ -1,0 +1,9 @@
+Metric	Value
+Patients	44
+Minimum cells per patient	1013
+Q1 cells per patient	2930
+Median cells per patient	3937
+Mean cells per patient	4620.40909090909
+Q3 cells per patient	6464
+Maximum cells per patient	9726
+IQR cells per patient	3534

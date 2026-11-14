@@ -1,0 +1,15 @@
+Workflow-04-2C-3 summary
+=========================
+
+Total genes: 39280
+MAD = 0 genes: 7671
+MAD > 0 genes: 31609
+MAD = 0 percentage: 19.53
+MAD > 0 percentage: 80.47
+
+Paper 1 candidate genes:
+AOC3, MS4A7, IL7R
+Missing from QC table: AOC3, MS4A7, IL7R
+
+All genes universe: 39280
+MAD > 0 universe: 31609

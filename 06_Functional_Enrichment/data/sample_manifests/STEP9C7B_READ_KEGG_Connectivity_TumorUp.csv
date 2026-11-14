@@ -1,0 +1,12 @@
+"KEGG_ID","KEGG_Description","N_GO_Terms","Total_Shared_Genes","Max_Shared_Genes","Mean_Shared_Genes","Max_Jaccard"
+"hsa04110","Cell cycle",123,1133,33,9.21138211382114,0.326732673267327
+"hsa05203","Viral carcinogenesis",97,368,25,3.79381443298969,0.357142857142857
+"hsa03460","Fanconi anemia pathway",37,128,10,3.45945945945946,0.151515151515152
+"hsa04081","Hormone signaling",24,45,8,1.875,0.126984126984127
+"hsa04080","Neuroactive ligand-receptor interaction",22,69,20,3.13636363636364,0.208333333333333
+"hsa05034","Alcoholism",20,259,37,12.95,0.4625
+"hsa05322","Systemic lupus erythematosus",19,258,37,13.5789473684211,0.544117647058823
+"hsa04613","Neutrophil extracellular trap formation",19,261,37,13.7368421052632,0.52112676056338
+"hsa04382","Cornified envelope formation",15,230,38,15.3333333333333,0.402777777777778
+"hsa01230","Biosynthesis of amino acids",8,8,1,1,0.0256410256410256
+"hsa04950","Maturity onset diabetes of the young",4,5,2,1.25,0.0416666666666667

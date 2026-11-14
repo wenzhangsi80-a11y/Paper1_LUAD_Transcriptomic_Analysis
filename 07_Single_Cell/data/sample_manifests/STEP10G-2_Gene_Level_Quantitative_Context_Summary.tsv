@@ -1,0 +1,4 @@
+Gene	Quantitative_Highest_Compartment	Quantitative_Highest_CPM_Median	Quantitative_Lowest_CPM_Median	Highest_to_Lowest_Median_CPM	Detection_Highest_Compartment	Detection_Highest_Percent
+AOC3	Myeloid/macrophage	1.33454842797044	0.203940643075833	6.5438080798549	Myeloid/macrophage	88.8888888888889
+MS4A7	Myeloid/macrophage	506.195517030647	8.48055546900882	59.6889577434495	Endothelial / Myeloid/macrophage / T-cell	100
+IL7R	T-cell	258.160741776727	54.2189984693051	4.76144431039019	Endothelial / Myeloid/macrophage / T-cell	100

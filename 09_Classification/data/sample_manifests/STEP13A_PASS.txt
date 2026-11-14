@@ -1,0 +1,22 @@
+============================================================
+STEP13A STATUS: PASS
+============================================================
+
+Core genes: AOC3, MS4A7, IL7R
+
+Analysis objective: Exploratory tumor-versus-normal tissue classification
+
+Clinical diagnostic claim: FALSE
+Diagnostic biomarker claim: FALSE
+
+Nested CV: TRUE
+External refitting: FALSE
+External coefficient estimation: FALSE
+External threshold optimization: FALSE
+
+Paired external analysis: TRUE
+
+No statistical calculation was performed.
+
+STEP13A is an interpretation and analysis-policy lock.
+============================================================

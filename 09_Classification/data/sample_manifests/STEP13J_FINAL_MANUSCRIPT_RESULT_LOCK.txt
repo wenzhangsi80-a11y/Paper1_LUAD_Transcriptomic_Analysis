@@ -1,0 +1,91 @@
+STEP13J — FINAL MANUSCRIPT RESULT LOCK
+=======================================
+
+STATUS: FINAL — J1-J6 VERIFIED
+
+This file is a static documentation lock.
+No statistical recalculation was performed.
+No model fitting was performed.
+No AUC, CI, P value, FDR, or threshold was recalculated.
+
+ANALYSIS OBJECTIVE
+Exploratory tumor-versus-normal tissue classification
+
+CLINICAL CLAIM LOCK
+Clinical diagnostic claim: FALSE
+Diagnostic biomarker claim: FALSE
+
+CORE GENES
+AOC3, MS4A7, IL7R
+
+MODEL
+Multivariable logistic regression
+Formula: TumorStatus ~ AOC3 + MS4A7 + IL7R
+
+TCGA DATASET
+Total: 575
+Tumor: 516
+Normal: 59
+Nested CV: 10 outer folds × 10 inner folds
+
+TCGA NESTED-CV RESULT
+OOF AUC: 0.98794508
+95% CI: 0.97714550–0.99874466
+Fixed threshold: 0.50
+Sensitivity: 0.98837209
+Specificity: 0.89830508
+Accuracy: 0.97913043
+Balanced accuracy: 0.94333859
+Brier score: 0.01820027
+
+FINAL TCGA MODEL COEFFICIENTS
+AOC3: -2.4323976
+MS4A7: -2.0847930
+IL7R: -0.2147045
+
+GSE32863 EXTERNAL ASSESSMENT
+Total samples: 116
+Tumor: 58
+Normal: 58
+Unique subjects: 59
+Complete tumor-normal pairs: 57
+Tumor-only subject: 3023
+Normal-only subject: 3035
+
+External refit: FALSE
+External coefficient estimation: FALSE
+External feature selection: FALSE
+External threshold optimization: FALSE
+External cutpoint search: FALSE
+External model tuning: FALSE
+
+External AUC: 0.9973246
+95% CI: 0.9929578–1.0000000
+
+PAIRED EXPRESSION ANALYSIS
+Test: Paired Wilcoxon signed-rank test
+Complete pairs: 57
+
+AOC3 tumor-minus-normal median difference: -1.051579
+MS4A7 tumor-minus-normal median difference: -2.065199
+IL7R tumor-minus-normal median difference: -1.395997
+
+FINAL VERIFICATION STATUS
+J1 STEP13A: PASS
+J2 STEP13C: PASS
+J3 STEP13F: PASS
+J4 STEP13G: PASS
+J5 STEP13H: PASS
+J6 STEP13I: PASS
+
+INTERPRETATION LOCK
+The analysis is interpreted as exploratory tumor-versus-normal
+tissue classification only and is not presented as evidence
+for a clinical diagnostic biomarker.
+
+HISTORICAL ROC DISTINCTION
+Historical Xiangtao combined ROC AUC: 0.9935619498
+This historical AUC is distinct from the revised nested-CV
+OOF AUC of 0.98794508 and must not be conflated with it.
+
+END OF STEP13J FINAL MANUSCRIPT RESULT LOCK

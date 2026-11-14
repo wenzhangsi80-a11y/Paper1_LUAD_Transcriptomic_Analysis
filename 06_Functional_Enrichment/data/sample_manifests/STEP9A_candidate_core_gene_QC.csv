@@ -1,0 +1,8 @@
+"item","value","status"
+"candidate_file","O:/Rproject/Paper1_tumor-only WGCNA/STEP18A_30_candidate_gene_TME_audit.csv","PASS"
+"candidate_rows","30","PASS"
+"candidate_gene_column","Symbol","PASS"
+"unique_candidate_genes","30","PASS"
+"core_gene_file","O:/Rproject/Paper1_tumor-only WGCNA/STEP18A_core_gene_TME_audit.csv","PASS"
+"core_gene_column","Symbol","PASS"
+"core_gene_set","AOC3;MS4A7;IL7R","PASS"

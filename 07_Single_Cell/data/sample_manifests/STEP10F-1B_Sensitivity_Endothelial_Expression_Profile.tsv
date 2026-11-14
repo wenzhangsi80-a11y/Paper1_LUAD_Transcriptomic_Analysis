@@ -1,0 +1,7 @@
+Dataset	Patient	Compartment	Eligibility	Group_ID	Cell_Count	Gene	Raw_UMI	Library_Total_UMI	CPM	Log2_CPM_Plus1	Detected	Analysis_Set
+Sensitivity_Endothelial	P0025	Endothelial	Sensitivity	P0025__Endothelial	31	AOC3	2	224580	8.90551251224508	3.308231622237	TRUE	Sensitivity
+Sensitivity_Endothelial	P0028	Endothelial	Sensitivity	P0028__Endothelial	41	AOC3	1	234436	4.26555648449897	2.39658600893418	TRUE	Sensitivity
+Sensitivity_Endothelial	P0025	Endothelial	Sensitivity	P0025__Endothelial	31	MS4A7	0	224580	0	0	FALSE	Sensitivity
+Sensitivity_Endothelial	P0028	Endothelial	Sensitivity	P0028__Endothelial	41	MS4A7	1	234436	4.26555648449897	2.39658600893418	TRUE	Sensitivity
+Sensitivity_Endothelial	P0025	Endothelial	Sensitivity	P0025__Endothelial	31	IL7R	9	224580	40.0748063051029	5.36018186681679	TRUE	Sensitivity
+Sensitivity_Endothelial	P0028	Endothelial	Sensitivity	P0028__Endothelial	41	IL7R	9	234436	38.3900083604907	5.29975781804996	TRUE	Sensitivity

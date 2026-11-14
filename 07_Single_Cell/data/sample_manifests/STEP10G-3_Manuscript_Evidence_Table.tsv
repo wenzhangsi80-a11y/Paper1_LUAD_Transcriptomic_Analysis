@@ -1,0 +1,10 @@
+Gene	Compartment	N_Patients	Detection_N	Detection_Percent	Median_CPM	Descriptive_Context
+AOC3	Myeloid/macrophage	9	8	88.8888888888889	1.33454842797044	Detected but not quantitatively highest
+AOC3	Endothelial	4	2	50	0.86622910547119	Detected but not quantitatively highest
+AOC3	T-cell	9	6	66.6666666666667	0.203940643075833	Detected but not quantitatively highest
+IL7R	T-cell	9	9	100	258.160741776727	Detected but not quantitatively highest
+IL7R	Endothelial	4	4	100	124.837594289509	Detected but not quantitatively highest
+IL7R	Myeloid/macrophage	9	9	100	54.2189984693051	Detected but not quantitatively highest
+MS4A7	Myeloid/macrophage	9	9	100	506.195517030647	Detected but not quantitatively highest
+MS4A7	Endothelial	4	4	100	24.1899641413117	Detected but not quantitatively highest
+MS4A7	T-cell	9	9	100	8.48055546900882	Detected but not quantitatively highest

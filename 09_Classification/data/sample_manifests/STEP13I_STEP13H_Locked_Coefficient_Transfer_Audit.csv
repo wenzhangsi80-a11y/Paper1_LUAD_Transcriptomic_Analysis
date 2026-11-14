@@ -1,0 +1,5 @@
+"term","STEP13H_coefficient","source","external_re_estimation"
+"(Intercept)",31.7151446057836,"STEP13H_TCGA_Final_Model_FINAL.rds",FALSE
+"AOC3",-2.43239764151172,"STEP13H_TCGA_Final_Model_FINAL.rds",FALSE
+"MS4A7",-2.08479298832101,"STEP13H_TCGA_Final_Model_FINAL.rds",FALSE
+"IL7R",-0.214704537717926,"STEP13H_TCGA_Final_Model_FINAL.rds",FALSE

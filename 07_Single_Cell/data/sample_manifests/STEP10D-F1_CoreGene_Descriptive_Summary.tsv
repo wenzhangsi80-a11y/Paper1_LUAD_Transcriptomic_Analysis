@@ -1,0 +1,13 @@
+Gene	Compartment	Cohort	N	Detected_N	Detection_Frequency	Min	Q1	Median	Mean	Q3	Max	IQR
+AOC3	Endothelial	Primary	4	2	0.5	0	0	1	3.5	4.5	12	4.5
+AOC3	Myeloid_macrophage	Primary	9	8	0.888888888888889	0	1	38	64	138	178	137
+AOC3	T_cell	Primary	9	6	0.666666666666667	0	0	2	1.66666666666667	2	5	2
+AOC3	Endothelial	Sensitivity	2	2	1	1	1.25	1.5	1.5	1.75	2	0.5
+MS4A7	Endothelial	Primary	4	4	1	9	10.5	21	27.25	37.75	58	27.25
+MS4A7	Myeloid_macrophage	Primary	9	9	1	317	1055	5765	5918.33333333333	8729	18171	7674
+MS4A7	T_cell	Primary	9	9	1	30	46	69	76.3333333333333	87	155	41
+MS4A7	Endothelial	Sensitivity	2	1	0.5	0	0.25	0.5	0.5	0.75	1	0.5
+IL7R	Endothelial	Primary	4	4	1	40	45.25	90	133.25	178	313	132.75
+IL7R	Myeloid_macrophage	Primary	9	9	1	39	95	539	734.888888888889	1045	2837	950
+IL7R	T_cell	Primary	9	9	1	500	1760	2345	2542.11111111111	2881	6483	1121
+IL7R	Endothelial	Sensitivity	2	2	1	9	9	9	9	9	9	0

@@ -1,0 +1,27 @@
+Check	Value
+TISCH2_row_n	203298
+TISCH2_unique_Cell_n	203298
+TISCH2_missing_Cell_n	0
+TISCH2_duplicate_Cell_n	0
+H5_barcode_n	203298
+H5_unique_barcode_n	203298
+H5_missing_barcode_n	0
+H5_duplicate_barcode_n	0
+H5_feature_n	25242
+H5_matrix_feature_n	25242
+H5_matrix_cell_n	203298
+Global_exact_intersection_n	203298
+Global_TISCH2_to_H5_exact_pct	100
+Global_H5_to_TISCH2_exact_pct	100
+Primary_Tumor_cell_n	65702
+Primary_Tumor_unique_cell_n	65702
+Primary_Tumor_H5_match_n	65702
+Primary_Tumor_H5_match_pct	100
+Primary_Tumor_patient_n	9
+Locked_patient_set_match	TRUE
+Patient_level_exact_match	TRUE
+Required_compartment_set_match	TRUE
+Compartment_level_exact_match	TRUE
+Core_gene_feature_presence	TRUE
+H5_dimension_consistency	TRUE
+Final_Status	PASS — EXACT CELL-ID RECONCILIATION

@@ -1,0 +1,6 @@
+"Item","Expected_N","Source","Observed_or_Dataset_N","Check"
+"Primary tumor input cohort",513,"Tumor-only WGCNA primary tumor cohort",,"Previously locked cohort count"
+"Exact ABSOLUTE sample-ID matches",502,"STEP7B5 matching audit summary",,"Must be confirmed from STEP7B5 audit"
+"Matched samples without purity",2,"STEP7B5 matching audit summary",,"Must be confirmed from STEP7B5 audit"
+"Samples without ABSOLUTE records",11,"STEP7B5 matching audit summary",,"Must be confirmed from STEP7B5 audit"
+"Final purity-adjusted dataset",500,"STEP7B5 locked dataset",500,"PASS"

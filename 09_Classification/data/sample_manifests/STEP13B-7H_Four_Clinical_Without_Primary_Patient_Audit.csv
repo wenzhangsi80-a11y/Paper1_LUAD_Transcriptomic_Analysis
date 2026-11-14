@@ -1,0 +1,5 @@
+"Patient_ID","In_current_primary_patient_set","In_current_normal_patient_set","In_current_metastatic_patient_set","In_sample_group","In_patient_summary","In_patient_expr_summary","In_clinical_with_primary"
+"TCGA-55-6969",FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+"TCGA-55-1595",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+"TCGA-44-6144",FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+"TCGA-62-A46U",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE

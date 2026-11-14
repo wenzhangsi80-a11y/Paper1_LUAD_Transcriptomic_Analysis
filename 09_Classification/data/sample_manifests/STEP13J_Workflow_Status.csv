@@ -1,0 +1,10 @@
+"workflow","marker_count","marker_path","marker_contains_PASS"
+"STEP13A",1,"O:/Rproject/Paper 1_Step 13-Diagnostic Classification/STEP13A_Clinical_Claim_Deescalation/STEP13A_PASS.txt",TRUE
+"STEP13B",2,"",FALSE
+"STEP13C",5,"",FALSE
+"STEP13D",0,"",FALSE
+"STEP13E",3,"",FALSE
+"STEP13F",1,"O:/Rproject/Paper 1_Step 13-Diagnostic Classification/STEP13F_Model_Definition_Lock/STEP13F_PASS.txt",TRUE
+"STEP13G",1,"O:/Rproject/Paper 1_Step 13-Diagnostic Classification/STEP13G_Nested_CV/STEP13G_PASS.txt",TRUE
+"STEP13H",1,"O:/Rproject/Paper 1_Step 13-Diagnostic Classification/STEP13H_TCGA_Final_Model/STEP13H_PASS.txt",TRUE
+"STEP13I",1,"O:/Rproject/Paper 1_Step 13-Diagnostic Classification/STEP13I_GSE32863_External_Assessment/STEP13I_PASS.txt",TRUE

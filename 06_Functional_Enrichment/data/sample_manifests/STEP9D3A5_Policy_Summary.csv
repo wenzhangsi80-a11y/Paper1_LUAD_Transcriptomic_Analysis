@@ -1,0 +1,4 @@
+"policy","retained_ensembl_n","retained_entrez_n","positive_n","negative_n","zero_n","core_gene_n","duplicate_entrez_n"
+"Policy_A_Strict_Bijection",34102,34102,21184,12911,7,3,0
+"Policy_B_Max_Absolute_Ranking",34120,34120,21189,12924,7,3,0
+"Policy_C_Deterministic_Ranking_Order",34120,34120,21189,12924,7,3,0

@@ -1,0 +1,5 @@
+Dataset	Expected_Compartment	Observed_Compartment	PASS
+Primary_T-cell	T-cell	T-cell	TRUE
+Primary_Myeloid_macrophage	Myeloid/macrophage	Myeloid/macrophage	TRUE
+Primary_Endothelial	Endothelial	Endothelial	TRUE
+Sensitivity_Endothelial	Endothelial	Endothelial	TRUE

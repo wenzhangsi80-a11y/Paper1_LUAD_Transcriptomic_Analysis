@@ -1,0 +1,30 @@
+STEP9D-3A-2 Annotation Coverage / Core-Gene Mapping Diagnostic
+============================================================
+
+Ranking genes: 57828 
+Mapped unique Ensembl: 34631 
+Unmapped Ensembl: 23197 
+Mapping rate: 0.5988621 
+One-to-many Ensembl: 493 
+Many-to-one Entrez: 409 
+
+clusterProfiler: 4.16.0 
+org.Hs.eg.db: 3.21.0 
+AnnotationDbi: 1.70.0 
+
+Core-gene uniqueness:
+   gene ensembl_n entrez_n ensembl_unique entrez_unique in_locked_universe
+1  AOC3         1        1           TRUE          TRUE               TRUE
+2 MS4A7         1        1           TRUE          TRUE               TRUE
+3  IL7R         1        1           TRUE          TRUE               TRUE
+
+GO direct ENSEMBL supported: TRUE 
+GO annotation coverage: 0.3431037 
+KEGG Entrez required: TRUE 
+biomaRt available: TRUE 
+Biotype diagnostic performed: FALSE 
+
+FORMAL GSEA PERFORMED: FALSE
+RANKING RECALCULATED: FALSE
+DEG RECALCULATED: FALSE
+FINAL MAPPING OBJECT CREATED: FALSE

@@ -1,0 +1,11 @@
+STEP 6E Phase 1 — input provenance
+Source checkpoint: O:/Rproject/Paper 1_Step 6-survival analysis/Paper1_Step6B5_continuous_Cox_PH_checkpoint.RData
+Source object: survival_gene_primary_z
+Rows: 485
+Events: 178
+Censored: 307
+Zero-time observations: 4
+OS.time was not modified.
+No observations were removed.
+Gene expression was not re-standardized.
+KM curves have not yet been calculated.

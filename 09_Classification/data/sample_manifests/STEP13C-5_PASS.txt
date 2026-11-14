@@ -1,0 +1,26 @@
+STEP13C-5 — FINAL GSE32863 INPUT LOCK
+======================================
+
+PASS — STEP13C-5 GSE32863 Final Input Lock established.
+
+LOCKED STRUCTURE:
+116 total samples
+58 Normal + 58 Tumor
+59 unique subjects
+57 complete N+T subject pairs
+1 tumor-only subject: 3023
+1 normal-only subject: 3035
+0 other subject structures
+116/116 exact subject/title-code matches
+
+No artificial pairing was performed.
+Subject 3023 and subject 3035 were not paired.
+
+No expression reconstruction.
+No probe selection.
+No normalization.
+No ROC/AUC recalculation.
+No model fitting.
+No threshold optimization.
+
+Timestamp: 2026-09-26 21:54:59.626642

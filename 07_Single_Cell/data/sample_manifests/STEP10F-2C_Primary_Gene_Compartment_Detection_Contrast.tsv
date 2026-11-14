@@ -1,0 +1,4 @@
+Gene	Highest_Detection_Compartment	Highest_Detection_Percent	Lowest_Detection_Compartment	Lowest_Detection_Percent	Detection_Percentage_Range
+AOC3	Myeloid/macrophage	88.8888888888889	Endothelial	50	38.8888888888889
+MS4A7	T-cell	100	T-cell	100	0
+IL7R	T-cell	100	T-cell	100	0

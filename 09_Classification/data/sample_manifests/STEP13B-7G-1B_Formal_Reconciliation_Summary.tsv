@@ -1,0 +1,23 @@
+item	value
+Original matrix total columns	575
+Original matrix expression samples	574
+Annotation records	574
+Primary Tumor	513
+Solid Tissue Normal	59
+Metastatic	2
+Tumor-versus-Normal eligible	572
+Matrix IDs absent from annotation	0
+Annotation IDs absent from matrix	0
+WGCNA sample IDs	513
+WGCNA IDs absent from Primary Tumor	0
+Primary Tumor IDs absent from WGCNA	0
+Matrix duplicate IDs	0
+Annotation duplicate IDs	0
+WGCNA duplicate IDs	0
+Exact matrix-annotation match	1
+Classification count consistent	1
+Tumor field = code 1	1
+Normal field = code 11	1
+Other field = code 2	1
+Metastatic exclusion clean	1
+Exact WGCNA-primary match	1

@@ -1,0 +1,4 @@
+Gene	Highest_CPM_Compartment	Highest_CPM_Median	Highest_CPM_Detection_Percent	Lowest_CPM_Compartment	Lowest_CPM_Median	Lowest_CPM_Detection_Percent	Highest_to_Lowest_Median_CPM
+AOC3	Myeloid/macrophage	1.33454842797044	88.8888888888889	T-cell	0.203940643075833	66.6666666666667	6.5438080798549
+MS4A7	Myeloid/macrophage	506.195517030647	100	T-cell	8.48055546900882	100	59.6889577434495
+IL7R	T-cell	258.160741776727	100	Myeloid/macrophage	54.2189984693051	100	4.76144431039019

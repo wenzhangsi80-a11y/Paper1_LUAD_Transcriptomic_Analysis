@@ -1,0 +1,49 @@
+============================================================
+STEP9D-3B FINAL KEGG GSEA EXECUTION AUDIT
+============================================================
+
+Execution date: 2026-09-22 15:41:14.135037
+
+INPUT INTEGRITY
+Genome-wide ranking genes: 57828
+KEGG candidate Ensembl genes: 34138
+Final unique Entrez IDs: 34120
+Positive ranking: 21189
+Negative ranking: 12924
+Zero ranking: 7
+
+COLLISION POLICY
+Policy: Policy_B_Max_Absolute_Ranking
+Collision groups: 18
+Maximum-absolute ties: 0
+
+CORE GENES
+AOC3 retained: TRUE
+MS4A7 retained: TRUE
+IL7R retained: TRUE
+
+GSEA PARAMETERS
+organism: hsa
+keyType: ncbi-geneid
+minGSSize: 10
+maxGSSize: 500
+exponent: 1
+eps: 1e-10
+pvalueCutoff: 1
+pAdjustMethod: BH
+
+RESULTS
+KEGG pathways returned: 353
+FDR < 0.05 pathways: 178
+
+METHOD INTEGRITY
+Ranking recalculated: FALSE
+DEG recalculated: FALSE
+Arbitrary first-match: FALSE
+Jitter used: FALSE
+Artificial tie-breaking: FALSE
+Maximum-absolute ties unresolved: FALSE
+
+FINAL STATUS
+STEP9D-3B FORMAL KEGG GSEA EXECUTION: COMPLETE
+============================================================

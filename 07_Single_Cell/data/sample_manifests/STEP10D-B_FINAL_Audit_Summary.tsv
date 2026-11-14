@@ -1,0 +1,16 @@
+Item	Result
+Locked core genes	AOC3 / MS4A7 / IL7R
+Primary T-cell groups	9
+Primary Myeloid/macrophage groups	9
+Primary Endothelial groups	4
+Sensitivity Endothelial groups	2
+Raw UMI counts used	YES
+Normalized expression used	NO
+Core-gene count extraction	YES
+Detection definition	raw count > 0
+Zero counts retained	YES
+Patient exclusion	NO
+Statistical testing	NO
+Correlation analysis	NO
+Differential expression	NO
+CellChat/LR analysis	NO

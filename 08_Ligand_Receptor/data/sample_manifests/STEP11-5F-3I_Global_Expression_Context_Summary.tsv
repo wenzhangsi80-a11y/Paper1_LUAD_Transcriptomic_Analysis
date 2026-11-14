@@ -1,0 +1,14 @@
+Metric	Value
+Canonical patient-level records	9620
+Exact LR pairs	585
+Patients	4
+Directions	6
+4/4 exact LR pairs	492
+3/4-only exact LR pairs	93
+Compatible patient-level records	8929
+Incompatible patient-level records	691
+Overall compatibility fraction	0.928170478170478
+Unique pathways	138
+Unique annotations	3
+Core-gene LR records	0
+Core-gene separation	PASS

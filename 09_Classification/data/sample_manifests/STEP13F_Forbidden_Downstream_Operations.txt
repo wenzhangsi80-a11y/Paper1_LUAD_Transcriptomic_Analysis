@@ -1,0 +1,12 @@
+Do not perform data-driven feature selection.
+Do not add or remove predictors based on the current data.
+Do not refit the model on GSE32863.
+Do not estimate new external coefficients.
+Do not tune the model on GSE32863.
+Do not optimize an external threshold or cutpoint.
+Do not search for an external classification threshold.
+Do not make a clinical diagnostic biomarker claim.
+Do not describe the analysis as clinical implementation.
+Do not use external data to redefine the model.
+Do not merge the historical Xiangtao ROC branch with the revised Sangerbox WGCNA branch.
+Do not reinterpret the GSE32863 57 complete pairs as 58 complete pairs.

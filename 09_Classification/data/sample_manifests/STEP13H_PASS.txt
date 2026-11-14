@@ -1,0 +1,25 @@
+STEP13H FINAL STATUS: PASS
+
+Final TCGA logistic regression model established.
+
+Training branch: Historical Xiangtao TCGA ROC branch
+Samples: 575
+Tumor: 516
+Normal: 59
+Predictors: AOC3 + MS4A7 + IL7R
+Outcome: TumorStatus
+Reference: Normal
+Positive class: Tumor
+Model: multivariable logistic regression
+Feature selection: FALSE
+External refit: FALSE
+External coefficient estimation: FALSE
+External threshold optimization: FALSE
+External cutpoint search: FALSE
+External model tuning: FALSE
+
+Final coefficients, OR, 95% CI and P values saved.
+
+STEP13H final model is locked for STEP13I GSE32863 external assessment.
+No external refitting or coefficient estimation is permitted.
+No external threshold/cutpoint optimization is permitted.

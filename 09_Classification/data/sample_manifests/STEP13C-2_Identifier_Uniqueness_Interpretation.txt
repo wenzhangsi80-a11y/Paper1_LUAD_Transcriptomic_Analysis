@@ -1,0 +1,9 @@
+Probe-level identifier uniqueness: TRUE
+expr.mat gene-symbol duplicates present: TRUE
+expr2 gene-symbol duplicates present: TRUE
+expr.final gene-level identifiers unique: TRUE
+Gene-symbol duplication in expr.mat and expr2 is treated as
+an identifier mapping characteristic rather than as a data
+integrity failure.
+The specific historical probe-to-gene reduction rule is NOT
+inferred in STEP13C-2.

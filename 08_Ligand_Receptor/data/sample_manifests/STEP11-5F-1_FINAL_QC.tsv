@@ -1,0 +1,33 @@
+QC_Item	PASS
+Input file exists	TRUE
+Canonical row count = 9,620	TRUE
+Required schema complete	TRUE
+Unique Exact_LR_Pair count = 585	TRUE
+Unique Direction_ID count = 6	TRUE
+Unique Patient_Index count = 4	TRUE
+Candidate class structure = 3_of_4_only + 4_of_4	TRUE
+4_of_4 exact LR pairs = 492	TRUE
+3_of_4-only exact LR pairs = 93	TRUE
+Candidate LR total = 585	TRUE
+Candidate_Set provenance non-empty	TRUE
+interaction_name provenance non-empty	TRUE
+Exact LR identity matches ligand + receptor	TRUE
+Canonical key unique	TRUE
+No duplicate canonical keys	TRUE
+Patient identifiers complete	TRUE
+Direction structure = six locked sender→receiver directions	TRUE
+Candidate class invariant per Exact_LR_Pair	TRUE
+Core_Gene field all NA	TRUE
+Core_Gene_Involved all FALSE	TRUE
+Ligand_log2CPM numeric	TRUE
+Receptor_log2CPM numeric	TRUE
+Ligand_log2CPM finite	TRUE
+Receptor_log2CPM finite	TRUE
+Ligand_log2CPM non-negative	TRUE
+Receptor_log2CPM non-negative	TRUE
+Compatible values valid	TRUE
+Compatible values non-missing	TRUE
+LR identity fields complete	TRUE
+Direction fields complete	TRUE
+Candidate class complete	TRUE
+Direction-level record arithmetic is internally consistent	TRUE

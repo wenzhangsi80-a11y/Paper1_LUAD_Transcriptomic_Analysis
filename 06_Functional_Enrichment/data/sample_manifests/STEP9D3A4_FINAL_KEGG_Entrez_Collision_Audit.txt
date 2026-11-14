@@ -1,0 +1,88 @@
+============================================================
+Paper 1
+STEP9D-3A-4
+KEGG Entrez Collision Audit
+and Deterministic Resolution Policy Lock
+============================================================
+
+STATUS: FINAL READ-ONLY AUDIT
+
+Genome-wide ranking genes:  57828 
+Raw many-to-one Entrez IDs:  409 
+Raw affected Ensembl genes:  267 
+
+KEGG candidate Ensembl genes:  34138 
+KEGG candidate unique Entrez IDs:  34120 
+Duplicate Entrez IDs in KEGG candidate:  18 
+Collision Entrez groups:  18 
+Collision-affected Ensembl genes:  36 
+
+Positive collision ranking genes:  14 
+Negative collision ranking genes:  22 
+Zero collision ranking genes:  0 
+
+Identical-ranking collision groups:  0 
+Non-identical collision groups:  18 
+Opposite-direction collision groups:  6 
+Same-magnitude / zero-status groups:  0 
+
+Core-gene collision present:  FALSE 
+Resolution required:  TRUE 
+Opposite-direction collision present:  TRUE 
+
+------------------------------------------------------------
+Hard QC
+------------------------------------------------------------
+$ranking_length_locked
+[1] TRUE
+
+$ranking_ids_unique
+[1] TRUE
+
+$ranking_ids_standard_ensembl
+[1] TRUE
+
+$ranking_values_finite
+[1] TRUE
+
+$no_ranking_recalculation
+[1] TRUE
+
+$no_deg_recalculation
+[1] TRUE
+
+$no_gsea_performed
+[1] TRUE
+
+$no_duplicate_entrez_removed
+[1] TRUE
+
+$no_arbitrary_first_match
+[1] TRUE
+
+$raw_many_to_one_documented
+[1] TRUE
+
+$kegg_candidate_defined_by_single_entrez_per_ensembl
+[1] TRUE
+
+$collision_audit_completed
+[1] TRUE
+
+$collision_resolution_not_yet_applied
+[1] TRUE
+
+
+STEP9D-3A-4 FINAL HARD PASS:  TRUE 
+
+------------------------------------------------------------
+No recalculation / no modification flags
+------------------------------------------------------------
+Ranking recalculated: FALSE
+DEG recalculated: FALSE
+GSEA performed: FALSE
+Duplicate Entrez removed: FALSE
+Arbitrary first-match used: FALSE
+Jitter used: FALSE
+Artificial tie-breaking used: FALSE
+Collision resolution applied: FALSE

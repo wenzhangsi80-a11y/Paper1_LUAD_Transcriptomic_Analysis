@@ -1,0 +1,55 @@
+============================================================
+Paper 1 — WORKFLOW-09 Functional Enrichment
+STEP9A — Input Inventory + Definition Lock
+============================================================
+
+Date: 2026-09-21 11:16:34
+
+WORKING DIRECTORY:
+O:/Rproject/Paper 1_Step 9-Functional Enrichment
+
+UPSTREAM DIRECTORY:
+O:/Rproject/Paper1_tumor-only WGCNA
+
+------------------------------------------------------------
+LOCKED / EXPECTED INPUTS
+------------------------------------------------------------
+
+Tumor-only expression:
+513 primary LUAD tumor samples × 31,609 genes
+
+WGCNA:
+Tumor-only WGCNA
+50 module labels expected
+
+STEP14:
+150 module × TME association tests
+Existing locked result; no recalculation in STEP9A
+
+STEP18A:
+30 candidate genes
+
+Core genes:
+AOC3 / MS4A7 / IL7R
+
+Functional enrichment methods planned for later steps:
+GO
+KEGG
+preranked GSEA
+Reactome
+Hallmark
+
+------------------------------------------------------------
+CRITICAL UNRESOLVED ITEM
+------------------------------------------------------------
+
+The final DEG file, DEG threshold, and DEG testing universe
+must be traced to the locked STEP2 result.
+
+STEP9A intentionally does NOT assume:
+|log2FC| > 0.58
+|log2FC| > 1.5
+or any other historical DEG threshold.
+
+No enrichment analysis is performed in STEP9A.
+

@@ -1,0 +1,17 @@
+Patient	Sample	Cell_Count	Stage	Source	TNMstage
+P0020	LUNG_N20	5755	Primary	Tumor	 I
+P0020	LUNG_T20	3971	Primary	Tumor	 I
+P0025	LUNG_T25	4268	Primary	Tumor	 I
+P0028	LUNG_N28	3373	Primary	Tumor	 III
+P0028	LUNG_T28	4571	Primary	Tumor	 III
+P0030	LUNG_N30	3804	Primary	Tumor	 I
+P0030	LUNG_T30	4008	Primary	Tumor	 I
+P0031	LUNG_N31	4204	Primary	Tumor	 III
+P0031	LUNG_T31	5321	Primary	Tumor	 III
+P0034	LUNG_N34	5171	Primary	Tumor	 I
+P0034	LUNG_T34	3241	Primary	Tumor	 I
+P1006	EBUS_06	2251	Primary	Tumor	 IV
+P1006	EFFUSION_06	4844	Primary	Tumor	 IV
+P1010	EBUS_10	4949	Primary	Tumor	 IV
+P1011	BRONCHO_11	3083	Primary	Tumor	 IV
+P1011	EFFUSION_11	2888	Primary	Tumor	 IV

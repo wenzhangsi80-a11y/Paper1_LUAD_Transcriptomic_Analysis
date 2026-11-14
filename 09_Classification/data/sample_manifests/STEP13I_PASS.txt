@@ -1,0 +1,31 @@
+STEP13I FINAL STATUS: PASS
+
+GSE32863 external assessment completed.
+
+External dataset:
+116 samples
+58 Tumor
+58 Normal
+59 subjects
+57 complete N+T pairs
+1 tumor-only subject: 3023
+1 normal-only subject: 3035
+
+Locked STEP13H coefficients were transferred unchanged.
+
+External refit: FALSE
+External coefficient estimation: FALSE
+External feature selection: FALSE
+External threshold optimization: FALSE
+External cutpoint search: FALSE
+External model tuning: FALSE
+
+External AUC: 0.997325
+External AUC 95% CI: 0.992958 – 1.000000
+
+Paired expression analysis:
+57 complete N+T subject pairs
+Paired Wilcoxon signed-rank test
+
+Final STEP13I object:
+O:/Rproject/Paper 1_Step 13-Diagnostic Classification/STEP13I_GSE32863_External_Assessment/STEP13I_GSE32863_External_Assessment_FINAL.rds

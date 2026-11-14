@@ -1,0 +1,10 @@
+Gene	Compartment	Complete_Patients	Median_CPM	Detection_N	Detection_Percent	Rank1_N	Rank1_Percent
+AOC3	T-cell	4	0.386124426427459	3	75	0	0
+AOC3	Myeloid/macrophage	4	10.1673347482518	4	100	4	100
+AOC3	Endothelial	4	0.86622910547119	2	50	0	0
+MS4A7	T-cell	4	8.47733275797702	4	100	0	0
+MS4A7	Myeloid/macrophage	4	572.177751734412	4	100	4	100
+MS4A7	Endothelial	4	24.1899641413117	4	100	0	0
+IL7R	T-cell	4	228.749827940178	4	100	2	50
+IL7R	Myeloid/macrophage	4	66.3469173151811	4	100	1	25
+IL7R	Endothelial	4	124.837594289509	4	100	1	25

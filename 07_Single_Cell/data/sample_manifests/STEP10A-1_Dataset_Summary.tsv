@@ -1,0 +1,13 @@
+Metric	Value
+Total cells	203298
+Unique patients	44
+Unique samples	58
+Cells annotated as Primary stage	156751
+Cells annotated as Metastatic stage	46547
+Unique Primary-stage patients	30
+Unique Primary-stage samples	42
+Duplicate cell IDs	0
+Missing patient IDs	0
+Missing sample IDs	0
+Missing source annotations	0
+Missing stage annotations	0

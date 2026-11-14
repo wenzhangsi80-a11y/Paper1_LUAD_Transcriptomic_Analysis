@@ -1,0 +1,14 @@
+Statistic	Value
+Minimum	0
+1st percentile	0
+5th percentile	0
+10th percentile	0
+25th percentile	0.456406196099054
+Median	0.984774818617953
+75th percentile	1.6494494873252
+90th percentile	2.66799063304058
+95th percentile	3.76363596240898
+99th percentile	7.30289911983347
+Maximum	14.3363651003122
+Mean	1.27227588398692
+SD	1.40608938379958

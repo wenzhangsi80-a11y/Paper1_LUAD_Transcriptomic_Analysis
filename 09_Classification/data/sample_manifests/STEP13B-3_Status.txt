@@ -1,0 +1,18 @@
+WORKFLOW-13 — STEP13B-3
+Historical 575-Sample Provenance Audit
+============================================================
+
+Purpose:
+Identify the historical TCGA Tumor/Normal annotation and
+reconstruct the original 575-sample diagnostic input.
+
+Target historical sample structure:
+516 Tumor + 59 Normal = 575 samples
+
+Current status:
+PROVENANCE AUDIT COMPLETE
+FINAL TCGA INPUT NOT YET LOCKED
+
+No ROC calculation performed.
+No model fitting performed.
+No statistical testing performed.

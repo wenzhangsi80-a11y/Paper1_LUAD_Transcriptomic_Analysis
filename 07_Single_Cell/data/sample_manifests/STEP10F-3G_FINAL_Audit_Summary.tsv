@@ -1,0 +1,24 @@
+Check	PASS
+Primary observations = 66	TRUE
+Primary patients = 9	TRUE
+Primary T-cell patients = 9	TRUE
+Primary Myeloid/macrophage patients = 9	TRUE
+Primary Endothelial patients = 4	TRUE
+Sensitivity Endothelial patients = 2	TRUE
+Core genes = AOC3/MS4A7/IL7R	TRUE
+Raw UMI non-negative integer	TRUE
+Detection definition Raw_UMI > 0	TRUE
+CPM relationship valid	TRUE
+Log2(CPM+1) relationship valid	TRUE
+STEP10F-1C reconciliation	TRUE
+Primary context summary = 9 rows	TRUE
+Sensitivity context = 3 genes	TRUE
+No statistical testing	TRUE
+No P/FDR	TRUE
+No differential expression	TRUE
+No correlation	TRUE
+No CellChat/LR	TRUE
+No pseudobulk recalculation	TRUE
+No GEO rereading	TRUE
+No H5 rereading	TRUE
+No patient/cell exclusion	TRUE

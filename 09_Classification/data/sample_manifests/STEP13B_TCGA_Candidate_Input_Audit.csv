@@ -1,0 +1,5 @@
+"file","exists","n_rows_preview","n_cols","first_column","AOC3_present","MS4A7_present","IL7R_present","Tumor_label_present","Normal_label_present"
+"Workflow-04-2C_WGCNA_candidate_log2_FPKM_UQ.txt",TRUE,10,514,"Tag",FALSE,FALSE,FALSE,FALSE,FALSE
+"Workflow-04-2C-1A_ESTIMATE_input_GeneSymbol_log2_FPKM_UQ.txt",TRUE,10,514,"GeneSymbol",FALSE,FALSE,FALSE,FALSE,FALSE
+"Workflow-04-2C-1A_Ensembl_to_GeneSymbol_GENCODE_v22.txt",TRUE,10,3,"Ensembl_ID",FALSE,FALSE,FALSE,FALSE,FALSE
+"Workflow-04-2C_expr_primary_tumor_log2_FPKM_UQ.txt",TRUE,10,514,"Tag",FALSE,FALSE,FALSE,FALSE,FALSE

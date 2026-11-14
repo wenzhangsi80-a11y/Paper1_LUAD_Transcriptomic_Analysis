@@ -1,0 +1,8 @@
+Criterion	N_patients
+T-cell >=50	9
+Myeloid/macrophage >=50	9
+Endothelial >=50	4
+T-cell + Myeloid/macrophage >=50	9
+T-cell + Endothelial >=50	4
+Myeloid/macrophage + Endothelial >=50	4
+All three compartments >=50	4

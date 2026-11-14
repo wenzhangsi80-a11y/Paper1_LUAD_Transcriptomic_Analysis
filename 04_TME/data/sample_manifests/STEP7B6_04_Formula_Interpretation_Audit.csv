@@ -1,0 +1,10 @@
+"Model","Response_Variable","Predictor_Variables","Includes_ABSOLUTE_Purity","Includes_Gene_Expression"
+"ImmuneScore__AOC3","ImmuneScore","AOC3 + ABSOLUTE_Purity",TRUE,TRUE
+"ImmuneScore__MS4A7","ImmuneScore","MS4A7 + ABSOLUTE_Purity",TRUE,TRUE
+"ImmuneScore__IL7R","ImmuneScore","IL7R + ABSOLUTE_Purity",TRUE,TRUE
+"StromalScore__AOC3","StromalScore","AOC3 + ABSOLUTE_Purity",TRUE,TRUE
+"StromalScore__MS4A7","StromalScore","MS4A7 + ABSOLUTE_Purity",TRUE,TRUE
+"StromalScore__IL7R","StromalScore","IL7R + ABSOLUTE_Purity",TRUE,TRUE
+"ESTIMATEScore__AOC3","ESTIMATEScore","AOC3 + ABSOLUTE_Purity",TRUE,TRUE
+"ESTIMATEScore__MS4A7","ESTIMATEScore","MS4A7 + ABSOLUTE_Purity",TRUE,TRUE
+"ESTIMATEScore__IL7R","ESTIMATEScore","IL7R + ABSOLUTE_Purity",TRUE,TRUE

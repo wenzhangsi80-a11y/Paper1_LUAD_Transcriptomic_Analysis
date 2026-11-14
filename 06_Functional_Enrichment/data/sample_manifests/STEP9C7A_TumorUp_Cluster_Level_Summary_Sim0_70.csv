@@ -1,0 +1,98 @@
+"Direction","Similarity_Threshold","Cluster","Cluster_Size","Representative_ID","Representative_Description","Representative_p_adjust"
+"Tumor-up",0.7,1,2,"GO:0000280","nuclear division",0.000000000000769781010570248
+"Tumor-up",0.7,2,2,"GO:0016064","immunoglobulin mediated immune response",0.000000000000769781010570248
+"Tumor-up",0.7,3,2,"GO:0098813","nuclear chromosome segregation",0.0000000000160099870632463
+"Tumor-up",0.7,4,2,"GO:0006334","nucleosome assembly",0.0000000000574329468392325
+"Tumor-up",0.7,5,3,"GO:1903046","meiotic cell cycle process",0.0000000000643475353869919
+"Tumor-up",0.7,6,4,"GO:0071459","protein localization to chromosome, centromeric region",0.0000000000892600961040366
+"Tumor-up",0.7,7,1,"GO:0007059","chromosome segregation",0.000000000161220159686523
+"Tumor-up",0.7,8,2,"GO:0140013","meiotic nuclear division",0.000000000477715867152098
+"Tumor-up",0.7,9,1,"GO:0034728","nucleosome organization",0.0000000017318544466964
+"Tumor-up",0.7,10,3,"GO:0000070","mitotic sister chromatid segregation",0.00000000327201744369171
+"Tumor-up",0.7,11,2,"GO:0051784","negative regulation of nuclear division",0.00000000756596321540581
+"Tumor-up",0.7,12,4,"GO:0007094","mitotic spindle assembly checkpoint signaling",0.0000000123539485770487
+"Tumor-up",0.7,13,4,"GO:0071173","spindle assembly checkpoint signaling",0.0000000123539485770487
+"Tumor-up",0.7,14,3,"GO:0071174","mitotic spindle checkpoint signaling",0.0000000123539485770487
+"Tumor-up",0.7,15,2,"GO:0007088","regulation of mitotic nuclear division",0.0000000300461982197431
+"Tumor-up",0.7,16,3,"GO:0033046","negative regulation of sister chromatid segregation",0.0000000300461982197431
+"Tumor-up",0.7,17,2,"GO:0010965","regulation of mitotic sister chromatid separation",0.0000000364738735776185
+"Tumor-up",0.7,18,1,"GO:0065004","protein-DNA complex assembly",0.0000000675114653140783
+"Tumor-up",0.7,19,1,"GO:0000819","sister chromatid segregation",0.0000000675114653140783
+"Tumor-up",0.7,20,4,"GO:1902100","negative regulation of metaphase/anaphase transition of cell cycle",0.0000000675114653140783
+"Tumor-up",0.7,21,1,"GO:1905819","negative regulation of chromosome separation",0.0000000675114653140783
+"Tumor-up",0.7,22,3,"GO:0045132","meiotic chromosome segregation",0.0000000883545941399821
+"Tumor-up",0.7,23,2,"GO:0051985","negative regulation of chromosome segregation",0.000000103182383866465
+"Tumor-up",0.7,24,1,"GO:0033047","regulation of mitotic sister chromatid segregation",0.000000119235491685006
+"Tumor-up",0.7,25,2,"GO:1905818","regulation of chromosome separation",0.000000119235491685006
+"Tumor-up",0.7,26,1,"GO:0071824","protein-DNA complex organization",0.000000358685684861286
+"Tumor-up",0.7,27,1,"GO:0051304","chromosome separation",0.00000144682631947582
+"Tumor-up",0.7,28,2,"GO:0051256","mitotic spindle midzone assembly",0.00000225276920241445
+"Tumor-up",0.7,29,2,"GO:0051231","spindle elongation",0.00000727906057785532
+"Tumor-up",0.7,30,2,"GO:0045653","negative regulation of megakaryocyte differentiation",0.0000153634444681125
+"Tumor-up",0.7,31,2,"GO:0090068","positive regulation of cell cycle process",0.0000168722640408783
+"Tumor-up",0.7,32,2,"GO:0007091","metaphase/anaphase transition of mitotic cell cycle",0.0000177408992957112
+"Tumor-up",0.7,33,2,"GO:0051310","metaphase chromosome alignment",0.0000194412378798981
+"Tumor-up",0.7,34,1,"GO:0045787","positive regulation of cell cycle",0.0000270370523985033
+"Tumor-up",0.7,35,2,"GO:0002449","lymphocyte mediated immunity",0.0000743707748947355
+"Tumor-up",0.7,36,2,"GO:0051255","spindle midzone assembly",0.00010104975884375
+"Tumor-up",0.7,37,2,"GO:0031424","keratinization",0.000113822758782309
+"Tumor-up",0.7,38,1,"GO:0002460","adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",0.000129884155548514
+"Tumor-up",0.7,39,4,"GO:0044786","cell cycle DNA replication",0.000152206235772087
+"Tumor-up",0.7,40,2,"GO:1902850","microtubule cytoskeleton organization involved in mitosis",0.000175472643310822
+"Tumor-up",0.7,41,2,"GO:0090231","regulation of spindle checkpoint",0.000352865649039236
+"Tumor-up",0.7,42,1,"GO:0007292","female gamete generation",0.000372718885823796
+"Tumor-up",0.7,43,2,"GO:0019730","antimicrobial humoral response",0.000394135053611795
+"Tumor-up",0.7,44,1,"GO:0050000","chromosome localization",0.000456816347349323
+"Tumor-up",0.7,45,1,"GO:2001251","negative regulation of chromosome organization",0.000496005524921684
+"Tumor-up",0.7,46,2,"GO:0045109","intermediate filament organization",0.000537763957365333
+"Tumor-up",0.7,47,3,"GO:0007143","female meiotic nuclear division",0.000570749611061919
+"Tumor-up",0.7,48,3,"GO:0035825","homologous recombination",0.000685190191185888
+"Tumor-up",0.7,49,1,"GO:0007131","reciprocal meiotic recombination",0.000854977158966969
+"Tumor-up",0.7,50,1,"GO:0009913","epidermal cell differentiation",0.000907230989009911
+"Tumor-up",0.7,51,1,"GO:0044771","meiotic cell cycle phase transition",0.000946601789081449
+"Tumor-up",0.7,52,1,"GO:0008544","epidermis development",0.00135732782329663
+"Tumor-up",0.7,53,1,"GO:0048706","embryonic skeletal system development",0.00164283332867571
+"Tumor-up",0.7,54,2,"GO:0007080","mitotic metaphase chromosome alignment",0.00180932503782605
+"Tumor-up",0.7,55,1,"GO:0000727","double-strand break repair via break-induced replication",0.00182995496376352
+"Tumor-up",0.7,56,1,"GO:0007586","digestion",0.00284501076349072
+"Tumor-up",0.7,57,1,"GO:0051984","positive regulation of chromosome segregation",0.00302828677914232
+"Tumor-up",0.7,58,1,"GO:0006270","DNA replication initiation",0.00302828677914232
+"Tumor-up",0.7,59,2,"GO:0035036","sperm-egg recognition",0.00322112421053238
+"Tumor-up",0.7,60,1,"GO:0030261","chromosome condensation",0.0035707752163704
+"Tumor-up",0.7,61,1,"GO:0051988","regulation of attachment of spindle microtubules to kinetochore",0.00366393134660238
+"Tumor-up",0.7,62,1,"GO:0043588","skin development",0.00381714002363047
+"Tumor-up",0.7,63,2,"GO:0048665","neuron fate specification",0.0042194296442009
+"Tumor-up",0.7,64,2,"GO:0051447","negative regulation of meiotic cell cycle",0.00470497018436433
+"Tumor-up",0.7,65,1,"GO:0045103","intermediate filament-based process",0.0059751538041338
+"Tumor-up",0.7,66,1,"GO:0030199","collagen fibril organization",0.00674549384859678
+"Tumor-up",0.7,67,2,"GO:0090329","regulation of DNA-templated DNA replication",0.00742021598910391
+"Tumor-up",0.7,68,1,"GO:0051383","kinetochore organization",0.00749182098571051
+"Tumor-up",0.7,69,1,"GO:0044772","mitotic cell cycle phase transition",0.00871002104765883
+"Tumor-up",0.7,70,1,"GO:0070192","chromosome organization involved in meiotic cell cycle",0.00978189478686128
+"Tumor-up",0.7,71,1,"GO:0000212","meiotic spindle organization",0.0115878544974887
+"Tumor-up",0.7,72,1,"GO:0048704","embryonic skeletal system morphogenesis",0.0118584739875513
+"Tumor-up",0.7,73,2,"GO:0034508","centromere complex assembly",0.0120536787389162
+"Tumor-up",0.7,74,1,"GO:0022600","digestive system process",0.0121170680752051
+"Tumor-up",0.7,75,2,"GO:0090306","meiotic spindle assembly",0.0121170680752051
+"Tumor-up",0.7,76,1,"GO:0006959","humoral immune response",0.0121632037307249
+"Tumor-up",0.7,77,2,"GO:0048562","embryonic organ morphogenesis",0.0121632037307249
+"Tumor-up",0.7,78,1,"GO:2000241","regulation of reproductive process",0.0188087656474337
+"Tumor-up",0.7,79,1,"GO:0007218","neuropeptide signaling pathway",0.0194241284663486
+"Tumor-up",0.7,80,1,"GO:0030574","collagen catabolic process",0.0200397228319114
+"Tumor-up",0.7,81,1,"GO:0090307","mitotic spindle assembly",0.0202384758259088
+"Tumor-up",0.7,82,1,"GO:0000076","DNA replication checkpoint signaling",0.0227027109781116
+"Tumor-up",0.7,83,2,"GO:0010948","negative regulation of cell cycle process",0.0231233386121443
+"Tumor-up",0.7,84,1,"GO:0032963","collagen metabolic process",0.0265529506126025
+"Tumor-up",0.7,85,1,"GO:0031055","chromatin remodeling at centromere",0.0285509540060012
+"Tumor-up",0.7,86,1,"GO:0045835","negative regulation of meiotic nuclear division",0.0285509540060012
+"Tumor-up",0.7,87,2,"GO:0007338","single fertilization",0.0291045897864733
+"Tumor-up",0.7,88,2,"GO:1901990","regulation of mitotic cell cycle phase transition",0.0304450339162478
+"Tumor-up",0.7,89,2,"GO:0090189","regulation of branching involved in ureteric bud morphogenesis",0.0322183336773756
+"Tumor-up",0.7,90,1,"GO:0001708","cell fate specification",0.0334122807249103
+"Tumor-up",0.7,91,1,"GO:0009988","cell-cell recognition",0.0397187900426353
+"Tumor-up",0.7,92,1,"GO:0035630","bone mineralization involved in bone maturation",0.0397271885529045
+"Tumor-up",0.7,93,1,"GO:1901993","regulation of meiotic cell cycle phase transition",0.0397271885529045
+"Tumor-up",0.7,94,1,"GO:0071695","anatomical structure maturation",0.0429074788835507
+"Tumor-up",0.7,95,1,"GO:0051446","positive regulation of meiotic cell cycle",0.0429074788835507
+"Tumor-up",0.7,96,1,"GO:0048705","skeletal system morphogenesis",0.0439637637764224
+"Tumor-up",0.7,97,1,"GO:1901987","regulation of cell cycle phase transition",0.0496584359724554

@@ -1,0 +1,4 @@
+"gene","excel_n","historical_n","exact_order_match","multiset_match","n_exact_position_match","max_abs_difference"
+"AOC3",575,575,TRUE,TRUE,575,0
+"MS4A7",575,575,TRUE,TRUE,575,0
+"IL7R",575,575,TRUE,TRUE,575,0

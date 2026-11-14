@@ -1,0 +1,11 @@
+QC_ID	QC_Item	PASS
+QC1	STEP11-5D-1 ge2 input exists	TRUE
+QC2	STEP11-5D-1 ge3 input exists	TRUE
+QC3	STEP11-5D-1 4of4 input exists	TRUE
+QC4	STEP11-5D-1 all-direction audit exists	TRUE
+QC5	Required candidate columns present	TRUE
+QC6	No missing ligand identifiers in ge3	TRUE
+QC7	No missing receptor identifiers in ge3	TRUE
+QC8	No missing interaction identifiers in ge3	TRUE
+QC9	Core genes absent from ge3 LR candidate records	TRUE
+QC10	Structural audit performed without LR recalculation	TRUE

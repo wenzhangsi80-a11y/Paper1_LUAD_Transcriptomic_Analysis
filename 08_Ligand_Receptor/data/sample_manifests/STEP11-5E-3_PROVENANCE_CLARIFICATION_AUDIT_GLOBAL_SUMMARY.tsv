@@ -1,0 +1,16 @@
+Metric	Value
+Raw_patient_level_records	16480
+Unique_canonical_keys	9620
+Duplicate_canonical_keys	6860
+ge3_exact_LR_pairs	585
+ge4_exact_LR_pairs	492
+Shared_exact_LR_pairs	492
+ge3_only_exact_LR_pairs	93
+ge4_only_exact_LR_pairs	0
+ge4_nested_in_ge3	1
+Candidate_Consistency_Class_invariant	1
+Candidate_Set_is_provenance_only	1
+Canonical_collapse_performed	0
+QC_items	26
+QC_PASS	26
+QC_FAIL	0

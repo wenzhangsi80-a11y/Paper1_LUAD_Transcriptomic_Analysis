@@ -1,0 +1,7 @@
+"Gene","Database","Total","Theme_matching","Significant","Direct","Contextual"
+"IL7R","KEGG",353,0,0,0,0
+"IL7R","GO-BP",6316,41,15,5,10
+"MS4A7","KEGG",353,7,3,1,2
+"MS4A7","GO-BP",6316,251,83,6,77
+"AOC3","KEGG",353,1,1,1,0
+"AOC3","GO-BP",6316,58,9,0,9

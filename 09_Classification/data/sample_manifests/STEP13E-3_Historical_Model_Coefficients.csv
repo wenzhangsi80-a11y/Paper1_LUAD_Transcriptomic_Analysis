@@ -1,0 +1,10 @@
+"Object","Term","Coefficient"
+"model","(Intercept)",31.7151446057836
+"model","AOC3",-2.43239764151172
+"model","MS4A7",-2.08479298832101
+"model","IL7R",-0.214704537717926
+"fit","(Intercept)",107.611845458823
+"fit","AOC3",-7.14472906075194
+"fit","MS4A7",-4.10432190430893
+"fit","IL7R",-1.36511790962892
+"cv_model",NA,NA

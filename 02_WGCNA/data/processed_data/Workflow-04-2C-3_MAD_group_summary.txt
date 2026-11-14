@@ -1,0 +1,3 @@
+MAD_group	Gene_N	Percentage
+MAD = 0	7671	19.53
+MAD > 0	31609	80.47

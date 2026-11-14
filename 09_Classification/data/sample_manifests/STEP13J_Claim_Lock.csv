@@ -1,0 +1,9 @@
+"operation","locked_value"
+"external_refit",FALSE
+"external_coefficient_estimation",FALSE
+"external_feature_selection",FALSE
+"external_threshold_optimization",FALSE
+"external_cutpoint_search",FALSE
+"external_model_tuning",FALSE
+"clinical_diagnostic_claim",FALSE
+"diagnostic_biomarker_claim",FALSE

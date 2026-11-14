@@ -1,0 +1,8 @@
+Metric	Value
+TISCH2_cell_n	203298
+H5_barcode_n	203298
+TISCH2_unique_normalized_n	177962
+H5_unique_normalized_n	177962
+Normalized_intersection_n	177962
+TISCH2_to_H5_normalized_match_pct	100
+H5_to_TISCH2_normalized_match_pct	100

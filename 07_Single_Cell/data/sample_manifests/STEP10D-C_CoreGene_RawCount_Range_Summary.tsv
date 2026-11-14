@@ -1,0 +1,5 @@
+V1	V2	V3
+list(Dataset = "Primary_T-cell", Gene = "AOC3", N = 9, Min = 0, Median = 2, Max = 5)	list(Dataset = "Primary_T-cell", Gene = "MS4A7", N = 9, Min = 30, Median = 69, Max = 155)	list(Dataset = "Primary_T-cell", Gene = "IL7R", N = 9, Min = 500, Median = 2345, Max = 6483)
+list(Dataset = "Primary_Myeloid_macrophage", Gene = "AOC3", N = 9, Min = 0, Median = 38, Max = 178)	list(Dataset = "Primary_Myeloid_macrophage", Gene = "MS4A7", N = 9, Min = 317, Median = 5765, Max = 18171)	list(Dataset = "Primary_Myeloid_macrophage", Gene = "IL7R", N = 9, Min = 39, Median = 539, Max = 2837)
+list(Dataset = "Primary_Endothelial", Gene = "AOC3", N = 4, Min = 0, Median = 1, Max = 12)	list(Dataset = "Primary_Endothelial", Gene = "MS4A7", N = 4, Min = 9, Median = 21, Max = 58)	list(Dataset = "Primary_Endothelial", Gene = "IL7R", N = 4, Min = 40, Median = 90, Max = 313)
+list(Dataset = "Sensitivity_Endothelial", Gene = "AOC3", N = 2, Min = 1, Median = 1.5, Max = 2)	list(Dataset = "Sensitivity_Endothelial", Gene = "MS4A7", N = 2, Min = 0, Median = 0.5, Max = 1)	list(Dataset = "Sensitivity_Endothelial", Gene = "IL7R", N = 2, Min = 9, Median = 9, Max = 9)

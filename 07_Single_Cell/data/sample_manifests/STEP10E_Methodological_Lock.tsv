@@ -1,0 +1,20 @@
+Item	Value
+Input	STEP10C locked raw-UMI pseudobulk matrices
+Expression basis	Raw UMI pseudobulk
+Raw UMI counts retained	YES
+CPM	YES — descriptive normalization only
+Log2(CPM+1)	YES — descriptive transformation only
+Detection definition	Raw UMI > 0
+Primary T-cell	n = 9
+Primary Myeloid/macrophage	n = 9
+Primary Endothelial	n = 4
+Sensitivity Endothelial	n = 2
+Statistical testing	NO
+Differential expression	NO
+P value	NO
+FDR	NO
+Correlation	NO
+CellChat/LR	NO
+Pseudobulk recalculation	NO
+Patient exclusion	NO
+Sensitivity mixed with primary	NO

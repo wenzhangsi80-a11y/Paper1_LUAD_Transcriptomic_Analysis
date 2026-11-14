@@ -1,0 +1,50 @@
+STEP13C-2 — FINAL REPORT
+============================================================
+FINAL STATUS: PASS
+
+Purpose:
+Object-level provenance audit of the historical GSE32863
+expression-analysis objects expr / expr.mat / expr2 /
+expr.final / expr3.
+
+Historical RData:
+O:/Rproject/Paper1_Figure2_Figure12_TCGA_LUAD_ROC_etal/.RData
+
+Required historical objects present:
+TRUE
+
+Expected dimensions reproduced:
+TRUE
+
+All five objects contain 116 sample positions:
+TRUE
+
+expr3 expected structure present:
+TRUE
+
+Sample-ID set concordance across available objects:
+TRUE
+
+Exact sample-ID order concordance across available objects:
+TRUE
+
+No missing identifier values in audited identifier fields:
+TRUE
+
+No duplicate values in primary audited identifier fields:
+TRUE
+
+No expression matrix reconstruction performed.
+No expression transformation performed.
+No probe selection performed.
+No ROC recalculation performed.
+No AUC recalculation performed.
+No model refitting performed.
+No threshold optimization performed.
+
+STEP13C-7 remains responsible for expression-scale/transformation audit.
+STEP13C-5/6 remain responsible for GPL6884 probe annotation and
+core-gene probe mapping.
+STEP13C-8 remains responsible for TCGA-to-GSE32863 transferability.
+
+============================================================

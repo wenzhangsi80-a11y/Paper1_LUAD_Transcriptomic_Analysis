@@ -1,0 +1,8 @@
+"Check","PASS"
+"Unique GEO IDs in complete manifest",TRUE
+"All paired IDs present in complete manifest",TRUE
+"Tumor IDs assigned to Tumor group",TRUE
+"Normal IDs assigned to Normal group",TRUE
+"All singleton IDs present in complete manifest",TRUE
+"No duplicated IDs across paired and singleton records",TRUE
+"Exact coverage of all 116 samples",TRUE

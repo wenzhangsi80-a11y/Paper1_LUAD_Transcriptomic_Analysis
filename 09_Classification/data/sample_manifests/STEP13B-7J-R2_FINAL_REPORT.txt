@@ -1,0 +1,30 @@
+
+STEP13B-7J-R2 — FINAL REPORT
+============================================
+
+FINAL STATUS: PASS
+
+Purpose:
+Expression-value traceability between the original Xiangtao ROC Excel dataset and historical ROC predictor objects.
+
+Excel records: 1725
+Unique samples: 575
+
+AOC3 records: 575
+MS4A7 records: 575
+IL7R records: 575
+
+All expression vector lengths concordant: TRUE
+All expression value multisets concordant: TRUE
+All response/status counts concordant: TRUE
+
+Exact row-order expression match: TRUE
+Exact row-order status match: TRUE
+
+No ROC recalculation performed.
+No AUC recalculation performed.
+No model refitting performed.
+No threshold optimization performed.
+No expression transformation performed.
+Xiangtao and Sangerbox provenance branches remain independent.
+

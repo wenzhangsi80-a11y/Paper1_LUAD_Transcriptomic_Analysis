@@ -1,0 +1,271 @@
+STEP11-5F-4C — Direction Mapping Audit
+============================================================
+
+Input:
+O:/Rproject/Paper 1_Step 11-CellChat/STEP11-5F-4_Patient_Level_LR_Final_Context_Summary/STEP11-5F-4C_FINAL_Master_LR_Descriptive_Context_Table.tsv 
+
+Rows: 585 
+Columns: 36 
+
+Expected directions:
+[1] "Endothelial -> Myeloid/macrophage" "Myeloid/macrophage -> Endothelial" "Endothelial -> T-cell"            
+[4] "T-cell -> Endothelial"             "Myeloid/macrophage -> T-cell"      "T-cell -> Myeloid/macrophage"     
+
+Observed direction labels:
+[1] "Endothelial -> Myeloid/macrophage" "Endothelial -> T-cell"             "Myeloid/macrophage -> Endothelial"
+[4] "Myeloid/macrophage -> T-cell"      "T-cell -> Endothelial"             "T-cell -> Myeloid/macrophage"     
+
+Unexpected labels:
+character(0)
+
+Missing expected labels:
+character(0)
+
+Direction fraction fields:
+[1] "Direction_1_Compatibility_Fraction" "Direction_2_Compatibility_Fraction" "Direction_3_Compatibility_Fraction"
+[4] "Direction_4_Compatibility_Fraction" "Direction_5_Compatibility_Fraction" "Direction_6_Compatibility_Fraction"
+
+Direction missingness:
+   Direction_ID                              Field N_Total N_NonMissing N_Missing Missing_Percent
+          <int>                             <char>   <int>        <int>     <int>           <num>
+1:            1 Direction_1_Compatibility_Fraction     585          382       203        34.70085
+2:            2 Direction_2_Compatibility_Fraction     585          371       214        36.58120
+3:            3 Direction_3_Compatibility_Fraction     585          387       198        33.84615
+4:            4 Direction_4_Compatibility_Fraction     585          343       242        41.36752
+5:            5 Direction_5_Compatibility_Fraction     585          485       100        17.09402
+6:            6 Direction_6_Compatibility_Fraction     585          437       148        25.29915
+
+Direction ranges:
+   Direction_ID                              Field   Min   Max
+          <int>                             <char> <num> <num>
+1:            1 Direction_1_Compatibility_Fraction  0.75     1
+2:            2 Direction_2_Compatibility_Fraction  0.75     1
+3:            3 Direction_3_Compatibility_Fraction  0.75     1
+4:            4 Direction_4_Compatibility_Fraction  0.75     1
+5:            5 Direction_5_Compatibility_Fraction  0.75     1
+6:            6 Direction_6_Compatibility_Fraction  0.75     1
+
+Observed Directions -> Direction_Labels combinations:
+               Directions
+                   <char>
+ 1:                     1
+ 2:                     2
+ 3:                     3
+ 4:                     4
+ 5:                     5
+ 6:                     6
+ 7:                 1 | 2
+ 8:                 1 | 3
+ 9:                 1 | 5
+10:                 1 | 6
+11:                 2 | 4
+12:                 2 | 5
+13:                 3 | 5
+14:                 4 | 6
+15:                 5 | 6
+16:             1 | 2 | 5
+17:             1 | 2 | 6
+18:             1 | 3 | 5
+19:             1 | 3 | 6
+20:             1 | 4 | 6
+21:             1 | 5 | 6
+22:             2 | 3 | 5
+23:             2 | 4 | 6
+24:             2 | 5 | 6
+25:             3 | 5 | 6
+26:             4 | 5 | 6
+27:         1 | 2 | 3 | 5
+28:         1 | 2 | 4 | 6
+29:         1 | 3 | 4 | 6
+30:         1 | 3 | 5 | 6
+31:         2 | 3 | 4 | 5
+32:         2 | 4 | 5 | 6
+33:     1 | 2 | 3 | 5 | 6
+34:     1 | 2 | 4 | 5 | 6
+35:     2 | 3 | 4 | 5 | 6
+36: 1 | 2 | 3 | 4 | 5 | 6
+               Directions
+                   <char>
+                                                                                                                                                                       Direction_Labels
+                                                                                                                                                                                 <char>
+ 1:                                                                                                                                                   Endothelial -> Myeloid/macrophage
+ 2:                                                                                                                                                   Myeloid/macrophage -> Endothelial
+ 3:                                                                                                                                                               Endothelial -> T-cell
+ 4:                                                                                                                                                               T-cell -> Endothelial
+ 5:                                                                                                                                                        Myeloid/macrophage -> T-cell
+ 6:                                                                                                                                                        T-cell -> Myeloid/macrophage
+ 7:                                                                                                               Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial
+ 8:                                                                                                                           Endothelial -> Myeloid/macrophage | Endothelial -> T-cell
+ 9:                                                                                                                    Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> T-cell
+10:                                                                                                                    Endothelial -> Myeloid/macrophage | T-cell -> Myeloid/macrophage
+11:                                                                                                                           Myeloid/macrophage -> Endothelial | T-cell -> Endothelial
+12:                                                                                                                    Myeloid/macrophage -> Endothelial | Myeloid/macrophage -> T-cell
+13:                                                                                                                                Endothelial -> T-cell | Myeloid/macrophage -> T-cell
+14:                                                                                                                                T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+15:                                                                                                                         Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+16:                                                                                Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Myeloid/macrophage -> T-cell
+17:                                                                                Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | T-cell -> Myeloid/macrophage
+18:                                                                                            Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | Myeloid/macrophage -> T-cell
+19:                                                                                            Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | T-cell -> Myeloid/macrophage
+20:                                                                                            Endothelial -> Myeloid/macrophage | T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+21:                                                                                     Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+22:                                                                                            Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | Myeloid/macrophage -> T-cell
+23:                                                                                            Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+24:                                                                                     Myeloid/macrophage -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+25:                                                                                                 Endothelial -> T-cell | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+26:                                                                                                 T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+27:                                                        Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | Myeloid/macrophage -> T-cell
+28:                                                        Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+29:                                                                    Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | T-cell -> Endothelial | T-cell -> Myeloid/macrophage
+30:                                                             Endothelial -> Myeloid/macrophage | Endothelial -> T-cell | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+31:                                                                    Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | T-cell -> Endothelial | Myeloid/macrophage -> T-cell
+32:                                                             Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+33:                         Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+34:                         Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+35:                                     Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+36: Endothelial -> Myeloid/macrophage | Myeloid/macrophage -> Endothelial | Endothelial -> T-cell | T-cell -> Endothelial | Myeloid/macrophage -> T-cell | T-cell -> Myeloid/macrophage
+                                                                                                                                                                       Direction_Labels
+                                                                                                                                                                                 <char>
+    N_Directions
+           <int>
+ 1:            1
+ 2:            1
+ 3:            1
+ 4:            1
+ 5:            1
+ 6:            1
+ 7:            2
+ 8:            2
+ 9:            2
+10:            2
+11:            2
+12:            2
+13:            2
+14:            2
+15:            2
+16:            3
+17:            3
+18:            3
+19:            3
+20:            3
+21:            3
+22:            3
+23:            3
+24:            3
+25:            3
+26:            3
+27:            4
+28:            4
+29:            4
+30:            4
+31:            4
+32:            4
+33:            5
+34:            5
+35:            5
+36:            6
+    N_Directions
+           <int>
+
+Single-direction observations:
+    Direction_ID                              Field                   Direction_Label Compatibility
+           <int>                             <char>                            <char>         <num>
+ 1:            1 Direction_1_Compatibility_Fraction Endothelial -> Myeloid/macrophage          0.75
+ 2:            1 Direction_1_Compatibility_Fraction Endothelial -> Myeloid/macrophage          0.75
+ 3:            1 Direction_1_Compatibility_Fraction Endothelial -> Myeloid/macrophage          0.75
+ 4:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial          0.75
+ 5:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial          0.75
+ 6:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial          0.75
+ 7:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial          0.75
+ 8:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial          0.75
+ 9:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial          0.75
+10:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial          0.75
+11:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial          0.75
+12:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial          0.75
+13:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial          0.75
+14:            3 Direction_3_Compatibility_Fraction             Endothelial -> T-cell          0.75
+15:            3 Direction_3_Compatibility_Fraction             Endothelial -> T-cell          0.75
+16:            3 Direction_3_Compatibility_Fraction             Endothelial -> T-cell          0.75
+17:            3 Direction_3_Compatibility_Fraction             Endothelial -> T-cell          1.00
+18:            4 Direction_4_Compatibility_Fraction             T-cell -> Endothelial          0.75
+19:            4 Direction_4_Compatibility_Fraction             T-cell -> Endothelial          1.00
+20:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+21:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+22:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+23:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+24:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+25:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+26:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+27:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+28:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+29:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+30:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+31:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+32:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+33:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+34:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+35:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          0.75
+36:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+37:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+38:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+39:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+40:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+41:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+42:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+43:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+44:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+45:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+46:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+47:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell          1.00
+48:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage          0.75
+49:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage          0.75
+50:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage          0.75
+51:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage          0.75
+52:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage          0.75
+53:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage          0.75
+54:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage          0.75
+55:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage          0.75
+56:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage          1.00
+    Direction_ID                              Field                   Direction_Label Compatibility
+           <int>                             <char>                            <char>         <num>
+
+Single-direction label counts:
+Index: <Direction_ID>
+   Direction_ID                              Field                   Direction_Label N_Rows
+          <int>                             <char>                            <char>  <int>
+1:            1 Direction_1_Compatibility_Fraction Endothelial -> Myeloid/macrophage      3
+2:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial     10
+3:            3 Direction_3_Compatibility_Fraction             Endothelial -> T-cell      4
+4:            4 Direction_4_Compatibility_Fraction             T-cell -> Endothelial      2
+5:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell     28
+6:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage      9
+
+Strongest mapping candidates:
+   Direction_ID                              Field                   Direction_Label N_Rows
+          <int>                             <char>                            <char>  <int>
+1:            1 Direction_1_Compatibility_Fraction Endothelial -> Myeloid/macrophage      3
+2:            2 Direction_2_Compatibility_Fraction Myeloid/macrophage -> Endothelial     10
+3:            3 Direction_3_Compatibility_Fraction             Endothelial -> T-cell      4
+4:            4 Direction_4_Compatibility_Fraction             T-cell -> Endothelial      2
+5:            5 Direction_5_Compatibility_Fraction      Myeloid/macrophage -> T-cell     28
+6:            6 Direction_6_Compatibility_Fraction      T-cell -> Myeloid/macrophage      9
+
+Mapping ambiguity:
+   Direction_ID                              Field N_Direction_Labels Max_N_Rows Second_Max_N_Rows Ambiguous
+          <int>                             <char>              <int>      <int>             <num>    <lgcl>
+1:            1 Direction_1_Compatibility_Fraction                  1          3                 0     FALSE
+2:            2 Direction_2_Compatibility_Fraction                  1         10                 0     FALSE
+3:            3 Direction_3_Compatibility_Fraction                  1          4                 0     FALSE
+4:            4 Direction_4_Compatibility_Fraction                  1          2                 0     FALSE
+5:            5 Direction_5_Compatibility_Fraction                  1         28                 0     FALSE
+6:            6 Direction_6_Compatibility_Fraction                  1          9                 0     FALSE
+
+Overall compatibility integrity:
+FAIL 
+
+Final status:
+REVIEW REQUIRED
+
+============================================================
+END OF READ-ONLY DIRECTION MAPPING AUDIT
+============================================================

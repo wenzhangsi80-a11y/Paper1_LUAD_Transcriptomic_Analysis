@@ -1,0 +1,26 @@
+Item	Value
+Analysis name	STEP10F-3 Expression-context audit
+Input source	STEP10F-1 locked patient-level expression outputs
+Core genes	AOC3 / MS4A7 / IL7R
+Primary compartments	T-cell / Myeloid/macrophage / Endothelial
+Sensitivity compartment	Endothelial sensitivity only
+Expression source	STEP10F-1 locked raw-UMI pseudobulk expression
+Raw UMI	Used as locked quantitative source
+CPM	Descriptive normalization only
+Log2(CPM+1)	Descriptive transformation only
+Detection definition	Raw_UMI > 0
+Detection prevalence	Described by N and percentage
+Quantitative abundance	Described by median/mean/IQR/range CPM
+Patient-level analysis	Yes
+Statistical testing	No
+P value	No
+FDR	No
+Differential expression	No
+Correlation	No
+CellChat/LR	No
+Pseudobulk recalculation	No
+GEO raw matrix rereading	No
+H5 rereading	No
+Patient exclusion	No
+Specificity claims	Not assigned
+Causal inference	No

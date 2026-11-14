@@ -1,0 +1,3 @@
+"Direction","GO_Terms","KEGG_Pathways","Nonzero_GO_KEGG_Pairs","GO_Terms_With_Overlap","KEGG_Pathways_With_Overlap","Mean_Shared_Genes","Median_Shared_Genes","Max_Shared_Genes","Mean_Jaccard","Median_Jaccard","Max_Jaccard"
+"Tumor-up",154,11,388,154,11,7.12371134020619,3,38,0.0942214476596938,0.0406611570247934,0.544117647058823
+"Tumor-down",1286,60,31108,1286,60,2.52102353092452,2,48,0.0322319356874846,0.0227272727272727,0.571428571428571

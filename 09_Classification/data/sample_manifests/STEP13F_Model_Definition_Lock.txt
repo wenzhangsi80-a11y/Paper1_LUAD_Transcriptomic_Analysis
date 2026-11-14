@@ -1,0 +1,91 @@
+============================================================
+STEP13F — MODEL DEFINITION LOCK
+============================================================
+
+Timestamp: 2026-09-26 22:26:20 CEST
+
+MODEL OBJECTIVE
+------------------------------------------------------------
+Exploratory tumor-versus-normal tissue classification
+
+CORE GENES
+------------------------------------------------------------
+AOC3, MS4A7, IL7R
+
+OUTCOME
+------------------------------------------------------------
+Outcome: TumorStatus
+Reference: Normal
+Positive class: Tumor
+
+MODEL
+------------------------------------------------------------
+Type: multivariable_logistic_regression
+Formula: TumorStatus ~ AOC3 + MS4A7 + IL7R
+
+NESTED CROSS-VALIDATION
+------------------------------------------------------------
+Required: TRUE
+Outer folds: 10
+Inner folds: 10
+Outer stratified: TRUE
+Inner stratified: TRUE
+Seed: 20260926
+
+EXTERNAL VALIDATION
+------------------------------------------------------------
+Dataset: GSE32863
+External refit allowed: FALSE
+External coefficient estimation allowed: FALSE
+External threshold optimization allowed: FALSE
+
+GSE32863 LOCKED STRUCTURE
+------------------------------------------------------------
+Samples: 116
+Subjects: 59
+Complete N+T subject pairs: 57
+Tumor-only subjects: 1
+Normal-only subjects: 1
+
+CLINICAL CLAIMS
+------------------------------------------------------------
+Clinical diagnostic claim allowed: FALSE
+Diagnostic biomarker claim allowed: FALSE
+Clinical implementation claim allowed: FALSE
+
+BRANCH SEPARATION
+------------------------------------------------------------
+Xiangtao-derived historical ROC branch: 516 Tumor + 59 Normal
+Sangerbox-derived tumor-only WGCNA branch: 513 Primary Tumor + 59 Normal
+
+INTEGRITY CHECKS
+------------------------------------------------------------
+Core_genes_exact: PASS
+Predictor_order_locked: PASS
+Outcome_name_exact: PASS
+Outcome_levels_exact: PASS
+Reference_Normal: PASS
+Positive_class_Tumor: PASS
+Formula_exact: PASS
+Logistic_model: PASS
+Nested_CV: PASS
+Outer_10_fold: PASS
+Inner_10_fold: PASS
+Stratified_CV: PASS
+Feature_selection_locked: PASS
+External_refit_forbidden: PASS
+External_coefficients_forbidden: PASS
+External_threshold_forbidden: PASS
+External_cutpoint_forbidden: PASS
+Clinical_diagnostic_claim_forbidden: PASS
+Diagnostic_biomarker_claim_forbidden: PASS
+Branch_separation: PASS
+GSE_subject_count: PASS
+GSE_complete_pairs: PASS
+GSE_total_samples: PASS
+GSE_tumor_samples: PASS
+GSE_normal_samples: PASS
+
+============================================================
+FINAL STATUS: PASS — STEP13F Model Definition Lock established.
+============================================================

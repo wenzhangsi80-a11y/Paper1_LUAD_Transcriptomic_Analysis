@@ -1,0 +1,9 @@
+Metric	Locked_Value	Definition
+Total predefined core-checkpoint pairs	54	All predefined core gene × checkpoint gene pairs
+Unadjusted FDR < 0.05	48	Unadjusted Spearman association with BH-FDR < 0.05
+Adjusted FDR < 0.05	38	ImmuneScore-adjusted partial Spearman association with BH-FDR < 0.05
+Significant both before and after adjustment	34	FDR significant in both unadjusted and adjusted analyses
+Significance lost after adjustment	14	FDR significant before but not after ImmuneScore adjustment
+Significance gained after adjustment	4	FDR not significant before but significant after ImmuneScore adjustment
+Direction switches	32	Unadjusted and adjusted association directions differ
+Positive-to-negative switches remaining significant	21	Positive-to-negative direction switch with adjusted BH-FDR < 0.05

@@ -1,0 +1,50 @@
+============================================================
+STEP13I — GSE32863 EXTERNAL ASSESSMENT
+============================================================
+
+FINAL STATUS: PASS
+
+External dataset:
+GSE32863
+
+Total samples: 116
+Tumor: 58
+Normal: 58
+Unique subjects: 59
+Complete N+T pairs: 57
+Tumor-only subject: 3023
+Normal-only subject: 3035
+
+Locked model source:
+STEP13H_TCGA_Final_Model_FINAL.rds
+
+Predictors:
+AOC3 + MS4A7 + IL7R
+
+External refit: FALSE
+External coefficient estimation: FALSE
+External feature selection: FALSE
+External threshold optimization: FALSE
+External cutpoint search: FALSE
+External model tuning: FALSE
+
+External ROC:
+AUC = 0.997325
+95% CI = 0.992958 – 1.000000
+
+Paired expression analysis:
+57 complete N+T subject pairs
+Paired Wilcoxon signed-rank test
+
+Paired expression results:
+
+AOC3 | n = 57 | Normal median = 8.25049 | Tumor median = 7.15481 | P = 0.000000000052827249 | FDR = 0.000000000079240873
+MS4A7 | n = 57 | Normal median = 10.5612 | Tumor median = 8.33797 | P = 0.000000000052827249 | FDR = 0.000000000079240873
+IL7R | n = 57 | Normal median = 10.6053 | Tumor median = 9.24179 | P = 0.00000000025424206 | FDR = 0.00000000025424206
+
+STEP13H coefficients remained unchanged after external
+assessment and paired expression analysis.
+
+============================================================
+STEP13I COMPLETE
+============================================================

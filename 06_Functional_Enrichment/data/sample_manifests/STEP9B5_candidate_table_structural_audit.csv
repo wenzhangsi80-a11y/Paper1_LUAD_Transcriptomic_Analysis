@@ -1,0 +1,2 @@
+"FullPath","FileName","Extension","Nrow","Ncol","ColumnNames","DEG_column_signature"
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/Tables/Step14D_module_TME_FDR05.csv","Step14D_module_TME_FDR05.csv","csv",116,9,"Module | Trait | N | Spearman_rho | P_value | FDR | Abs_rho | FDR_significant | Direction",TRUE

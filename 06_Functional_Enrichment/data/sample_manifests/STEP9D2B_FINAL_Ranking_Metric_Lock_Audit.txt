@@ -1,0 +1,228 @@
+============================================================
+Paper 1 — STEP9D-2B FINAL RANKING METRIC LOCK
+============================================================
+
+Execution date: 2026-09-22 
+
+Purpose:
+Formal lock of the genome-wide pre-ranked GSEA ranking metric.
+
+No DEG recalculation performed.
+No GSEA performed.
+No final ranking vector constructed.
+Temporary ranking used for audit only.
+
+------------------------------------------------------------
+1. SOURCE FILE VERIFICATION
+------------------------------------------------------------
+
+STEP9D-2B source file:
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_FULL.csv 
+
+Source file exists: TRUE 
+
+------------------------------------------------------------
+2. STEP9D-1I PROVENANCE VERIFICATION
+------------------------------------------------------------
+
+STEP9D1I FINAL LOCK:
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9D_GenomeWide_Preranked_GSEA/9D-1_Input_Lock/STEP9D1I_FINAL_INPUT_LOCK.rds 
+
+STEP9D1I locked source:
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_FULL.csv 
+
+STEP9D-2B source matches STEP9D-1I source: TRUE 
+
+PASS — exact STEP9D-1I source provenance confirmed.
+
+------------------------------------------------------------
+3. STEP9C UNIVERSE PROVENANCE
+------------------------------------------------------------
+
+STEP9C universe file:
+O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/00_input/STEP9C_DEG_testing_universe_57828.csv 
+
+Universe file exists: TRUE 
+
+------------------------------------------------------------
+4. READ LOCKED DEG SOURCE
+------------------------------------------------------------
+
+Rows read: 57828 
+Columns read: 10 
+
+Required columns:
+[1] "Gene"    "log2FC"  "P_value" "FDR"    
+
+Missing required columns:
+character(0)
+
+PASS — required DEG columns detected.
+
+------------------------------------------------------------
+5. GENOME-WIDE INPUT SIZE LOCK
+------------------------------------------------------------
+
+Expected genes: 57828 
+Observed genes: 57828 
+
+PASS — exact 57,828-gene genome-wide input.
+
+------------------------------------------------------------
+6. GENE ID AUDIT
+------------------------------------------------------------
+
+Missing/empty gene IDs: 0 
+Duplicated gene IDs: 0 
+
+PASS — gene IDs complete and unique.
+
+------------------------------------------------------------
+7. NUMERIC ELIGIBILITY AUDIT
+------------------------------------------------------------
+
+log2FC NA: 0 
+log2FC Inf: 0 
+P_value NA: 0 
+P_value Inf: 0 
+P_value < 0: 0 
+P_value > 1: 0 
+
+PASS — all 57,828 genes have valid ranking inputs.
+
+------------------------------------------------------------
+8. RANKING ELIGIBILITY LOCK
+------------------------------------------------------------
+
+Eligible genes: 57828 
+
+PASS — all 57,828 genes eligible.
+
+------------------------------------------------------------
+9. LOCKED INPUT VALUE DISTRIBUTION
+------------------------------------------------------------
+
+P = 0: 0 
+P = 1: 13 
+log2FC = 0: 0 
+log2FC > 0: 37501 
+log2FC < 0: 20327 
+
+------------------------------------------------------------
+10. RANKING METRIC DEFINITION LOCK
+------------------------------------------------------------
+
+Ranking metric name:
+ signed_minus_log10_nominal_P 
+
+Locked formula:
+ sign(log2FC) * (-log10(max(P_value, 1e-300))) 
+
+Direction source: log2FC
+Statistical-strength source: nominal P_value
+Adjusted P/FDR column detected: FDR
+Adjusted P/FDR used for ranking: FALSE
+Native signed statistic available: FALSE
+
+------------------------------------------------------------
+11. FORMULA IMPLEMENTATION AUDIT
+------------------------------------------------------------
+
+Temporary ranking NA: 0 
+Temporary ranking Inf: 0 
+Non-zero ranking genes: 57815 
+Zero-ranking genes: 13 
+
+PASS — ranking formula produces valid finite values.
+
+------------------------------------------------------------
+12. CORRECTED DIRECTION CONSISTENCY AUDIT
+------------------------------------------------------------
+
+Eligible genes: 57828 
+Non-zero ranking genes: 57815 
+Zero-ranking genes: 13 
+Zero-ranking genes due to P = 1: 13 
+Zero-ranking genes due to log2FC = 0: 0 
+Unexplained zero-ranking genes: 0 
+True sign switches: 0 
+Corrected direction consistency: TRUE 
+
+PASS — corrected direction-consistency audit.
+
+------------------------------------------------------------
+13. ZERO-RANKING EXPLANATION AUDIT
+------------------------------------------------------------
+
+Zero-ranking explanation complete: TRUE 
+
+PASS — all zero-ranking genes are explained.
+
+------------------------------------------------------------
+14. FORMULA REPRODUCIBILITY AUDIT
+------------------------------------------------------------
+
+Maximum absolute formula difference: 0e+00 
+Formula reproducibility: TRUE 
+
+PASS — formula is exactly reproducible.
+
+------------------------------------------------------------
+15. FINAL HARD PASS CRITERIA
+------------------------------------------------------------
+
+Exact 57,828-gene input: TRUE 
+STEP9D-1I source provenance: TRUE 
+Missing gene IDs: TRUE 
+Duplicate gene IDs: TRUE 
+Numeric eligibility: TRUE 
+Genome-wide eligibility: TRUE 
+Direction consistency: TRUE 
+Zero-ranking explanation: TRUE 
+Formula reproducibility: TRUE 
+No GSEA performed: TRUE 
+No final ranking vector constructed: TRUE 
+No DEG recalculation: TRUE 
+
+ALL HARD PASS CRITERIA: TRUE
+
+------------------------------------------------------------
+16. FINAL RDS VERIFICATION
+------------------------------------------------------------
+
+Final RDS exists: TRUE 
+Final RDS reload verification: TRUE 
+
+PASS — FINAL RDS verified.
+
+============================================================
+STEP9D-2B FINAL STATUS: PASS — FINAL LOCK
+============================================================
+
+Locked genome-wide genes: 57,828
+Eligible genes: 57,828
+Non-zero ranking genes: 57,815
+Zero-ranking genes: 13
+Zero-ranking due to P = 1: 13
+Zero-ranking due to log2FC = 0: 0
+Unexplained zero-ranking genes: 0
+True sign switches: 0
+Direction consistency: TRUE
+Formula reproducibility: TRUE
+STEP9D-1I source provenance: TRUE
+Adjusted P/FDR used for ranking: FALSE
+Native signed statistic available: FALSE
+Ranking vector created: FALSE
+GSEA performed: FALSE
+DEG recalculated: FALSE
+FINAL HARD PASS: TRUE
+
+FINAL RDS:
+ O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9D_GenomeWide_Preranked_GSEA/9D-2_Ranking_Metric_Lock/STEP9D2B_FINAL_Ranking_Metric_Lock.rds 
+
+FINAL AUDIT:
+ O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9D_GenomeWide_Preranked_GSEA/9D-2_Ranking_Metric_Lock/STEP9D2B_FINAL_Ranking_Metric_Lock_Audit.txt 
+
+============================================================
+END STEP9D-2B FINAL LOCK
+============================================================

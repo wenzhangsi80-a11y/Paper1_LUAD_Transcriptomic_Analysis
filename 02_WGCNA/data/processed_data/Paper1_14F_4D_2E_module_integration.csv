@@ -1,0 +1,4 @@
+"Module","ME","Module_Size","Core_Genes","ImmuneScore_rho","StromalScore_rho","ESTIMATEScore_rho","MM_GS_Immune_rho","MM_GS_Stromal_rho","MM_GS_ESTIMATE_rho","Survival_reference","TME_pattern","MM_GS_pattern"
+"blue","ME2",1798,"MS4A7; IL7R",0.9689631,0.7081174,0.9179035,0.9433047,0.7068876,0.9081796,"No","Strong positive TME association","Very strong positive concordance"
+"magenta","ME9",534,"AOC3",0.4209524,0.6451482,0.5695171,0.4023558,0.5221497,0.508814,"No","Positive TME association, relatively stromal","Moderate positive concordance"
+"brown","ME3",1338,NA,-0.162189,-0.1924747,-0.1863114,NA,NA,NA,"Yes","Weak inverse TME association",NA

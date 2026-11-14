@@ -1,0 +1,4 @@
+"Gene","Original_Theme_expected","KEGG_Theme_Matching_expected","KEGG_Significant_Theme_expected","GO_BP_Theme_Matching_expected","GO_BP_Significant_Theme_expected","Original_Reactome_Pathway","Original_Theme_source","KEGG_Theme_Matching_source","KEGG_Significant_Theme_source","KEGG_Direct_Significant","KEGG_Contextual_Significant","GO_BP_Theme_Matching_source","GO_BP_Significant_Theme_source","GO_BP_Direct_Significant","GO_BP_Contextual_Significant"
+"AOC3","B-cell receptor / B-cell immune signaling",1,1,58,9,"CD22-mediated B-cell receptor regulation","B-cell receptor / B-cell immune signaling",1,1,1,0,58,9,0,9
+"IL7R","Fc receptor / immune receptor activation",0,0,41,15,"Fc receptor activation","Fc receptor / immune receptor activation",0,0,0,0,41,15,5,10
+"MS4A7","Phagocytosis / myeloid innate immune function",7,3,251,83,"Role of phospholipids in phagocytosis","Phagocytosis / myeloid innate immune function",7,3,1,2,251,83,6,77

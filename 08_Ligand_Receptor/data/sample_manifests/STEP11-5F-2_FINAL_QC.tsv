@@ -1,0 +1,33 @@
+QC_Item	PASS
+Input file exists	TRUE
+Canonical row count = 9,620	TRUE
+Required FINAL schema complete	TRUE
+Unique Exact_LR_Pair count = 585	TRUE
+Unique Patient_Index count = 4	TRUE
+Direction_ID values = 1–6	TRUE
+Canonical_Key identity matches locked definition	TRUE
+Canonical_Key unique	TRUE
+Candidate class values valid	TRUE
+Candidate class complete	TRUE
+Candidate class invariant per Exact_LR_Pair	TRUE
+4_of_4 exact LR pairs = 492	TRUE
+3_of_4-only exact LR pairs = 93	TRUE
+Candidate LR total = 585	TRUE
+Locked sender→receiver mapping confirmed	TRUE
+Direction-level record arithmetic internally consistent	TRUE
+Compatible values valid	TRUE
+Compatible values non-missing	TRUE
+Candidate_Set_Provenance non-empty	TRUE
+interaction_name_Provenance non-empty	TRUE
+Core_Gene field all NA	TRUE
+Core_Gene_Involved all FALSE	TRUE
+Ligand_log2CPM numeric	TRUE
+Receptor_log2CPM numeric	TRUE
+Ligand_log2CPM finite	TRUE
+Receptor_log2CPM finite	TRUE
+Ligand_log2CPM non-negative	TRUE
+Receptor_log2CPM non-negative	TRUE
+All four patient compatibility columns present	TRUE
+Every LR × direction has four patients	TRUE
+Compatible + incompatible = 4	TRUE
+Compatibility fraction bounded 0–1	TRUE

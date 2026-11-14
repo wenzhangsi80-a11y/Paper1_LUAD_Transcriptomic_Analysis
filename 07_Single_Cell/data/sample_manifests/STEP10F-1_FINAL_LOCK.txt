@@ -1,0 +1,54 @@
+============================================================
+STEP10F-1 FINAL LOCK
+Patient-level expression profile
+============================================================
+
+Overall status: PASS
+
+Input: STEP10E locked patient-level expression output
+
+Core genes:
+AOC3 / MS4A7 / IL7R
+
+Primary compartments:
+T-cell = 9 patients
+Myeloid/macrophage = 9 patients
+Endothelial = 4 patients
+
+Sensitivity:
+Endothelial = 2 patients
+
+Primary observations = 66
+Primary Gene × Compartment profiles = 9
+Sensitivity observations = 6
+Sensitivity Gene × Compartment profiles = 3
+Complete three-compartment patients = 4
+
+Raw UMI pseudobulk: USED
+CPM: DESCRIPTIVE ONLY
+Log2(CPM+1): DESCRIPTIVE ONLY
+Detection definition: Raw_UMI > 0
+
+Differential expression: NO
+Statistical testing: NO
+P values: NO
+FDR: NO
+Correlation: NO
+CellChat/LR: NO
+
+Pseudobulk recalculation: NO
+GEO raw matrix rereading: NO
+H5 rereading: NO
+
+Patient exclusion: NO
+Cell exclusion: NO
+
+Primary Endothelial and Sensitivity Endothelial remain separate.
+
+Interpretation framework:
+Descriptive compartment-associated expression context only.
+No claim of compartment specificity is made by this audit.
+
+============================================================
+END STEP10F-1 FINAL LOCK
+============================================================

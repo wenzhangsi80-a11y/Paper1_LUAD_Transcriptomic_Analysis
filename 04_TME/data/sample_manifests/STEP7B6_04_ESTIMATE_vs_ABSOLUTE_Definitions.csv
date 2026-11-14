@@ -1,0 +1,6 @@
+"Variable_or_Source","Role_in_current_analysis","Data_origin_or_method","Same_as_ABSOLUTE"
+"ImmuneScore","Dependent TME outcome","ESTIMATE algorithm",FALSE
+"StromalScore","Dependent TME outcome","ESTIMATE algorithm",FALSE
+"ESTIMATEScore","Dependent TME outcome","ESTIMATE algorithm",FALSE
+"ABSOLUTE_Purity","Purity covariate in STEP7B6 models","ABSOLUTE purity source; exact source record requires verification",TRUE
+"ESTIMATE-derived TumorPurity","Separate checkpoint analysis variable","ESTIMATE-derived purity estimate",FALSE

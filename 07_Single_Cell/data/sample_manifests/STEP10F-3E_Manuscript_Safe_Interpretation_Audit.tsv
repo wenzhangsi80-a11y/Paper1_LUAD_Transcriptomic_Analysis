@@ -1,0 +1,4 @@
+Gene	Recommended_Expression_Context	Avoid_Specificity_Claim	Avoid_Causal_Claim	Avoid_Communication_Claim	Interpretation_Basis
+AOC3	Multi-compartment detection with relatively higher quantitative expression in myeloid/macrophage cells	Yes	Yes	Yes	Detection prevalence plus descriptive CPM distribution across primary compartments
+MS4A7	Myeloid/macrophage-associated quantitative expression pattern	Yes	Yes	Yes	Detection prevalence plus descriptive CPM distribution across primary compartments
+IL7R	T-cell-associated quantitative expression pattern	Yes	Yes	Yes	Detection prevalence plus descriptive CPM distribution across primary compartments

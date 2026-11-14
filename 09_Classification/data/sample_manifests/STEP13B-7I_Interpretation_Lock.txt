@@ -1,0 +1,41 @@
+STEP13B-7I — Historical Count Semantic Resolution Lock
+
+FINAL STATUS:
+PASS — SAMPLE-LEVEL PROVENANCE LOCKED
+
+CURRENT EXPRESSION SAMPLE STRUCTURE:
+Original matrix = 60,483 genes × 575 columns.
+One column is the identifier column.
+Therefore the matrix contains 574 expression samples.
+513 Primary Tumor samples.
+59 Solid Tissue Normal samples.
+2 Metastatic samples.
+Tumor-versus-Normal eligible sample set = 513 + 59 = 572.
+
+EXACT SAMPLE-LEVEL RECONCILIATION:
+Matrix sample IDs and annotation sample IDs matched exactly.
+All 513 final WGCNA sample IDs matched the 513 Primary Tumor IDs exactly.
+The two metastatic samples were excluded from tumor-versus-normal classification.
+
+HISTORICAL OBJECT SEMANTICS:
+515 = patient-level intermediate object.
+517 = patient-level intermediate object.
+clinical_without_primary and no_primary were identical.
+The observed relationship 513 + 4 = 517 is verified.
+
+HISTORICAL 516:
+Literal occurrences of the value 516 were found in historical files.
+However, no identified record provides a valid sample-count semantic source
+for 516 tumor samples.
+Therefore 516 is NOT interpreted as a tumor sample count.
+The historical 516 tumor-sample claim is NOT VERIFIED and is NOT USED.
+
+CURRENT LOCKED CLASSIFICATION UNIVERSE:
+513 Primary Tumor + 59 Solid Tissue Normal = 572 eligible samples.
+
+NO ROC CALCULATION.
+NO AUC CALCULATION.
+NO MODEL FITTING.
+NO STATISTICAL TEST.
+NO EXPRESSION RECALCULATION.
+NO THRESHOLD OPTIMIZATION.

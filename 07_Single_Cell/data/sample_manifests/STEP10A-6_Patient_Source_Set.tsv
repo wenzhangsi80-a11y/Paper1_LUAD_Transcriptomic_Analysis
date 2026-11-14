@@ -1,0 +1,45 @@
+Patient	Source_Set	Source_Type_Count
+P0001	Normal	1
+P0006	Normal	1
+P0008	Normal	1
+P0009	Normal	1
+P0018	Normal	1
+P0019	Normal	1
+P0020	Tumor	1
+P0025	Tumor	1
+P0028	Tumor	1
+P0030	Tumor	1
+P0031	Tumor	1
+P0034	Tumor	1
+P1006	Tumor	1
+P1010	Tumor	1
+P1011	Tumor	1
+P1012	mLN	1
+P1013	mLN	1
+P1015	mLN	1
+P1019	mLN	1
+P1028	nLN	1
+P1049	nLN	1
+P1051	nLN	1
+P1058	nLN	1
+P1064	nLN	1
+P2001	nLN	1
+P2002	nLN	1
+P2003	nLN	1
+P2004	nLN	1
+P2005	nLN	1
+P2006	Pleural effusion	1
+P2007	Pleural effusion	1
+P2008	Pleural effusion	1
+P2011	Pleural effusion	1
+P2012	Pleural effusion	1
+P3002	mBrain	1
+P3003	mBrain	1
+P3004	mBrain	1
+P3006	mBrain	1
+P3007	mBrain	1
+P3012	mBrain	1
+P3013	mBrain	1
+P3016	mBrain	1
+P3017	mBrain	1
+P3019	mBrain	1

@@ -1,0 +1,98 @@
+"Direction","Semantic_Cluster_070","Representative_GO_ID","Representative_GO_Description","N_GO_Terms","N_GO_Terms_with_KEGG_Overlap","N_KEGG_Pathways","N_GO_KEGG_Nonzero_Pairs","Shared_Entrez_Min","Shared_Entrez_Median","Shared_Entrez_Max","KEGG_Pathways","KEGG_Descriptions","Core_Genes_Shared"
+"Tumor-up","43","GO:0019730","antimicrobial humoral response",2,2,8,12,1,7,8,"hsa04613; hsa05203; hsa05322; hsa05034; hsa04080; hsa04382; hsa01230; hsa04081","Neutrophil extracellular trap formation; Viral carcinogenesis; Systemic lupus erythematosus; Alcoholism; Neuroactive ligand-receptor interaction; Cornified envelope formation; Biosynthesis of amino acids; Hormone signaling",NA
+"Tumor-up","56","GO:0007586","digestion",1,1,2,2,5,6.5,8,"hsa04080; hsa04081","Neuroactive ligand-receptor interaction; Hormone signaling",NA
+"Tumor-up","76","GO:0006959","humoral immune response",1,1,8,8,1,5.5,8,"hsa04613; hsa05203; hsa05322; hsa05034; hsa04080; hsa04382; hsa01230; hsa04081","Neutrophil extracellular trap formation; Viral carcinogenesis; Systemic lupus erythematosus; Alcoholism; Neuroactive ligand-receptor interaction; Cornified envelope formation; Biosynthesis of amino acids; Hormone signaling",NA
+"Tumor-up","77","GO:0048562","embryonic organ morphogenesis",2,2,1,2,1,1,1,"hsa04080","Neuroactive ligand-receptor interaction",NA
+"Tumor-up","79","GO:0007218","neuropeptide signaling pathway",1,1,2,2,8,14,20,"hsa04080; hsa04081","Neuroactive ligand-receptor interaction; Hormone signaling",NA
+"Tumor-up","35","GO:0002449","lymphocyte mediated immunity",2,2,3,6,1,1,2,"hsa05203; hsa04080; hsa04081","Viral carcinogenesis; Neuroactive ligand-receptor interaction; Hormone signaling",NA
+"Tumor-up","94","GO:0071695","anatomical structure maturation",1,1,5,5,1,2,5,"hsa04080; hsa04081; hsa04950; hsa04110; hsa04382","Neuroactive ligand-receptor interaction; Hormone signaling; Maturity onset diabetes of the young; Cell cycle; Cornified envelope formation",NA
+"Tumor-up","1","GO:0000280","nuclear division",2,2,3,6,5,5,25,"hsa04110; hsa03460; hsa05203","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis",NA
+"Tumor-up","2","GO:0016064","immunoglobulin mediated immune response",2,2,1,2,1,1,1,"hsa05203","Viral carcinogenesis",NA
+"Tumor-up","3","GO:0098813","nuclear chromosome segregation",2,2,3,5,1,4,22,"hsa04110; hsa05203; hsa03460","Cell cycle; Viral carcinogenesis; Fanconi anemia pathway",NA
+"Tumor-up","4","GO:0006334","nucleosome assembly",2,1,5,5,1,36,36,"hsa05322; hsa04613; hsa05034; hsa05203; hsa04110","Systemic lupus erythematosus; Neutrophil extracellular trap formation; Alcoholism; Viral carcinogenesis; Cell cycle",NA
+"Tumor-up","5","GO:1903046","meiotic cell cycle process",3,3,7,14,1,3,16,"hsa04110; hsa03460; hsa05203; hsa04081; hsa05322; hsa04613; hsa05034","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis; Hormone signaling; Systemic lupus erythematosus; Neutrophil extracellular trap formation; Alcoholism",NA
+"Tumor-up","6","GO:0071459","protein localization to chromosome, centromeric region",4,4,5,19,2,15,16,"hsa05322; hsa04613; hsa05034; hsa05203; hsa04110","Systemic lupus erythematosus; Neutrophil extracellular trap formation; Alcoholism; Viral carcinogenesis; Cell cycle",NA
+"Tumor-up","7","GO:0007059","chromosome segregation",1,1,3,3,4,4,23,"hsa04110; hsa03460; hsa05203","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis",NA
+"Tumor-up","8","GO:0140013","meiotic nuclear division",2,2,3,6,2,4.5,12,"hsa04110; hsa03460; hsa05203","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis",NA
+"Tumor-up","9","GO:0034728","nucleosome organization",1,1,5,5,1,37,37,"hsa05322; hsa04613; hsa05034; hsa05203; hsa04110","Systemic lupus erythematosus; Neutrophil extracellular trap formation; Alcoholism; Viral carcinogenesis; Cell cycle",NA
+"Tumor-up","10","GO:0000070","mitotic sister chromatid segregation",3,3,2,6,1,7.5,20,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","11","GO:0051784","negative regulation of nuclear division",2,2,2,4,2,7.5,16,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","12","GO:0007094","mitotic spindle assembly checkpoint signaling",4,4,2,6,1,4,11,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","13","GO:0071173","spindle assembly checkpoint signaling",4,4,6,12,1,2.5,20,"hsa04110; hsa03460; hsa05203; hsa05322; hsa04613; hsa05034","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis; Systemic lupus erythematosus; Neutrophil extracellular trap formation; Alcoholism",NA
+"Tumor-up","14","GO:0071174","mitotic spindle checkpoint signaling",3,3,3,6,1,4.5,17,"hsa04110; hsa03460; hsa05203","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis",NA
+"Tumor-up","15","GO:0007088","regulation of mitotic nuclear division",2,2,2,4,2,7.5,16,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","16","GO:0033046","negative regulation of sister chromatid segregation",3,3,2,6,1,6,11,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","17","GO:0010965","regulation of mitotic sister chromatid separation",2,2,2,4,1,2,12,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","18","GO:0065004","protein-DNA complex assembly",1,1,6,6,1,30.5,36,"hsa05322; hsa04613; hsa05034; hsa05203; hsa04110; hsa03460","Systemic lupus erythematosus; Neutrophil extracellular trap formation; Alcoholism; Viral carcinogenesis; Cell cycle; Fanconi anemia pathway",NA
+"Tumor-up","19","GO:0000819","sister chromatid segregation",1,1,3,3,1,2,17,"hsa04110; hsa05203; hsa03460","Cell cycle; Viral carcinogenesis; Fanconi anemia pathway",NA
+"Tumor-up","20","GO:1902100","negative regulation of metaphase/anaphase transition of cell cycle",4,4,3,9,1,2,14,"hsa04110; hsa05203; hsa03460","Cell cycle; Viral carcinogenesis; Fanconi anemia pathway",NA
+"Tumor-up","21","GO:1905819","negative regulation of chromosome separation",1,1,2,2,1,6,11,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","22","GO:0045132","meiotic chromosome segregation",3,3,3,9,2,2,11,"hsa04110; hsa03460; hsa05203","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis",NA
+"Tumor-up","23","GO:0051985","negative regulation of chromosome segregation",2,2,3,5,1,2,14,"hsa04110; hsa05203; hsa03460","Cell cycle; Viral carcinogenesis; Fanconi anemia pathway",NA
+"Tumor-up","24","GO:0033047","regulation of mitotic sister chromatid segregation",1,1,2,2,2,7,12,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","25","GO:1905818","regulation of chromosome separation",2,2,2,4,1,2,12,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","26","GO:0071824","protein-DNA complex organization",1,1,6,6,1,31,37,"hsa05322; hsa04613; hsa05034; hsa05203; hsa04110; hsa03460","Systemic lupus erythematosus; Neutrophil extracellular trap formation; Alcoholism; Viral carcinogenesis; Cell cycle; Fanconi anemia pathway",NA
+"Tumor-up","27","GO:0051304","chromosome separation",1,1,2,2,1,6.5,12,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","28","GO:0051256","mitotic spindle midzone assembly",2,2,1,2,1,1,1,"hsa04110","Cell cycle",NA
+"Tumor-up","29","GO:0051231","spindle elongation",2,2,2,3,1,1,9,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","30","GO:0045653","negative regulation of megakaryocyte differentiation",2,2,5,9,1,12,12,"hsa05203; hsa05322; hsa04613; hsa05034; hsa04081","Viral carcinogenesis; Systemic lupus erythematosus; Neutrophil extracellular trap formation; Alcoholism; Hormone signaling",NA
+"Tumor-up","31","GO:0090068","positive regulation of cell cycle process",2,2,5,8,1,2.5,21,"hsa04110; hsa05203; hsa04382; hsa04081; hsa04080","Cell cycle; Viral carcinogenesis; Cornified envelope formation; Hormone signaling; Neuroactive ligand-receptor interaction",NA
+"Tumor-up","32","GO:0007091","metaphase/anaphase transition of mitotic cell cycle",2,2,2,4,1,7,13,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","33","GO:0051310","metaphase chromosome alignment",2,2,2,4,1,5,9,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","34","GO:0045787","positive regulation of cell cycle",1,1,6,6,1,1,22,"hsa04110; hsa05203; hsa01230; hsa04081; hsa04382; hsa04080","Cell cycle; Viral carcinogenesis; Biosynthesis of amino acids; Hormone signaling; Cornified envelope formation; Neuroactive ligand-receptor interaction",NA
+"Tumor-up","36","GO:0051255","spindle midzone assembly",2,2,2,3,1,1,6,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","37","GO:0031424","keratinization",2,2,2,4,1,12,29,"hsa04382; hsa04110","Cornified envelope formation; Cell cycle",NA
+"Tumor-up","38","GO:0002460","adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",1,1,1,1,2,2,2,"hsa05203","Viral carcinogenesis",NA
+"Tumor-up","39","GO:0044786","cell cycle DNA replication",4,4,5,12,2,4.5,21,"hsa04110; hsa03460; hsa05203; hsa04081; hsa04080","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis; Hormone signaling; Neuroactive ligand-receptor interaction",NA
+"Tumor-up","40","GO:1902850","microtubule cytoskeleton organization involved in mitosis",2,2,2,4,1,4.5,10,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","41","GO:0090231","regulation of spindle checkpoint",2,2,1,2,4,4.5,5,"hsa04110","Cell cycle",NA
+"Tumor-up","42","GO:0007292","female gamete generation",1,1,3,3,2,2,5,"hsa04110; hsa04081; hsa04080","Cell cycle; Hormone signaling; Neuroactive ligand-receptor interaction",NA
+"Tumor-up","59","GO:0035036","sperm-egg recognition",2,2,1,2,1,1,1,"hsa01230","Biosynthesis of amino acids",NA
+"Tumor-up","44","GO:0050000","chromosome localization",1,1,2,2,1,5,9,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","45","GO:2001251","negative regulation of chromosome organization",1,1,3,3,1,2,12,"hsa04110; hsa03460; hsa05203","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis",NA
+"Tumor-up","46","GO:0045109","intermediate filament organization",2,2,1,2,22,22.5,23,"hsa04382","Cornified envelope formation",NA
+"Tumor-up","47","GO:0007143","female meiotic nuclear division",3,3,2,4,1,2,5,"hsa04110; hsa03460","Cell cycle; Fanconi anemia pathway",NA
+"Tumor-up","48","GO:0035825","homologous recombination",3,3,6,10,1,1,10,"hsa03460; hsa04110; hsa05203; hsa05322; hsa04613; hsa05034","Fanconi anemia pathway; Cell cycle; Viral carcinogenesis; Systemic lupus erythematosus; Neutrophil extracellular trap formation; Alcoholism",NA
+"Tumor-up","49","GO:0007131","reciprocal meiotic recombination",1,1,2,2,1,2.5,4,"hsa03460; hsa04110","Fanconi anemia pathway; Cell cycle",NA
+"Tumor-up","50","GO:0009913","epidermal cell differentiation",1,1,2,2,1,15,29,"hsa04382; hsa04110","Cornified envelope formation; Cell cycle",NA
+"Tumor-up","51","GO:0044771","meiotic cell cycle phase transition",1,1,2,2,1,4.5,8,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","52","GO:0008544","epidermis development",1,1,5,5,1,1,38,"hsa04382; hsa04081; hsa04110; hsa05034; hsa04080","Cornified envelope formation; Hormone signaling; Cell cycle; Alcoholism; Neuroactive ligand-receptor interaction",NA
+"Tumor-up","53","GO:0048706","embryonic skeletal system development",1,0,0,0,NA,NA,NA,NA,NA,NA
+"Tumor-up","54","GO:0007080","mitotic metaphase chromosome alignment",2,2,2,4,1,2.5,7,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","55","GO:0000727","double-strand break repair via break-induced replication",1,1,1,1,6,6,6,"hsa04110","Cell cycle",NA
+"Tumor-up","92","GO:0035630","bone mineralization involved in bone maturation",1,1,2,2,2,2,2,"hsa04081; hsa04080","Hormone signaling; Neuroactive ligand-receptor interaction",NA
+"Tumor-up","57","GO:0051984","positive regulation of chromosome segregation",1,1,2,2,1,2.5,4,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","58","GO:0006270","DNA replication initiation",1,1,2,2,2,7,12,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","64","GO:0051447","negative regulation of meiotic cell cycle",2,2,3,5,1,1,7,"hsa04110; hsa04081; hsa05203","Cell cycle; Hormone signaling; Viral carcinogenesis",NA
+"Tumor-up","60","GO:0030261","chromosome condensation",1,1,2,2,1,2,3,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","61","GO:0051988","regulation of attachment of spindle microtubules to kinetochore",1,1,2,2,1,2,3,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","62","GO:0043588","skin development",1,1,3,3,1,1,34,"hsa04382; hsa04110; hsa04080","Cornified envelope formation; Cell cycle; Neuroactive ligand-receptor interaction",NA
+"Tumor-up","63","GO:0048665","neuron fate specification",2,2,1,2,1,1,1,"hsa04950","Maturity onset diabetes of the young",NA
+"Tumor-up","65","GO:0045103","intermediate filament-based process",1,1,1,1,23,23,23,"hsa04382","Cornified envelope formation",NA
+"Tumor-up","66","GO:0030199","collagen fibril organization",1,0,0,0,NA,NA,NA,NA,NA,NA
+"Tumor-up","67","GO:0090329","regulation of DNA-templated DNA replication",2,2,2,3,1,6,9,"hsa04110; hsa03460","Cell cycle; Fanconi anemia pathway",NA
+"Tumor-up","68","GO:0051383","kinetochore organization",1,1,1,1,1,1,1,"hsa04110","Cell cycle",NA
+"Tumor-up","69","GO:0044772","mitotic cell cycle phase transition",1,1,3,3,2,7,33,"hsa04110; hsa05203; hsa03460","Cell cycle; Viral carcinogenesis; Fanconi anemia pathway",NA
+"Tumor-up","70","GO:0070192","chromosome organization involved in meiotic cell cycle",1,1,3,3,2,3,3,"hsa03460; hsa04110; hsa05203","Fanconi anemia pathway; Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","71","GO:0000212","meiotic spindle organization",1,1,1,1,3,3,3,"hsa04110","Cell cycle",NA
+"Tumor-up","72","GO:0048704","embryonic skeletal system morphogenesis",1,0,0,0,NA,NA,NA,NA,NA,NA
+"Tumor-up","73","GO:0034508","centromere complex assembly",2,0,0,0,NA,NA,NA,NA,NA,NA
+"Tumor-up","74","GO:0022600","digestive system process",1,1,2,2,4,4,4,"hsa04081; hsa04080","Hormone signaling; Neuroactive ligand-receptor interaction",NA
+"Tumor-up","75","GO:0090306","meiotic spindle assembly",2,2,1,2,2,2,2,"hsa04110","Cell cycle",NA
+"Tumor-up","80","GO:0030574","collagen catabolic process",1,1,1,1,1,1,1,"hsa04080","Neuroactive ligand-receptor interaction",NA
+"Tumor-up","93","GO:1901993","regulation of meiotic cell cycle phase transition",1,1,1,1,5,5,5,"hsa04110","Cell cycle",NA
+"Tumor-up","88","GO:1901990","regulation of mitotic cell cycle phase transition",2,2,3,5,2,6,28,"hsa04110; hsa05203; hsa03460","Cell cycle; Viral carcinogenesis; Fanconi anemia pathway",NA
+"Tumor-up","78","GO:2000241","regulation of reproductive process",1,1,4,4,1,2.5,7,"hsa04110; hsa04080; hsa04081; hsa05203","Cell cycle; Neuroactive ligand-receptor interaction; Hormone signaling; Viral carcinogenesis",NA
+"Tumor-up","89","GO:0090189","regulation of branching involved in ureteric bud morphogenesis",2,2,2,4,1,1,1,"hsa04081; hsa04080","Hormone signaling; Neuroactive ligand-receptor interaction",NA
+"Tumor-up","86","GO:0045835","negative regulation of meiotic nuclear division",1,1,1,1,2,2,2,"hsa04110","Cell cycle",NA
+"Tumor-up","81","GO:0090307","mitotic spindle assembly",1,1,2,2,1,2.5,4,"hsa04110; hsa05203","Cell cycle; Viral carcinogenesis",NA
+"Tumor-up","82","GO:0000076","DNA replication checkpoint signaling",1,1,1,1,5,5,5,"hsa04110","Cell cycle",NA
+"Tumor-up","83","GO:0010948","negative regulation of cell cycle process",2,2,6,12,1,2,23,"hsa04110; hsa03460; hsa05203; hsa05322; hsa04613; hsa05034","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis; Systemic lupus erythematosus; Neutrophil extracellular trap formation; Alcoholism",NA
+"Tumor-up","84","GO:0032963","collagen metabolic process",1,1,2,2,2,2.5,3,"hsa04080; hsa04081","Neuroactive ligand-receptor interaction; Hormone signaling",NA
+"Tumor-up","85","GO:0031055","chromatin remodeling at centromere",1,0,0,0,NA,NA,NA,NA,NA,NA
+"Tumor-up","91","GO:0009988","cell-cell recognition",1,1,1,1,1,1,1,"hsa01230","Biosynthesis of amino acids",NA
+"Tumor-up","97","GO:1901987","regulation of cell cycle phase transition",1,1,7,7,1,1,32,"hsa04110; hsa03460; hsa05203; hsa05322; hsa04613; hsa04382; hsa05034","Cell cycle; Fanconi anemia pathway; Viral carcinogenesis; Systemic lupus erythematosus; Neutrophil extracellular trap formation; Cornified envelope formation; Alcoholism",NA
+"Tumor-up","87","GO:0007338","single fertilization",2,2,3,6,1,1,1,"hsa01230; hsa05203; hsa04110","Biosynthesis of amino acids; Viral carcinogenesis; Cell cycle",NA
+"Tumor-up","90","GO:0001708","cell fate specification",1,1,1,1,1,1,1,"hsa04950","Maturity onset diabetes of the young",NA
+"Tumor-up","95","GO:0051446","positive regulation of meiotic cell cycle",1,1,1,1,2,2,2,"hsa04110","Cell cycle",NA
+"Tumor-up","96","GO:0048705","skeletal system morphogenesis",1,1,1,1,1,1,1,"hsa04081","Hormone signaling",NA

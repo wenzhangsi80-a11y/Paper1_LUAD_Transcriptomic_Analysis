@@ -1,0 +1,14 @@
+STEP13B-7 STATUS: HOLD
+
+At least one provenance component remains unresolved.
+
+Unclassified samples resolved: FALSE
+513 WGCNA tumor traceability complete: TRUE
+Historical 516 Tumor independently reconciled: FALSE
+
+No final classification input lock is issued.
+ROC/model analysis remains on HOLD.
+
+NO ROC CALCULATION
+NO MODEL FITTING
+NO STATISTICAL TEST

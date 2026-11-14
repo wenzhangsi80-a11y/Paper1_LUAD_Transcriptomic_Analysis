@@ -1,0 +1,30 @@
+============================================================
+FOUR PATIENTS IN clinical_without_primary / no_primary
+============================================================
+
+clinical_without_primary patient IDs:
+[1] "TCGA-55-6969" "TCGA-55-1595" "TCGA-44-6144" "TCGA-62-A46U"
+
+no_primary patient IDs:
+[1] "TCGA-55-6969" "TCGA-44-6144" "TCGA-55-1595" "TCGA-62-A46U"
+
+Set equality:
+clinical_without_primary == no_primary: TRUE 
+
+------------------------------------------------------------
+clinical_without_primary full rows
+------------------------------------------------------------
+      patient_id Stage Gender Age AgeGroup
+161 TCGA-55-6969     I   male  52  Younger
+369 TCGA-55-1595     I female  74    Older
+463 TCGA-44-6144     I   male  58  Younger
+513 TCGA-62-A46U    II female  71    Older
+
+------------------------------------------------------------
+no_primary full rows
+------------------------------------------------------------
+      patient_id Stage Gender Age AgeGroup Expression_Sample         Sample_Type Sample_Type_Code
+161 TCGA-55-6969     I   male  52  Younger   TCGA-55-6969-11 Solid Tissue Normal               11
+462 TCGA-44-6144     I   male  58  Younger   TCGA-44-6144-11 Solid Tissue Normal               11
+516 TCGA-55-1595     I female  74    Older              <NA>                <NA>             <NA>
+517 TCGA-62-A46U    II female  71    Older              <NA>                <NA>             <NA>

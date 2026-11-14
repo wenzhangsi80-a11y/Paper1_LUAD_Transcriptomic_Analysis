@@ -1,0 +1,5 @@
+"check","PASS","detail"
+"STEP13G_OOF_CI_lower_locked",FALSE,"Observed OOF lower CI = NA; locked = 0.977145"
+"STEP13G_OOF_CI_upper_locked",FALSE,"Observed OOF upper CI = NA; locked = 0.998745"
+"STEP13G_outer_folds_10",FALSE,"Observed outer folds = NA; locked = 10."
+"STEP13G_inner_folds_10",FALSE,"Observed inner folds = NA; locked = 10."

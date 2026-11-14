@@ -1,0 +1,20 @@
+============================================================
+STEP7B6_02 BH CORRECTION AUDIT
+============================================================
+
+Correction method: Benjamini-Hochberg
+Correction family: all 9 gene-term P values
+
+      TME_Trait  Gene            Gene_P         Stored_BH   Recalculated_BH Difference Match
+1   ImmuneScore  AOC3 5.90660435891e-08 5.90660435891e-08 5.90660435891e-08          0  TRUE
+2   ImmuneScore MS4A7 1.63646903209e-59 3.68205532220e-59 3.68205532220e-59          0  TRUE
+3   ImmuneScore  IL7R 2.43859339615e-66 7.31578018846e-66 7.31578018846e-66          0  TRUE
+4  StromalScore  AOC3 3.24980620624e-48 4.87470930936e-48 4.87470930936e-48          0  TRUE
+5  StromalScore MS4A7 5.58316896570e-45 7.17836009876e-45 7.17836009876e-45          0  TRUE
+6  StromalScore  IL7R 1.39516356772e-50 2.51129442189e-50 2.51129442189e-50          0  TRUE
+7 ESTIMATEScore  AOC3 1.05730405839e-27 1.18946706568e-27 1.18946706568e-27          0  TRUE
+8 ESTIMATEScore MS4A7 9.77361441620e-73 4.39812648729e-72 4.39812648729e-72          0  TRUE
+9 ESTIMATEScore  IL7R 1.41572285895e-82 1.27415057306e-81 1.27415057306e-81          0  TRUE
+
+BH audit passed: TRUE
+============================================================

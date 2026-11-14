@@ -1,0 +1,5 @@
+"Subset","Omitted_Core_Gene","Retained_Core_Genes","Total_Pairs","Unadjusted_Significant","ImmuneScore_Significant","TumorPurity_Significant","Significant_All_Three","P_to_N_to_N","P_to_P_to_P","P_to_P_to_N","P_to_N_to_P","N_to_N_to_N"
+"Full_54","None","AOC3 + MS4A7 + IL7R",54,48,38,39,27,30,17,4,2,1
+"Leave_AOC3","AOC3","MS4A7 + IL7R",36,34,25,22,19,17,14,3,2,0
+"Leave_MS4A7","MS4A7","AOC3 + IL7R",36,31,26,28,17,19,12,3,1,1
+"Leave_IL7R","IL7R","AOC3 + MS4A7",36,31,25,28,18,24,8,2,1,1

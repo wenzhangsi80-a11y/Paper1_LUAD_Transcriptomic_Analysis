@@ -1,0 +1,62 @@
+============================================================
+STEP13H — TCGA FINAL MODEL
+============================================================
+
+FINAL STATUS: PASS
+
+Data branch:
+Historical Xiangtao TCGA ROC branch
+
+Input source:
+O:/Rproject/Paper1_Figure2_Figure12_TCGA_LUAD_ROC_etal/.RData
+
+Expression source:
+TCGA-LUAD STAR RNA-seq TPM
+
+Historical transformation:
+log2(value + 1)
+
+Total samples: 575
+Tumor samples: 516
+Normal samples: 59
+
+Predictors:
+AOC3, MS4A7, IL7R
+
+Formula: TumorStatus ~ AOC3 + MS4A7 + IL7R
+
+Model:
+multivariable_logistic_regression
+
+Reference class: Normal
+Positive class: Tumor
+
+Feature selection: FALSE
+External refit: FALSE
+External coefficient estimation: FALSE
+External threshold optimization: FALSE
+External cutpoint search: FALSE
+External model tuning: FALSE
+
+Clinical diagnostic claim: FALSE
+Diagnostic biomarker claim: FALSE
+
+Final model coefficients:
+
+(Intercept) | coefficient = 31.715145 | SE = 4.7386837 | P = 0.00000000002189143 | OR = 59389859000000 | 95% CI = 5496209600–641743240000000000
+AOC3 | coefficient = -2.4323976 | SE = 0.59702536 | P = 0.000046173812 | OR = 0.087826005 | 95% CI = 0.027253663–0.28302277
+MS4A7 | coefficient = -2.084793 | SE = 0.51817095 | P = 0.000057371473 | OR = 0.12433286 | 95% CI = 0.045030824–0.34329061
+IL7R | coefficient = -0.21470454 | SE = 0.41753745 | P = 0.60710082 | OR = 0.80677978 | 95% CI = 0.3559098–1.8288162
+
+STEP13G preceding checkpoint: PASS
+
+Final model object saved:
+O:/Rproject/Paper 1_Step 13-Diagnostic Classification/STEP13H_TCGA_Final_Model/STEP13H_TCGA_Final_Model_FINAL.rds
+
+This model is the locked training model for STEP13I.
+STEP13I must not refit coefficients in GSE32863.
+STEP13I must not optimize an external threshold or cutpoint.
+
+============================================================
+STEP13H COMPLETE
+============================================================

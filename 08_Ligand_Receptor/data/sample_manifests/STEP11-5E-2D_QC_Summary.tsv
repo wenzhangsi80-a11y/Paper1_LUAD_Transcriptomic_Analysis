@@ -1,0 +1,27 @@
+QC_Item	PASS
+Input ge3 file available	TRUE
+Input ge4 file available	TRUE
+Required columns ge3	TRUE
+Required columns ge4	TRUE
+Locked ge3 record count = 2406	TRUE
+Locked ge4 record count = 1714	TRUE
+Locked ge3 exact LR pair count = 585	TRUE
+Locked ge4 exact LR pair count = 492	TRUE
+All ge4 exact LR pairs nested within ge3	TRUE
+ge3 expression values finite	TRUE
+ge4 expression values finite	TRUE
+ge3 expression values non-negative	TRUE
+ge4 expression values non-negative	TRUE
+ge3 compatibility values valid	TRUE
+ge4 compatibility values valid	TRUE
+Direction mapping consistent	TRUE
+Core genes separated from LR candidate set	TRUE
+Exact LR pair reconstructed from ligand + receptor	TRUE
+No raw UMI recalculation performed	TRUE
+No CPM/log2CPM recalculation performed	TRUE
+No LR detection recalculation performed	TRUE
+No patient compatibility recalculation performed	TRUE
+No statistical testing performed	TRUE
+No P/FDR calculation performed	TRUE
+No pathway enrichment performed	TRUE
+No biological candidate ranking performed	TRUE

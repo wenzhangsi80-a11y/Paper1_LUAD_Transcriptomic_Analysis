@@ -1,0 +1,21 @@
+Item	Result
+AOC3 present	YES
+MS4A7 present	YES
+IL7R present	YES
+Primary T-cell groups	9
+Primary Myeloid/macrophage groups	9
+Primary Endothelial groups	4
+Sensitivity Endothelial groups	2
+Core-gene raw counts used	YES
+Detection rule	raw UMI count > 0
+Zero counts retained	YES
+Patient exclusion	NO
+Cell exclusion	NO
+Normalization	NO
+Statistical testing	NO
+P-values	NO
+FDR	NO
+Differential expression	NO
+Correlation	NO
+CellChat/LR	NO
+Pseudobulk recalculated	NO

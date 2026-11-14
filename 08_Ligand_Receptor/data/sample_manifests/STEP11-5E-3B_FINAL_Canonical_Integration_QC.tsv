@@ -1,0 +1,14 @@
+QC_Item	PASS
+Input raw records = 16480	TRUE
+Canonical keys = 9620	TRUE
+One row per canonical key	TRUE
+Canonical row count = 9620	TRUE
+Canonical identity complete	TRUE
+Candidate_Set provenance retained	TRUE
+interaction_name provenance retained	TRUE
+Patient-level invariants PASS	TRUE
+Candidate class retained	TRUE
+Expression values inherited without recalculation	TRUE
+Compatibility values inherited without recalculation	TRUE
+No statistical testing	TRUE
+No biological ranking	TRUE

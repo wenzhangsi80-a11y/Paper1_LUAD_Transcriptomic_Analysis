@@ -1,0 +1,6 @@
+"Object","N_Observations","N_Cases","N_Controls","Direction"
+"roc_AOC3",575,516,59,">"
+"roc_MS4A7",575,516,59,">"
+"roc_IL7R",575,516,59,">"
+"roc_combined",575,516,59,"<"
+"Figure12A_CombinedROC",575,516,59,"<"

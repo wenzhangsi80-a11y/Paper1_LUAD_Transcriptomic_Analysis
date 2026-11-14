@@ -1,0 +1,5 @@
+Dataset	AOC3_Zero_N	MS4A7_Zero_N	IL7R_Zero_N
+Primary_T-cell	3	0	0
+Primary_Myeloid_macrophage	1	0	0
+Primary_Endothelial	2	0	0
+Sensitivity_Endothelial	0	1	0

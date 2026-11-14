@@ -1,0 +1,2 @@
+expression_file	mapping_file	n_expression_rows	n_expression_columns	core_genes	all_core_genes_present
+O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_ESTIMATE_input_GeneSymbol_log2_FPKM_UQ.txt	O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_Ensembl_to_GeneSymbol_GENCODE_v22.txt	58387	514	AOC3, MS4A7, IL7R	TRUE

@@ -1,0 +1,14 @@
+QC_Item	PASS
+Input file exists	TRUE
+Required schema complete	TRUE
+Exact_LR_Pair identity	TRUE
+Canonical key defined	TRUE
+Protected variables invariant	FALSE
+Critical patient-level variables invariant	TRUE
+Pathway invariant	TRUE
+Annotation invariant	TRUE
+Expression invariant	TRUE
+Compatibility invariant	TRUE
+Canonical table unique	TRUE
+Canonical row-count conservation	TRUE
+Protected-variable conflict absent	FALSE

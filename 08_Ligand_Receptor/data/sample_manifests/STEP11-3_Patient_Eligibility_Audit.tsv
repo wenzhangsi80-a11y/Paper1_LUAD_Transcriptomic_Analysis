@@ -1,0 +1,8 @@
+Threshold	Primary_Patients_Total	Primary_Patients_Eligible	Primary_Patient_Percent	Tumor_Patients_Eligible	Tumor_Patient_Percent
+1	30	25	83.3333333333333	9	30
+5	30	18	60	8	26.6666666666667
+10	30	14	46.6666666666667	6	20
+20	30	12	40	6	20
+30	30	12	40	6	20
+50	30	9	30	4	13.3333333333333
+100	30	5	16.6666666666667	2	6.66666666666667

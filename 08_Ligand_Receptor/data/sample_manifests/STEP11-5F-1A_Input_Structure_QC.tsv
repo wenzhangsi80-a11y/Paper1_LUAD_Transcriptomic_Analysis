@@ -1,0 +1,13 @@
+Metric	Value
+Input_rows	9620
+Input_columns	22
+Unique_Exact_LR_Pairs	585
+Unique_Directions	6
+Unique_Patients	4
+Unique_Senders	3
+Unique_Receivers	3
+Unique_Pathways	138
+Unique_Annotations	3
+Unique_Candidate_Classes	2
+Canonical_Keys	9620
+Duplicate_Canonical_Keys	0

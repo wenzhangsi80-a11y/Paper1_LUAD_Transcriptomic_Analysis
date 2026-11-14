@@ -1,0 +1,3 @@
+"Expression_Sample","Patient_ID","Sample_Type_Code","Tumor_Normal","Patient_from_Barcode","Present_in_Workflow03F2","Present_in_original_matrix"
+"TCGA-50-5066-02","TCGA-50-5066",2,"Other","TCGA-50-5066",TRUE,TRUE
+"TCGA-50-5946-02","TCGA-50-5946",2,"Other","TCGA-50-5946",TRUE,TRUE

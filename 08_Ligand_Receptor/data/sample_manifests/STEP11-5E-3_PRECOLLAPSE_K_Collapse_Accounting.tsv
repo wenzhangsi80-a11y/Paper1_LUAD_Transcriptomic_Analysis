@@ -1,0 +1,8 @@
+Metric	Value
+Raw patient-level records	16480
+Unique canonical keys	9620
+Duplicate canonical keys	6860
+Records represented by canonical keys	16480
+Canonical audit table rows	9620
+Records collapsed away	6860
+Maximum records per canonical key	2

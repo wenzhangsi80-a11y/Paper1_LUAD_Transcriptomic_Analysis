@@ -1,0 +1,20 @@
+"audit_item","value"
+"Current original expression sample count",574
+"Current Primary Tumor sample count",513
+"Current Solid Tissue Normal sample count",59
+"Current Metastatic sample count",2
+"Current Tumor-versus-Normal eligible sample count",572
+"Matrix ↔ annotation exact sample-ID match",1
+"Final WGCNA ↔ Primary Tumor exact sample-ID match",1
+"sample_group row count",517
+"patient_summary row count",515
+"patient_expr_summary row count",515
+"clinical_with_primary row count",513
+"clinical_without_primary row count",4
+"no_primary row count",4
+"clinical_without_primary == no_primary",1
+"clinical_with_primary + clinical_without_primary = 517",1
+"Historical 515 count explicitly represented",1
+"Historical 516 count explicitly sourced",1
+"Historical 517 count explicitly represented",1
+"Historical 515/516/517 provenance fully resolved",0

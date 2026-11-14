@@ -1,0 +1,4 @@
+core_gene	present_as_ligand	present_as_receptor	present_in_LR_candidate_records
+AOC3	FALSE	FALSE	FALSE
+MS4A7	FALSE	FALSE	FALSE
+IL7R	FALSE	FALSE	FALSE

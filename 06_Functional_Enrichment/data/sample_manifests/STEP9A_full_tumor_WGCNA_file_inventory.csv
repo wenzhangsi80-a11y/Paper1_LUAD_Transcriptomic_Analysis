@@ -1,0 +1,483 @@
+"path","basename","extension","size_bytes"
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_matched.csv","clinical_matched.csv","csv",191959
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_matched.txt","clinical_matched.txt","txt",386955
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/034ab098-0fd5-49cc-8f1a-f2486d005efe.BCR OMF XML","034ab098-0fd5-49cc-8f1a-f2486d005efe.BCR OMF XML","",19391
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/06090bf1-0de1-4e9d-b82a-99283a6fc5ad.BCR OMF XML","06090bf1-0de1-4e9d-b82a-99283a6fc5ad.BCR OMF XML","",10526
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/08391ffb-875f-484d-ba75-2b72862b4d42.BCR OMF XML","08391ffb-875f-484d-ba75-2b72862b4d42.BCR OMF XML","",10802
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/0c4a9a6e-5ec6-4959-8be2-a49e8dda309f.BCR OMF XML","0c4a9a6e-5ec6-4959-8be2-a49e8dda309f.BCR OMF XML","",10783
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/0dd29fac-5cc1-452b-93ab-f779b3dab2dc.BCR OMF XML","0dd29fac-5cc1-452b-93ab-f779b3dab2dc.BCR OMF XML","",10679
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/0f3c951d-6c7f-475a-9c5a-2e1118d90824.BCR OMF XML","0f3c951d-6c7f-475a-9c5a-2e1118d90824.BCR OMF XML","",11044
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/0f83b5ea-5580-4a2c-8c20-357dd4a2e69c.BCR OMF XML","0f83b5ea-5580-4a2c-8c20-357dd4a2e69c.BCR OMF XML","",10678
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/1680a805-da1f-4422-b2fc-bb79c1d6a6a3.BCR OMF XML","1680a805-da1f-4422-b2fc-bb79c1d6a6a3.BCR OMF XML","",11320
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/1a5fd821-101f-4d95-b28b-a27f23c4961d.BCR OMF XML","1a5fd821-101f-4d95-b28b-a27f23c4961d.BCR OMF XML","",19437
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/1ba0c805-7657-4207-b4c5-fe431a83482d.BCR OMF XML","1ba0c805-7657-4207-b4c5-fe431a83482d.BCR OMF XML","",10641
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/1bba6b35-1896-4c2b-ba19-83a70dd2332b.BCR OMF XML","1bba6b35-1896-4c2b-ba19-83a70dd2332b.BCR OMF XML","",10540
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/24d19145-8a82-4424-aecd-39bcc06b388c.BCR OMF XML","24d19145-8a82-4424-aecd-39bcc06b388c.BCR OMF XML","",11323
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/2682e1e9-7285-46f3-a1f8-40ae55fea973.BCR OMF XML","2682e1e9-7285-46f3-a1f8-40ae55fea973.BCR OMF XML","",10541
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/2b733752-c398-456d-a9a6-5fab0f3eddcc.BCR OMF XML","2b733752-c398-456d-a9a6-5fab0f3eddcc.BCR OMF XML","",10532
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/2d9b05a1-3f03-47a5-a2a7-96f24e52d7ea.BCR OMF XML","2d9b05a1-3f03-47a5-a2a7-96f24e52d7ea.BCR OMF XML","",11046
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/2d9dc3c9-93bb-4333-a54b-230e4d71f607.BCR OMF XML","2d9dc3c9-93bb-4333-a54b-230e4d71f607.BCR OMF XML","",10617
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/2e347bd9-9457-43b7-b37f-df1e3d7ed497.BCR OMF XML","2e347bd9-9457-43b7-b37f-df1e3d7ed497.BCR OMF XML","",10533
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/2f45505f-6022-45c5-9427-4983ef0c4b74.BCR OMF XML","2f45505f-6022-45c5-9427-4983ef0c4b74.BCR OMF XML","",10585
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/30ac6576-ca9d-4a6f-95c7-56410cd518a1.BCR OMF XML","30ac6576-ca9d-4a6f-95c7-56410cd518a1.BCR OMF XML","",19107
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/355da8a7-6c42-4bfc-89b8-eba4e38c8cb1.BCR OMF XML","355da8a7-6c42-4bfc-89b8-eba4e38c8cb1.BCR OMF XML","",11128
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/3ae44655-96e8-4353-918e-296a7e2e5fd2.BCR OMF XML","3ae44655-96e8-4353-918e-296a7e2e5fd2.BCR OMF XML","",11325
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/3cd31539-7b07-4d24-8733-359ea167309d.BCR OMF XML","3cd31539-7b07-4d24-8733-359ea167309d.BCR OMF XML","",10678
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/3f11b718-151a-4c9b-ae46-abcbe1ef8f6d.BCR OMF XML","3f11b718-151a-4c9b-ae46-abcbe1ef8f6d.BCR OMF XML","",11073
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/3f37c9f9-1ef8-4735-a36f-42058f691678.BCR OMF XML","3f37c9f9-1ef8-4735-a36f-42058f691678.BCR OMF XML","",18700
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/3f45e92f-6b44-4706-b601-06f5b8e7937b.BCR OMF XML","3f45e92f-6b44-4706-b601-06f5b8e7937b.BCR OMF XML","",10657
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/4451bf5b-b52b-4712-9692-2b2487439899.BCR OMF XML","4451bf5b-b52b-4712-9692-2b2487439899.BCR OMF XML","",10535
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/455e5c43-7152-4e89-9f26-755d8c5208d5.BCR OMF XML","455e5c43-7152-4e89-9f26-755d8c5208d5.BCR OMF XML","",10575
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/473292ba-0807-4737-9312-78563e0ed2f7.BCR OMF XML","473292ba-0807-4737-9312-78563e0ed2f7.BCR OMF XML","",10536
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/4b94e27b-6813-492c-b0b1-ab27f26469e4.BCR OMF XML","4b94e27b-6813-492c-b0b1-ab27f26469e4.BCR OMF XML","",19458
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/4f9a9edc-1143-4222-8d3c-2d8bc0f62e84.BCR OMF XML","4f9a9edc-1143-4222-8d3c-2d8bc0f62e84.BCR OMF XML","",11031
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/50fa740a-e30a-4c81-a02a-85070df7adab.BCR OMF XML","50fa740a-e30a-4c81-a02a-85070df7adab.BCR OMF XML","",11104
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/516bf8de-de80-4159-9877-555b9da08948.BCR OMF XML","516bf8de-de80-4159-9877-555b9da08948.BCR OMF XML","",18768
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/54131809-ef78-4b72-ad7c-739b4717c867.BCR OMF XML","54131809-ef78-4b72-ad7c-739b4717c867.BCR OMF XML","",10673
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/5885e0de-08fa-4190-a17b-5e8c16885208.BCR OMF XML","5885e0de-08fa-4190-a17b-5e8c16885208.BCR OMF XML","",26229
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/58ea8053-745d-434e-8b5e-4915b83b12de.BCR OMF XML","58ea8053-745d-434e-8b5e-4915b83b12de.BCR OMF XML","",10965
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/5ab9873f-b0e7-4570-af29-e7912808293c.BCR OMF XML","5ab9873f-b0e7-4570-af29-e7912808293c.BCR OMF XML","",18618
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/5d64ae00-602f-4bc8-96f7-6d2fae162720.BCR OMF XML","5d64ae00-602f-4bc8-96f7-6d2fae162720.BCR OMF XML","",10664
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/5ef1254d-2eb8-4cba-a7e5-a4b894169052.BCR OMF XML","5ef1254d-2eb8-4cba-a7e5-a4b894169052.BCR OMF XML","",11332
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/5ffe685c-26c2-4699-bbe4-d35430aecd8c.BCR OMF XML","5ffe685c-26c2-4699-bbe4-d35430aecd8c.BCR OMF XML","",10703
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/649568d4-721a-47ce-848b-a276d15036f7.BCR OMF XML","649568d4-721a-47ce-848b-a276d15036f7.BCR OMF XML","",10704
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/6d712d93-848e-42ae-b244-c841b9986d5b.BCR OMF XML","6d712d93-848e-42ae-b244-c841b9986d5b.BCR OMF XML","",10739
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/6ebf01ca-8999-4a57-b696-7015e2237136.BCR OMF XML","6ebf01ca-8999-4a57-b696-7015e2237136.BCR OMF XML","",10672
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/73d10a57-15fc-490f-a61e-e2bed0006a9e.BCR OMF XML","73d10a57-15fc-490f-a61e-e2bed0006a9e.BCR OMF XML","",10718
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/74b39f6f-02e7-486e-a953-66f947ed28cf.BCR OMF XML","74b39f6f-02e7-486e-a953-66f947ed28cf.BCR OMF XML","",10978
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/7828ec17-af0c-4b45-aeae-1fb3cbe66dcb.BCR OMF XML","7828ec17-af0c-4b45-aeae-1fb3cbe66dcb.BCR OMF XML","",10698
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/7bc75ee4-14ff-4f06-9d72-f8e171f95401.BCR OMF XML","7bc75ee4-14ff-4f06-9d72-f8e171f95401.BCR OMF XML","",10519
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/87c92282-77f5-4f0c-9968-1b011154e54b.BCR OMF XML","87c92282-77f5-4f0c-9968-1b011154e54b.BCR OMF XML","",10517
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/897b9e78-9a86-4d48-8aed-62b5af4e853d.BCR OMF XML","897b9e78-9a86-4d48-8aed-62b5af4e853d.BCR OMF XML","",10924
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/8b4f28de-25f3-4451-bd9b-4c2b8a1d8c1f.BCR OMF XML","8b4f28de-25f3-4451-bd9b-4c2b8a1d8c1f.BCR OMF XML","",10792
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/8f794afc-b9a9-41fb-a506-a5225d8b362d.BCR OMF XML","8f794afc-b9a9-41fb-a506-a5225d8b362d.BCR OMF XML","",11461
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/945edb75-7073-4b3a-84b2-1c1423cd9afa.BCR OMF XML","945edb75-7073-4b3a-84b2-1c1423cd9afa.BCR OMF XML","",10880
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/9a6c58bf-4474-481d-b0ec-069e5abcbd45.BCR OMF XML","9a6c58bf-4474-481d-b0ec-069e5abcbd45.BCR OMF XML","",10720
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/9cf2be6c-5828-481d-a519-0b4062d6be30.BCR OMF XML","9cf2be6c-5828-481d-a519-0b4062d6be30.BCR OMF XML","",11337
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/9dc2caeb-8e20-45a9-983b-48e6d1c902f9.BCR OMF XML","9dc2caeb-8e20-45a9-983b-48e6d1c902f9.BCR OMF XML","",19330
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/9f548e12-9d4f-4db6-81d5-170d296d42d7.BCR OMF XML","9f548e12-9d4f-4db6-81d5-170d296d42d7.BCR OMF XML","",10682
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/9f7f9cb2-1c21-4c90-971d-0c2b69c13166.BCR OMF XML","9f7f9cb2-1c21-4c90-971d-0c2b69c13166.BCR OMF XML","",10550
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/9f95c1d3-28a8-4883-9fac-8bb9e766a794.BCR OMF XML","9f95c1d3-28a8-4883-9fac-8bb9e766a794.BCR OMF XML","",10897
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/9ff75cca-72ef-4341-8768-4f55604f12fa.BCR OMF XML","9ff75cca-72ef-4341-8768-4f55604f12fa.BCR OMF XML","",10726
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/a75b1b0c-f330-45fc-a2a4-9cf0686c80a6.BCR OMF XML","a75b1b0c-f330-45fc-a2a4-9cf0686c80a6.BCR OMF XML","",11097
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/a8e988f4-2197-4609-a471-d3eb8c865016.BCR OMF XML","a8e988f4-2197-4609-a471-d3eb8c865016.BCR OMF XML","",10533
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/ac171335-af06-4498-b9b6-e2041cc0a568.BCR OMF XML","ac171335-af06-4498-b9b6-e2041cc0a568.BCR OMF XML","",10992
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/acc1d0ce-5a6f-4254-b814-3487a3c4254b.BCR OMF XML","acc1d0ce-5a6f-4254-b814-3487a3c4254b.BCR OMF XML","",10860
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/ae7d72e4-ce9f-46c3-96b3-12a9494b22c9.BCR OMF XML","ae7d72e4-ce9f-46c3-96b3-12a9494b22c9.BCR OMF XML","",11071
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/af02e683-59d2-422d-b3e7-2daa2b6ce2d6.BCR OMF XML","af02e683-59d2-422d-b3e7-2daa2b6ce2d6.BCR OMF XML","",11017
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/b08234d3-de99-4d01-9079-029bff26d7d6.BCR OMF XML","b08234d3-de99-4d01-9079-029bff26d7d6.BCR OMF XML","",10632
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/b0c49c58-e2e0-4fb5-8a47-6fbfd7802868.BCR OMF XML","b0c49c58-e2e0-4fb5-8a47-6fbfd7802868.BCR OMF XML","",11088
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/b32fbd4d-6048-4f2e-b06a-484504981128.BCR OMF XML","b32fbd4d-6048-4f2e-b06a-484504981128.BCR OMF XML","",10961
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/b8c78159-6c01-4aeb-86a1-5403754cf4d1.BCR OMF XML","b8c78159-6c01-4aeb-86a1-5403754cf4d1.BCR OMF XML","",18541
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/bb172194-60b2-42c5-8d87-734ff0c566a8.BCR OMF XML","bb172194-60b2-42c5-8d87-734ff0c566a8.BCR OMF XML","",11072
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/bde182e1-20ba-466a-aa21-fb0d2f4c345e.BCR OMF XML","bde182e1-20ba-466a-aa21-fb0d2f4c345e.BCR OMF XML","",10865
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/c0375a18-1e78-4496-9439-2bbc2af91f3b.BCR OMF XML","c0375a18-1e78-4496-9439-2bbc2af91f3b.BCR OMF XML","",27924
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/c087532a-d768-4e83-bc81-7ca7b4d207c0.BCR OMF XML","c087532a-d768-4e83-bc81-7ca7b4d207c0.BCR OMF XML","",10868
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/c1e91cfa-ef82-450d-ae84-37c63586cd75.BCR OMF XML","c1e91cfa-ef82-450d-ae84-37c63586cd75.BCR OMF XML","",10803
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/c4fed380-0194-4597-9dad-b602a4026a61.BCR OMF XML","c4fed380-0194-4597-9dad-b602a4026a61.BCR OMF XML","",10892
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/c830e211-6570-4fa5-8375-3fb7534d3216.BCR OMF XML","c830e211-6570-4fa5-8375-3fb7534d3216.BCR OMF XML","",10851
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/ccf41251-0a23-46fe-90d9-9141255622d2.BCR OMF XML","ccf41251-0a23-46fe-90d9-9141255622d2.BCR OMF XML","",10646
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/cdd3128f-f10f-4914-9dd5-6ea8472a0704.BCR OMF XML","cdd3128f-f10f-4914-9dd5-6ea8472a0704.BCR OMF XML","",10903
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/cde9793e-6a69-4ae7-a91c-de727438cfaf.BCR OMF XML","cde9793e-6a69-4ae7-a91c-de727438cfaf.BCR OMF XML","",11335
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/d012dbe2-4758-4d33-9dbe-c1844da5cfad.BCR OMF XML","d012dbe2-4758-4d33-9dbe-c1844da5cfad.BCR OMF XML","",18486
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/d1227730-7016-484b-a8f6-5c451dd94c3c.BCR OMF XML","d1227730-7016-484b-a8f6-5c451dd94c3c.BCR OMF XML","",10950
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/d364fb91-0a90-492d-a06f-91ccaebfba43.BCR OMF XML","d364fb91-0a90-492d-a06f-91ccaebfba43.BCR OMF XML","",10676
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/d3d58e7f-644f-4c42-94b7-2f1a7ccbe1d1.BCR OMF XML","d3d58e7f-644f-4c42-94b7-2f1a7ccbe1d1.BCR OMF XML","",10534
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/d3fcd013-a272-4ed2-8e1d-8f79158989c2.BCR OMF XML","d3fcd013-a272-4ed2-8e1d-8f79158989c2.BCR OMF XML","",11139
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/d6eb577f-04b5-4b0c-82d0-1f11d183e67e.BCR OMF XML","d6eb577f-04b5-4b0c-82d0-1f11d183e67e.BCR OMF XML","",10681
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/d97ef921-176e-4c17-88fc-c443653c22b2.BCR OMF XML","d97ef921-176e-4c17-88fc-c443653c22b2.BCR OMF XML","",19728
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/d9c3953c-6c1d-43fb-b377-2097f617c48e.BCR OMF XML","d9c3953c-6c1d-43fb-b377-2097f617c48e.BCR OMF XML","",11335
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/dc734692-be53-466c-a234-a681911399dd.BCR OMF XML","dc734692-be53-466c-a234-a681911399dd.BCR OMF XML","",10617
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/dfabc2a1-7164-48e0-ba01-86799096db78.BCR OMF XML","dfabc2a1-7164-48e0-ba01-86799096db78.BCR OMF XML","",11093
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/e6049263-6ac7-40f7-89ac-539e9da1bdd7.BCR OMF XML","e6049263-6ac7-40f7-89ac-539e9da1bdd7.BCR OMF XML","",11127
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/e9000161-d0ee-4033-a639-210a9372ef63.BCR OMF XML","e9000161-d0ee-4033-a639-210a9372ef63.BCR OMF XML","",11052
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/ec70f598-2546-42c0-b9d0-27f8161931a9.BCR OMF XML","ec70f598-2546-42c0-b9d0-27f8161931a9.BCR OMF XML","",10719
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/f341568b-8cf8-42ab-b2e1-44468e50ba22.BCR OMF XML","f341568b-8cf8-42ab-b2e1-44468e50ba22.BCR OMF XML","",11139
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/fb862516-c317-4dd1-ac3c-181bec6277ec.BCR OMF XML","fb862516-c317-4dd1-ac3c-181bec6277ec.BCR OMF XML","",10517
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/fcda640e-785c-4606-950d-5cc4833d9089.BCR OMF XML","fcda640e-785c-4606-950d-5cc4833d9089.BCR OMF XML","",11106
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/ff0f122a-10a5-46b9-8e66-baab1aefa540.BCR OMF XML","ff0f122a-10a5-46b9-8e66-baab1aefa540.BCR OMF XML","",11496
+"O:/Rproject/Paper1_tumor-only WGCNA/clinical_unzipped/pub1/data/TCGA/Backup_Files/TCGA-LUAD/file_id_map_283df56410f528cb01831ed8dcdf0ea2.txt","file_id_map_283df56410f528cb01831ed8dcdf0ea2.txt","txt",5068
+"O:/Rproject/Paper1_tumor-only WGCNA/expr_symbol_counts.csv","expr_symbol_counts.csv","csv",61298788
+"O:/Rproject/Paper1_tumor-only WGCNA/expr_symbol_zscore.csv","expr_symbol_zscore.csv","csv",337470280
+"O:/Rproject/Paper1_tumor-only WGCNA/Expression_Sample_IDs.txt","Expression_Sample_IDs.txt","txt",9766
+"O:/Rproject/Paper1_tumor-only WGCNA/gencode.v22.annotation.gff3.gz","gencode.v22.annotation.gff3.gz","gz",50897460
+"O:/Rproject/Paper1_tumor-only WGCNA/gencode.v22.annotation.gtf.gz","gencode.v22.annotation.gtf.gz","gz",40933020
+"O:/Rproject/Paper1_tumor-only WGCNA/Merge_Other_ClinicalBCR_OMF_XMLClinical_Supplement.zip","Merge_Other_ClinicalBCR_OMF_XMLClinical_Supplement.zip","zip",210538
+"O:/Rproject/Paper1_tumor-only WGCNA/Merge_RNA_seq_FPKM_UQ.txt","Merge_RNA_seq_FPKM_UQ.txt","txt",292426632
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_14F_4D_2E_brown_survival_reference.csv","Paper1_14F_4D_2E_brown_survival_reference.csv","csv",438
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_14F_4D_2E_core_descriptive_profile.csv","Paper1_14F_4D_2E_core_descriptive_profile.csv","csv",493
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_14F_4D_2E_core_final_integrated.csv","Paper1_14F_4D_2E_core_final_integrated.csv","csv",838
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_14F_4D_2E_core_visualization.csv","Paper1_14F_4D_2E_core_visualization.csv","csv",917
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_14F_4D_2E_module_integration.csv","Paper1_14F_4D_2E_module_integration.csv","csv",652
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_END_CHECKPOINT_README_20260920_20260920_015542.txt","Paper1_END_CHECKPOINT_README_20260920_20260920_015542.txt","txt",1092
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_END_OBJECT_INVENTORY_20260920_20260920_015542.txt","Paper1_END_OBJECT_INVENTORY_20260920_20260920_015542.txt","txt",47403
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_END_SESSIONINFO_20260920_20260920_015542.txt","Paper1_END_SESSIONINFO_20260920_20260920_015542.txt","txt",3449
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_END_WORKSPACE_20260920_20260920_015542.RData","Paper1_END_WORKSPACE_20260920_20260920_015542.RData","RData",493288169
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_Gender_HR_Male_vs_Female_1to5y_Final.csv","Paper1_Gender_HR_Male_vs_Female_1to5y_Final.csv","csv",566
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_ME_brown_checkpoint_Step10G.R","Paper1_ME_brown_checkpoint_Step10G.R","R",25737
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_ME_brown_checkpoint_Step10G.RData","Paper1_ME_brown_checkpoint_Step10G.RData","RData",4180499
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_ME_brown_Gender_checkpoint_Final.R","Paper1_ME_brown_Gender_checkpoint_Final.R","R",7591
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_ME_brown_Gender_checkpoint_Final.RData","Paper1_ME_brown_Gender_checkpoint_Final.RData","RData",6664263
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_ME_brown_HR_1SD_Final.csv","Paper1_ME_brown_HR_1SD_Final.csv","csv",581
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_SF4_TumorOnly_WGCNA_Plotting.R","Paper1_SF4_TumorOnly_WGCNA_Plotting.R","R",171635
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_SF4_TumorOnly_WGCNA_Plotting_Figure4A-4D.R","Paper1_SF4_TumorOnly_WGCNA_Plotting_Figure4A-4D.R","R",37780
+"O:/Rproject/Paper1_tumor-only WGCNA/paper1_Step13G_FINAL_checkpoint.R","paper1_Step13G_FINAL_checkpoint.R","R",34773
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v2_Font_Export/Supplementary_Figure_4A_plotting_data_audit_v2.csv","Supplementary_Figure_4A_plotting_data_audit_v2.csv","csv",21146
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v2_Font_Export/Supplementary_Figure_4A_WGCNA_TME_heatmap_v2.pdf","Supplementary_Figure_4A_WGCNA_TME_heatmap_v2.pdf","pdf",315574
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v2_Font_Export/Supplementary_Figure_4A_WGCNA_TME_heatmap_v2_600dpi.png","Supplementary_Figure_4A_WGCNA_TME_heatmap_v2_600dpi.png","png",133698
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v2_Font_Export/Supplementary_Figure_4A_WGCNA_TME_heatmap_v2_600dpi.tiff","Supplementary_Figure_4A_WGCNA_TME_heatmap_v2_600dpi.tiff","tiff",630908
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v3_STABLE_RENDER/SF4A_v3_render_warning_audit.txt","SF4A_v3_render_warning_audit.txt","txt",125
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v3_STABLE_RENDER/Supplementary_Figure_4A_plotting_data_audit_v3.csv","Supplementary_Figure_4A_plotting_data_audit_v3.csv","csv",21146
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v3_STABLE_RENDER/Supplementary_Figure_4A_WGCNA_TME_heatmap_v3.pdf","Supplementary_Figure_4A_WGCNA_TME_heatmap_v3.pdf","pdf",244023
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v3_STABLE_RENDER/Supplementary_Figure_4A_WGCNA_TME_heatmap_v3_600dpi.png","Supplementary_Figure_4A_WGCNA_TME_heatmap_v3_600dpi.png","png",135555
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v3_STABLE_RENDER/Supplementary_Figure_4A_WGCNA_TME_heatmap_v3_600dpi.tiff","Supplementary_Figure_4A_WGCNA_TME_heatmap_v3_600dpi.tiff","tiff",636400
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v4_CAIRO_PDF_MASTER/Paper1_Supplementary_Figure4A_FINAL_Cairo.pdf","Paper1_Supplementary_Figure4A_FINAL_Cairo.pdf","pdf",315554
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v4_CAIRO_PDF_MASTER/Paper1_Supplementary_Figure4A_FINAL_Cairo_audit.csv","Paper1_Supplementary_Figure4A_FINAL_Cairo_audit.csv","csv",21146
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v4_CAIRO_PDF_MASTER/Paper1_Supplementary_Figure4A_FINAL_Cairo_warnings.txt","Paper1_Supplementary_Figure4A_FINAL_Cairo_warnings.txt","txt",56
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v4_CAIRO_PDF_MASTER/SF4A_FINAL_v4_Cairo_render_warning_audit.txt","SF4A_FINAL_v4_Cairo_render_warning_audit.txt","txt",207
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v5_CAIRO_PDF_MASTER/Paper1_Supplementary_Figure4A_FINAL_v5_Cairo.pdf","Paper1_Supplementary_Figure4A_FINAL_v5_Cairo.pdf","pdf",36997
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v5_CAIRO_PDF_MASTER/Paper1_Supplementary_Figure4A_FINAL_v5_Cairo_audit.csv","Paper1_Supplementary_Figure4A_FINAL_v5_Cairo_audit.csv","csv",19946
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/FINAL_v5_CAIRO_PDF_MASTER/SF4A_FINAL_v5_Cairo_render_warning_audit.txt","SF4A_FINAL_v5_Cairo_render_warning_audit.txt","txt",317
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/Supplementary_Figure_4A_plotting_data_audit.csv","Supplementary_Figure_4A_plotting_data_audit.csv","csv",21146
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/Supplementary_Figure_4A_WGCNA_TME_heatmap.pdf","Supplementary_Figure_4A_WGCNA_TME_heatmap.pdf","pdf",316980
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/Supplementary_Figure_4A_WGCNA_TME_heatmap_600dpi.png","Supplementary_Figure_4A_WGCNA_TME_heatmap_600dpi.png","png",132305
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4A/Supplementary_Figure_4A_WGCNA_TME_heatmap_600dpi.tiff","Supplementary_Figure_4A_WGCNA_TME_heatmap_600dpi.tiff","tiff",625298
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4B/FINAL_CAIRO_PDF_MASTER/Paper1_Supplementary_Figure4B_FINAL_Cairo.pdf","Paper1_Supplementary_Figure4B_FINAL_Cairo.pdf","pdf",100683
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4B/FINAL_CAIRO_PDF_MASTER/Paper1_Supplementary_Figure4B_locked_positioning_table.csv","Paper1_Supplementary_Figure4B_locked_positioning_table.csv","csv",260
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4B/FINAL_CAIRO_PDF_MASTER/SF4B_plotting_data_audit.csv","SF4B_plotting_data_audit.csv","csv",260
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4B/Supplementary_Figure_4B_locked_positioning_table.csv","Supplementary_Figure_4B_locked_positioning_table.csv","csv",260
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4B/Supplementary_Figure_4B_MM_Positioning.pdf","Supplementary_Figure_4B_MM_Positioning.pdf","pdf",32151
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4B/Supplementary_Figure_4B_MM_Positioning_600dpi.png","Supplementary_Figure_4B_MM_Positioning_600dpi.png","png",157537
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4C/Paper1_Supplementary_Figure4C_FINAL_Cairo.pdf","Paper1_Supplementary_Figure4C_FINAL_Cairo.pdf","pdf",808630
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4C/SF4C_statistical_audit_LOCKED_20260914.csv","SF4C_statistical_audit_LOCKED_20260914.csv","csv",1077
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4C/SF4C_statistical_audit_summary_20260914.txt","SF4C_statistical_audit_summary_20260914.txt","txt",1181
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4C/SF4C_statistics_LOCKED_20260914.rds","SF4C_statistics_LOCKED_20260914.rds","rds",107176
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/SF4D/Paper1_Supplementary_Figure4D_FINAL_Cairo.pdf","Paper1_Supplementary_Figure4D_FINAL_Cairo.pdf","pdf",59854
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/STEP18F_locked_object_status_20260914.csv","STEP18F_locked_object_status_20260914.csv","csv",426
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/STEP18F_object_inventory_20260914.csv","STEP18F_object_inventory_20260914.csv","csv",7932
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/STEP18G_script_archive_manifest_20260914.csv","STEP18G_script_archive_manifest_20260914.csv","csv",2269
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/STEP18H_RData_RDS_archive_manifest_20260914.csv","STEP18H_RData_RDS_archive_manifest_20260914.csv","csv",2144
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/Supplementary_Table_X/Supplementary_Table_X_README.txt","Supplementary_Table_X_README.txt","txt",734
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/Supplementary_Table_X/Supplementary_Table_X_TumorOnly_WGCNA_CoreGenes.csv","Supplementary_Table_X_TumorOnly_WGCNA_CoreGenes.csv","csv",507
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/Supplementary_Table_X/Supplementary_Table_X_TumorOnly_WGCNA_CoreGenes.xlsx","Supplementary_Table_X_TumorOnly_WGCNA_CoreGenes.xlsx","xlsx",6963
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/audit/Supplementary_Table_X/Supplementary_Table_X_TumorOnly_WGCNA_CoreGenes_FINAL.rds","Supplementary_Table_X_TumorOnly_WGCNA_CoreGenes_FINAL.rds","rds",450
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/brown_survival_reference_save_PRE_STEP19_20260914.RData","brown_survival_reference_save_PRE_STEP19_20260914.RData","RData",500
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/candidate_master_18D_PRE_STEP19_20260914.RData","candidate_master_18D_PRE_STEP19_20260914.RData","RData",3292
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/core_descriptive_profile_PRE_STEP19_20260914.RData","core_descriptive_profile_PRE_STEP19_20260914.RData","RData",456
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/core_position_final_PRE_STEP19_20260914.RData","core_position_final_PRE_STEP19_20260914.RData","RData",477
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/core_visualization_table_PRE_STEP19_20260914.RData","core_visualization_table_PRE_STEP19_20260914.RData","RData",673
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/datExpr_MAD_PRE_STEP19_20260914.RData","datExpr_MAD_PRE_STEP19_20260914.RData","RData",112187595
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/estimate_scores_wgcna_PRE_STEP19_20260914.RData","estimate_scores_wgcna_PRE_STEP19_20260914.RData","RData",15270
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/final_module_integration_save_PRE_STEP19_20260914.RData","final_module_integration_save_PRE_STEP19_20260914.RData","RData",614
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/GS_all_PRE_STEP19_20260914.RData","GS_all_PRE_STEP19_20260914.RData","RData",3119122
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/ME_color_formal_raw_PRE_STEP19_20260914.RData","ME_color_formal_raw_PRE_STEP19_20260914.RData","RData",199715
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/MM_all_PRE_STEP19_20260914.RData","MM_all_PRE_STEP19_20260914.RData","RData",12214531
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/module_genes_PRE_STEP19_20260914.RData","module_genes_PRE_STEP19_20260914.RData","RData",7029
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/module_tme_lookup_save_PRE_STEP19_20260914.RData","module_tme_lookup_save_PRE_STEP19_20260914.RData","RData",358
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/module_tme_results_PRE_STEP19_20260914.RData","module_tme_results_PRE_STEP19_20260914.RData","RData",4628
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/moduleColors_PRE_STEP19_20260914.RData","moduleColors_PRE_STEP19_20260914.RData","RData",147540
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Paper1_ME_brown_checkpoint_Step10G.RData","Paper1_ME_brown_checkpoint_Step10G.RData","RData",4180499
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Paper1_ME_brown_Gender_checkpoint_Final.RData","Paper1_ME_brown_Gender_checkpoint_Final.RData","RData",6664263
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Paper1_WORKFLOW03_14F_4D_2E_FINAL.RData","Paper1_WORKFLOW03_14F_4D_2E_FINAL.RData","RData",127781848
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Step13G_FINAL_checkpoint.RData","Step13G_FINAL_checkpoint.RData","RData",127811509
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/STEP18A_30_candidate_gene_TME_audit.rds","STEP18A_30_candidate_gene_TME_audit.rds","rds",3295
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/STEP18A_30_candidate_gene_TME_audit_ranked.rds","STEP18A_30_candidate_gene_TME_audit_ranked.rds","rds",3260
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/STEP18A_core_gene_TME_audit.rds","STEP18A_core_gene_TME_audit.rds","rds",682
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-03F-9_provenance_audit.RData","Workflow-03F-9_provenance_audit.RData","RData",539001706
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2D_current_workspace.RData","Workflow-04-2D_current_workspace.RData","RData",2448271916
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2D_final_WGCNA_candidate_checkpoint.RData","Workflow-04-2D_final_WGCNA_candidate_checkpoint.RData","RData",112598083
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2D_WGCNA_input_checkpoint.RData","Workflow-04-2D_WGCNA_input_checkpoint.RData","RData",124408980
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2E_WGCNA_soft_threshold.rds","Workflow-04-2E_WGCNA_soft_threshold.rds","rds",1779
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2E_WGCNA_soft_threshold_checkpoint.rds","Workflow-04-2E_WGCNA_soft_threshold_checkpoint.rds","rds",1923
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2F_WGCNA_tumor_only_modules.rds","Workflow-04-2F_WGCNA_tumor_only_modules.rds","rds",1298492
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2G_WGCNA_stage_association.rds","Workflow-04-2G_WGCNA_stage_association.rds","rds",1197
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2G_WGCNA_tumor_only_MM_checkpoint.rds","Workflow-04-2G_WGCNA_tumor_only_MM_checkpoint.rds","rds",125705713
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2H_WGCNA_T_stage_association.rds","Workflow-04-2H_WGCNA_T_stage_association.rds","rds",1297
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2I_WGCNA_N_stage_association.rds","Workflow-04-2I_WGCNA_N_stage_association.rds","rds",1197
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2J_WGCNA_M_stage_association.rds","Workflow-04-2J_WGCNA_M_stage_association.rds","rds",1069
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2K_WGCNA_OS_Cox_association.rds","Workflow-04-2K_WGCNA_OS_Cox_association.rds","rds",2372
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2L_WGCNA_OS_PH_assumption.rds","Workflow-04-2L_WGCNA_OS_PH_assumption.rds","rds",128470
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2M_WGCNA_OS_multivariable_model_design.rds","Workflow-04-2M_WGCNA_OS_multivariable_model_design.rds","rds",664
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2N_WGCNA_OS_multivariable_cohort_QC.rds","Workflow-04-2N_WGCNA_OS_multivariable_cohort_QC.rds","rds",224444
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2N_WGCNA_PH_multivariable_checkpoint_20260911.RData","Workflow-04-2N_WGCNA_PH_multivariable_checkpoint_20260911.RData","RData",114247989
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2O_WGCNA_OS_primary_conventional_Cox.rds","Workflow-04-2O_WGCNA_OS_primary_conventional_Cox.rds","rds",105919
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workflow-04-2P_WGCNA_OS_multivariable_PH.rds","Workflow-04-2P_WGCNA_OS_multivariable_PH.rds","rds",14072
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/locked_data/Workspace_20260911_WGCNA_Step8C.RData","Workspace_20260911_WGCNA_Step8C.RData","RData",367636420
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/R_workspace/Paper1_PRE_STEP19_WORKSPACE_20260914.RData","Paper1_PRE_STEP19_WORKSPACE_20260914.RData","RData",242012815
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/R_workspace/Paper1_STEP19D3_END_WORKSPACE_20260914.RData","Paper1_STEP19D3_END_WORKSPACE_20260914.RData","RData",127918658
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/README/R_sessionInfo.txt","R_sessionInfo.txt","txt",2736
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Paper1_ME_brown_checkpoint_Step10G.R","Paper1_ME_brown_checkpoint_Step10G.R","R",25737
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Paper1_ME_brown_Gender_checkpoint_Final.R","Paper1_ME_brown_Gender_checkpoint_Final.R","R",7591
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/paper1_Step13G_FINAL_checkpoint.R","paper1_Step13G_FINAL_checkpoint.R","R",34773
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Paper1_tumor-only WGCNA.R","Paper1_tumor-only WGCNA.R","R",397902
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R","Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R","R",155286
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/WORKFLOW-03_Step14F-1_CoreGene_ModuleLocalization.R","WORKFLOW-03_Step14F-1_CoreGene_ModuleLocalization.R","R",201861
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Workflow-03F-9_provenance_audit.R","Workflow-03F-9_provenance_audit.R","R",397902
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Workflow-04-1F-1_clinical_cleaning_checkpoint.R","Workflow-04-1F-1_clinical_cleaning_checkpoint.R","R",368011
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/scripts/Workflow-04-2D-5 Soft-threshold checkpoint.R","Workflow-04-2D-5 Soft-threshold checkpoint.R","R",91456
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/SF4A_FINAL_v6/audit/SF4A_FINAL_v6_locked_data_export.csv","SF4A_FINAL_v6_locked_data_export.csv","csv",11235
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/SF4A_FINAL_v6_1/audit/SF4A_FINAL_v6_1_locked_data_export.csv","SF4A_FINAL_v6_1_locked_data_export.csv","csv",11235
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/SF4A_FINAL_v6_1/audit/SF4A_FINAL_v6_1_rendering_warnings.csv","SF4A_FINAL_v6_1_rendering_warnings.csv","csv",18
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP19_PREP_20260914/SF4A_FINAL_v6_1/Paper1_Supplementary_Figure4A_FINAL_v6_1_Cairo.pdf","Paper1_Supplementary_Figure4A_FINAL_v6_1_Cairo.pdf","pdf",38383
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B4C_ABSOLUTE_matching_audit.RData","Paper1_STEP7B4C_ABSOLUTE_matching_audit.RData","RData",823
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B4D_ABSOLUTE_barcode_reconciliation_audit.RData","Paper1_STEP7B4D_ABSOLUTE_barcode_reconciliation_audit.RData","RData",752
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B5_locked_purity_adjusted_dataset.RData","Paper1_STEP7B5_locked_purity_adjusted_dataset.RData","RData",28925
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B6_purity_adjusted_regression_checkpoint.RData","Paper1_STEP7B6_purity_adjusted_regression_checkpoint.RData","RData",266435
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_STEP7B7E9A_ESTIMATE_signature_membership_audit_LOCKED.RData","Paper1_STEP7B7E9A_ESTIMATE_signature_membership_audit_LOCKED.RData","RData",2082
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_Supplementary_Figure4D_FINAL_Cairo.pdf","Paper1_Supplementary_Figure4D_FINAL_Cairo.pdf","pdf",21030
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_Supplementary_Table_X_CoreGene_TME_Associations.xlsx","Paper1_Supplementary_Table_X_CoreGene_TME_Associations.xlsx","xlsx",9249
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_tumor-only WGCNA.R","Paper1_tumor-only WGCNA.R","R",397902
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_WORKFLOW03_14F_4D_2E_FINAL.RData","Paper1_WORKFLOW03_14F_4D_2E_FINAL.RData","RData",127781848
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R","Paper1_WORKFLOW04_30Candidates_TumorOnly_Integration.R","R",171529
+"O:/Rproject/Paper1_tumor-only WGCNA/Paper1_WORKFLOW07_STEP7A2h_FINAL_TME_gene_association_checkpoint.RData","Paper1_WORKFLOW07_STEP7A2h_FINAL_TME_gene_association_checkpoint.RData","RData",27452
+"O:/Rproject/Paper1_tumor-only WGCNA/Rplots.pdf","Rplots.pdf","pdf",791356
+"O:/Rproject/Paper1_tumor-only WGCNA/sample_group_final.csv","sample_group_final.csv","csv",20739
+"O:/Rproject/Paper1_tumor-only WGCNA/Schoenfeld residuals-ME_brown.pdf","Schoenfeld residuals-ME_brown.pdf","pdf",15754
+"O:/Rproject/Paper1_tumor-only WGCNA/Schoenfeld residuals-ME_brown.tiff","Schoenfeld residuals-ME_brown.tiff","tiff",986466
+"O:/Rproject/Paper1_tumor-only WGCNA/SessionInfo_20260911.txt","SessionInfo_20260911.txt","txt",2807
+"O:/Rproject/Paper1_tumor-only WGCNA/Step 8C-1F_ph_results_ME_brown.pdf","Step 8C-1F_ph_results_ME_brown.pdf","pdf",15843
+"O:/Rproject/Paper1_tumor-only WGCNA/Step 8C-1F_ph_results_ME_brown.tiff","Step 8C-1F_ph_results_ME_brown.tiff","tiff",986466
+"O:/Rproject/Paper1_tumor-only WGCNA/Step 8C-1F_ph_results_ME_darkgreen.pdf","Step 8C-1F_ph_results_ME_darkgreen.pdf","pdf",15856
+"O:/Rproject/Paper1_tumor-only WGCNA/Step 8C-1F_ph_results_ME_darkgreen.tiff","Step 8C-1F_ph_results_ME_darkgreen.tiff","tiff",986466
+"O:/Rproject/Paper1_tumor-only WGCNA/Step 8C-1F_ph_results_ME_darkgrey.pdf","Step 8C-1F_ph_results_ME_darkgrey.pdf","pdf",15835
+"O:/Rproject/Paper1_tumor-only WGCNA/Step 8C-1F_ph_results_ME_darkgrey.tiff","Step 8C-1F_ph_results_ME_darkgrey.tiff","tiff",986466
+"O:/Rproject/Paper1_tumor-only WGCNA/Step 8C-1F_ph_results_ME_grey60.pdf","Step 8C-1F_ph_results_ME_grey60.pdf","pdf",15789
+"O:/Rproject/Paper1_tumor-only WGCNA/Step 8C-1F_ph_results_ME_grey60.tiff","Step 8C-1F_ph_results_ME_grey60.tiff","tiff",986466
+"O:/Rproject/Paper1_tumor-only WGCNA/Step 8C-1F_ph_results_ME_lightgreen.pdf","Step 8C-1F_ph_results_ME_lightgreen.pdf","pdf",15828
+"O:/Rproject/Paper1_tumor-only WGCNA/Step 8C-1F_ph_results_ME_lightgreen.tiff","Step 8C-1F_ph_results_ME_lightgreen.tiff","tiff",986466
+"O:/Rproject/Paper1_tumor-only WGCNA/Step13G_FINAL_checkpoint.RData","Step13G_FINAL_checkpoint.RData","RData",127811509
+"O:/Rproject/Paper1_tumor-only WGCNA/Step13G_FINAL_checkpoint/final_td_model.rds","final_td_model.rds","rds",819313
+"O:/Rproject/Paper1_tumor-only WGCNA/Step13G_FINAL_checkpoint/MEs_tumor_only.rds","MEs_tumor_only.rds","rds",199486
+"O:/Rproject/Paper1_tumor-only WGCNA/Step13G_FINAL_checkpoint/stage_complete_data.rds","stage_complete_data.rds","rds",30813
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP18A_30_candidate_gene_TME_audit.csv","STEP18A_30_candidate_gene_TME_audit.csv","csv",9531
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP18A_30_candidate_gene_TME_audit.rds","STEP18A_30_candidate_gene_TME_audit.rds","rds",3295
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP18A_30_candidate_gene_TME_audit_ranked.csv","STEP18A_30_candidate_gene_TME_audit_ranked.csv","csv",9531
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP18A_30_candidate_gene_TME_audit_ranked.rds","STEP18A_30_candidate_gene_TME_audit_ranked.rds","rds",3260
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP18A_core_gene_TME_audit.csv","STEP18A_core_gene_TME_audit.csv","csv",1282
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP18A_core_gene_TME_audit.rds","STEP18A_core_gene_TME_audit.rds","rds",682
+"O:/Rproject/Paper1_tumor-only WGCNA/TCGA_Expression_Sample_Annotation_Basic.txt","TCGA_Expression_Sample_Annotation_Basic.txt","txt",22505
+"O:/Rproject/Paper1_tumor-only WGCNA/TCGA_mastercalls.abs_tables_JSedit.fixed.txt","TCGA_mastercalls.abs_tables_JSedit.fixed.txt","txt",901812
+"O:/Rproject/Paper1_tumor-only WGCNA/TCGA_Patient_Level_Summary.txt","TCGA_Patient_Level_Summary.txt","txt",19108
+"O:/Rproject/Paper1_tumor-only WGCNA/Thumbs.db","Thumbs.db","db",128000
+"O:/Rproject/Paper1_tumor-only WGCNA/WGCNA-Mean connectivity across powers.pdf","WGCNA-Mean connectivity across powers.pdf","pdf",4730
+"O:/Rproject/Paper1_tumor-only WGCNA/WGCNA-Mean connectivity across powers.tiff","WGCNA-Mean connectivity across powers.tiff","tiff",1014954
+"O:/Rproject/Paper1_tumor-only WGCNA/WGCNA-Module size plot.pdf","WGCNA-Module size plot.pdf","pdf",5717
+"O:/Rproject/Paper1_tumor-only WGCNA/WGCNA-Module size plot.tiff","WGCNA-Module size plot.tiff","tiff",1014954
+"O:/Rproject/Paper1_tumor-only WGCNA/WGCNA-Soft-threshold selection.pdf","WGCNA-Soft-threshold selection.pdf","pdf",4737
+"O:/Rproject/Paper1_tumor-only WGCNA/WGCNA-Soft-threshold selection.tiff","WGCNA-Soft-threshold selection.tiff","tiff",1014954
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/QC/Step14_object_dimensions.csv","Step14_object_dimensions.csv","csv",211
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/QC/Step14_sample_alignment_QC.csv","Step14_sample_alignment_QC.csv","csv",201
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/QC/Step14A-14E_LOCKED_KEY_RESULTS.csv","Step14A-14E_LOCKED_KEY_RESULTS.csv","csv",540
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/RData/WORKFLOW-03_Step14_KEY_OBJECTS.RData","WORKFLOW-03_Step14_KEY_OBJECTS.RData","RData",279910348
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/RData/WORKFLOW-03_Step14A-14E_FINAL_LOCKED.RData","WORKFLOW-03_Step14A-14E_FINAL_LOCKED.RData","RData",696003298
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/SessionInfo/sessionInfo_2026-09-13_142103.txt","sessionInfo_2026-09-13_142103.txt","txt",3185
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/Tables/Step14D_module_TME_all_150_tests.csv","Step14D_module_TME_all_150_tests.csv","csv",18102
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/Tables/Step14D_module_TME_FDR05.csv","Step14D_module_TME_FDR05.csv","csv",14072
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/Tables/Step14D_modules_significant_all_three_TME_traits.csv","Step14D_modules_significant_all_three_TME_traits.csv","csv",275
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/Tables/Step14D_TME_significance_summary.csv","Step14D_TME_significance_summary.csv","csv",81
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/Tables/Step14E_Brown_ME3_TME_locked.csv","Step14E_Brown_ME3_TME_locked.csv","csv",352
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/Tables/Step14E_Brown_module_validation.csv","Step14E_Brown_module_validation.csv","csv",29259
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/Tables/Step14E_DEFINITIVE_module_color_to_MExx_mapping.csv","Step14E_DEFINITIVE_module_color_to_MExx_mapping.csv","csv",1086
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03_Step14F-1_CoreGene_ModuleLocalization.R","WORKFLOW-03_Step14F-1_CoreGene_ModuleLocalization.R","R",201861
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-2_expression_annotation.txt","Workflow-03F-2_expression_annotation.txt","txt",27385
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-2_primary_tumor_with_clinical.txt","Workflow-03F-2_primary_tumor_with_clinical.txt","txt",24170
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-3_patient_expression_mapping.txt","Workflow-03F-3_patient_expression_mapping.txt","txt",36002
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-5_historical_517_patient_annotation.txt","Workflow-03F-5_historical_517_patient_annotation.txt","txt",46045
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-6_expression_provenance_test.txt","Workflow-03F-6_expression_provenance_test.txt","txt",261
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-7_expression_matrix_structure.txt","Workflow-03F-7_expression_matrix_structure.txt","txt",1904
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-8_expression_provenance_test.txt","Workflow-03F-8_expression_provenance_test.txt","txt",1232
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-9_expression_scale_provenance.txt","Workflow-03F-9_expression_scale_provenance.txt","txt",467
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-9_provenance_audit.R","Workflow-03F-9_provenance_audit.R","R",397902
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-9_provenance_audit.RData","Workflow-03F-9_provenance_audit.RData","RData",539001706
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-03F-9_provenance_audit_DONE.txt","Workflow-03F-9_provenance_audit_DONE.txt","txt",517
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-1C_clinical_missing_summary.txt","Workflow-04-1C_clinical_missing_summary.txt","txt",219
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-1E_clinical_clean.txt","Workflow-04-1E_clinical_clean.txt","txt",42316
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-1F-1_clinical_cleaning_checkpoint.R","Workflow-04-1F-1_clinical_cleaning_checkpoint.R","R",368011
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-1F-1_clinical_cleaning_checkpoint.txt","Workflow-04-1F-1_clinical_cleaning_checkpoint.txt","txt",278
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2A_clinical_aligned.txt","Workflow-04-2A_clinical_aligned.txt","txt",42316
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2A_expr_primary_tumor_FPKM_UQ.txt","Workflow-04-2A_expr_primary_tumor_FPKM_UQ.txt","txt",262224813
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2A_primary_tumor_sample_list.txt","Workflow-04-2A_primary_tumor_sample_list.txt","txt",8729
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-1_global_maximum.txt","Workflow-04-2B-1_global_maximum.txt","txt",73
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-1_patient_prefix_summary.txt","Workflow-04-2B-1_patient_prefix_summary.txt","txt",29469
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-1_sample_extreme_expression_counts.txt","Workflow-04-2B-1_sample_extreme_expression_counts.txt","txt",14808
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-1_sample_max_expression.txt","Workflow-04-2B-1_sample_max_expression.txt","txt",15864
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-1_selected_sample_distribution.txt","Workflow-04-2B-1_selected_sample_distribution.txt","txt",887
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-1_selected_sample_relative_position.txt","Workflow-04-2B-1_selected_sample_relative_position.txt","txt",1122
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-1_TCGA44_summary.txt","Workflow-04-2B-1_TCGA44_summary.txt","txt",4412
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-1_top100_extreme_values.txt","Workflow-04-2B-1_top100_extreme_values.txt","txt",5597
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-2_top100_annotated.txt","Workflow-04-2B-2_top100_annotated.txt","txt",12504
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-2_unique_extreme_feature_annotation.txt","Workflow-04-2B-2_unique_extreme_feature_annotation.txt","txt",1368
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B-2A_GENCODE_Ensembl_biotype_annotation.txt","Workflow-04-2B-2A_GENCODE_Ensembl_biotype_annotation.txt","txt",387
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B_gene_expression_summary.txt","Workflow-04-2B_gene_expression_summary.txt","txt",5427275
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B_gene_zero_fraction_summary.txt","Workflow-04-2B_gene_zero_fraction_summary.txt","txt",106
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B_global_expression_summary.txt","Workflow-04-2B_global_expression_summary.txt","txt",170
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B_sample_expression_summary.txt","Workflow-04-2B_sample_expression_summary.txt","txt",49129
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B_sample_median_extreme.txt","Workflow-04-2B_sample_median_extreme.txt","txt",635
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2B_sample_zero_fraction_extreme.txt","Workflow-04-2B_sample_zero_fraction_extreme.txt","txt",1148
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_Ensembl_to_GeneSymbol_GENCODE_v22.txt","Workflow-04-2C-1A_Ensembl_to_GeneSymbol_GENCODE_v22.txt","txt",2447502
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_ESTIMATE_input_GCT.txt","Workflow-04-2C-1A_ESTIMATE_input_GCT.txt","txt",307836177
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_ESTIMATE_input_GeneSymbol_log2_FPKM_UQ.txt","Workflow-04-2C-1A_ESTIMATE_input_GeneSymbol_log2_FPKM_UQ.txt","txt",307271945
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_GENCODE_v22_complete_annotation.txt","Workflow-04-2C-1A_GENCODE_v22_complete_annotation.txt","txt",5341650
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_GENCODE_v22_gene_type_summary.txt","Workflow-04-2C-1A_GENCODE_v22_gene_type_summary.txt","txt",1054
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_GENCODE_v22_important_feature_annotation.txt","Workflow-04-2C-1A_GENCODE_v22_important_feature_annotation.txt","txt",2008
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_GENCODE_v22_unmatched_Ensembl_IDs.txt","Workflow-04-2C-1A_GENCODE_v22_unmatched_Ensembl_IDs.txt","txt",12
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-1A_summary.txt","Workflow-04-2C-1A_summary.txt","txt",358
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_broad_gene_category_summary.txt","Workflow-04-2C-2_broad_gene_category_summary.txt","txt",246
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_candidate_gene_QC.txt","Workflow-04-2C-2_candidate_gene_QC.txt","txt",472
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_GENCODE_v22_gene_QC_full.txt","Workflow-04-2C-2_GENCODE_v22_gene_QC_full.txt","txt",6602641
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_gene_type_summary.txt","Workflow-04-2C-2_gene_type_summary.txt","txt",965
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_important_feature_annotation.txt","Workflow-04-2C-2_important_feature_annotation.txt","txt",3694
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_low_MAD_summary.txt","Workflow-04-2C-2_low_MAD_summary.txt","txt",129
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_MAD_summary.txt","Workflow-04-2C-2_MAD_summary.txt","txt",349
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_overall_summary.txt","Workflow-04-2C-2_overall_summary.txt","txt",327
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_special_category_summary.txt","Workflow-04-2C-2_special_category_summary.txt","txt",268
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_top100_MAD_gene_type_summary.txt","Workflow-04-2C-2_top100_MAD_gene_type_summary.txt","txt",266
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_top100_MAD_genes.txt","Workflow-04-2C-2_top100_MAD_genes.txt","txt",18125
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_top100_variable_gene_type_summary.txt","Workflow-04-2C-2_top100_variable_gene_type_summary.txt","txt",267
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_top100_variable_genes.txt","Workflow-04-2C-2_top100_variable_genes.txt","txt",16446
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_variance_summary.txt","Workflow-04-2C-2_variance_summary.txt","txt",412
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-2_zero_variance_genes.txt","Workflow-04-2C-2_zero_variance_genes.txt","txt",150
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_broad_category_MAD_comparison.txt","Workflow-04-2C-3_broad_category_MAD_comparison.txt","txt",540
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_candidate_universe_comparison.txt","Workflow-04-2C-3_candidate_universe_comparison.txt","txt",232
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_gene_type_composition_MAD_comparison.txt","Workflow-04-2C-3_gene_type_composition_MAD_comparison.txt","txt",2052
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_MAD_group_summary.txt","Workflow-04-2C-3_MAD_group_summary.txt","txt",70
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_MAD_positive_genes_full.txt","Workflow-04-2C-3_MAD_positive_genes_full.txt","txt",5709048
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_MAD_zero_genes_full.txt","Workflow-04-2C-3_MAD_zero_genes_full.txt","txt",1208003
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_Paper1_candidate_MAD_check.txt","Workflow-04-2C-3_Paper1_candidate_MAD_check.txt","txt",160
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_Paper1_candidate_status.txt","Workflow-04-2C-3_Paper1_candidate_status.txt","txt",68
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_special_category_MAD_comparison.txt","Workflow-04-2C-3_special_category_MAD_comparison.txt","txt",433
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_summary.txt","Workflow-04-2C-3_summary.txt","txt",315
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C-3_variance_by_MAD_group.txt","Workflow-04-2C-3_variance_by_MAD_group.txt","txt",240
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C_expr_primary_tumor_log2_FPKM_UQ.txt","Workflow-04-2C_expr_primary_tumor_log2_FPKM_UQ.txt","txt",312505985
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C_expr_primary_tumor_log2_FPKM_UQ_prevalence_filtered.txt","Workflow-04-2C_expr_primary_tumor_log2_FPKM_UQ_prevalence_filtered.txt","txt",281504795
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C_gene_biotype_annotation.txt","Workflow-04-2C_gene_biotype_annotation.txt","txt",9632213
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C_gene_filtering_statistics.txt","Workflow-04-2C_gene_filtering_statistics.txt","txt",3850421
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C_summary.txt","Workflow-04-2C_summary.txt","txt",456
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C_WGCNA_candidate_log2_FPKM_UQ.txt","Workflow-04-2C_WGCNA_candidate_log2_FPKM_UQ.txt","txt",281504795
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D-2_hierarchical_clustering_order.txt","Workflow-04-2D-2_hierarchical_clustering_order.txt","txt",10687
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D-2_PCA_scores.txt","Workflow-04-2D-2_PCA_scores.txt","txt",53429
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D-2_PCA_variance.txt","Workflow-04-2D-2_PCA_variance.txt","txt",12819
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D-3_sample_connectivity.txt","Workflow-04-2D-3_sample_connectivity.txt","txt",35282
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D-4_low10_connectivity_samples.txt","Workflow-04-2D-4_low10_connectivity_samples.txt","txt",3754
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D-4_TCGA44_connectivity.txt","Workflow-04-2D-4_TCGA44_connectivity.txt","txt",3375
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D-4_TSS_connectivity_summary.txt","Workflow-04-2D-4_TSS_connectivity_summary.txt","txt",3021
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D-5 Soft-threshold checkpoint.R","Workflow-04-2D-5 Soft-threshold checkpoint.R","R",91456
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D_current_workspace.RData","Workflow-04-2D_current_workspace.RData","RData",2448271916
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D_final_WGCNA_candidate_checkpoint.RData","Workflow-04-2D_final_WGCNA_candidate_checkpoint.RData","RData",112598083
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D_R_history.Rhistory","Workflow-04-2D_R_history.Rhistory","Rhistory",9632
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D_WGCNA_candidate_MADgt0.txt","Workflow-04-2D_WGCNA_candidate_MADgt0.txt","txt",253686922
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D_WGCNA_input_checkpoint.RData","Workflow-04-2D_WGCNA_input_checkpoint.RData","RData",124408980
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2D_WGCNA_input_checkpoint_DONE.txt","Workflow-04-2D_WGCNA_input_checkpoint_DONE.txt","txt",393
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2E_WGCNA_soft_threshold.rds","Workflow-04-2E_WGCNA_soft_threshold.rds","rds",1779
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2E_WGCNA_soft_threshold_checkpoint.rds","Workflow-04-2E_WGCNA_soft_threshold_checkpoint.rds","rds",1923
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2E_WGCNA_soft_threshold_fitIndices.txt","Workflow-04-2E_WGCNA_soft_threshold_fitIndices.txt","txt",3473
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2F_gene_module_assignment.txt","Workflow-04-2F_gene_module_assignment.txt","txt",734908
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2F_WGCNA_tumor_only_modules.rds","Workflow-04-2F_WGCNA_tumor_only_modules.rds","rds",1298492
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2G_WGCNA_stage_association.rds","Workflow-04-2G_WGCNA_stage_association.rds","rds",1197
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2G_WGCNA_stage_association.txt","Workflow-04-2G_WGCNA_stage_association.txt","txt",3389
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2G_WGCNA_stage_significant_modules.txt","Workflow-04-2G_WGCNA_stage_significant_modules.txt","txt",629
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2G_WGCNA_tumor_only_MM_checkpoint.rds","Workflow-04-2G_WGCNA_tumor_only_MM_checkpoint.rds","rds",125705713
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2H_WGCNA_T_stage_association.rds","Workflow-04-2H_WGCNA_T_stage_association.rds","rds",1297
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2H_WGCNA_T_stage_association.txt","Workflow-04-2H_WGCNA_T_stage_association.txt","txt",3408
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2H_WGCNA_T_stage_significant_modules.txt","Workflow-04-2H_WGCNA_T_stage_significant_modules.txt","txt",1167
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2I_WGCNA_N_stage_association.rds","Workflow-04-2I_WGCNA_N_stage_association.rds","rds",1197
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2I_WGCNA_N_stage_association.txt","Workflow-04-2I_WGCNA_N_stage_association.txt","txt",3267
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2I_WGCNA_N_stage_significant_modules.txt","Workflow-04-2I_WGCNA_N_stage_significant_modules.txt","txt",593
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2J_WGCNA_M_stage_association.rds","Workflow-04-2J_WGCNA_M_stage_association.rds","rds",1069
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2J_WGCNA_M_stage_association.txt","Workflow-04-2J_WGCNA_M_stage_association.txt","txt",2982
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2K_WGCNA_OS_Cox_association.rds","Workflow-04-2K_WGCNA_OS_Cox_association.rds","rds",2372
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2K_WGCNA_OS_Cox_association.txt","Workflow-04-2K_WGCNA_OS_Cox_association.txt","txt",5504
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2K_WGCNA_OS_Cox_significant_modules.txt","Workflow-04-2K_WGCNA_OS_Cox_significant_modules.txt","txt",648
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2L_WGCNA_OS_PH_assumption.rds","Workflow-04-2L_WGCNA_OS_PH_assumption.rds","rds",128470
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2L_WGCNA_OS_PH_assumption.txt","Workflow-04-2L_WGCNA_OS_PH_assumption.txt","txt",644
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2L_WGCNA_OS_PH_assumption_final.txt","Workflow-04-2L_WGCNA_OS_PH_assumption_final.txt","txt",839
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2M_WGCNA_OS_multivariable_model_design.rds","Workflow-04-2M_WGCNA_OS_multivariable_model_design.rds","rds",664
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2M_WGCNA_OS_multivariable_model_design.txt","Workflow-04-2M_WGCNA_OS_multivariable_model_design.txt","txt",372
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2N_WGCNA_OS_multivariable_cohort_QC.rds","Workflow-04-2N_WGCNA_OS_multivariable_cohort_QC.rds","rds",224444
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2N_WGCNA_OS_primary_cohort_QC.txt","Workflow-04-2N_WGCNA_OS_primary_cohort_QC.txt","txt",251
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2N_WGCNA_OS_sensitivity_cohort_QC.txt","Workflow-04-2N_WGCNA_OS_sensitivity_cohort_QC.txt","txt",295
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2N_WGCNA_PH_multivariable_checkpoint_20260911.RData","Workflow-04-2N_WGCNA_PH_multivariable_checkpoint_20260911.RData","RData",114247989
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2O_WGCNA_OS_primary_conventional_Cox.rds","Workflow-04-2O_WGCNA_OS_primary_conventional_Cox.rds","rds",105919
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2O_WGCNA_OS_primary_conventional_Cox.txt","Workflow-04-2O_WGCNA_OS_primary_conventional_Cox.txt","txt",1447
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2O_WGCNA_OS_primary_conventional_Cox_QC.txt","Workflow-04-2O_WGCNA_OS_primary_conventional_Cox_QC.txt","txt",154
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2P_WGCNA_OS_multivariable_PH.rds","Workflow-04-2P_WGCNA_OS_multivariable_PH.rds","rds",14072
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2P_WGCNA_OS_multivariable_PH.txt","Workflow-04-2P_WGCNA_OS_multivariable_PH.txt","txt",595
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-07_STEP-7A-2_locked_TME_object_audit.RData","WORKFLOW-07_STEP-7A-2_locked_TME_object_audit.RData","RData",504
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-07_STEP-7A_directory_file_inventory.txt","WORKFLOW-07_STEP-7A_directory_file_inventory.txt","txt",93040
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8A4_clinical_survival_503.rds","Workflow-08-STEP8A4_clinical_survival_503.rds","rds",10216
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8B_expr_survival_503.rds","Workflow-08-STEP8B_expr_survival_503.rds","rds",118282126
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C2_checkpoint_expr_18x503.rds","Workflow-08-STEP8C2_checkpoint_expr_18x503.rds","rds",69906
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C3_core_expr_3x503.rds","Workflow-08-STEP8C3_core_expr_3x503.rds","rds",13795
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C4_core_checkpoint_Spearman_54tests.rds","Workflow-08-STEP8C4_core_checkpoint_Spearman_54tests.rds","rds",1710
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C5_core_checkpoint_partialSpearman_ImmuneScore_54tests.rds","Workflow-08-STEP8C5_core_checkpoint_partialSpearman_ImmuneScore_54tests.rds","rds",1772
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C5B_core_checkpoint_pairedAudit_unadjusted_vs_ImmuneScore.rds","Workflow-08-STEP8C5B_core_checkpoint_pairedAudit_unadjusted_vs_ImmuneScore.rds","rds",8502
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_adjusted_significant_38.tsv","Workflow-08-STEP8C6_adjusted_significant_38.tsv","tsv",17203
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_core_summary_3.tsv","Workflow-08-STEP8C6_core_summary_3.tsv","tsv",348
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_direction_switch_32.tsv","Workflow-08-STEP8C6_direction_switch_32.tsv","tsv",14592
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_manuscript_checkpoint_extraction.rds","Workflow-08-STEP8C6_manuscript_checkpoint_extraction.rds","rds",12466
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_manuscript_table_54.tsv","Workflow-08-STEP8C6_manuscript_table_54.tsv","tsv",18596
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_significance_gained.tsv","Workflow-08-STEP8C6_significance_gained.tsv","tsv",2201
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_significance_lost.tsv","Workflow-08-STEP8C6_significance_lost.tsv","tsv",6511
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_significance_summary.tsv","Workflow-08-STEP8C6_significance_summary.tsv","tsv",183
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_significant_both_34.tsv","Workflow-08-STEP8C6_significant_both_34.tsv","tsv",15443
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7A_core_gene_summary_locked.tsv","Workflow-08-STEP8C7A_core_gene_summary_locked.tsv","tsv",419
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7A_manuscript_result_definition_lock.rds","Workflow-08-STEP8C7A_manuscript_result_definition_lock.rds","rds",3366
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7A_manuscript_result_definition_lock.tsv","Workflow-08-STEP8C7A_manuscript_result_definition_lock.tsv","tsv",811
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7A_positive_to_negative_significant_21.tsv","Workflow-08-STEP8C7A_positive_to_negative_significant_21.tsv","tsv",9808
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7B_Supplementary_Table_Immune_Checkpoint_54.csv","Workflow-08-STEP8C7B_Supplementary_Table_Immune_Checkpoint_54.csv","csv",25533
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7B_Supplementary_Table_Immune_Checkpoint_54.rds","Workflow-08-STEP8C7B_Supplementary_Table_Immune_Checkpoint_54.rds","rds",5722
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7B_Supplementary_Table_Immune_Checkpoint_54.xlsx","Workflow-08-STEP8C7B_Supplementary_Table_Immune_Checkpoint_54.xlsx","xlsx",25372
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_Core_Gene_Switch_QC.csv","STEP8C8_Core_Gene_Switch_QC.csv","csv",136
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_FINAL_Core_Gene_Switch_QC.csv","STEP8C8_FINAL_Core_Gene_Switch_QC.csv","csv",136
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_FINAL_Global_QC.csv","STEP8C8_FINAL_Global_QC.csv","csv",604
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_Global_Numerical_QC.csv","STEP8C8_Global_Numerical_QC.csv","csv",604
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_PanelA_FINAL_plot_data.csv","STEP8C8_PanelA_FINAL_plot_data.csv","csv",27121
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_PanelA_plot_data.csv","STEP8C8_PanelA_plot_data.csv","csv",27988
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_PanelB_FINAL_plot_data.csv","STEP8C8_PanelB_FINAL_plot_data.csv","csv",25801
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_PanelB_plot_data.csv","STEP8C8_PanelB_plot_data.csv","csv",25748
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_PanelC_Direction_Transition_FINAL.pdf","STEP8C8_PanelC_Direction_Transition_FINAL.pdf","pdf",34879
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_PanelC_Direction_Transition_FINAL_600dpi.tiff","STEP8C8_PanelC_Direction_Transition_FINAL_600dpi.tiff","tiff",254934
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_PanelC_FINAL_plot_data.csv","STEP8C8_PanelC_FINAL_plot_data.csv","csv",134
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_PanelC_plot_data.csv","STEP8C8_PanelC_plot_data.csv","csv",134
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/STEP8C8_Separate_Panels_Plot_Objects.rds","STEP8C8_Separate_Panels_Plot_Objects.rds","rds",653280
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/Supplementary_Figure4_PanelA_ImmuneCheckpoint_Correlation.pdf","Supplementary_Figure4_PanelA_ImmuneCheckpoint_Correlation.pdf","pdf",44300
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/Supplementary_Figure4_PanelA_ImmuneCheckpoint_Correlation_600dpi.tiff","Supplementary_Figure4_PanelA_ImmuneCheckpoint_Correlation_600dpi.tiff","tiff",288008
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/Supplementary_Figure4_PanelB_ImmuneCheckpoint_Heatmap.pdf","Supplementary_Figure4_PanelB_ImmuneCheckpoint_Heatmap.pdf","pdf",33473
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C8_Supplementary_Figure4/Supplementary_Figure4_PanelB_ImmuneCheckpoint_Heatmap_600dpi.tiff","Supplementary_Figure4_PanelB_ImmuneCheckpoint_Heatmap_600dpi.tiff","tiff",2118310
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8D15_Manuscript_Sensitivity_Summary/STEP8D15_FINAL_LOCK_REPORT.txt","STEP8D15_FINAL_LOCK_REPORT.txt","txt",2127
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8D15_Manuscript_Sensitivity_Summary/STEP8D15_Manuscript_Key_Findings.csv","STEP8D15_Manuscript_Key_Findings.csv","csv",671
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8D15_Manuscript_Sensitivity_Summary/STEP8D15_Manuscript_Sensitivity_Summary_LOCK.rds","STEP8D15_Manuscript_Sensitivity_Summary_LOCK.rds","rds",730
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8D15_Manuscript_Sensitivity_Summary/STEP8D15_QC.csv","STEP8D15_QC.csv","csv",495
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8E_Leave-One-Core-Gene-Out_Audit/STEP8E_54Pair_Locked_Audit.csv","STEP8E_54Pair_Locked_Audit.csv","csv",28867
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8E_Leave-One-Core-Gene-Out_Audit/STEP8E_Association_ID_QC.csv","STEP8E_Association_ID_QC.csv","csv",211
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8E_Leave-One-Core-Gene-Out_Audit/STEP8E_Core_Gene_Detailed_Audit.csv","STEP8E_Core_Gene_Detailed_Audit.csv","csv",298
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8E_Leave-One-Core-Gene-Out_Audit/STEP8E_FINAL_LOCK.rds","STEP8E_FINAL_LOCK.rds","rds",1783
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8E_Leave-One-Core-Gene-Out_Audit/STEP8E_FINAL_LOCK_REPORT.txt","STEP8E_FINAL_LOCK_REPORT.txt","txt",2535
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8E_Leave-One-Core-Gene-Out_Audit/STEP8E_Global_Integrity_QC.csv","STEP8E_Global_Integrity_QC.csv","csv",349
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8E_Leave-One-Core-Gene-Out_Audit/STEP8E_Leave_One_Core_Gene_Out_Audit.xlsx","STEP8E_Leave_One_Core_Gene_Out_Audit.xlsx","xlsx",29262
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8E_Leave-One-Core-Gene-Out_Audit/STEP8E_Manuscript_Key_Findings.csv","STEP8E_Manuscript_Key_Findings.csv","csv",493
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8E_Leave-One-Core-Gene-Out_Audit/STEP8E_QC.csv","STEP8E_QC.csv","csv",1067
+"O:/Rproject/Paper1_tumor-only WGCNA/Workspace_20260911_WGCNA_Step8C.RData","Workspace_20260911_WGCNA_Step8C.RData","RData",367636420
+"O:/Rproject/Paper1_tumor-only WGCNA/Workspace_objects_20260911.txt","Workspace_objects_20260911.txt","txt",4092
+"O:/Rproject/Paper1_tumor-only WGCNA/YOUR_TCGA_CLINICAL_FILE.xlsx","YOUR_TCGA_CLINICAL_FILE.xlsx","xlsx",47271
+"O:/Rproject/Paper1_tumor-only WGCNA/临床数据合并及处理-WGCNA分析准备.xlsx","临床数据合并及处理-WGCNA分析准备.xlsx","xlsx",93031433
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Distribution of Sample Median FPKM-UQ-Rplot.pdf","Distribution of Sample Median FPKM-UQ-Rplot.pdf","pdf",4672
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Distribution of Sample Median FPKM-UQ-Rplot.tiff","Distribution of Sample Median FPKM-UQ-Rplot.tiff","tiff",1509146
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Distribution of Sample Zero Fraction-Rplot.pdf","Distribution of Sample Zero Fraction-Rplot.pdf","pdf",4953
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Distribution of Sample Zero Fraction-Rplot.tiff","Distribution of Sample Zero Fraction-Rplot.tiff","tiff",1509146
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/FPKM-UQ Distribution-Rplot.pdf","FPKM-UQ Distribution-Rplot.pdf","pdf",4992
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/FPKM-UQ Distribution-Rplot.tiff","FPKM-UQ Distribution-Rplot.tiff","tiff",1509146
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Global FPKM-UQ Expression Distribution-Rplot.pdf","Global FPKM-UQ Expression Distribution-Rplot.pdf","pdf",4800
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Global FPKM-UQ Expression Distribution-Rplot.tiff","Global FPKM-UQ Expression Distribution-Rplot.tiff","tiff",1509146
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Raw FPKM-UQ Distribution Across Sample-Rplot.pdf","Raw FPKM-UQ Distribution Across Sample-Rplot.pdf","pdf",44937
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Raw FPKM-UQ Distribution Across Sample-Rplot.tiff","Raw FPKM-UQ Distribution Across Sample-Rplot.tiff","tiff",1509146
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Sample Median FPKM-UQ-Rplot.pdf","Sample Median FPKM-UQ-Rplot.pdf","pdf",32214
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Sample Median FPKM-UQ-Rplot.tiff","Sample Median FPKM-UQ-Rplot.tiff","tiff",1509146
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Sample Zero Fraction-Rplot.pdf","Sample Zero Fraction-Rplot.pdf","pdf",33466
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Sample Zero Fraction-Rplot.tiff","Sample Zero Fraction-Rplot.tiff","tiff",1509146
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Thumbs.db","Thumbs.db","db",33280
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Workflow-04-2D-3_PCA_PC1_PC2.pdf","Workflow-04-2D-3_PCA_PC1_PC2.pdf","pdf",35228
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Workflow-04-2D-3_PCA_PC1_PC2.png","Workflow-04-2D-3_PCA_PC1_PC2.png","png",477766
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Workflow-04-2D-3_PCA_PC1_PC2_stage.pdf","Workflow-04-2D-3_PCA_PC1_PC2_stage.pdf","pdf",36545
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Workflow-04-2D-3_PCA_PC1_PC2_stage.png","Workflow-04-2D-3_PCA_PC1_PC2_stage.png","png",481196
+"O:/Rproject/Paper1_tumor-only WGCNA/数据分析绘图/Workflow-04-2D-3_Sample_Hierarchical_Clustering.pdf","Workflow-04-2D-3_Sample_Hierarchical_Clustering.pdf","pdf",21141

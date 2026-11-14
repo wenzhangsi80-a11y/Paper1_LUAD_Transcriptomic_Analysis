@@ -1,0 +1,60 @@
+"File","Exists","Extension","N_rows","N_columns","Gene_like_column","LogFC_like_column","Pvalue_like_column","FDR_like_column"
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6B_Historical_Workflow03F_Lineage_Audit/03_workspace_audit/STEP9B6B_RData_DEG_relevant_object_hits.csv",TRUE,"csv",82,6,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6C_Historical_DEG_Provenance_Audit/01_tables/STEP9B6C_DEG_candidate_structural_audit.csv",TRUE,"csv",3,6,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6C_Historical_DEG_Provenance_Audit/01_tables/STEP9B6C_DEG_column_definition_candidates.csv",TRUE,"csv",0,2,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6C_Historical_DEG_Provenance_Audit/01_tables/STEP9B6C_DEG_result_object_assignment_candidates.csv",TRUE,"csv",0,2,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6C_Historical_DEG_Provenance_Audit/01_tables/STEP9B6C_historical_DEG_filename_candidates.csv",TRUE,"csv",3,2,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6C_Historical_DEG_Provenance_Audit/03_workspace_audit/STEP9B6C_RData_objects_with_DEG_like_columns.csv",TRUE,"csv",0,7,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6D_Final_Historical_DEG_Candidate_Disambiguation/01_script_audit/STEP9B6D_historical_DEG_column_hits.csv",TRUE,"csv",0,3,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6D_Final_Historical_DEG_Candidate_Disambiguation/01_script_audit/STEP9B6D_historical_DEG_threshold_hits.csv",TRUE,"csv",0,3,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6D_Final_Historical_DEG_Candidate_Disambiguation/02_output_command_audit/STEP9B6D_DEG_related_output_commands.csv",TRUE,"csv",0,3,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/STEP9B-6D_Final_Historical_DEG_Candidate_Disambiguation/04_rdata_audit/STEP9B6D_RData_DEG_like_objects_SAFE.csv",TRUE,"csv",0,3,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/QC/Step14A-14E_LOCKED_KEY_RESULTS.csv",TRUE,"csv",16,2,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/WORKFLOW-03/Step14/Step14_FINAL_LOCKED/Tables/Step14D_module_TME_FDR05.csv",TRUE,"csv",116,9,NA,NA,"P_value","FDR;FDR_significant"
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-04-2C_gene_filtering_statistics.txt",TRUE,"txt",60483,6,"ENSEMBL",NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C5B_core_checkpoint_pairedAudit_unadjusted_vs_ImmuneScore.rds",TRUE,"rds",NA,NA,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C6_adjusted_significant_38.tsv",TRUE,"tsv",38,26,NA,NA,NA,"Unadjusted_Spearman_rho;Unadjusted_P;Unadjusted_FDR_BH;Adjusted_Partial_Spearman_rho;Adjusted_P;Adjusted_FDR;Unadjusted_FDR_Significant;Adjusted_FDR_Significant;FDR_Transition"
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7A_manuscript_result_definition_lock.rds",TRUE,"rds",NA,NA,NA,NA,NA,NA
+"O:/Rproject/Paper1_tumor-only WGCNA/Workflow-08-STEP8C7A_manuscript_result_definition_lock.tsv",TRUE,"tsv",8,3,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9A_Input_Inventory_Definition_Lock/01_inventory/STEP9A_DEG_candidate_files.txt",TRUE,"txt",0,0,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9A_Input_Inventory_Definition_Lock/01_inventory/STEP9A_upstream_file_search_results.rds",TRUE,"rds",NA,NA,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9A_Input_Inventory_Definition_Lock/03_QC/STEP9A_DEG_QC.csv",TRUE,"csv",3,3,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_ALL.csv",TRUE,"csv",16065,10,"Gene","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_DOWN.csv",TRUE,"csv",6754,10,"Gene","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_FULL.csv",TRUE,"csv",57828,10,"Gene","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_UP.csv",TRUE,"csv",9311,10,"Gene","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/03_QC/STEP9B7R_CoreGene_DEG_Audit.csv",TRUE,"csv",3,14,"ENSEMBL","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/01_file_inventory/STEP9B_STEP2_DEG_candidate_file_inventory.csv",TRUE,"csv",2,4,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/01_file_inventory/STEP9B2_candidate_STEP2_DEG_files.txt",TRUE,"txt",0,0,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/01_file_inventory/STEP9B3_targeted_DEG_recovery_candidates.csv",TRUE,"csv",60,4,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/01_file_inventory/STEP9B5_candidate_historical_DEG_files.txt",TRUE,"txt",1,2,NA,NA,NA,"WGCNA/Paper1_STEP7B6_purity_adjusted_regression_checkpoint.RData"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B_DEG_candidate_structural_audit.csv",TRUE,"csv",2,17,NA,"Has_logFC;Has_log2FC","Has_Pvalue","Has_FDR;Has_adjP;Has_padj"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B_likely_DEG_candidates.csv",TRUE,"csv",0,17,NA,"Has_logFC;Has_log2FC","Has_Pvalue","Has_FDR;Has_adjP;Has_padj"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B5_candidate_historical_DEG_files.csv",TRUE,"csv",2,6,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B6_strong_DEG_script_candidates.csv",TRUE,"csv",1,11,NA,"FoldChange_hits",NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B6_strong_DEG_script_excerpts.txt",TRUE,"txt",5,9,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/02_candidate_audit/STEP9B6A_expression_DEG_structural_audit.csv",TRUE,"csv",25,6,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/03_locked_input/STEP9B6_final_historical_DEG_candidates.csv",TRUE,"csv",51,4,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/03_locked_input/STEP9B6_final_historical_DEG_candidates.txt",TRUE,"txt",49,9,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B_DEG_Definition_Recovery_Lock/04_QC/STEP9B_DEG_definition_status.csv",TRUE,"csv",9,2,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/00_input/STEP9C_DEG_testing_universe_57828.csv",TRUE,"csv",57828,1,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/00_input/STEP9C_locked_DEG_all.csv",TRUE,"csv",16065,10,"Gene","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/00_input/STEP9C_locked_DEG_Tumor_down.csv",TRUE,"csv",6754,10,"Gene","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/00_input/STEP9C_locked_DEG_Tumor_up.csv",TRUE,"csv",9311,10,"Gene","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_BP/Tumor_down_GO_BP_FDR05.csv",TRUE,"csv",1297,12,"geneID",NA,"pvalue","p.adjust;qvalue"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_BP/Tumor_up_GO_BP_FDR05.csv",TRUE,"csv",157,12,"geneID",NA,"pvalue","p.adjust;qvalue"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_CC/Tumor_down_GO_CC_FDR05.csv",TRUE,"csv",149,12,"geneID",NA,"pvalue","p.adjust;qvalue"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_CC/Tumor_up_GO_CC_FDR05.csv",TRUE,"csv",38,12,"geneID",NA,"pvalue","p.adjust;qvalue"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_MF/Tumor_down_GO_MF_FDR05.csv",TRUE,"csv",193,12,"geneID",NA,"pvalue","p.adjust;qvalue"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/GO_MF/Tumor_up_GO_MF_FDR05.csv",TRUE,"csv",40,12,"geneID",NA,"pvalue","p.adjust;qvalue"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/KEGG/Tumor_down_KEGG_DEG_Ensembl_to_Entrez_mapping.csv",TRUE,"csv",4471,2,"ENSEMBL",NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/KEGG/Tumor_down_KEGG_FDR05.csv",TRUE,"csv",60,14,"geneID",NA,"pvalue","p.adjust;qvalue"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/KEGG/Tumor_up_KEGG_DEG_Ensembl_to_Entrez_mapping.csv",TRUE,"csv",5209,2,"ENSEMBL",NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C_Revised_DEG_GO_KEGG_ORA/02_results/KEGG/Tumor_up_KEGG_FDR05.csv",TRUE,"csv",13,14,"geneID",NA,"pvalue","p.adjust;qvalue"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C5A_KEGG_TumorDown_enrichResult.rds",TRUE,"rds",NA,NA,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C5A_KEGG_TumorUp_enrichResult.rds",TRUE,"rds",NA,NA,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C5B_MANUSCRIPT_RESULTS_LOCKED.rds",TRUE,"rds",NA,NA,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C6_GO_BP_TumorDown_FDR05.csv",TRUE,"csv",1296,12,"geneID",NA,"pvalue","p.adjust;qvalue"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C6_GO_BP_TumorUp_FDR05.csv",TRUE,"csv",161,12,"geneID",NA,"pvalue","p.adjust;qvalue"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C6A_GO_BP_RESULT_QC_LOCK.rds",TRUE,"rds",NA,NA,NA,NA,NA,NA
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9C6B_MANUSCRIPT_RESULTS_LOCKED.rds",TRUE,"rds",NA,NA,NA,NA,NA,NA

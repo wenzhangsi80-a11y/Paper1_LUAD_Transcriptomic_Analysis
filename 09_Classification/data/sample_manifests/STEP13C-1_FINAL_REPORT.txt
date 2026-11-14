@@ -1,0 +1,26 @@
+
+STEP13C-1 — FINAL REPORT
+============================================
+
+FINAL STATUS: PASS
+
+Purpose:
+Inventory and provenance audit of GSE32863-related files and historical analysis objects.
+
+Historical analysis directory exists: TRUE
+Historical .RData exists: TRUE
+Required GSE32863 historical objects present: TRUE
+Historical roc.ext present: TRUE
+expr3 length = 116: TRUE
+roc.ext predictor length = 116: TRUE
+
+No expression recalculation performed.
+No probe selection performed.
+No ROC recalculation performed.
+No AUC recalculation performed.
+No model refitting performed.
+No threshold optimization performed.
+No expression transformation performed.
+
+STEP13C final input lock is NOT established at this stage.
+

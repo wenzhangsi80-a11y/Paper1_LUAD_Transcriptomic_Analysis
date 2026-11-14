@@ -1,0 +1,54 @@
+============================================================
+Paper 1 / WORKFLOW-08 / STEP 8D-15
+MANUSCRIPT-READY SENSITIVITY SUMMARY
+FINAL LOCK REPORT
+============================================================
+
+STATUS: FINAL LOCK
+
+Primary analysis:
+  Unadjusted Spearman: 48/54 significant
+
+Sensitivity analysis 1:
+  ImmuneScore-adjusted partial Spearman: 38/54 significant
+
+Sensitivity analysis 2:
+  TumorPurity-adjusted partial Spearman: 39/54 significant
+
+Three-layer significance:
+  Significant in all three: 27/54
+
+Three-layer direction:
+  P -> N -> N: 30/54
+  P -> P -> P: 17/54
+  P -> P -> N: 4/54
+  P -> N -> P: 2/54
+  N -> N -> N: 1/54
+
+Core-gene summary:
+ Core_Gene Total Unadjusted_Significant ImmuneScore_Adjusted_Significant TumorPurity_Adjusted_Significant
+      AOC3    18                     14                               13                               17
+     MS4A7    18                     17                               12                               11
+      IL7R    18                     17                               13                               11
+
+Corrected QC:
+                            Check Expected Actual Status
+    Total predefined associations       54     54   PASS
+           Unadjusted significant       48     48   PASS
+ ImmuneScore-adjusted significant       38     38   PASS
+ TumorPurity-adjusted significant       39     39   PASS
+         Significant in all three       27     27   PASS
+                      P -> N -> N       30     30   PASS
+                      P -> P -> P       17     17   PASS
+    P -> N under both adjustments       30     30   PASS
+       Core-gene unadjusted total       48     48   PASS
+      Core-gene ImmuneScore total       38     38   PASS
+      Core-gene TumorPurity total       39     39   PASS
+
+Locked STEP 8C-7B values preserved: TRUE
+No new statistical testing performed: TRUE
+
+============================================================
+FINAL STATUS: PASS
+STEP 8D-15 manuscript-level sensitivity summary locked.
+============================================================

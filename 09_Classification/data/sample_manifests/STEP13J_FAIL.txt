@@ -1,0 +1,8 @@
+STEP13J FINAL AUDIT v3
+FINAL STATUS: FAIL
+
+Total checks: 58
+Passed checks: 54
+Failed checks: 4
+
+No manuscript-result lock was generated.

@@ -1,0 +1,4 @@
+Gene	Evidence_Summary	Safe_Interpretation	Specificity_Claim	Causal_Claim	Communication_Claim
+AOC3	Detected across primary compartments, with highest median CPM in myeloid/macrophage cells.	Multi-compartment detection with relatively higher quantitative expression in myeloid/macrophage cells.	NOT SUPPORTED	NOT SUPPORTED	NOT SUPPORTED
+MS4A7	Detected in all primary compartments, with markedly higher median CPM in myeloid/macrophage cells.	Broad detection with a myeloid/macrophage-associated quantitative expression context.	NOT SUPPORTED	NOT SUPPORTED	NOT SUPPORTED
+IL7R	Detected in all primary compartments, with highest median CPM in T cells.	Broad detection with a T-cell-associated quantitative expression context.	NOT SUPPORTED	NOT SUPPORTED	NOT SUPPORTED

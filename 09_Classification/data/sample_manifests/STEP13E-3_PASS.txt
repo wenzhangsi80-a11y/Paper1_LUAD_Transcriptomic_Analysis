@@ -1,0 +1,21 @@
+STEP13E-3 — PASS
+
+PASS — Historical GSE32863 model-input traceability and Probability-to-ROC predictor concordance established.
+
+Historical GSE32863 model-input audit:
+expr3: 116 × 5
+expr.final: 19425 × 116
+Exact sample overlap: 116/116
+Probability ↔ roc.ext predictor exact equality: TRUE
+roc.ext samples: 116
+roc.ext Normal: 58
+roc.ext Tumor: 58
+
+No expression recalculation.
+No probe re-selection.
+No normalization.
+No model refitting.
+No ROC/AUC recalculation.
+No threshold optimization.
+
+Timestamp: 2026-09-26 22:11:05.228767

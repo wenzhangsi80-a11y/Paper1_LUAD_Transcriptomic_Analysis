@@ -1,0 +1,7 @@
+"operation","performed","locked_policy","PASS"
+"External model refitting",FALSE,FALSE,TRUE
+"External coefficient estimation",FALSE,FALSE,TRUE
+"External feature selection",FALSE,FALSE,TRUE
+"External threshold optimization",FALSE,FALSE,TRUE
+"External cutpoint search",FALSE,FALSE,TRUE
+"External model tuning",FALSE,FALSE,TRUE

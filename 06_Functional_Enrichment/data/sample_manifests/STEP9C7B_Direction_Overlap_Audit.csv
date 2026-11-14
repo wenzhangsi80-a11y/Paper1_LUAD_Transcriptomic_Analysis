@@ -1,0 +1,5 @@
+"Comparison","Total_Pairs","Nonzero_Overlap_Pairs"
+"GO-up_vs_KEGG-up",2093,388
+"GO-down_vs_KEGG-down",77760,31108
+"GO-up_vs_KEGG-down",9660,0
+"GO-down_vs_KEGG-up",16848,0

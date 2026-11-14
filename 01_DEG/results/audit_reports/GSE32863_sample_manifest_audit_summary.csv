@@ -1,0 +1,10 @@
+"Metric","Value"
+"Total samples",116
+"Tumor samples",58
+"Adjacent-normal samples",58
+"Unique subjects",59
+"Complete tumor-normal pairs",57
+"Samples included in paired analysis",114
+"Singleton subjects",2
+"Tumor-only samples",1
+"Normal-only samples",1

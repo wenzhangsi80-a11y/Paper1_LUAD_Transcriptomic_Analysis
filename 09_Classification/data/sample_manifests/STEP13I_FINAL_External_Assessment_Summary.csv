@@ -1,0 +1,12 @@
+"metric","value"
+"GSE32863_total_samples",116
+"GSE32863_tumor_samples",58
+"GSE32863_normal_samples",58
+"GSE32863_unique_subjects",59
+"GSE32863_complete_NT_pairs",57
+"GSE32863_tumor_only_subjects",1
+"GSE32863_normal_only_subjects",1
+"External_AUC",0.997324613555291
+"External_AUC_95CI_lower",0.992957793061129
+"External_AUC_95CI_upper",1
+"Paired_analysis_n_pairs",57

@@ -1,0 +1,5 @@
+Dataset	N_Groups	N_Unique_Patients	Duplicate_Patient_N
+Primary_T-cell	9	9	0
+Primary_Myeloid_macrophage	9	9	0
+Primary_Endothelial	4	4	0
+Sensitivity_Endothelial	2	2	0

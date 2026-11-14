@@ -1,0 +1,7 @@
+Direction_ID	Sender	Receiver
+1	Endothelial	Myeloid/macrophage
+2	Myeloid/macrophage	Endothelial
+3	Endothelial	T-cell
+4	T-cell	Endothelial
+5	Myeloid/macrophage	T-cell
+6	T-cell	Myeloid/macrophage

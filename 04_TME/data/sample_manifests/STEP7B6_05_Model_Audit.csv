@@ -1,0 +1,10 @@
+"Model","N","Is_lm"
+"ImmuneScore__AOC3",500,TRUE
+"ImmuneScore__MS4A7",500,TRUE
+"ImmuneScore__IL7R",500,TRUE
+"StromalScore__AOC3",500,TRUE
+"StromalScore__MS4A7",500,TRUE
+"StromalScore__IL7R",500,TRUE
+"ESTIMATEScore__AOC3",500,TRUE
+"ESTIMATEScore__MS4A7",500,TRUE
+"ESTIMATEScore__IL7R",500,TRUE

@@ -1,0 +1,59 @@
+Patient	Sample	Stage	Source	TNMstage
+P0001	LUNG_N01	Primary	Normal	 I
+P0006	LUNG_N06	Primary	Normal	 I
+P0006	LUNG_T06	Primary	Normal	 I
+P0008	LUNG_N08	Primary	Normal	 I
+P0008	LUNG_T08	Primary	Normal	 I
+P0009	LUNG_N09	Primary	Normal	 II
+P0009	LUNG_T09	Primary	Normal	 II
+P0018	LUNG_N18	Primary	Normal	 I
+P0018	LUNG_T18	Primary	Normal	 I
+P0019	LUNG_N19	Primary	Normal	 I
+P0019	LUNG_T19	Primary	Normal	 I
+P0020	LUNG_N20	Primary	Tumor	 I
+P0020	LUNG_T20	Primary	Tumor	 I
+P0025	LUNG_T25	Primary	Tumor	 I
+P0028	LUNG_N28	Primary	Tumor	 III
+P0028	LUNG_T28	Primary	Tumor	 III
+P0030	LUNG_N30	Primary	Tumor	 I
+P0030	LUNG_T30	Primary	Tumor	 I
+P0031	LUNG_N31	Primary	Tumor	 III
+P0031	LUNG_T31	Primary	Tumor	 III
+P0034	LUNG_N34	Primary	Tumor	 I
+P0034	LUNG_T34	Primary	Tumor	 I
+P1006	EBUS_06	Primary	Tumor	 IV
+P1006	EFFUSION_06	Primary	Tumor	 IV
+P1010	EBUS_10	Primary	Tumor	 IV
+P1011	BRONCHO_11	Primary	Tumor	 IV
+P1011	EFFUSION_11	Primary	Tumor	 IV
+P1012	EBUS_12	Metastatic	mLN	 IV
+P1012	EFFUSION_12	Metastatic	mLN	 IV
+P1013	EBUS_13	Metastatic	mLN	 IV
+P1013	EFFUSION_13	Metastatic	mLN	 IV
+P1015	EBUS_15	Metastatic	mLN	 III
+P1019	EBUS_19	Metastatic	mLN	 IV
+P1028	EBUS_28	Primary	nLN	 IV
+P1049	EBUS_49	Primary	nLN	 IV
+P1051	EBUS_51	Primary	nLN	 IV
+P1058	BRONCHO_58	Primary	nLN	 IV
+P1064	EFFUSION_64	Primary	nLN	 IV
+P2001	LN_01	Primary	nLN	 II
+P2002	LN_02	Primary	nLN	 I
+P2003	LN_03	Primary	nLN	 II
+P2004	LN_04	Primary	nLN	 I
+P2005	LN_05	Primary	nLN	 I
+P2006	LN_06	Primary	Pleural effusion	 I
+P2007	LN_07	Primary	Pleural effusion	 I
+P2008	LN_08	Primary	Pleural effusion	 I
+P2011	LN_11	Primary	Pleural effusion	 I
+P2012	LN_12	Primary	Pleural effusion	 I
+P3002	NS_02	Metastatic	mBrain	 IV
+P3003	NS_03	Metastatic	mBrain	 IV
+P3004	NS_04	Metastatic	mBrain	 IV
+P3006	NS_06	Metastatic	mBrain	 IV
+P3007	NS_07	Metastatic	mBrain	 IV
+P3012	NS_12	Metastatic	mBrain	 IV
+P3013	NS_13	Metastatic	mBrain	 IV
+P3016	NS_16	Metastatic	mBrain	 III
+P3017	NS_17	Metastatic	mBrain	 IV
+P3019	NS_19	Metastatic	mBrain	 IV

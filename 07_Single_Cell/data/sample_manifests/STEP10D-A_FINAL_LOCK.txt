@@ -1,0 +1,30 @@
+STEP10D-A — PSEUDOBULK LIBRARY QC
+FINAL LOCK
+
+Status: PASS
+
+Locked pseudobulk groups:
+Primary T-cell: 9
+Primary Myeloid/macrophage: 9
+Primary Endothelial: 4
+Sensitivity Endothelial: 2
+
+QC performed:
+Total UMI / library size
+Detected gene count
+Zero-gene count
+Gene detection fraction
+Raw UMI integrity
+Descriptive low-library flag
+
+No pseudobulk recalculation.
+No normalized expression.
+No differential expression.
+No correlation analysis.
+No CellChat.
+No ligand-receptor analysis.
+No survival analysis.
+No patient or cell exclusion.
+
+Low-library flags are descriptive only.
+STEP10C locked data remain unchanged.

@@ -1,0 +1,107 @@
+============================================================
+Paper 1
+STEP9D-3A-5
+KEGG Entrez Collision Resolution Policy Comparison Audit
+============================================================
+
+STATUS: FINAL READ-ONLY POLICY COMPARISON
+
+Genome-wide ranking genes:  57828 
+KEGG candidate Ensembl genes:  34138 
+KEGG candidate unique Entrez IDs:  34120 
+Collision Entrez groups:  18 
+Opposite-direction collision groups:  6 
+
+------------------------------------------------------------
+POLICY SUMMARY
+------------------------------------------------------------
+                                policy retained_ensembl_n retained_entrez_n positive_n negative_n zero_n core_gene_n duplicate_entrez_n
+1            Policy_A_Strict_Bijection              34102             34102      21184      12911      7           3                  0
+2        Policy_B_Max_Absolute_Ranking              34120             34120      21189      12924      7           3                  0
+3 Policy_C_Deterministic_Ranking_Order              34120             34120      21189      12924      7           3                  0
+
+------------------------------------------------------------
+POLICY LOSS / RETENTION
+------------------------------------------------------------
+                                policy candidate_ensembl_n retained_ensembl_n discarded_ensembl_n candidate_entrez_n retained_entrez_n
+1            Policy_A_Strict_Bijection               34138              34102                  36              34120             34102
+2        Policy_B_Max_Absolute_Ranking               34138              34120                  18              34120             34120
+3 Policy_C_Deterministic_Ranking_Order               34138              34120                  18              34120             34120
+  discarded_or_unrepresented_entrez_n
+1                                  18
+2                                   0
+3                                   0
+
+------------------------------------------------------------
+POLICY DIRECTIONAL EFFECT
+------------------------------------------------------------
+                                policy positive_retained_n positive_discarded_n negative_retained_n negative_discarded_n zero_retained_n
+1            Policy_A_Strict_Bijection               21184                   14               12911                   22               7
+2        Policy_B_Max_Absolute_Ranking               21189                    9               12924                    9               7
+3 Policy_C_Deterministic_Ranking_Order               21189                    9               12924                    9               7
+  zero_discarded_n
+1                0
+2                0
+3                0
+
+------------------------------------------------------------
+OPPOSITE-DIRECTION COLLISION DETAIL
+------------------------------------------------------------
+   ENTREZID                     ENSEMBL_all            SYMBOL_all                     ranking_all     direction_all
+1 100652739 ENSG00000268592;ENSG00000223701 RAET1E-AS1;RAET1E-AS1  -0.258710100935;0.032969745232 negative;positive
+2 102060414 ENSG00000281756;ENSG00000229776         C2-AS1;C2-AS1  -4.288689986043;0.474288171916 negative;positive
+3    339822 ENSG00000237667;ENSG00000272342   LINC01115;LINC01115  -1.601191884284;0.520221845803 negative;positive
+4     54984 ENSG00000258724;ENSG00000254093           PINX1;PINX1  -0.470471022922;0.022462614281 negative;positive
+5     55831 ENSG00000206567;ENSG00000125037             EMC3;EMC3 12.744643712506;-1.937168957425 positive;negative
+6     64881 ENSG00000280165;ENSG00000197991         PCDH20;PCDH20  -8.617739383973;0.672720284181 negative;positive
+                 abs_ranking_all max_abs_ENSEMBL max_abs_ranking max_abs_direction max_abs_tie policyC_ENSEMBL policyC_ranking
+1  0.258710100935;0.032969745232 ENSG00000268592       0.2587101          negative       FALSE ENSG00000268592      -0.2587101
+2  4.288689986043;0.474288171916 ENSG00000281756       4.2886900          negative       FALSE ENSG00000281756      -4.2886900
+3  1.601191884284;0.520221845803 ENSG00000237667       1.6011919          negative       FALSE ENSG00000237667      -1.6011919
+4  0.470471022922;0.022462614281 ENSG00000258724       0.4704710          negative       FALSE ENSG00000258724      -0.4704710
+5 12.744643712506;1.937168957425 ENSG00000206567      12.7446437          positive       FALSE ENSG00000206567      12.7446437
+6  8.617739383973;0.672720284181 ENSG00000280165       8.6177394          negative       FALSE ENSG00000280165      -8.6177394
+  policyC_direction
+1          negative
+2          negative
+3          negative
+4          negative
+5          positive
+6          negative
+
+------------------------------------------------------------
+CORE-GENE PRESERVATION
+------------------------------------------------------------
+  core_gene         ENSEMBL candidate_present Policy_A_retained Policy_B_retained Policy_C_retained
+1      AOC3 ENSG00000131471              TRUE              TRUE              TRUE              TRUE
+2     MS4A7 ENSG00000166927              TRUE              TRUE              TRUE              TRUE
+3      IL7R ENSG00000168685              TRUE              TRUE              TRUE              TRUE
+
+------------------------------------------------------------
+POLICY DEFINITIONS
+------------------------------------------------------------
+Policy A:
+Strict bijection; exactly one Ensembl per Entrez and
+exactly one Entrez per Ensembl.
+
+Policy B:
+Maximum absolute ranking within each Entrez collision group.
+Absolute-ranking ties remain unresolved.
+
+Policy C:
+Deterministic ordering by decreasing absolute ranking,
+then decreasing signed ranking, then ascending Ensembl ID.
+
+------------------------------------------------------------
+NO-SILENT-CHANGE FLAGS
+------------------------------------------------------------
+Ranking recalculated: FALSE
+DEG recalculated: FALSE
+GSEA performed: FALSE
+Final collision resolution applied: FALSE
+Arbitrary first-match used: FALSE
+Jitter used: FALSE
+Artificial ranking tie-breaking used: FALSE
+Final policy locked: FALSE
+
+STEP9D-3A-5 FINAL HARD PASS:  TRUE 

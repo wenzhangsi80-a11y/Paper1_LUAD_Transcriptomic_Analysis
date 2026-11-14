@@ -1,0 +1,17 @@
+"Item","Expected","Observed","PASS"
+"Total associations",54,54,TRUE
+"Unadjusted FDR significant",48,48,TRUE
+"Adjusted FDR significant",38,38,TRUE
+"Significant in both",34,34,TRUE
+"Significance lost",14,14,TRUE
+"Significance gained",4,4,TRUE
+"Direction switches",32,32,TRUE
+"Unadjusted positive",53,53,TRUE
+"Unadjusted negative",1,1,TRUE
+"Adjusted positive",21,21,TRUE
+"Adjusted negative",33,33,TRUE
+"Positive -> Positive",21,21,TRUE
+"Negative -> Negative",1,1,TRUE
+"Positive -> Negative",32,32,TRUE
+"Negative -> Positive",0,0,TRUE
+"Positive -> Negative & adjusted FDR < 0.05",21,21,TRUE

@@ -1,0 +1,22 @@
+STEP13A INTERPRETATION LOCK
+
+The three-gene model is evaluated exclusively as an
+exploratory tumor-versus-normal tissue classification model.
+
+The analysis is not presented as a clinical diagnostic
+biomarker or clinical diagnostic tool.
+
+No clinical diagnostic utility is claimed.
+No clinical implementation is claimed.
+No patient stratification claim is based on this classifier.
+
+Nested cross-validation is mandatory for internal evaluation.
+
+External model refitting is prohibited.
+External coefficient estimation is prohibited.
+External threshold optimization is prohibited.
+
+GSE32863 is treated as an independent paired external cohort.
+
+Core genes locked a priori:
+AOC3, MS4A7, IL7R

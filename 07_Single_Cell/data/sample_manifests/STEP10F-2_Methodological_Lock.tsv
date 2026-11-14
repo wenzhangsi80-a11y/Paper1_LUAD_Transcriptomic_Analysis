@@ -1,0 +1,29 @@
+Item	Value
+Analysis step	STEP10F-2 Gene–compartment expression pattern audit
+Input source	STEP10F-1 locked outputs only
+Core genes	AOC3 / MS4A7 / IL7R
+Primary compartments	T-cell / Myeloid/macrophage / Endothelial
+Primary T-cell patients	9
+Primary Myeloid/macrophage patients	9
+Primary Endothelial patients	4
+Sensitivity Endothelial patients	2
+Complete three-compartment patients	4
+Expression source	STEP10E raw-UMI pseudobulk via STEP10F-1
+Raw UMI	USED
+CPM	DESCRIPTIVE ONLY
+Log2(CPM+1)	DESCRIPTIVE ONLY
+Detection definition	Raw_UMI > 0
+Patient-level within-patient ranking	DESCRIPTIVE ONLY
+Statistical testing	NO
+P values	NO
+FDR	NO
+Differential expression	NO
+Correlation	NO
+CellChat/LR	NO
+Pseudobulk recalculation	NO
+GEO raw matrix rereading	NO
+H5 rereading	NO
+Patient/cell exclusion	NO
+Specificity claims	NOT ASSIGNED
+Causal inference	NO
+Final status	PASS

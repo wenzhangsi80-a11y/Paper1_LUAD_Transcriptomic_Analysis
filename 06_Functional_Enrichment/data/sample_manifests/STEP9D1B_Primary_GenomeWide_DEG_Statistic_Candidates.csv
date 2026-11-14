@@ -1,0 +1,5 @@
+"File","Exists","Extension","N_rows","N_columns","Gene_like_column","LogFC_like_column","Pvalue_like_column","FDR_like_column"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_ALL.csv",TRUE,"csv",16065,10,"Gene","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_DOWN.csv",TRUE,"csv",6754,10,"Gene","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_FULL.csv",TRUE,"csv",57828,10,"Gene","log2FC","P_value","FDR"
+"O:/Rproject/Paper 1_Step 9-Functional Enrichment/STEP9B-7R_Revised_DEG_Definition_and_Lock/02_results/STEP9B7R_Revised_DEG_UP.csv",TRUE,"csv",9311,10,"Gene","log2FC","P_value","FDR"

@@ -1,0 +1,23 @@
+QC_Item	PASS
+Input files available	TRUE
+ge3 required columns	TRUE
+ge4 required columns	TRUE
+ge3 structural audit columns	TRUE
+ge4 structural audit columns	TRUE
+ge3 candidate record count	TRUE
+ge4 candidate record count	TRUE
+ge3 exact LR pair count	TRUE
+ge4 exact LR pair count	TRUE
+Shared exact LR pair count	TRUE
+ge3-only exact LR pair count	TRUE
+ge4-only exact LR pair count	TRUE
+Six Direction_ID categories	TRUE
+Direction_ID ge3 = 1-6	TRUE
+Direction_ID ge4 = 1-6	TRUE
+Direction_ID ge3 audit = 1-6	TRUE
+Direction_ID ge4 audit = 1-6	TRUE
+Sender/Receiver mapping consistent	TRUE
+4of4 nested within ge3of4	TRUE
+Candidate/audit record counts consistent	TRUE
+Core genes separated from ge3of4	TRUE
+Core genes separated from ge4of4	TRUE
